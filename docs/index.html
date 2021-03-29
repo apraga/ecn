@@ -11,10 +11,9 @@
             <circle class="target" style="fill: #69b3a2" stroke="black" cx=50 cy=50 r=40></circle>
         </svg>
         <script>
-
-            d3
-    .select(".target")  // select the elements that have the class 'target'
-    .style("stroke-width", 8) // change their style: stroke width is not equal to 8 pixels
+            d = d3.dsv(";", "http://alexdarcy.github.io/ecn/2020.csv");
+            console.log("ll");
+            console.log(d);
         </script>
     </body>
 </html>

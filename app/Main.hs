@@ -51,7 +51,7 @@ parseAffect y = do
   return $ Affectation y (read r :: Int) (T.pack town) (T.pack spe)
 
 formatCSV :: [Affectation] -> T.Text
-formatCSV l = T.unlines $ "#annee;rang;ville;specialite" : map printAffect l
+formatCSV l = T.unlines $ "annee;rang;ville;specialite" : map printAffect l
 
 -- main :: IO ()
 main = do

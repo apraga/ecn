@@ -34,17 +34,23 @@
 
                 groups = d3.group(data, x => x.specialite);
                 neuro = groups.get("neurologie ");
-                console.log(neuro);
-                console.log(d3.keys(neuro[0]));
 
                 neuro_ville = d3.group(neuro, x => x.ville);
-                console.log(neuro_ville);
+                // var test = groups.map(function(d) { return d.key });
+                console.log(groups);
+
+                towns = [];
+                for (let key of neuro_ville.keys() ){
+                    towns.push(key);
+                }
+                console.log(towns);
+                console.log(towns.length);
                 // console.log(d3.min(neuro, d => d.rang));
 
 
                 // Add X axis --> it is a date format
-                var x = d3.scalePoint()
-                    .domain(d3.extent(neuro, function(d) { return d.ville; }))
+                var x = d3.scaleBand()
+                    .domain(towns)
                     .range([ 0, width ]);
                 svg.append("g")
                     .attr("transform", "translate(0," + height + ")")
@@ -52,26 +58,21 @@
 
                 // Add Y axis
                 var y = d3.scaleLinear()
-                    .domain([0, d3.max(neuro, function(d) { return +d.rang; })])
+                    .domain([0, d3.max(neuro, function(d) { return d.rang; })])
                     .range([ height, 0 ]);
                 svg.append("g")
                     .call(d3.axisLeft(y));
 
-                // Add the line
-                svg.append("path")
-                    .datum(data)
-                    .attr("fill", "none")
-                    .attr("stroke", "steelblue")
-                    .attr("stroke-width", 1.5)
-                    .attr("d", d3.line()
-                          .x(function(d) { return x(d.ville) })
-                          .y(function(d) { return y(d.rang) })
-                         );
-                // // Add the valueline path.
-                // svg.append("path")	
-                //     .attr("class", "line")
-                //     .attr("d", valueline(data));
-                // console.log(data[0]);
+                 // Add dots
+                svg.append('g')
+                    .selectAll("dot")
+                    .data(data)
+                    .enter()
+                    .append("circle")
+                    .attr("cx", function (d) { return x(d.ville); } )
+                    .attr("cy", function (d) { return y(d.rang); } )
+                    .attr("r", 1.5)
+                    .style("fill", "#69b3a2")
             });
         </script>
     </body>

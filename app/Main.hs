@@ -2,7 +2,10 @@
 
 module Main where
 
+import Data.List (intercalate)
+import Data.Either
 import qualified Data.Text as T
+import qualified Data.Text.IO as TIO
 import Control.Applicative
 import GHC.Generics
 import Network.Wreq
@@ -12,10 +15,13 @@ import qualified Data.ByteString.Lazy as BL
 import Data.Attoparsec.Text hiding (takeWhile)
 
 data Affectation = Affectation {
-  rank :: String,
-  town :: String,
-  specialty :: String
+  year :: Int,
+  rank :: Int,
+  town :: T.Text,
+  specialty :: T.Text
 } deriving (Show)
+
+printAffect (Affectation y r t s) = T.intercalate ";" [T.pack . show $ y, T.pack . show $ r, t, s]
 
 skipToContent :: [Tag BL.ByteString] -> [Tag BL.ByteString]
 skipToContent = drop 3 . takeWhile (~/= ("</div>" :: String)) .
@@ -28,8 +34,8 @@ delim = choice ["à l'Assistance Publique-Hôpitaux de"
                ,"au CHU d'"
                ,"aux Hospices Civils de"]
 
-parseAffect :: Parser Affectation
-parseAffect = do
+parseAffect :: Int -> Parser Affectation
+parseAffect y = do
   r <- some digit
   skipSpace
   "M." <|> "Mme"
@@ -42,7 +48,10 @@ parseAffect = do
   -- delim
   skipSpace
   town <- manyTill anyChar (char '.')
-  return $ Affectation r town spe
+  return $ Affectation y (read r :: Int) (T.pack town) (T.pack spe)
+
+formatCSV :: [Affectation] -> T.Text
+formatCSV l = T.unlines $ "#annee;rang;ville;specialite" : map printAffect l
 
 -- main :: IO ()
 main = do
@@ -50,7 +59,8 @@ main = do
   -- let d = r ^. responseBody
   -- let tmp = skipToContent $ parseTags d
   -- BL.writeFile "raw.txt" $ innerText tmp
-
-  s <- readFile "raw.txt"
-  return $ zip (map (parseOnly parseAffect . T.pack) $ lines s) (lines s)
+  s <- TIO.readFile "raw.txt"
+  let all = rights $ map (parseOnly (parseAffect 2020)) $ T.lines s
+  TIO.writeFile "2020.csv" $ formatCSV all
+  return ()
   -- print "ok"

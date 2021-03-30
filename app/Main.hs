@@ -59,8 +59,9 @@ parseAffect y = do
   "M." <|> "Mme" <|> "Mlle" <|> "MME" <|> "mlle"
   _ <- manyTill anyChar (char '(')
   _ <- manyTill anyChar (char ')')
-  -- TODO
-  test <- option "" $ ", né" *> manyTill anyChar (char ',')
+  char ','
+  _ <- option "" $ skipSpace *> "épouse " *> manyTill anyChar (char ',')
+  _ <- option "" $ skipSpace *> "né" *> manyTill anyChar (char ',')
   -- char ','
   skipSpace
   spe <- manyTill anyChar delim
@@ -103,11 +104,12 @@ affectYear (y, root) = do
 main = do
   -- all <- affectYear 2020 "JORFTEXT000042402100"
   let years = [
-        -- (2020, "JORFTEXT000042402100")
-        -- , (2019, "JORFTEXT000039229737")
-        -- , (2018, "JORFTEXT000037523753" )
-        -- (2017, "JORFTEXT000035871907" )
-        (2016, "JORFTEXT000033253978")
+        (2020, "JORFTEXT000042402100")
+        , (2019, "JORFTEXT000039229737")
+        , (2018, "JORFTEXT000037523753" )
+        , (2017, "JORFTEXT000035871907" )
+        , (2016, "JORFTEXT000033253978")
+        -- TODO: untested below
         -- , (2015, "JORFTEXT000031314070")
         -- , (2014, "JORFTEXT000029604463")
         -- , (2013, "JORFTEXT000028160771")
@@ -117,8 +119,10 @@ main = do
         ]
   print years
   l <- mapM affectYear years
+  let l' = concat l
   -- liftIO length l
 
--- TIO.writeFile "docs/2019.csv" $ formatCSV all
+  TIO.writeFile "docs/raw.csv" $ formatCSV l'
+  -- TODO: merge town name
   return ()
   -- print "ok"

@@ -84,8 +84,8 @@ getYear root = do
   return $ toStrict . decodeUtf8 $ s
 
 -- main :: IO ()
-affectYear :: Int -> String -> IO [Affectation]
-affectYear y root = do
+affectYear :: (Int, String) -> IO [Affectation]
+affectYear (y, root) = do
   s' <- getYear root
 
   -- BL.writeFile "raw.txt" $ innerText tmp
@@ -98,8 +98,23 @@ affectYear y root = do
   return all
 
 main = do
-  all <- affectYear 2020 "JORFTEXT000042402100"
-  all <- affectYear 2019 "JORFTEXT000039229737"
-  -- TIO.writeFile "docs/2019.csv" $ formatCSV all
+  -- all <- affectYear 2020 "JORFTEXT000042402100"
+  let years = [
+        (2020, "JORFTEXT000042402100")
+        , (2019, "JORFTEXT000039229737")
+        , (2018, "JORFTEXT000037523753" )
+        , (2017, "JORFTEXT000035871907" )
+        , (2016, "JORFTEXT000033253978")
+        , (2015, "JORFTEXT000031314070")
+        , (2014, "JORFTEXT000029604463")
+        , (2013, "JORFTEXT000028160771")
+        , (2012, "JORFTEXT000026872409")
+        , (2011, "JORFTEXT000024846862")
+        , (2010, "JORFTEXT000023100415")]
+  print years
+  l <- mapM affectYear years
+  -- liftIO length l
+
+-- TIO.writeFile "docs/2019.csv" $ formatCSV all
   return ()
   -- print "ok"

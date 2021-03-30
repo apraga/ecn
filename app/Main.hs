@@ -41,6 +41,15 @@ delim = choice ["à l'Assistance Publique-Hôpitaux de"
 parseAll :: Int -> Parser [Affectation]
 parseAll y = parseAffect y `sepBy` endOfLine
 
+-- Version without newlines
+-- parseAffects :: Int -> Parser [Affectation]
+startDelim y = T.concat ["au titre de l'année universitaire "
+                        , T.pack $ show y
+                        , "-", T.pack $ show (y+1), " :"]
+parseAffects y = do
+  _ <- manyTill anyChar (string $ startDelim y)
+  many (parseAffect y)
+
 parseAffect :: Int -> Parser Affectation
 parseAffect y = do
   r <- some digit
@@ -60,21 +69,37 @@ parseAffect y = do
 formatCSV :: [Affectation] -> T.Text
 formatCSV l = T.unlines $ "annee;rang;ville;specialite" : map printAffect l
 
--- main :: IO ()
-affectYear :: Int -> String -> IO [Affectation]
-affectYear y root = do
-  -- r <- get "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042402100"
+getYear' :: String -> IO BL.ByteString
+getYear' root = do
+  r <- get $ "https://www.legifrance.gouv.fr/jorf/id/"++  root
+  let d = r ^. responseBody
+  let s = innerText . (Prelude.take 15) . skipToContent $ parseTags d
+  return s
+
+getYear :: String -> IO T.Text
+getYear root = do
   r <- get $ "https://www.legifrance.gouv.fr/jorf/id/"++  root
   let d = r ^. responseBody
   let s = innerText . skipToContent $ parseTags d
-  let s' = toStrict . decodeUtf8 $ s
+  return $ toStrict . decodeUtf8 $ s
+
+-- main :: IO ()
+affectYear :: Int -> String -> IO [Affectation]
+affectYear y root = do
+  s' <- getYear root
+
   -- BL.writeFile "raw.txt" $ innerText tmp
   -- s <- TIO.readFile "raw.txt"
-  return $ rights $ map (parseOnly (parseAffect 2020)) $ T.lines s'
+  -- Sometimes there are no newline
+  let all = if length (T.lines s') == 1
+            then fromRight [] $ parseOnly (parseAffects y ) s'
+            else rights $ map (parseOnly (parseAffect y )) $ T.lines s'
+  print $ length all
+  return all
 
 main = do
-  -- all <- affectYear 2020 "JORFTEXT000042402100"
+  all <- affectYear 2020 "JORFTEXT000042402100"
   all <- affectYear 2019 "JORFTEXT000039229737"
-  TIO.writeFile "docs/2019.csv" $ formatCSV all
-  -- return ()
+  -- TIO.writeFile "docs/2019.csv" $ formatCSV all
+  return ()
   -- print "ok"

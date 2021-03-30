@@ -38,7 +38,10 @@ delim = choice ["à l'Assistance Publique-Hôpitaux de"
                , "au CHU de"
                ,"au CHU d'"
                ,"aux Hospices Civils de"
-               , "aux"] -- Match HCL
+               , "aux" -- Match HCL
+               , "à" -- Just the town (2016)
+               , "en" -- Region (2016)
+               ]
 
 -- Version without newlines
 -- parseAffects :: Int -> Parser [Affectation]
@@ -103,8 +106,8 @@ main = do
         -- (2020, "JORFTEXT000042402100")
         -- , (2019, "JORFTEXT000039229737")
         -- , (2018, "JORFTEXT000037523753" )
-        (2017, "JORFTEXT000035871907" )
-        -- , (2016, "JORFTEXT000033253978")
+        -- (2017, "JORFTEXT000035871907" )
+        (2016, "JORFTEXT000033253978")
         -- , (2015, "JORFTEXT000031314070")
         -- , (2014, "JORFTEXT000029604463")
         -- , (2013, "JORFTEXT000028160771")

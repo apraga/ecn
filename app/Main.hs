@@ -34,12 +34,11 @@ skipToContent = drop 3 . takeWhile (~/= ("</div>" :: String)) .
 
 delim = choice ["à l'Assistance Publique-Hôpitaux de"
                , "à l'Assistance Publique des Hôpitaux de"
+               , "à l'" -- Match pour AP-HP in last resort
                , "au CHU de"
                ,"au CHU d'"
-               ,"aux Hospices Civils de"]
-
-parseAll :: Int -> Parser [Affectation]
-parseAll y = parseAffect y `sepBy` endOfLine
+               ,"aux Hospices Civils de"
+               , "aux"] -- Match HCL
 
 -- Version without newlines
 -- parseAffects :: Int -> Parser [Affectation]
@@ -54,27 +53,28 @@ parseAffect :: Int -> Parser Affectation
 parseAffect y = do
   r <- some digit
   skipSpace
-  "M." <|> "Mme"
+  "M." <|> "Mme" <|> "Mlle" <|> "MME" <|> "mlle"
   _ <- manyTill anyChar (char '(')
   _ <- manyTill anyChar (char ')')
-  char ','
+  -- TODO
+  test <- option "" $ ", né" *> manyTill anyChar (char ',')
+  -- char ','
   skipSpace
-  -- spe <- some letter `sepBy'` space
   spe <- manyTill anyChar delim
-  -- delim
   skipSpace
   town <- manyTill anyChar (char '.')
   return $ Affectation y (read r :: Int) (T.pack town) (T.strip . T.pack $ spe)
 
+
 formatCSV :: [Affectation] -> T.Text
 formatCSV l = T.unlines $ "annee;rang;ville;specialite" : map printAffect l
 
-getYear' :: String -> IO BL.ByteString
+getYear' :: String -> IO T.Text
 getYear' root = do
   r <- get $ "https://www.legifrance.gouv.fr/jorf/id/"++  root
   let d = r ^. responseBody
-  let s = innerText . (Prelude.take 15) . skipToContent $ parseTags d
-  return s
+  let s = innerText . (Prelude.take 50) . skipToContent $ parseTags d
+  return $ toStrict . decodeUtf8 $ s
 
 getYear :: String -> IO T.Text
 getYear root = do
@@ -100,17 +100,18 @@ affectYear (y, root) = do
 main = do
   -- all <- affectYear 2020 "JORFTEXT000042402100"
   let years = [
-        (2020, "JORFTEXT000042402100")
-        , (2019, "JORFTEXT000039229737")
-        , (2018, "JORFTEXT000037523753" )
-        , (2017, "JORFTEXT000035871907" )
-        , (2016, "JORFTEXT000033253978")
-        , (2015, "JORFTEXT000031314070")
-        , (2014, "JORFTEXT000029604463")
-        , (2013, "JORFTEXT000028160771")
-        , (2012, "JORFTEXT000026872409")
-        , (2011, "JORFTEXT000024846862")
-        , (2010, "JORFTEXT000023100415")]
+        -- (2020, "JORFTEXT000042402100")
+        -- , (2019, "JORFTEXT000039229737")
+        -- , (2018, "JORFTEXT000037523753" )
+        (2017, "JORFTEXT000035871907" )
+        -- , (2016, "JORFTEXT000033253978")
+        -- , (2015, "JORFTEXT000031314070")
+        -- , (2014, "JORFTEXT000029604463")
+        -- , (2013, "JORFTEXT000028160771")
+        -- , (2012, "JORFTEXT000026872409")
+        -- , (2011, "JORFTEXT000024846862")
+        -- , (2010, "JORFTEXT000023100415")]
+        ]
   print years
   l <- mapM affectYear years
   -- liftIO length l

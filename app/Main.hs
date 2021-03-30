@@ -2,17 +2,21 @@
 
 module Main where
 
-import Data.List (intercalate)
-import Data.Either
-import qualified Data.Text as T
-import qualified Data.Text.IO as TIO
+-- import Data.Attoparsec.ByteString.Char8 hiding (takeWhile)
+-- import qualified Data.ByteString as B
 import Control.Applicative
+import Control.Lens
+import Data.Attoparsec.Text hiding (takeWhile)
+import Data.Either
+import Data.List (intercalate)
+import Data.Text.Lazy (toStrict)
+import Data.Text.Lazy.Encoding
 import GHC.Generics
 import Network.Wreq
-import Control.Lens
 import Text.HTML.TagSoup
 import qualified Data.ByteString.Lazy as BL
-import Data.Attoparsec.Text hiding (takeWhile)
+import qualified Data.Text as T
+import qualified Data.Text.IO as TIO
 
 data Affectation = Affectation {
   year :: Int,
@@ -34,6 +38,9 @@ delim = choice ["à l'Assistance Publique-Hôpitaux de"
                ,"au CHU d'"
                ,"aux Hospices Civils de"]
 
+parseAll :: Int -> Parser [Affectation]
+parseAll y = parseAffect y `sepBy` endOfLine
+
 parseAffect :: Int -> Parser Affectation
 parseAffect y = do
   r <- some digit
@@ -48,19 +55,26 @@ parseAffect y = do
   -- delim
   skipSpace
   town <- manyTill anyChar (char '.')
-  return $ Affectation y (read r :: Int) (T.pack town) (T.pack spe)
+  return $ Affectation y (read r :: Int) (T.pack town) (T.strip . T.pack $ spe)
 
 formatCSV :: [Affectation] -> T.Text
 formatCSV l = T.unlines $ "annee;rang;ville;specialite" : map printAffect l
 
 -- main :: IO ()
-main = do
+affectYear :: Int -> String -> IO [Affectation]
+affectYear y root = do
   -- r <- get "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042402100"
-  -- let d = r ^. responseBody
-  -- let tmp = skipToContent $ parseTags d
+  r <- get $ "https://www.legifrance.gouv.fr/jorf/id/"++  root
+  let d = r ^. responseBody
+  let s = innerText . skipToContent $ parseTags d
+  let s' = toStrict . decodeUtf8 $ s
   -- BL.writeFile "raw.txt" $ innerText tmp
-  s <- TIO.readFile "raw.txt"
-  let all = rights $ map (parseOnly (parseAffect 2020)) $ T.lines s
-  TIO.writeFile "2020.csv" $ formatCSV all
-  return ()
+  -- s <- TIO.readFile "raw.txt"
+  return $ rights $ map (parseOnly (parseAffect 2020)) $ T.lines s'
+
+main = do
+  -- all <- affectYear 2020 "JORFTEXT000042402100"
+  all <- affectYear 2019 "JORFTEXT000039229737"
+  TIO.writeFile "docs/2019.csv" $ formatCSV all
+  -- return ()
   -- print "ok"

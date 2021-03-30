@@ -11,7 +11,7 @@
         <script>
             // set the dimensions and margins of the graph
             var margin = {top: 10, right: 30, bottom: 30, left: 60},
-                width = 460 - margin.left - margin.right,
+                width = 1060 - margin.left - margin.right,
                 height = 400 - margin.top - margin.bottom;
 
             // append the svg object to the body of the page
@@ -32,12 +32,11 @@
                     x.rang = +x.rang;
                 })
 
-                groups = d3.group(data, x => x.specialite);
-                neuro = groups.get("neurologie ");
-
-                neuro_ville = d3.group(neuro, x => x.ville);
-                // var test = groups.map(function(d) { return d.key });
+                groups = d3.group(data, x => x.specialite, x => x.ville);
                 console.log(groups);
+                neuro = groups.get("gériatrie ");
+                // var test = groups.map(function(d) { return d.key });
+                d3.rollup()
 
                 towns = [];
                 for (let key of neuro_ville.keys() ){
@@ -49,16 +48,16 @@
 
 
                 // Add X axis --> it is a date format
-                var x = d3.scaleBand()
-                    .domain(towns)
+                var x = d3.scaleLinear()
+                    .domain([0, d3.max(neuro, function(d) { return d.rang; })])
                     .range([ 0, width ]);
                 svg.append("g")
                     .attr("transform", "translate(0," + height + ")")
                     .call(d3.axisBottom(x));
 
                 // Add Y axis
-                var y = d3.scaleLinear()
-                    .domain([0, d3.max(neuro, function(d) { return d.rang; })])
+                var y = d3.scaleBand()
+                    .domain(towns)
                     .range([ height, 0 ]);
                 svg.append("g")
                     .call(d3.axisLeft(y));
@@ -66,11 +65,11 @@
                  // Add dots
                 svg.append('g')
                     .selectAll("dot")
-                    .data(data)
+                    .data(neuro)
                     .enter()
                     .append("circle")
-                    .attr("cx", function (d) { return x(d.ville); } )
-                    .attr("cy", function (d) { return y(d.rang); } )
+                    .attr("cx", function (d) { return x(d.rang); } )
+                    .attr("cy", function (d) { return y(d.ville); } )
                     .attr("r", 1.5)
                     .style("fill", "#69b3a2")
             });

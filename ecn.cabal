@@ -36,5 +36,6 @@ executable ecn-exe
     , bytestring
     , lens
     , tagsoup
+    , text
     , wreq
   default-language: Haskell2010

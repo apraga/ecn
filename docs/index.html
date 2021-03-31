@@ -55,7 +55,7 @@
 
                  svg.append("g")
                      .attr("transform", "translate(0," + height + ")")
-                     .call(d3.axisBottom(x));
+                    .call(d3.axisBottom(x).ticks(d3.timeYear.every(1)));
 
                  // Rank = Y axis
                 var y = d3.scaleLinear()

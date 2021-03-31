@@ -42,64 +42,62 @@
                 // Speciality is no longer a variable
                 spe = rankMax.get("génétique médicale");
 
-
                 console.log(spe);
 
-                // Get the list of town for y-axis
-                towns = Array.from(spe.keys());
+                // // Get the list of town for y-axis
+                // towns = Array.from(spe.keys());
 
-                // console.log(d3.min(neuro, d => d.rang));
-
-                // We want to a line for each town.
-                // for each town. So we just have to return all the (x,y) coordinates
-                // So x = rank, y = town 
-                // The town must be passe from the caling function !
-                var line = d3.line()
-                    .x(function(d, t){
-                        // console.log(t);
-                        // console.log(d[1]);
-                        return d[1];})
-                    .y(function(d, t){
-                        // console.log(t);
-                        return t;});
-                // Add X axis --> it is a date format
+                // Date  = X axis
                  var x = d3.scaleLinear()
                      /* .domain(d3.extent(spe, function(d) { return d[1]; })) */
-                     .domain([0, 8800])
+                     .domain([2016, 2020])
                      .range([ 0, width ]);
+
                  svg.append("g")
                      .attr("transform", "translate(0," + height + ")")
                      .call(d3.axisBottom(x));
 
-                 // Add Y axis
-                 var y = d3.scaleBand()
-                     .domain(towns)
-                     .range([ height, 0 ]);
-                console.log(y);
+                 // Rank = Y axis
+                var y = d3.scaleLinear()
+                    .domain([0, 8800]) // TODO
+                     .range([0, height]);
+
                  svg.append("g")
+                     // .attr("transform", "translate(0," + height + ")")
                      .call(d3.axisLeft(y));
 
-                 // The following iterate across an array:
-                 // 0 is the town, 1 is the map containing the year and rank max for each year
-                // From that We must then extract the x and y 
-                svg.append('g')
-                    .selectAll("myLines")
+                // New strategy : town = category, x = yeary, y = rank
+                // Draw line
+                // Add the lines
+                var line = d3.line()
+                    .x(function(d) { return x(d[0]) })
+                    .y(function(d) { return y(d[1]) })
+                svg.selectAll("myLines")
                     .data(spe)
                     .enter()
                     .append("path")
-                    .attr("d", function(d){
-                        return line(d[1], d[0]);})
-                    .attr("stroke", "steelblue")
+                    .attr("class", function(d){ return d[0] })
+                    .attr("d", function(d){ return line(d[1]) } )
+                    .attr("stroke", "steelblue")//function(d){ return myColor(d.name) })
                     .style("stroke-width", 4)
                     .style("fill", "none")
-                    //  .selectAll("dot")
-                    //  .data(spe)
-                    //  .enter()
-                    //  .append("circle")
-                    // .attr("cx", function (d) {return x(d[1]); } )
-                    //  .attr("cy", function (d) { return y(d[0]); } )
-                    //  .attr("r", 3)
-                    //  .style("fill", "#69b3a2")
+
+                svg.selectAll("myDots")
+                    .data(spe)
+                    .enter()
+                    .append('g')
+                    .style("fill", "black")
+                    .attr("class", function(d){ return d[0] })
+                // Second we need to enter in the 'values' part of this group
+                    .selectAll("myPoints")
+                    .data(function(d){ return d[1] })
+                    .enter()
+                    .append("circle")
+                    .attr("cx", function(d) { return x(d[0]) } )
+                    .attr("cy", function(d) {return y(d[1]) } )
+                    .attr("r", 5)
+                    .attr("stroke", "white")
+
             });
         </script>
     </body>

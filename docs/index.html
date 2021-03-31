@@ -11,6 +11,7 @@
         <script>
             //Many thanks to https://www.d3-graph-gallery.com/graph/connectedscatter_multi.html
 
+            
             // set the dimensions and margins of the graph
             var margin = {top: 10, right: 30, bottom: 30, left: 60},
                 width = 1060 - margin.left - margin.right,
@@ -26,6 +27,7 @@
                       "translate(" + margin.left + "," + margin.top + ")");   
 
             // Read data
+            // Change in firefox  privacy.file_unique_origin to false for local development
             const all = d3.dsv(";", "2020-2016.csv");
 
             all.then(function(data) {
@@ -42,7 +44,7 @@
                 // Speciality is no longer a variable
                 spe = rankMax.get("génétique médicale");
 
-                console.log(spe);
+                // console.log(spe);
 
                 // // Get the list of town for y-axis
                 towns = Array.from(spe.keys());
@@ -114,15 +116,26 @@
                     .text(function(d) { return d[0]; })
                     .style("fill", function(d){ return myColor(d[0]) })
                     .style("font-size", 15)
-                    // .on("click", function(d){
-                    //     console.log(d);
-                    //     // is the element currently visible ?
-                    //     currentOpacity = d3.selectAll(".Paris").style("opacity")
-                    //     // Change the opacity: from 0 to 1 or from 1 to 0
-                    //     d3.selectAll(".Paris").transition().style("opacity", currentOpacity == 1 ? 0:1)
 
-                    // })
+                // Generate checkbox
+                d3.select("body").selectAll("input")
+                  .data(towns)
+                  .enter()
+                  .append('label')
+                    .attr('for',function(d,i){ return 'a'+i; })
+                    .text(function(d) { return d; })
+                    .style("fill", function(d){ return myColor(d[0]) }) // does not work :(
+                  .append("input")
+                    .attr("checked", true)
+                    // .attr("name", function(d) { return "name_" + d; }) // Store the name here for easy retrieval on clock
+                    .attr("type", "checkbox")
+                    .attr("id", function(d,i) { return 'a'+i; })
+                  .on("click", function(d){
+                      // This.__data__ is a bit ugly to get the name but it works
+                      svg.selectAll("." + this.__data__).transition().style("opacity", this.checked == 1 ? 1 : 0)
+                  })
             });
+
         </script>
     </body>
 </html>

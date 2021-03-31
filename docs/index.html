@@ -6,10 +6,11 @@
         <meta charset="UTF-8">
         <script src="dist/d3.js"></script>
     </head>
-
     <body>
         <div id="myplot"></div>
         <script>
+            //See some help here https://www.d3-graph-gallery.com/graph/connectedscatter_multi.html
+
             // set the dimensions and margins of the graph
             var margin = {top: 10, right: 30, bottom: 30, left: 60},
                 width = 1060 - margin.left - margin.right,
@@ -34,26 +35,37 @@
                     x.rang = +x.rang;
                 })
 
-                // Rank max by specialty and town
+                // Rank max by specialty, year and town
                 rankMax = d3.rollup(data, v => d3.max(v, d => d.rang), d => d.specialite,
-                                    d => d.annee, d => d.ville);
-                // console.log(rankMax);
-                //
-                // For now, fix the year
-                spe = rankMax.get("génétique médicale").get(2020);
+                                    d => d.ville, d => d.annee);
+
+                // Speciality is no longer a variable
+                spe = rankMax.get("génétique médicale");
+
+
                 console.log(spe);
 
                 // Get the list of town for y-axis
                 towns = Array.from(spe.keys());
-                console.log(towns);
-                console.log(towns.length);
 
-                console.log(spe.get("Grenoble"));
                 // console.log(d3.min(neuro, d => d.rang));
 
+                // We want to a line for each town.
+                // for each town. So we just have to return all the (x,y) coordinates
+                // So x = rank, y = town 
+                // The town must be passe from the caling function !
+                var line = d3.line()
+                    .x(function(d, t){
+                        // console.log(t);
+                        // console.log(d[1]);
+                        return d[1];})
+                    .y(function(d, t){
+                        // console.log(t);
+                        return t;});
                 // Add X axis --> it is a date format
                  var x = d3.scaleLinear()
-                     .domain(d3.extent(spe, function(d) { return d[1]; }))
+                     /* .domain(d3.extent(spe, function(d) { return d[1]; })) */
+                     .domain([0, 8800])
                      .range([ 0, width ]);
                  svg.append("g")
                      .attr("transform", "translate(0," + height + ")")
@@ -63,20 +75,31 @@
                  var y = d3.scaleBand()
                      .domain(towns)
                      .range([ height, 0 ]);
+                console.log(y);
                  svg.append("g")
                      .call(d3.axisLeft(y));
 
-                 // Add dots !! The map becomes an array there !!
-                 // 0 is the town, 1 is the rank max
-                 svg.append('g')
-                     .selectAll("dot")
-                     .data(spe)
-                     .enter()
-                     .append("circle")
-                    .attr("cx", function (d) {return x(d[1]); } )
-                     .attr("cy", function (d) { return y(d[0]); } )
-                     .attr("r", 3)
-                     .style("fill", "#69b3a2")
+                 // The following iterate across an array:
+                 // 0 is the town, 1 is the map containing the year and rank max for each year
+                // From that We must then extract the x and y 
+                svg.append('g')
+                    .selectAll("myLines")
+                    .data(spe)
+                    .enter()
+                    .append("path")
+                    .attr("d", function(d){
+                        return line(d[1], d[0]);})
+                    .attr("stroke", "steelblue")
+                    .style("stroke-width", 4)
+                    .style("fill", "none")
+                    //  .selectAll("dot")
+                    //  .data(spe)
+                    //  .enter()
+                    //  .append("circle")
+                    // .attr("cx", function (d) {return x(d[1]); } )
+                    //  .attr("cy", function (d) { return y(d[0]); } )
+                    //  .attr("r", 3)
+                    //  .style("fill", "#69b3a2")
             });
         </script>
     </body>

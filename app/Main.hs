@@ -52,6 +52,14 @@ parseAffects y = do
   _ <- manyTill anyChar (string $ startDelim y)
   many (parseAffect y)
 
+-- Clean data
+cleanTown :: T.Text -> T.Text
+cleanTown "HCL" = "Lyon"
+cleanTown "Ile-de-France" = "Paris"
+cleanTown "AP-HP" = "Paris"
+cleanTown "AP-HM" = "Marseille"
+cleanTown x = x
+
 parseAffect :: Int -> Parser Affectation
 parseAffect y = do
   r <- some digit
@@ -60,6 +68,7 @@ parseAffect y = do
   _ <- manyTill anyChar (char '(')
   _ <- manyTill anyChar (char ')')
   char ','
+  _ <- option "" $ skipSpace *> "nom d'usage " *> manyTill anyChar (char ',')
   _ <- option "" $ skipSpace *> "épouse " *> manyTill anyChar (char ',')
   _ <- option "" $ skipSpace *> "né" *> manyTill anyChar (char ',')
   -- char ','
@@ -67,7 +76,7 @@ parseAffect y = do
   spe <- manyTill anyChar delim
   skipSpace
   town <- manyTill anyChar (char '.')
-  return $ Affectation y (read r :: Int) (T.pack town) (T.strip . T.pack $ spe)
+  return $ Affectation y (read r :: Int) (cleanTown (T.pack town)) (T.strip . T.pack $ spe)
 
 
 formatCSV :: [Affectation] -> T.Text
@@ -104,11 +113,11 @@ affectYear (y, root) = do
 main = do
   -- all <- affectYear 2020 "JORFTEXT000042402100"
   let years = [
-        (2020, "JORFTEXT000042402100")
-        , (2019, "JORFTEXT000039229737")
-        , (2018, "JORFTEXT000037523753" )
-        , (2017, "JORFTEXT000035871907" )
-        , (2016, "JORFTEXT000033253978")
+        -- (2020, "JORFTEXT000042402100")
+        -- , (2019, "JORFTEXT000039229737")
+        -- , (2018, "JORFTEXT000037523753" )
+        (2017, "JORFTEXT000035871907" )
+        -- , (2016, "JORFTEXT000033253978")
         -- TODO: untested below
         -- , (2015, "JORFTEXT000031314070")
         -- , (2014, "JORFTEXT000029604463")

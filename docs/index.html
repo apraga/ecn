@@ -9,7 +9,7 @@
     <body>
         <div id="myplot"></div>
         <script>
-            //See some help here https://www.d3-graph-gallery.com/graph/connectedscatter_multi.html
+            //Many thanks to https://www.d3-graph-gallery.com/graph/connectedscatter_multi.html
 
             // set the dimensions and margins of the graph
             var margin = {top: 10, right: 30, bottom: 30, left: 60},
@@ -45,7 +45,7 @@
                 console.log(spe);
 
                 // // Get the list of town for y-axis
-                // towns = Array.from(spe.keys());
+                towns = Array.from(spe.keys());
 
                 // Date  = X axis
                  var x = d3.scaleLinear()
@@ -66,6 +66,8 @@
                      // .attr("transform", "translate(0," + height + ")")
                      .call(d3.axisLeft(y));
 
+                var myColor = d3.scaleOrdinal().domain(towns)
+                    .range(d3.schemeSet3);
                 // New strategy : town = category, x = yeary, y = rank
                 // Draw line
                 // Add the lines
@@ -78,7 +80,7 @@
                     .append("path")
                     .attr("class", function(d){ return d[0] })
                     .attr("d", function(d){ return line(d[1]) } )
-                    .attr("stroke", "steelblue")//function(d){ return myColor(d.name) })
+                    .attr("stroke", function(d){ return myColor(d[0]) })
                     .style("stroke-width", 4)
                     .style("fill", "none")
 
@@ -86,7 +88,7 @@
                     .data(spe)
                     .enter()
                     .append('g')
-                    .style("fill", "black")
+                    .attr("fill", function(d){ return myColor(d[0]) })
                     .attr("class", function(d){ return d[0] })
                 // Second we need to enter in the 'values' part of this group
                     .selectAll("myPoints")
@@ -98,6 +100,28 @@
                     .attr("r", 5)
                     .attr("stroke", "white")
 
+                // Interactive for new version ofD3
+                // const tooltip = new Tooltip();
+
+                // Add a legend (interactive)
+                svg.selectAll("myLegend")
+                    .data(spe)
+                    .enter()
+                    .append('g')
+                    .append("text")
+                    .attr('x', function(d,i){ return 30 + i*60})
+                    .attr('y', 10)
+                    .text(function(d) { return d[0]; })
+                    .style("fill", function(d){ return myColor(d[0]) })
+                    .style("font-size", 15)
+                    // .on("click", function(d){
+                    //     console.log(d);
+                    //     // is the element currently visible ?
+                    //     currentOpacity = d3.selectAll(".Paris").style("opacity")
+                    //     // Change the opacity: from 0 to 1 or from 1 to 0
+                    //     d3.selectAll(".Paris").transition().style("opacity", currentOpacity == 1 ? 0:1)
+
+                    // })
             });
         </script>
     </body>

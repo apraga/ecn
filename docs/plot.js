@@ -100,6 +100,7 @@ function plot(data){
         .attr("stroke", function(d){ return myColor(d[0]) })
         .style("stroke-width", 4)
         .style("fill", "none")
+        .style("opacity", "0.1")
 
     svg.selectAll("myDots")
         .data(spe)
@@ -116,6 +117,7 @@ function plot(data){
         .attr("cy", function(d) {return y(d[1]) } )
         .attr("r", 5)
         .attr("stroke", "white")
+        .style("opacity", "0.1")
 
     // Interactive for new version ofD3
     // const tooltip = new Tooltip();
@@ -129,13 +131,17 @@ function plot(data){
         .text(function(d) { return d; })
         .style("color", function(d){ return myColor(d[0]) })
         .append("input")
-        .attr("checked", false)
+        .property("checked", false)
         .attr("type", "checkbox")
         .attr("id", function(d,i) { return 'a'+i; })
         .on("click", function(d){
             // This.__data__ is a bit ugly to get the name but it works
-            svg.selectAll("." + this.__data__).transition().style("opacity", this.checked == 1 ? 1 : 0)
+            // var elem = svg.select("path[class=Grenoble]").transition();
+            // elem.style("opacity", this.checked == 1 ? 1 : 0.1)
         })
+    // Only show first value: set the
+    svg.selectAll("path[class="+towns[0]+"]").style("opacity", 1); // Set path
+    d3.select("input[id=a0]").property("checked", true) // Checkbox
 }
 
 // Read data

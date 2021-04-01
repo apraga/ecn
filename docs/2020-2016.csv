@@ -1059,7 +1059,7 @@ annee;rang;ville;specialite
 2020;1071;Marseille;anesthésie-réanimation
 2020;1072;Rennes;pédiatrie
 2020;1073;Clermont-Ferrand;anesthésie-réanimation
-2020;1074;Lille;famille Martin-Pawlowski, neurologie
+2020;1074;Lille;neurologie
 2020;1075;Lille;anesthésie-réanimation
 2020;1076;Lille;anesthésie-réanimation
 2020;1077;Lyon;médecine interne et immunologie clinique
@@ -3688,7 +3688,7 @@ annee;rang;ville;specialite
 2020;3732;Rouen;anatomie et cytologie pathologiques
 2020;3733;la Martinique / Pointe-à-Pitre;pneumologie
 2020;3734;la Réunion;gynécologie obstétrique
-2020;3735;Paris;famille Gaillet-Lagrange, médecine générale
+2020;3735;Paris;médecine générale
 2020;3736;Paris;médecine générale
 2020;3737;Paris;médecine générale
 2020;3738;Angers;anatomie et cytologie pathologiques
@@ -18315,7 +18315,7 @@ annee;rang;ville;specialite
 2018;1674;Marseille;pneumologie
 2018;1675;Nantes;rhumatologie
 2018;1676;Lyon;rhumatologie
-2018;1677;Toulouse;famille Jarrot, né le 21 octobre 1992, oncologie
+2018;1677;Toulouse;oncologie
 2018;1678;Amiens;radiologie et imagerie médicale
 2018;1679;Dijon;médecine cardiovasculaire
 2018;1680;Nantes;psychiatrie
@@ -20637,7 +20637,7 @@ annee;rang;ville;specialite
 2018;4031;Montpellier;médecine physique et de réadaptation
 2018;4032;Lille;médecine générale
 2018;4033;Toulouse;médecine générale
-2018;4034;Grenoble;famille Martinez-Valentin, née le 23 août 1993, médecine générale
+2018;4034;Grenoble;médecine générale
 2018;4035;Paris;gynécologie médicale
 2018;4036;Lille;médecine générale
 2018;4037;Nancy;chirurgie viscérale et digestive
@@ -21022,7 +21022,7 @@ annee;rang;ville;specialite
 2018;4430;Dijon;chirurgie viscérale et digestive
 2018;4431;Brest;médecine vasculaire
 2018;4432;Paris;médecine générale
-2018;4434;Clermont-Ferrand;famille Ramain-Colomb, né le 3 janvier 1994, médecine vasculaire
+2018;4434;Clermont-Ferrand;médecine vasculaire
 2018;4435;Caen;pédiatrie
 2018;4436;Clermont-Ferrand;médecine générale
 2018;4437;Montpellier;médecine physique et de réadaptation
@@ -24441,7 +24441,7 @@ annee;rang;ville;specialite
 2018;8107;Toulouse;médecine générale
 2018;8109;Rouen;psychiatrie
 2018;8110;Nancy;médecine et santé au travail
-2018;8111;Nancy;famille Ransay-Colle, né le 21 avril 1993, santé publique
+2018;8111;Nancy;santé publique
 2018;8112;Reims;médecine générale
 2018;8115;Paris;médecine générale
 2018;8116;Tours;psychiatrie
@@ -31957,7 +31957,7 @@ annee;rang;ville;specialite
 2017;7312;Strasbourg;médecine générale
 2017;7313;Amiens;médecine générale
 2017;7314;Poitiers;médecine générale
-2017;7315;Brest;famille Barcelo-Chatellier, née le 9 octobre 1992, médecine générale
+2017;7315;Brest;médecine générale
 2017;7316;Marseille;médecine générale
 2017;7317;Angers;médecine générale
 2017;7318;Clermont-Ferrand;médecine générale
@@ -32638,7 +32638,7 @@ annee;rang;ville;specialite
 2017;8056;Paris;médecine générale
 2017;8057;Paris;médecine générale
 2017;8058;Tours;médecine générale
-2017;8059;Montpellier;famille Giacosa, née le 16 mai 1987, gériatrie
+2017;8059;Montpellier;gériatrie
 2017;8060;Paris;médecine générale
 2017;8061;Nancy;médecine générale
 2017;8062;Nancy;médecine générale
@@ -32761,7 +32761,7 @@ annee;rang;ville;specialite
 2017;8202;Rouen;médecine générale
 2017;8203;Dijon;médecine générale
 2017;8204;Brest;médecine générale
-2017;8205;Paris;famille Malela, née le 20 septembre 1980, médecine générale
+2017;8205;Paris;médecine générale
 2017;8206;Dijon;médecine générale
 2017;8208;Tours;médecine générale
 2017;8210;Reims;psychiatrie
@@ -32815,7 +32815,7 @@ annee;rang;ville;specialite
 2017;8266;Saint-Etienne;médecine et santé au travail
 2017;8267;Dijon;médecine générale
 2017;8269;Paris;gériatrie
-2017;8271;Paris;famille Fernando, né le 13 mars 1990, médecine générale
+2017;8271;Paris;médecine générale
 2017;8272;Caen;psychiatrie
 2017;8274;Paris;gériatrie
 2017;8275;Dijon;médecine générale
@@ -32942,7 +32942,7 @@ annee;rang;ville;specialite
 2016;44;Toulouse;gynécologie obstétrique
 2016;45;Paris;néphrologie
 2016;46;Paris;radiologie et imagerie médicale
-2016;47;Paris;endocrinologie, diabète, maladies métaboliques
+2016;47;Paris;endocrinologie-diabétologie-nutrition
 2016;48;Paris;médecine interne et immunologie clinique
 2016;49;Bordeaux;neurologie
 2016;50;Aix-Marseille;chirurgie générale
@@ -33023,7 +33023,7 @@ annee;rang;ville;specialite
 2016;125;Clermont-Ferrand;médecine interne et immunologie clinique
 2016;126;Aix-Marseille;ophtalmologie
 2016;127;Lyon;oncologie
-2016;128;Paris;anatomie et cytologie pathologique
+2016;128;Paris;anatomie et cytologie pathologiques
 2016;129;Bordeaux;médecine cardiovasculaire
 2016;130;Lyon;médecine cardiovasculaire
 2016;131;Lyon;chirurgie générale
@@ -33505,7 +33505,7 @@ annee;rang;ville;specialite
 2016;612;Paris;ophtalmologie
 2016;613;Montpellier;radiologie et imagerie médicale
 2016;614;Lille;médecine interne et immunologie clinique
-2016;615;Aix-Marseille;endocrinologie, diabète, maladies métaboliques
+2016;615;Aix-Marseille;endocrinologie-diabétologie-nutrition
 2016;616;Tours;ophtalmologie
 2016;617;Grenoble;gynécologie obstétrique
 2016;618;Lille;médecine générale
@@ -33557,7 +33557,7 @@ annee;rang;ville;specialite
 2016;665;Montpellier;médecine cardiovasculaire
 2016;666;Bordeaux;chirurgie générale
 2016;667;Paris;anesthésie-réanimation
-2016;668;Paris;endocrinologie, diabète, maladies métaboliques
+2016;668;Paris;endocrinologie-diabétologie-nutrition
 2016;669;Lille;neurologie
 2016;670;Paris;médecine cardiovasculaire
 2016;671;Montpellier;hépato-gastro-entérologie
@@ -33657,7 +33657,7 @@ annee;rang;ville;specialite
 2016;766;Montpellier;radiologie et imagerie médicale
 2016;767;Montpellier;radiologie et imagerie médicale
 2016;768;Toulouse;chirurgie générale
-2016;769;Aix-Marseille;anatomie et cytologie pathologique
+2016;769;Aix-Marseille;anatomie et cytologie pathologiques
 2016;770;Nantes;ophtalmologie
 2016;771;Paris;médecine cardiovasculaire
 2016;772;Paris;neurologie
@@ -33668,7 +33668,7 @@ annee;rang;ville;specialite
 2016;777;Montpellier;chirurgie générale
 2016;778;Nantes;pneumologie
 2016;779;Paris;radiologie et imagerie médicale
-2016;780;Paris;anatomie et cytologie pathologique
+2016;780;Paris;anatomie et cytologie pathologiques
 2016;781;Lille;anesthésie-réanimation
 2016;782;Paris;médecine cardiovasculaire
 2016;783;Rennes;médecine cardiovasculaire
@@ -33740,7 +33740,7 @@ annee;rang;ville;specialite
 2016;849;Montpellier;neurologie
 2016;850;Toulouse;médecine cardiovasculaire
 2016;851;Paris;radiologie et imagerie médicale
-2016;852;Aix-Marseille;endocrinologie, diabète, maladies métaboliques
+2016;852;Aix-Marseille;endocrinologie-diabétologie-nutrition
 2016;853;Nantes;ophtalmologie
 2016;854;Paris;radiologie et imagerie médicale
 2016;855;Montpellier;médecine interne et immunologie clinique
@@ -33796,7 +33796,7 @@ annee;rang;ville;specialite
 2016;905;Rennes;neurologie
 2016;906;Paris;radiologie et imagerie médicale
 2016;907;Nantes;anesthésie-réanimation
-2016;908;Bordeaux;anatomie et cytologie pathologique
+2016;908;Bordeaux;anatomie et cytologie pathologiques
 2016;909;Paris;chirurgie générale
 2016;910;Toulouse;ophtalmologie
 2016;911;Paris;médecine cardiovasculaire
@@ -33942,7 +33942,7 @@ annee;rang;ville;specialite
 2016;1051;Brest;médecine interne et immunologie clinique
 2016;1052;Paris;hépato-gastro-entérologie
 2016;1053;Lille;anesthésie-réanimation
-2016;1054;Paris;anatomie et cytologie pathologique
+2016;1054;Paris;anatomie et cytologie pathologiques
 2016;1055;Saint-Etienne;médecine générale
 2016;1056;Paris;psychiatrie
 2016;1058;Tours;ophtalmologie
@@ -34017,7 +34017,7 @@ annee;rang;ville;specialite
 2016;1127;Paris;médecine cardiovasculaire
 2016;1128;Lille;ophtalmologie
 2016;1129;Montpellier;médecine cardiovasculaire
-2016;1130;Paris;anatomie et cytologie pathologique
+2016;1130;Paris;anatomie et cytologie pathologiques
 2016;1131;Paris;pédiatrie
 2016;1132;Paris;anesthésie-réanimation
 2016;1133;Aix-Marseille;neurologie
@@ -34060,7 +34060,7 @@ annee;rang;ville;specialite
 2016;1170;Grenoble;neurochirurgie
 2016;1171;Bordeaux;anesthésie-réanimation
 2016;1172;Caen;médecine cardiovasculaire
-2016;1173;Nantes;anatomie et cytologie pathologique
+2016;1173;Nantes;anatomie et cytologie pathologiques
 2016;1174;Toulouse;médecine cardiovasculaire
 2016;1175;Aix-Marseille;gynécologie obstétrique
 2016;1176;Aix-Marseille;médecine interne et immunologie clinique
@@ -34133,7 +34133,7 @@ annee;rang;ville;specialite
 2016;1243;Paris;chirurgie générale
 2016;1244;Nantes;radiologie et imagerie médicale
 2016;1245;Nantes;médecine générale
-2016;1246;Montpellier;anatomie et cytologie pathologique
+2016;1246;Montpellier;anatomie et cytologie pathologiques
 2016;1247;Toulouse;psychiatrie
 2016;1248;Bordeaux;pneumologie
 2016;1249;Brest;radiologie et imagerie médicale
@@ -34298,7 +34298,7 @@ annee;rang;ville;specialite
 2016;1408;Strasbourg;radiologie et imagerie médicale
 2016;1409;Paris;médecine cardiovasculaire
 2016;1410;Saint-Etienne;ophtalmologie
-2016;1411;Paris;anatomie et cytologie pathologique
+2016;1411;Paris;anatomie et cytologie pathologiques
 2016;1412;Strasbourg;chirurgie générale
 2016;1413;Aix-Marseille;anesthésie-réanimation
 2016;1414;Rouen;pédiatrie
@@ -34312,7 +34312,7 @@ annee;rang;ville;specialite
 2016;1422;Toulouse;anesthésie-réanimation
 2016;1423;Bordeaux;anesthésie-réanimation
 2016;1424;Aix-Marseille;oto-rhino-laryngologie - chirurgie cervico-faciale
-2016;1425;Lyon;endocrinologie, diabète, maladies métaboliques
+2016;1425;Lyon;endocrinologie-diabétologie-nutrition
 2016;1426;Strasbourg;radiologie et imagerie médicale
 2016;1427;Paris;hématologie
 2016;1428;Paris;radiologie et imagerie médicale
@@ -34349,7 +34349,7 @@ annee;rang;ville;specialite
 2016;1460;Paris;oncologie
 2016;1461;Grenoble;médecine cardiovasculaire
 2016;1462;Océan-Indien;psychiatrie
-2016;1463;Lille;endocrinologie, diabète, maladies métaboliques
+2016;1463;Lille;endocrinologie-diabétologie-nutrition
 2016;1464;Lille;pneumologie
 2016;1465;Paris;gynécologie obstétrique
 2016;1466;Paris;médecine générale
@@ -34390,7 +34390,7 @@ annee;rang;ville;specialite
 2016;1501;Poitiers;ophtalmologie
 2016;1502;Paris;pneumologie
 2016;1503;Paris;chirurgie générale
-2016;1504;Rennes;endocrinologie, diabète, maladies métaboliques
+2016;1504;Rennes;endocrinologie-diabétologie-nutrition
 2016;1505;Océan-Indien;anesthésie-réanimation
 2016;1506;Paris;anesthésie-réanimation
 2016;1507;Rennes;anesthésie-réanimation
@@ -34412,10 +34412,10 @@ annee;rang;ville;specialite
 2016;1523;Tours;médecine cardiovasculaire
 2016;1524;Clermont-Ferrand;ophtalmologie
 2016;1525;Clermont-Ferrand;médecine cardiovasculaire
-2016;1526;Lille;endocrinologie, diabète, maladies métaboliques
+2016;1526;Lille;endocrinologie-diabétologie-nutrition
 2016;1527;Lyon;anesthésie-réanimation
 2016;1528;Grenoble;médecine interne et immunologie clinique
-2016;1529;Paris;endocrinologie, diabète, maladies métaboliques
+2016;1529;Paris;endocrinologie-diabétologie-nutrition
 2016;1530;Paris;oncologie
 2016;1531;Paris;psychiatrie
 2016;1532;Nantes;anesthésie-réanimation
@@ -34667,12 +34667,12 @@ annee;rang;ville;specialite
 2016;1780;Strasbourg;oto-rhino-laryngologie - chirurgie cervico-faciale
 2016;1781;Paris;anesthésie-réanimation
 2016;1782;Antilles-Guyane;radiologie et imagerie médicale
-2016;1783;Paris;endocrinologie, diabète, maladies métaboliques
+2016;1783;Paris;endocrinologie-diabétologie-nutrition
 2016;1784;Lyon;anesthésie-réanimation
 2016;1785;Nantes;médecine générale
 2016;1786;Brest;neurologie
 2016;1787;Lyon;médecine physique et de réadaptation
-2016;1788;Lyon;anatomie et cytologie pathologique
+2016;1788;Lyon;anatomie et cytologie pathologiques
 2016;1789;Aix-Marseille;gynécologie obstétrique
 2016;1790;Montpellier;anesthésie-réanimation
 2016;1791;Saint-Etienne;ophtalmologie
@@ -34690,7 +34690,7 @@ annee;rang;ville;specialite
 2016;1803;Poitiers;radiologie et imagerie médicale
 2016;1804;Montpellier;hépato-gastro-entérologie
 2016;1805;Amiens;ophtalmologie
-2016;1806;Lyon;anatomie et cytologie pathologique
+2016;1806;Lyon;anatomie et cytologie pathologiques
 2016;1808;Montpellier;médecine générale
 2016;1809;Aix-Marseille;pédiatrie
 2016;1810;Paris;pneumologie
@@ -34763,7 +34763,7 @@ annee;rang;ville;specialite
 2016;1878;Besançon;médecine cardiovasculaire
 2016;1879;Paris;chirurgie générale
 2016;1880;Amiens;ophtalmologie
-2016;1881;Bordeaux;anatomie et cytologie pathologique
+2016;1881;Bordeaux;anatomie et cytologie pathologiques
 2016;1882;Rouen;ophtalmologie
 2016;1883;Reims;ophtalmologie
 2016;1884;Grenoble;anesthésie-réanimation
@@ -34798,7 +34798,7 @@ annee;rang;ville;specialite
 2016;1913;Nancy;ophtalmologie
 2016;1914;Paris;médecine générale
 2016;1915;Grenoble;hépato-gastro-entérologie
-2016;1916;Paris;anatomie et cytologie pathologique
+2016;1916;Paris;anatomie et cytologie pathologiques
 2016;1917;Bordeaux;pédiatrie
 2016;1918;Bordeaux;gynécologie obstétrique
 2016;1919;Paris;chirurgie générale
@@ -34841,7 +34841,7 @@ annee;rang;ville;specialite
 2016;1956;Tours;neurologie
 2016;1957;Toulouse;anesthésie-réanimation
 2016;1958;Poitiers;médecine cardiovasculaire
-2016;1959;Angers;anatomie et cytologie pathologique
+2016;1959;Angers;anatomie et cytologie pathologiques
 2016;1960;Paris;pneumologie
 2016;1961;Nantes;médecine générale
 2016;1962;Nancy;ophtalmologie
@@ -34944,7 +34944,7 @@ annee;rang;ville;specialite
 2016;2062;Brest;dermatologie et vénéréologie
 2016;2063;Angers;radiologie et imagerie médicale
 2016;2064;Nancy;psychiatrie
-2016;2065;Montpellier;endocrinologie, diabète, maladies métaboliques
+2016;2065;Montpellier;endocrinologie-diabétologie-nutrition
 2016;2066;Paris;pneumologie
 2016;2067;Besançon;médecine générale
 2016;2068;Reims;neurologie
@@ -34965,8 +34965,8 @@ annee;rang;ville;specialite
 2016;2083;Nantes;hépato-gastro-entérologie
 2016;2084;Montpellier;pneumologie
 2016;2085;Rouen;radiologie et imagerie médicale
-2016;2086;Saint-Etienne;anatomie et cytologie pathologique
-2016;2087;Nice;endocrinologie, diabète, maladies métaboliques
+2016;2086;Saint-Etienne;anatomie et cytologie pathologiques
+2016;2087;Nice;endocrinologie-diabétologie-nutrition
 2016;2088;Strasbourg;médecine générale
 2016;2089;Clermont-Ferrand;médecine interne et immunologie clinique
 2016;2090;Rouen;hépato-gastro-entérologie
@@ -35033,7 +35033,7 @@ annee;rang;ville;specialite
 2016;2151;Paris;médecine générale
 2016;2152;Lille;rhumatologie
 2016;2153;Poitiers;neurologie
-2016;2154;Lille;endocrinologie, diabète, maladies métaboliques
+2016;2154;Lille;endocrinologie-diabétologie-nutrition
 2016;2155;Paris;médecine générale
 2016;2156;Tours;chirurgie générale
 2016;2157;Antilles-Guyane;ophtalmologie
@@ -35044,7 +35044,7 @@ annee;rang;ville;specialite
 2016;2162;Lyon;médecine générale
 2016;2163;Lille;psychiatrie
 2016;2164;Paris;chirurgie générale
-2016;2165;Toulouse;endocrinologie, diabète, maladies métaboliques
+2016;2165;Toulouse;endocrinologie-diabétologie-nutrition
 2016;2166;Poitiers;chirurgie générale
 2016;2167;Bordeaux;médecine générale
 2016;2168;Nice;chirurgie générale
@@ -35056,21 +35056,21 @@ annee;rang;ville;specialite
 2016;2174;Montpellier;gynécologie obstétrique
 2016;2175;Rouen;radiologie et imagerie médicale
 2016;2176;Nice;anesthésie-réanimation
-2016;2177;Lille;anatomie et cytologie pathologique
+2016;2177;Lille;anatomie et cytologie pathologiques
 2016;2178;Lille;pneumologie
 2016;2179;Paris;anesthésie-réanimation
 2016;2180;Paris;pédiatrie
 2016;2181;Antilles-Guyane;ophtalmologie
 2016;2182;Toulouse;anesthésie-réanimation
 2016;2183;Paris;anesthésie-réanimation
-2016;2184;Bordeaux;endocrinologie, diabète, maladies métaboliques
-2016;2185;Lille;anatomie et cytologie pathologique
-2016;2186;Lille;endocrinologie, diabète, maladies métaboliques
+2016;2184;Bordeaux;endocrinologie-diabétologie-nutrition
+2016;2185;Lille;anatomie et cytologie pathologiques
+2016;2186;Lille;endocrinologie-diabétologie-nutrition
 2016;2187;Brest;radiologie et imagerie médicale
 2016;2188;Paris;pédiatrie
 2016;2189;Tours;radiologie et imagerie médicale
 2016;2190;Lille;chirurgie générale
-2016;2191;Bordeaux;endocrinologie, diabète, maladies métaboliques
+2016;2191;Bordeaux;endocrinologie-diabétologie-nutrition
 2016;2192;Grenoble;médecine générale
 2016;2193;Aix-Marseille;gynécologie obstétrique
 2016;2194;Aix-Marseille;pneumologie
@@ -35122,7 +35122,7 @@ annee;rang;ville;specialite
 2016;2240;Paris;anesthésie-réanimation
 2016;2241;Clermont-Ferrand;médecine générale
 2016;2242;Paris;pédiatrie
-2016;2243;Paris;endocrinologie, diabète, maladies métaboliques
+2016;2243;Paris;endocrinologie-diabétologie-nutrition
 2016;2244;Nancy;radiologie et imagerie médicale
 2016;2245;Paris;anesthésie-réanimation
 2016;2246;Lille;pédiatrie
@@ -35176,7 +35176,7 @@ annee;rang;ville;specialite
 2016;2294;Grenoble;oto-rhino-laryngologie - chirurgie cervico-faciale
 2016;2295;Lille;médecine générale
 2016;2296;Paris;chirurgie générale
-2016;2297;Paris;anatomie et cytologie pathologique
+2016;2297;Paris;anatomie et cytologie pathologiques
 2016;2298;Bordeaux;médecine générale
 2016;2299;Lille;gynécologie médicale
 2016;2300;Lille;anesthésie-réanimation
@@ -35231,7 +35231,7 @@ annee;rang;ville;specialite
 2016;2349;Angers;anesthésie-réanimation
 2016;2350;Strasbourg;anesthésie-réanimation
 2016;2351;Grenoble;pneumologie
-2016;2352;Paris;anatomie et cytologie pathologique
+2016;2352;Paris;anatomie et cytologie pathologiques
 2016;2353;Bordeaux;psychiatrie
 2016;2354;Reims;radiologie et imagerie médicale
 2016;2355;Poitiers;oncologie
@@ -35251,7 +35251,7 @@ annee;rang;ville;specialite
 2016;2369;Brest;hépato-gastro-entérologie
 2016;2370;Nancy;chirurgie générale
 2016;2371;Aix-Marseille;rhumatologie
-2016;2372;Toulouse;anatomie et cytologie pathologique
+2016;2372;Toulouse;anatomie et cytologie pathologiques
 2016;2373;Besançon;néphrologie
 2016;2374;Nancy;radiologie et imagerie médicale
 2016;2375;Nancy;hépato-gastro-entérologie
@@ -35285,11 +35285,11 @@ annee;rang;ville;specialite
 2016;2403;Paris;chirurgie générale
 2016;2404;Océan-Indien;gynécologie obstétrique
 2016;2405;Poitiers;neurologie
-2016;2406;Montpellier;endocrinologie, diabète, maladies métaboliques
+2016;2406;Montpellier;endocrinologie-diabétologie-nutrition
 2016;2407;Bordeaux;médecine générale
 2016;2408;Nice;anesthésie-réanimation
 2016;2409;Grenoble;oncologie
-2016;2410;Caen;anatomie et cytologie pathologique
+2016;2410;Caen;anatomie et cytologie pathologiques
 2016;2411;Bordeaux;chirurgie générale
 2016;2412;Lille;médecine générale
 2016;2413;Nantes;chirurgie générale
@@ -35312,7 +35312,7 @@ annee;rang;ville;specialite
 2016;2430;Poitiers;radiologie et imagerie médicale
 2016;2431;Rennes;anesthésie-réanimation
 2016;2432;Tours;chirurgie générale
-2016;2433;Paris;endocrinologie, diabète, maladies métaboliques
+2016;2433;Paris;endocrinologie-diabétologie-nutrition
 2016;2434;Caen;neurochirurgie
 2016;2435;Bordeaux;pédiatrie
 2016;2436;Dijon;pneumologie
@@ -35325,7 +35325,7 @@ annee;rang;ville;specialite
 2016;2443;Paris;anesthésie-réanimation
 2016;2444;Brest;oncologie
 2016;2445;Besançon;chirurgie générale
-2016;2446;Toulouse;anatomie et cytologie pathologique
+2016;2446;Toulouse;anatomie et cytologie pathologiques
 2016;2447;Paris;pédiatrie
 2016;2448;Tours;gynécologie obstétrique
 2016;2449;Tours;chirurgie générale
@@ -35385,7 +35385,7 @@ annee;rang;ville;specialite
 2016;2505;Angers;anesthésie-réanimation
 2016;2506;Toulouse;psychiatrie
 2016;2507;Tours;hépato-gastro-entérologie
-2016;2508;Lyon;endocrinologie, diabète, maladies métaboliques
+2016;2508;Lyon;endocrinologie-diabétologie-nutrition
 2016;2509;Paris;santé publique
 2016;2510;Tours;neurologie
 2016;2511;Lille;anesthésie-réanimation
@@ -35422,7 +35422,7 @@ annee;rang;ville;specialite
 2016;2543;Paris;gynécologie obstétrique
 2016;2544;Dijon;anesthésie-réanimation
 2016;2545;Reims;anesthésie-réanimation
-2016;2546;Toulouse;endocrinologie, diabète, maladies métaboliques
+2016;2546;Toulouse;endocrinologie-diabétologie-nutrition
 2016;2547;Paris;médecine générale
 2016;2548;Strasbourg;médecine nucléaire
 2016;2549;Limoges;radiologie et imagerie médicale
@@ -35464,7 +35464,7 @@ annee;rang;ville;specialite
 2016;2586;Nancy;médecine physique et de réadaptation
 2016;2587;Paris;anesthésie-réanimation
 2016;2588;Bordeaux;psychiatrie
-2016;2589;Paris;anatomie et cytologie pathologique
+2016;2589;Paris;anatomie et cytologie pathologiques
 2016;2590;Aix-Marseille;psychiatrie
 2016;2591;Amiens;radiologie et imagerie médicale
 2016;2592;Lille;pédiatrie
@@ -35474,7 +35474,7 @@ annee;rang;ville;specialite
 2016;2596;Caen;médecine générale
 2016;2597;Reims;hépato-gastro-entérologie
 2016;2598;Nantes;médecine générale
-2016;2599;Paris;anatomie et cytologie pathologique
+2016;2599;Paris;anatomie et cytologie pathologiques
 2016;2600;Angers;anesthésie-réanimation
 2016;2601;Angers;médecine générale
 2016;2602;Poitiers;médecine nucléaire
@@ -35501,13 +35501,13 @@ annee;rang;ville;specialite
 2016;2623;Paris;génétique médicale
 2016;2624;Brest;pédiatrie
 2016;2625;Lille;anesthésie-réanimation
-2016;2626;Aix-Marseille;endocrinologie, diabète, maladies métaboliques
+2016;2626;Aix-Marseille;endocrinologie-diabétologie-nutrition
 2016;2627;Lyon;chirurgie générale
 2016;2628;Aix-Marseille;médecine générale
 2016;2629;Grenoble;pédiatrie
 2016;2630;Angers;pneumologie
 2016;2631;Paris;pédiatrie
-2016;2632;Aix-Marseille;anatomie et cytologie pathologique
+2016;2632;Aix-Marseille;anatomie et cytologie pathologiques
 2016;2633;Toulouse;gynécologie obstétrique
 2016;2634;Angers;rhumatologie
 2016;2635;Clermont-Ferrand;hépato-gastro-entérologie
@@ -35565,7 +35565,7 @@ annee;rang;ville;specialite
 2016;2688;Strasbourg;pédiatrie
 2016;2689;Rennes;médecine générale
 2016;2690;Antilles-Guyane;médecine cardiovasculaire
-2016;2691;Bordeaux;endocrinologie, diabète, maladies métaboliques
+2016;2691;Bordeaux;endocrinologie-diabétologie-nutrition
 2016;2692;Aix-Marseille;chirurgie générale
 2016;2693;Caen;rhumatologie
 2016;2694;Nancy;pédiatrie
@@ -35576,7 +35576,7 @@ annee;rang;ville;specialite
 2016;2699;Strasbourg;pneumologie
 2016;2700;Nice;pédiatrie
 2016;2701;Strasbourg;oncologie
-2016;2702;Montpellier;endocrinologie, diabète, maladies métaboliques
+2016;2702;Montpellier;endocrinologie-diabétologie-nutrition
 2016;2703;Nantes;gynécologie médicale
 2016;2704;Aix-Marseille;pédiatrie
 2016;2705;Clermont-Ferrand;chirurgie générale
@@ -35610,7 +35610,7 @@ annee;rang;ville;specialite
 2016;2733;Montpellier;médecine générale
 2016;2734;Grenoble;médecine générale
 2016;2735;Strasbourg;gynécologie obstétrique
-2016;2736;Paris;endocrinologie, diabète, maladies métaboliques
+2016;2736;Paris;endocrinologie-diabétologie-nutrition
 2016;2737;Angers;chirurgie générale
 2016;2738;Aix-Marseille;pédiatrie
 2016;2739;Paris;gynécologie obstétrique
@@ -35636,7 +35636,7 @@ annee;rang;ville;specialite
 2016;2759;Paris;psychiatrie
 2016;2760;Toulouse;médecine générale
 2016;2761;Strasbourg;médecine générale
-2016;2762;Océan-Indien;endocrinologie, diabète, maladies métaboliques
+2016;2762;Océan-Indien;endocrinologie-diabétologie-nutrition
 2016;2763;Paris;anesthésie-réanimation
 2016;2764;Strasbourg;chirurgie générale
 2016;2765;Océan-Indien;médecine générale
@@ -35648,7 +35648,7 @@ annee;rang;ville;specialite
 2016;2771;Paris;psychiatrie
 2016;2772;Toulouse;médecine générale
 2016;2773;Amiens;anesthésie-réanimation
-2016;2774;Paris;endocrinologie, diabète, maladies métaboliques
+2016;2774;Paris;endocrinologie-diabétologie-nutrition
 2016;2775;Antilles-Guyane;néphrologie
 2016;2776;Paris;pédiatrie
 2016;2778;Paris;anesthésie-réanimation
@@ -35668,11 +35668,11 @@ annee;rang;ville;specialite
 2016;2792;Angers;chirurgie générale
 2016;2793;Paris;pédiatrie
 2016;2794;Lyon;psychiatrie
-2016;2795;Paris;endocrinologie, diabète, maladies métaboliques
+2016;2795;Paris;endocrinologie-diabétologie-nutrition
 2016;2797;Toulouse;médecine générale
 2016;2798;Paris;médecine générale
 2016;2799;Antilles-Guyane;médecine générale
-2016;2800;Paris;endocrinologie, diabète, maladies métaboliques
+2016;2800;Paris;endocrinologie-diabétologie-nutrition
 2016;2801;Paris;chirurgie générale
 2016;2802;Nancy;médecine interne et immunologie clinique
 2016;2803;Nancy;médecine générale
@@ -35697,7 +35697,7 @@ annee;rang;ville;specialite
 2016;2822;Angers;anesthésie-réanimation
 2016;2823;Paris;chirurgie générale
 2016;2824;Caen;rhumatologie
-2016;2825;Paris;endocrinologie, diabète, maladies métaboliques
+2016;2825;Paris;endocrinologie-diabétologie-nutrition
 2016;2826;Caen;neurologie
 2016;2827;Dijon;anesthésie-réanimation
 2016;2828;Rouen;chirurgie générale
@@ -35707,11 +35707,11 @@ annee;rang;ville;specialite
 2016;2832;Lille;pédiatrie
 2016;2833;Paris;anesthésie-réanimation
 2016;2834;Paris;pédiatrie
-2016;2835;Strasbourg;anatomie et cytologie pathologique
+2016;2835;Strasbourg;anatomie et cytologie pathologiques
 2016;2836;Dijon;rhumatologie
 2016;2837;Lille;médecine cardiovasculaire
 2016;2838;Lyon;médecine générale
-2016;2839;Bordeaux;anatomie et cytologie pathologique
+2016;2839;Bordeaux;anatomie et cytologie pathologiques
 2016;2840;Montpellier;gynécologie médicale
 2016;2841;Paris;médecine générale
 2016;2842;Paris;psychiatrie
@@ -35743,7 +35743,7 @@ annee;rang;ville;specialite
 2016;2868;Caen;gynécologie médicale
 2016;2869;Tours;médecine nucléaire
 2016;2870;Angers;anesthésie-réanimation
-2016;2871;Bordeaux;endocrinologie, diabète, maladies métaboliques
+2016;2871;Bordeaux;endocrinologie-diabétologie-nutrition
 2016;2872;Saint-Etienne;hépato-gastro-entérologie
 2016;2873;Lille;chirurgie générale
 2016;2874;Nancy;rhumatologie
@@ -35763,10 +35763,10 @@ annee;rang;ville;specialite
 2016;2888;Paris;gynécologie obstétrique
 2016;2889;Paris;chirurgie générale
 2016;2890;Aix-Marseille;chirurgie générale
-2016;2891;Lille;endocrinologie, diabète, maladies métaboliques
+2016;2891;Lille;endocrinologie-diabétologie-nutrition
 2016;2892;Grenoble;psychiatrie
 2016;2893;Nantes;médecine générale
-2016;2895;Rennes;anatomie et cytologie pathologique
+2016;2895;Rennes;anatomie et cytologie pathologiques
 2016;2896;Paris;anesthésie-réanimation
 2016;2897;Rouen;pneumologie
 2016;2898;Nancy;anesthésie-réanimation
@@ -35791,7 +35791,7 @@ annee;rang;ville;specialite
 2016;2919;Paris;médecine générale
 2016;2920;Tours;chirurgie générale
 2016;2921;Amiens;chirurgie générale
-2016;2922;Toulouse;endocrinologie, diabète, maladies métaboliques
+2016;2922;Toulouse;endocrinologie-diabétologie-nutrition
 2016;2923;Aix-Marseille;psychiatrie
 2016;2924;Lille;chirurgie générale
 2016;2925;Grenoble;gynécologie obstétrique
@@ -35805,7 +35805,7 @@ annee;rang;ville;specialite
 2016;2933;Nice;médecine générale
 2016;2934;Brest;pédiatrie
 2016;2935;Antilles-Guyane;anesthésie-réanimation
-2016;2936;Nancy;anatomie et cytologie pathologique
+2016;2936;Nancy;anatomie et cytologie pathologiques
 2016;2937;Reims;médecine générale
 2016;2938;Poitiers;anesthésie-réanimation
 2016;2939;Nice;chirurgie générale
@@ -35820,8 +35820,8 @@ annee;rang;ville;specialite
 2016;2948;Toulouse;médecine générale
 2016;2949;Paris;gynécologie obstétrique
 2016;2950;Paris;pédiatrie
-2016;2951;Lille;anatomie et cytologie pathologique
-2016;2952;Grenoble;endocrinologie, diabète, maladies métaboliques
+2016;2951;Lille;anatomie et cytologie pathologiques
+2016;2952;Grenoble;endocrinologie-diabétologie-nutrition
 2016;2953;Antilles-Guyane;hépato-gastro-entérologie
 2016;2954;Clermont-Ferrand;médecine nucléaire
 2016;2955;Nancy;médecine générale
@@ -35865,7 +35865,7 @@ annee;rang;ville;specialite
 2016;2993;Paris;pédiatrie
 2016;2994;Toulouse;médecine du travail
 2016;2995;Aix-Marseille;médecine générale
-2016;2996;Bordeaux;anatomie et cytologie pathologique
+2016;2996;Bordeaux;anatomie et cytologie pathologiques
 2016;2997;Rennes;chirurgie générale
 2016;2998;Clermont-Ferrand;médecine générale
 2016;2999;Lyon;médecine générale
@@ -35902,7 +35902,7 @@ annee;rang;ville;specialite
 2016;3031;Montpellier;psychiatrie
 2016;3032;Montpellier;chirurgie générale
 2016;3033;Poitiers;oto-rhino-laryngologie - chirurgie cervico-faciale
-2016;3034;Lyon;endocrinologie, diabète, maladies métaboliques
+2016;3034;Lyon;endocrinologie-diabétologie-nutrition
 2016;3035;Nice;pédiatrie
 2016;3036;Rennes;médecine générale
 2016;3037;Brest;pédiatrie
@@ -35951,13 +35951,13 @@ annee;rang;ville;specialite
 2016;3081;Dijon;anesthésie-réanimation
 2016;3084;Reims;oncologie
 2016;3085;Lyon;médecine générale
-2016;3086;Montpellier;endocrinologie, diabète, maladies métaboliques
+2016;3086;Montpellier;endocrinologie-diabétologie-nutrition
 2016;3087;Paris;médecine générale
 2016;3088;Tours;médecine générale
 2016;3089;Lille;médecine générale
 2016;3090;Montpellier;génétique médicale
 2016;3091;Rouen;anesthésie-réanimation
-2016;3092;Angers;endocrinologie, diabète, maladies métaboliques
+2016;3092;Angers;endocrinologie-diabétologie-nutrition
 2016;3093;Paris;médecine physique et de réadaptation
 2016;3094;Nantes;médecine générale
 2016;3095;Tours;anesthésie-réanimation
@@ -36080,23 +36080,23 @@ annee;rang;ville;specialite
 2016;3216;Caen;anesthésie-réanimation
 2016;3217;Brest;chirurgie générale
 2016;3218;Lille;chirurgie générale
-2016;3219;Brest;endocrinologie, diabète, maladies métaboliques
+2016;3219;Brest;endocrinologie-diabétologie-nutrition
 2016;3220;Paris;chirurgie orale
 2016;3221;Strasbourg;médecine générale
 2016;3222;Clermont-Ferrand;hématologie
 2016;3223;Paris;gynécologie médicale
 2016;3224;Brest;médecine du travail
 2016;3225;Rennes;neurochirurgie
-2016;3226;Montpellier;anatomie et cytologie pathologique
+2016;3226;Montpellier;anatomie et cytologie pathologiques
 2016;3227;Lyon;gynécologie médicale
 2016;3228;Nancy;anesthésie-réanimation
 2016;3229;Rennes;médecine générale
 2016;3230;Toulouse;médecine générale
-2016;3231;Lyon;endocrinologie, diabète, maladies métaboliques
+2016;3231;Lyon;endocrinologie-diabétologie-nutrition
 2016;3232;Dijon;anesthésie-réanimation
 2016;3233;Rouen;anesthésie-réanimation
 2016;3234;Grenoble;médecine générale
-2016;3235;Montpellier;endocrinologie, diabète, maladies métaboliques
+2016;3235;Montpellier;endocrinologie-diabétologie-nutrition
 2016;3236;Rennes;médecine générale
 2016;3237;Saint-Etienne;médecine générale
 2016;3238;Reims;rhumatologie
@@ -36123,11 +36123,11 @@ annee;rang;ville;specialite
 2016;3259;Toulouse;gynécologie médicale
 2016;3260;Caen;anesthésie-réanimation
 2016;3261;Montpellier;chirurgie générale
-2016;3262;Reims;anatomie et cytologie pathologique
+2016;3262;Reims;anatomie et cytologie pathologiques
 2016;3263;Rouen;oncologie
 2016;3264;Reims;médecine interne et immunologie clinique
 2016;3265;Brest;anesthésie-réanimation
-2016;3266;Clermont-Ferrand;endocrinologie, diabète, maladies métaboliques
+2016;3266;Clermont-Ferrand;endocrinologie-diabétologie-nutrition
 2016;3267;Nantes;médecine générale
 2016;3268;Paris;gynécologie obstétrique
 2016;3269;Paris;médecine générale
@@ -36160,7 +36160,7 @@ annee;rang;ville;specialite
 2016;3296;Paris;pédiatrie
 2016;3297;Toulouse;médecine générale
 2016;3298;Amiens;anesthésie-réanimation
-2016;3299;Grenoble;endocrinologie, diabète, maladies métaboliques
+2016;3299;Grenoble;endocrinologie-diabétologie-nutrition
 2016;3300;Océan-Indien;neurologie
 2016;3301;Paris;gynécologie médicale
 2016;3302;Nice;médecine générale
@@ -36181,7 +36181,7 @@ annee;rang;ville;specialite
 2016;3317;Grenoble;médecine générale
 2016;3318;Caen;hématologie
 2016;3319;Aix-Marseille;médecine générale
-2016;3320;Nancy;anatomie et cytologie pathologique
+2016;3320;Nancy;anatomie et cytologie pathologiques
 2016;3321;Montpellier;médecine physique et de réadaptation
 2016;3322;Rouen;médecine générale
 2016;3323;Nantes;médecine générale
@@ -36190,10 +36190,10 @@ annee;rang;ville;specialite
 2016;3326;Caen;chirurgie générale
 2016;3327;Brest;médecine générale
 2016;3328;Nancy;anesthésie-réanimation
-2016;3329;Rouen;anatomie et cytologie pathologique
+2016;3329;Rouen;anatomie et cytologie pathologiques
 2016;3330;Caen;anesthésie-réanimation
 2016;3331;Nantes;chirurgie générale
-2016;3332;Toulouse;endocrinologie, diabète, maladies métaboliques
+2016;3332;Toulouse;endocrinologie-diabétologie-nutrition
 2016;3333;Antilles-Guyane;chirurgie générale
 2016;3334;Rouen;pneumologie
 2016;3335;Tours;anesthésie-réanimation
@@ -36267,8 +36267,8 @@ annee;rang;ville;specialite
 2016;3403;Paris;médecine physique et de réadaptation
 2016;3404;Saint-Etienne;rhumatologie
 2016;3405;Aix-Marseille;psychiatrie
-2016;3406;Toulouse;anatomie et cytologie pathologique
-2016;3407;Tours;anatomie et cytologie pathologique
+2016;3406;Toulouse;anatomie et cytologie pathologiques
+2016;3407;Tours;anatomie et cytologie pathologiques
 2016;3408;Strasbourg;médecine générale
 2016;3409;Brest;anesthésie-réanimation
 2016;3410;Caen;anesthésie-réanimation
@@ -36357,7 +36357,7 @@ annee;rang;ville;specialite
 2016;3495;Océan-Indien;pneumologie
 2016;3496;Aix-Marseille;médecine générale
 2016;3497;Paris;médecine générale
-2016;3498;Besançon;endocrinologie, diabète, maladies métaboliques
+2016;3498;Besançon;endocrinologie-diabétologie-nutrition
 2016;3499;Clermont-Ferrand;génétique médicale
 2016;3500;Reims;chirurgie générale
 2016;3501;Lyon;médecine générale
@@ -36377,7 +36377,7 @@ annee;rang;ville;specialite
 2016;3515;Océan-Indien;pédiatrie
 2016;3516;Aix-Marseille;médecine générale
 2016;3517;Besançon;médecine générale
-2016;3518;Lille;endocrinologie, diabète, maladies métaboliques
+2016;3518;Lille;endocrinologie-diabétologie-nutrition
 2016;3519;Nantes;médecine générale
 2016;3520;Grenoble;médecine générale
 2016;3521;Saint-Etienne;pneumologie
@@ -36421,7 +36421,7 @@ annee;rang;ville;specialite
 2016;3559;Dijon;médecine générale
 2016;3560;Nantes;médecine générale
 2016;3561;Toulouse;pédiatrie
-2016;3562;Reims;anatomie et cytologie pathologique
+2016;3562;Reims;anatomie et cytologie pathologiques
 2016;3563;Reims;anesthésie-réanimation
 2016;3564;Amiens;médecine générale
 2016;3566;Saint-Etienne;pneumologie
@@ -36452,7 +36452,7 @@ annee;rang;ville;specialite
 2016;3591;Montpellier;médecine physique et de réadaptation
 2016;3592;Reims;médecine générale
 2016;3593;Aix-Marseille;médecine générale
-2016;3594;Amiens;anatomie et cytologie pathologique
+2016;3594;Amiens;anatomie et cytologie pathologiques
 2016;3595;Amiens;pneumologie
 2016;3596;Poitiers;rhumatologie
 2016;3597;Strasbourg;chirurgie orale
@@ -36466,7 +36466,7 @@ annee;rang;ville;specialite
 2016;3605;Lille;gynécologie obstétrique
 2016;3606;Reims;gynécologie médicale
 2016;3607;Nantes;médecine générale
-2016;3608;Aix-Marseille;anatomie et cytologie pathologique
+2016;3608;Aix-Marseille;anatomie et cytologie pathologiques
 2016;3609;Amiens;médecine générale
 2016;3610;Rouen;chirurgie orale
 2016;3611;Besançon;oto-rhino-laryngologie - chirurgie cervico-faciale
@@ -36556,7 +36556,7 @@ annee;rang;ville;specialite
 2016;3698;Paris;médecine générale
 2016;3699;Caen;gynécologie obstétrique
 2016;3700;Nantes;psychiatrie
-2016;3701;Rennes;endocrinologie, diabète, maladies métaboliques
+2016;3701;Rennes;endocrinologie-diabétologie-nutrition
 2016;3702;Paris;médecine générale
 2016;3703;Poitiers;médecine générale
 2016;3704;Caen;chirurgie générale
@@ -36566,7 +36566,7 @@ annee;rang;ville;specialite
 2016;3708;Nancy;gynécologie obstétrique
 2016;3709;Caen;gynécologie obstétrique
 2016;3710;Nice;hématologie
-2016;3711;Nancy;endocrinologie, diabète, maladies métaboliques
+2016;3711;Nancy;endocrinologie-diabétologie-nutrition
 2016;3712;Bordeaux;psychiatrie
 2016;3713;Besançon;chirurgie générale
 2016;3714;Paris;pédiatrie
@@ -36600,7 +36600,7 @@ annee;rang;ville;specialite
 2016;3742;Lyon;médecine générale
 2016;3743;Clermont-Ferrand;pneumologie
 2016;3744;Rennes;médecine générale
-2016;3745;Clermont-Ferrand;anatomie et cytologie pathologique
+2016;3745;Clermont-Ferrand;anatomie et cytologie pathologiques
 2016;3746;Antilles-Guyane;gynécologie obstétrique
 2016;3747;Limoges;rhumatologie
 2016;3748;Poitiers;chirurgie générale
@@ -36665,7 +36665,7 @@ annee;rang;ville;specialite
 2016;3809;Bordeaux;médecine générale
 2016;3810;Limoges;néphrologie
 2016;3811;Rouen;médecine générale
-2016;3812;Poitiers;anatomie et cytologie pathologique
+2016;3812;Poitiers;anatomie et cytologie pathologiques
 2016;3813;Caen;pneumologie
 2016;3814;Brest;pneumologie
 2016;3815;Antilles-Guyane;radiologie et imagerie médicale
@@ -36690,7 +36690,7 @@ annee;rang;ville;specialite
 2016;3835;Grenoble;médecine générale
 2016;3836;Besançon;pneumologie
 2016;3837;Caen;pneumologie
-2016;3838;Angers;anatomie et cytologie pathologique
+2016;3838;Angers;anatomie et cytologie pathologiques
 2016;3839;Antilles-Guyane;hépato-gastro-entérologie
 2016;3840;Antilles-Guyane;chirurgie générale
 2016;3841;Paris;médecine générale
@@ -36732,7 +36732,7 @@ annee;rang;ville;specialite
 2016;3878;Amiens;gynécologie obstétrique
 2016;3879;Tours;pédiatrie
 2016;3880;Strasbourg;médecine générale
-2016;3881;Rouen;endocrinologie, diabète, maladies métaboliques
+2016;3881;Rouen;endocrinologie-diabétologie-nutrition
 2016;3882;Saint-Etienne;neurochirurgie
 2016;3883;Montpellier;chirurgie générale
 2016;3884;Toulouse;médecine générale
@@ -36741,7 +36741,7 @@ annee;rang;ville;specialite
 2016;3887;Grenoble;hématologie
 2016;3888;Tours;pédiatrie
 2016;3889;Bordeaux;médecine générale
-2016;3890;Dijon;anatomie et cytologie pathologique
+2016;3890;Dijon;anatomie et cytologie pathologiques
 2016;3891;Paris;médecine générale
 2016;3892;Saint-Etienne;hématologie
 2016;3893;Aix-Marseille;médecine générale
@@ -36778,7 +36778,7 @@ annee;rang;ville;specialite
 2016;3924;Toulouse;médecine générale
 2016;3925;Saint-Etienne;médecine générale
 2016;3926;Brest;médecine générale
-2016;3927;Nice;anatomie et cytologie pathologique
+2016;3927;Nice;anatomie et cytologie pathologiques
 2016;3928;Paris;gynécologie médicale
 2016;3929;Strasbourg;médecine générale
 2016;3930;Paris;médecine générale
@@ -36786,7 +36786,7 @@ annee;rang;ville;specialite
 2016;3932;Grenoble;médecine générale
 2016;3933;Nancy;gynécologie obstétrique
 2016;3934;Reims;médecine générale
-2016;3935;Amiens;anatomie et cytologie pathologique
+2016;3935;Amiens;anatomie et cytologie pathologiques
 2016;3936;Bordeaux;psychiatrie
 2016;3937;Dijon;hématologie
 2016;3938;Toulouse;médecine générale
@@ -36812,7 +36812,7 @@ annee;rang;ville;specialite
 2016;3959;Toulouse;médecine générale
 2016;3960;Strasbourg;médecine du travail
 2016;3961;Montpellier;médecine générale
-2016;3962;Poitiers;endocrinologie, diabète, maladies métaboliques
+2016;3962;Poitiers;endocrinologie-diabétologie-nutrition
 2016;3963;Poitiers;médecine générale
 2016;3964;Nancy;médecine générale
 2016;3965;Bordeaux;médecine générale
@@ -36832,7 +36832,7 @@ annee;rang;ville;specialite
 2016;3981;Caen;chirurgie générale
 2016;3982;Reims;médecine générale
 2016;3983;Montpellier;médecine générale
-2016;3984;Strasbourg;endocrinologie, diabète, maladies métaboliques
+2016;3984;Strasbourg;endocrinologie-diabétologie-nutrition
 2016;3985;Reims;hématologie
 2016;3986;Bordeaux;médecine générale
 2016;3987;Strasbourg;pédiatrie
@@ -36848,11 +36848,11 @@ annee;rang;ville;specialite
 2016;3997;Reims;gynécologie médicale
 2016;3998;Dijon;médecine générale
 2016;3999;Nancy;médecine physique et de réadaptation
-2016;4000;Poitiers;anatomie et cytologie pathologique
+2016;4000;Poitiers;anatomie et cytologie pathologiques
 2016;4001;Limoges;hématologie
 2016;4002;Brest;médecine physique et de réadaptation
 2016;4003;Angers;médecine physique et de réadaptation
-2016;4004;Reims;anatomie et cytologie pathologique
+2016;4004;Reims;anatomie et cytologie pathologiques
 2016;4006;Brest;chirurgie générale
 2016;4007;Grenoble;médecine générale
 2016;4008;Bordeaux;médecine générale
@@ -36899,7 +36899,7 @@ annee;rang;ville;specialite
 2016;4051;Aix-Marseille;médecine générale
 2016;4052;Antilles-Guyane;chirurgie générale
 2016;4054;Montpellier;médecine générale
-2016;4055;Nantes;endocrinologie, diabète, maladies métaboliques
+2016;4055;Nantes;endocrinologie-diabétologie-nutrition
 2016;4056;Paris;médecine générale
 2016;4057;Nancy;médecine générale
 2016;4058;Caen;pédiatrie
@@ -36920,7 +36920,7 @@ annee;rang;ville;specialite
 2016;4074;Dijon;médecine générale
 2016;4075;Grenoble;pédiatrie
 2016;4076;Dijon;médecine générale
-2016;4077;Tours;anatomie et cytologie pathologique
+2016;4077;Tours;anatomie et cytologie pathologiques
 2016;4078;Bordeaux;médecine du travail
 2016;4079;Antilles-Guyane;chirurgie générale
 2016;4080;Rouen;médecine générale
@@ -36955,7 +36955,7 @@ annee;rang;ville;specialite
 2016;4109;Strasbourg;médecine générale
 2016;4110;Bordeaux;médecine générale
 2016;4111;Angers;pédiatrie
-2016;4112;Dijon;anatomie et cytologie pathologique
+2016;4112;Dijon;anatomie et cytologie pathologiques
 2016;4113;Dijon;médecine générale
 2016;4114;Tours;ophtalmologie
 2016;4115;Paris;gynécologie médicale
@@ -36984,13 +36984,13 @@ annee;rang;ville;specialite
 2016;4138;Reims;chirurgie générale
 2016;4139;Antilles-Guyane;médecine générale
 2016;4140;Reims;chirurgie générale
-2016;4141;Grenoble;anatomie et cytologie pathologique
-2016;4142;Lille;endocrinologie, diabète, maladies métaboliques
+2016;4141;Grenoble;anatomie et cytologie pathologiques
+2016;4142;Lille;endocrinologie-diabétologie-nutrition
 2016;4143;Reims;médecine générale
 2016;4144;Angers;pédiatrie
 2016;4145;Paris;médecine générale
 2016;4146;Reims;gynécologie obstétrique
-2016;4147;Dijon;anatomie et cytologie pathologique
+2016;4147;Dijon;anatomie et cytologie pathologiques
 2016;4148;Montpellier;médecine générale
 2016;4149;Nancy;pédiatrie
 2016;4150;Grenoble;médecine générale
@@ -37002,7 +37002,7 @@ annee;rang;ville;specialite
 2016;4156;Montpellier;médecine générale
 2016;4157;Nice;chirurgie générale
 2016;4158;Océan-Indien;médecine générale
-2016;4159;Caen;anatomie et cytologie pathologique
+2016;4159;Caen;anatomie et cytologie pathologiques
 2016;4160;Bordeaux;médecine générale
 2016;4161;Grenoble;médecine générale
 2016;4162;Antilles-Guyane;gynécologie obstétrique
@@ -37032,7 +37032,7 @@ annee;rang;ville;specialite
 2016;4188;Bordeaux;médecine générale
 2016;4189;Toulouse;médecine générale
 2016;4190;Rennes;médecine générale
-2016;4191;Nantes;endocrinologie, diabète, maladies métaboliques
+2016;4191;Nantes;endocrinologie-diabétologie-nutrition
 2016;4193;Paris;psychiatrie
 2016;4194;Clermont-Ferrand;médecine générale
 2016;4195;Toulouse;médecine générale
@@ -37042,7 +37042,7 @@ annee;rang;ville;specialite
 2016;4199;Bordeaux;médecine générale
 2016;4200;Grenoble;chirurgie générale
 2016;4201;Paris;médecine générale
-2016;4202;Antilles-Guyane;anatomie et cytologie pathologique
+2016;4202;Antilles-Guyane;anatomie et cytologie pathologiques
 2016;4203;Toulouse;médecine générale
 2016;4204;Besançon;gynécologie obstétrique
 2016;4205;Rennes;médecine générale
@@ -37067,7 +37067,7 @@ annee;rang;ville;specialite
 2016;4227;Lyon;médecine générale
 2016;4228;Brest;médecine générale
 2016;4229;Nancy;médecine générale
-2016;4230;Clermont-Ferrand;anatomie et cytologie pathologique
+2016;4230;Clermont-Ferrand;anatomie et cytologie pathologiques
 2016;4231;Paris;médecine physique et de réadaptation
 2016;4232;Besançon;médecine générale
 2016;4233;Lille;médecine du travail
@@ -37083,12 +37083,12 @@ annee;rang;ville;specialite
 2016;4245;Bordeaux;médecine physique et de réadaptation
 2016;4246;Nantes;médecine générale
 2016;4248;Tours;chirurgie générale
-2016;4249;Limoges;endocrinologie, diabète, maladies métaboliques
-2016;4250;Besançon;anatomie et cytologie pathologique
+2016;4249;Limoges;endocrinologie-diabétologie-nutrition
+2016;4250;Besançon;anatomie et cytologie pathologiques
 2016;4251;Paris;médecine générale
 2016;4252;Clermont-Ferrand;chirurgie générale
 2016;4253;Aix-Marseille;médecine générale
-2016;4254;Besançon;anatomie et cytologie pathologique
+2016;4254;Besançon;anatomie et cytologie pathologiques
 2016;4255;Dijon;chirurgie générale
 2016;4256;Paris;médecine générale
 2016;4257;Poitiers;médecine générale
@@ -37113,7 +37113,7 @@ annee;rang;ville;specialite
 2016;4277;Clermont-Ferrand;chirurgie générale
 2016;4278;Toulouse;médecine générale
 2016;4279;Rennes;médecine générale
-2016;4280;Amiens;anatomie et cytologie pathologique
+2016;4280;Amiens;anatomie et cytologie pathologiques
 2016;4281;Rennes;médecine générale
 2016;4282;Angers;médecine générale
 2016;4283;Paris;médecine générale
@@ -37122,7 +37122,7 @@ annee;rang;ville;specialite
 2016;4286;Paris;médecine générale
 2016;4287;Rouen;médecine générale
 2016;4288;Poitiers;chirurgie générale
-2016;4289;Limoges;anatomie et cytologie pathologique
+2016;4289;Limoges;anatomie et cytologie pathologiques
 2016;4290;Brest;médecine générale
 2016;4291;Lille;médecine générale
 2016;4292;Paris;médecine générale
@@ -37176,8 +37176,8 @@ annee;rang;ville;specialite
 2016;4343;Lyon;médecine physique et de réadaptation
 2016;4344;Poitiers;médecine générale
 2016;4345;Lyon;médecine générale
-2016;4346;Rouen;endocrinologie, diabète, maladies métaboliques
-2016;4347;Saint-Etienne;endocrinologie, diabète, maladies métaboliques
+2016;4346;Rouen;endocrinologie-diabétologie-nutrition
+2016;4347;Saint-Etienne;endocrinologie-diabétologie-nutrition
 2016;4348;Brest;médecine générale
 2016;4349;Aix-Marseille;médecine générale
 2016;4350;Caen;pédiatrie
@@ -37197,7 +37197,7 @@ annee;rang;ville;specialite
 2016;4366;Limoges;médecine physique et de réadaptation
 2016;4367;Bordeaux;médecine générale
 2016;4368;Paris;médecine générale
-2016;4369;Amiens;endocrinologie, diabète, maladies métaboliques
+2016;4369;Amiens;endocrinologie-diabétologie-nutrition
 2016;4370;Montpellier;médecine générale
 2016;4371;Brest;gynécologie médicale
 2016;4372;Lyon;médecine physique et de réadaptation
@@ -37208,7 +37208,7 @@ annee;rang;ville;specialite
 2016;4377;Paris;santé publique
 2016;4378;Paris;médecine générale
 2016;4379;Tours;médecine générale
-2016;4380;Strasbourg;endocrinologie, diabète, maladies métaboliques
+2016;4380;Strasbourg;endocrinologie-diabétologie-nutrition
 2016;4381;Brest;médecine générale
 2016;4382;Bordeaux;médecine générale
 2016;4383;Amiens;médecine générale
@@ -37219,7 +37219,7 @@ annee;rang;ville;specialite
 2016;4388;Paris;médecine générale
 2016;4389;Caen;pédiatrie
 2016;4390;Toulouse;médecine générale
-2016;4391;Antilles-Guyane;anatomie et cytologie pathologique
+2016;4391;Antilles-Guyane;anatomie et cytologie pathologiques
 2016;4392;Nantes;santé publique
 2016;4393;Lille;médecine générale
 2016;4394;Rennes;médecine générale
@@ -37277,14 +37277,14 @@ annee;rang;ville;specialite
 2016;4450;Océan-Indien;médecine générale
 2016;4451;Lyon;psychiatrie
 2016;4454;Caen;pédiatrie
-2016;4455;Angers;endocrinologie, diabète, maladies métaboliques
+2016;4455;Angers;endocrinologie-diabétologie-nutrition
 2016;4456;Caen;pédiatrie
 2016;4457;Tours;médecine générale
 2016;4458;Rouen;médecine générale
 2016;4459;Montpellier;médecine générale
 2016;4460;Nice;médecine générale
 2016;4461;Lyon;médecine générale
-2016;4462;Tours;endocrinologie, diabète, maladies métaboliques
+2016;4462;Tours;endocrinologie-diabétologie-nutrition
 2016;4463;Toulouse;médecine générale
 2016;4464;Dijon;biologie médicale
 2016;4465;Océan-Indien;médecine générale
@@ -37334,7 +37334,7 @@ annee;rang;ville;specialite
 2016;4513;Lille;médecine générale
 2016;4514;Limoges;gynécologie médicale
 2016;4515;Paris;médecine physique et de réadaptation
-2016;4516;Caen;endocrinologie, diabète, maladies métaboliques
+2016;4516;Caen;endocrinologie-diabétologie-nutrition
 2016;4517;Paris;médecine physique et de réadaptation
 2016;4518;Aix-Marseille;médecine générale
 2016;4520;Angers;médecine générale
@@ -37350,7 +37350,7 @@ annee;rang;ville;specialite
 2016;4530;Montpellier;médecine générale
 2016;4531;Lille;médecine générale
 2016;4532;Lyon;médecine générale
-2016;4533;Nancy;endocrinologie, diabète, maladies métaboliques
+2016;4533;Nancy;endocrinologie-diabétologie-nutrition
 2016;4534;Angers;médecine générale
 2016;4535;Amiens;médecine générale
 2016;4536;Lille;génétique médicale
@@ -37517,7 +37517,7 @@ annee;rang;ville;specialite
 2016;4710;Strasbourg;médecine générale
 2016;4711;Reims;pédiatrie
 2016;4712;Toulouse;médecine générale
-2016;4713;Reims;endocrinologie, diabète, maladies métaboliques
+2016;4713;Reims;endocrinologie-diabétologie-nutrition
 2016;4714;Aix-Marseille;médecine générale
 2016;4715;Poitiers;anesthésie-réanimation
 2016;4716;Montpellier;médecine générale
@@ -37530,7 +37530,7 @@ annee;rang;ville;specialite
 2016;4723;Nice;médecine générale
 2016;4725;Montpellier;médecine générale
 2016;4726;Nancy;psychiatrie
-2016;4727;Amiens;endocrinologie, diabète, maladies métaboliques
+2016;4727;Amiens;endocrinologie-diabétologie-nutrition
 2016;4728;Angers;médecine générale
 2016;4730;Bordeaux;médecine générale
 2016;4731;Bordeaux;médecine générale
@@ -37575,7 +37575,7 @@ annee;rang;ville;specialite
 2016;4771;Reims;médecine générale
 2016;4773;Paris;médecine générale
 2016;4774;Toulouse;médecine générale
-2016;4775;Océan-Indien;endocrinologie, diabète, maladies métaboliques
+2016;4775;Océan-Indien;endocrinologie-diabétologie-nutrition
 2016;4776;Saint-Etienne;médecine physique et de réadaptation
 2016;4777;Toulouse;médecine générale
 2016;4778;Paris;médecine générale
@@ -37639,18 +37639,18 @@ annee;rang;ville;specialite
 2016;4839;Saint-Etienne;pédiatrie
 2016;4840;Lyon;psychiatrie
 2016;4841;Clermont-Ferrand;médecine générale
-2016;4842;Antilles-Guyane;endocrinologie, diabète, maladies métaboliques
+2016;4842;Antilles-Guyane;endocrinologie-diabétologie-nutrition
 2016;4843;Lyon;médecine générale
 2016;4845;Antilles-Guyane;médecine générale
 2016;4846;Nancy;psychiatrie
 2016;4847;Nantes;médecine générale
 2016;4848;Grenoble;médecine générale
 2016;4849;Grenoble;santé publique
-2016;4850;Nancy;endocrinologie, diabète, maladies métaboliques
+2016;4850;Nancy;endocrinologie-diabétologie-nutrition
 2016;4851;Lille;médecine générale
 2016;4852;Lyon;médecine générale
 2016;4853;Bordeaux;médecine générale
-2016;4855;Clermont-Ferrand;endocrinologie, diabète, maladies métaboliques
+2016;4855;Clermont-Ferrand;endocrinologie-diabétologie-nutrition
 2016;4856;Tours;médecine physique et de réadaptation
 2016;4857;Montpellier;médecine générale
 2016;4858;Nice;médecine générale
@@ -37692,7 +37692,7 @@ annee;rang;ville;specialite
 2016;4897;Bordeaux;psychiatrie
 2016;4898;Rennes;médecine générale
 2016;4900;Grenoble;médecine générale
-2016;4901;Nancy;endocrinologie, diabète, maladies métaboliques
+2016;4901;Nancy;endocrinologie-diabétologie-nutrition
 2016;4902;Lille;médecine générale
 2016;4903;Rouen;médecine générale
 2016;4904;Paris;médecine générale
@@ -37770,7 +37770,7 @@ annee;rang;ville;specialite
 2016;4982;Nancy;médecine générale
 2016;4984;Paris;médecine générale
 2016;4985;Rennes;médecine générale
-2016;4986;Dijon;endocrinologie, diabète, maladies métaboliques
+2016;4986;Dijon;endocrinologie-diabétologie-nutrition
 2016;4987;Nice;médecine générale
 2016;4988;Clermont-Ferrand;médecine générale
 2016;4989;Océan-Indien;médecine générale
@@ -37785,7 +37785,7 @@ annee;rang;ville;specialite
 2016;4998;Paris;médecine générale
 2016;4999;Lyon;médecine générale
 2016;5000;Paris;médecine générale
-2016;5001;Besançon;endocrinologie, diabète, maladies métaboliques
+2016;5001;Besançon;endocrinologie-diabétologie-nutrition
 2016;5002;Toulouse;médecine générale
 2016;5003;Rennes;médecine générale
 2016;5004;Lille;médecine générale
@@ -37838,11 +37838,11 @@ annee;rang;ville;specialite
 2016;5055;Brest;médecine générale
 2016;5056;Strasbourg;médecine générale
 2016;5058;Lille;médecine générale
-2016;5059;Reims;endocrinologie, diabète, maladies métaboliques
+2016;5059;Reims;endocrinologie-diabétologie-nutrition
 2016;5060;Lille;médecine générale
 2016;5061;Nantes;médecine générale
 2016;5062;Aix-Marseille;biologie médicale
-2016;5063;Reims;endocrinologie, diabète, maladies métaboliques
+2016;5063;Reims;endocrinologie-diabétologie-nutrition
 2016;5065;Montpellier;médecine générale
 2016;5066;Limoges;pédiatrie
 2016;5067;Grenoble;médecine générale
@@ -37882,7 +37882,7 @@ annee;rang;ville;specialite
 2016;5103;Rennes;psychiatrie
 2016;5104;Lille;médecine générale
 2016;5105;Paris;médecine générale
-2016;5106;Dijon;endocrinologie, diabète, maladies métaboliques
+2016;5106;Dijon;endocrinologie-diabétologie-nutrition
 2016;5107;Grenoble;médecine générale
 2016;5109;Clermont-Ferrand;médecine physique et de réadaptation
 2016;5110;Poitiers;médecine générale
@@ -37899,7 +37899,7 @@ annee;rang;ville;specialite
 2016;5124;Paris;psychiatrie
 2016;5125;Paris;médecine générale
 2016;5126;Montpellier;médecine générale
-2016;5127;Dijon;endocrinologie, diabète, maladies métaboliques
+2016;5127;Dijon;endocrinologie-diabétologie-nutrition
 2016;5129;Lyon;médecine générale
 2016;5130;Rennes;médecine générale
 2016;5131;Rouen;médecine générale
@@ -39457,7 +39457,7 @@ annee;rang;ville;specialite
 2016;6843;Angers;médecine générale
 2016;6844;Lyon;médecine du travail
 2016;6845;Saint-Etienne;médecine générale
-2016;6846;Antilles-Guyane;endocrinologie, diabète, maladies métaboliques
+2016;6846;Antilles-Guyane;endocrinologie-diabétologie-nutrition
 2016;6847;Limoges;biologie médicale
 2016;6848;Paris;médecine générale
 2016;6849;Rennes;psychiatrie

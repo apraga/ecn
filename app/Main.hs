@@ -83,8 +83,8 @@ parseAffect y = do
   char ','
   _ <- option "" $ skipSpace *> "nom d'usage " *> manyTill anyChar (char ',')
   _ <- option "" $ skipSpace *> "épouse " *> manyTill anyChar (char ',')
-  _ <- option "" $ skipSpace *> "né" *> manyTill anyChar (char ',')
   _ <- option "" $ skipSpace *> "famille" *> manyTill anyChar (char ',')
+  _ <- option "" $ skipSpace *> "né" *> manyTill anyChar (char ',')
   -- char ','
   skipSpace
   spe <- manyTill anyChar delim

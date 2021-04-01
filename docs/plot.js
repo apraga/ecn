@@ -7,6 +7,18 @@ function formatDate(data) {
     })
 }
 
+function setYAxis(height) {
+    return d3.scaleLinear()
+             .domain([0, 8800]) // TODO
+             .range([0, height]);
+}
+
+function setXAxis(width) {
+    return  d3.scaleTime()
+              .domain([new Date(2016, 0), new Date(2020, 0)])
+              .range([ 0, width ]);
+}
+
 function plot(data){
     // set the dimensions and margins of the graph
     var margin = {top: 10, right: 30, bottom: 30, left: 60},
@@ -34,23 +46,14 @@ function plot(data){
     towns = Array.from(spe.keys());
 
     // Date  = X axis
-    var x = d3.scaleTime()
-    /* .domain(d3.extent(spe, function(d) { return d[1]; })) */
-        .domain([new Date(2016, 0), new Date(2020, 0)])
-        .range([ 0, width ]);
-
+    var x = setXAxis(width);
     svg.append("g")
         .attr("transform", "translate(0," + height + ")")
         .call(d3.axisBottom(x).ticks(d3.timeYear.every(1)));
 
     // Rank = Y axis
-    var y = d3.scaleLinear()
-        .domain([0, 8800]) // TODO
-        .range([0, height]);
-
-    svg.append("g")
-    // .attr("transform", "translate(0," + height + ")")
-        .call(d3.axisLeft(y));
+    var y = setYAxis(height);
+    svg.append("g").call(d3.axisLeft(y));
 
     var myColor = d3.scaleOrdinal().domain(towns)
         .range(d3.schemeSet3);
@@ -89,18 +92,6 @@ function plot(data){
     // Interactive for new version ofD3
     // const tooltip = new Tooltip();
 
-    // // Add a legend (interactive)
-    // svg.selectAll("myLegend")
-    //     .data(spe)
-    //     .enter()
-    //     .append('g')
-    //     .append("text")
-    //     .attr('x', function(d,i){ return 30 + i*60})
-    //     .attr('y', 10)
-    //     .text(function(d) { return d[0]; })
-    //     .style("fill", function(d){ return myColor(d[0]) })
-    //     .style("font-size", 15)
-
     // Generate checkbox
     d3.select("body").selectAll("input")
         .data(towns)
@@ -108,7 +99,7 @@ function plot(data){
         .append('label')
         .attr('for',function(d,i){ return 'a'+i; })
         .text(function(d) { return d; })
-        .style("fill", function(d){ return myColor(d[0]) }) // does not work :(
+        .style("color", function(d){ return myColor(d[0]) })
         .append("input")
         .attr("checked", true)
     // .attr("name", function(d) { return "name_" + d; }) // Store the name here for easy retrieval on clock

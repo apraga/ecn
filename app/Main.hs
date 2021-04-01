@@ -52,13 +52,26 @@ parseAffects y = do
   _ <- manyTill anyChar (string $ startDelim y)
   many (parseAffect y)
 
--- Clean data
+-- Haromnize data between 2016 and more recent years
 cleanTown :: T.Text -> T.Text
 cleanTown "HCL" = "Lyon"
 cleanTown "Ile-de-France" = "Paris"
 cleanTown "AP-HP" = "Paris"
 cleanTown "AP-HM" = "Marseille"
 cleanTown x = x
+
+-- Haromnize data between 2016 and more recent years
+cleanSpe :: T.Text -> T.Text
+cleanSpe "gastro-entérologie et hépatologie" = "hépato-gastro-entérologie"
+cleanSpe "cardiologie et maladies vasculaires" = "médecine cardiovasculaire"
+cleanSpe "anesthésie réanimation" = "anesthésie-réanimation"
+cleanSpe "dermatologie et vénérologie" = "dermatologie et vénéréologie"
+cleanSpe "radiodiagnostic et imagerie médicale" = "radiologie et imagerie médicale"
+cleanSpe "médecine interne" = "médecine interne et immunologie clinique"
+cleanSpe "oto-rhino-laryngologie et chirurgie cervico-faciale" = "oto-rhino-laryngologie - chirurgie cervico-faciale"
+cleanSpe "endocrinologie, diabète, maladies métaboliques" = "endocrinologie-diabétologie-nutrition"
+cleanSpe "anatomie et cytologie pathologique" = "anatomie et cytologie pathologiques"
+cleanSpe x = x
 
 parseAffect :: Int -> Parser Affectation
 parseAffect y = do
@@ -71,13 +84,15 @@ parseAffect y = do
   _ <- option "" $ skipSpace *> "nom d'usage " *> manyTill anyChar (char ',')
   _ <- option "" $ skipSpace *> "épouse " *> manyTill anyChar (char ',')
   _ <- option "" $ skipSpace *> "né" *> manyTill anyChar (char ',')
+  _ <- option "" $ skipSpace *> "famille" *> manyTill anyChar (char ',')
   -- char ','
   skipSpace
   spe <- manyTill anyChar delim
   skipSpace
   town <- manyTill anyChar (char '.')
-  return $ Affectation y (read r :: Int) (cleanTown (T.pack town)) (T.strip . T.pack $ spe)
-
+  let town' =cleanTown (T.pack town)
+  let spe' = cleanSpe (T.strip . T.pack $ spe)
+  return $ Affectation y (read r :: Int) town' spe'
 
 formatCSV :: [Affectation] -> T.Text
 formatCSV l = T.unlines $ "annee;rang;ville;specialite" : map printAffect l
@@ -111,20 +126,13 @@ affectYear (y, root) = do
   return all
 
 main = do
-  -- all <- affectYear 2020 "JORFTEXT000042402100"
   let years = [
         (2020, "JORFTEXT000042402100")
         , (2019, "JORFTEXT000039229737")
         , (2018, "JORFTEXT000037523753" )
         , (2017, "JORFTEXT000035871907" )
         , (2016, "JORFTEXT000033253978")
-        -- TODO: untested below
-        -- , (2015, "JORFTEXT000031314070")
-        -- , (2014, "JORFTEXT000029604463")
-        -- , (2013, "JORFTEXT000028160771")
-        -- , (2012, "JORFTEXT000026872409")
-        -- , (2011, "JORFTEXT000024846862")
-        -- , (2010, "JORFTEXT000023100415")]
+        -- useless after that
         ]
   print years
   l <- mapM affectYear years

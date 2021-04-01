@@ -32,7 +32,7 @@ function solarizedPalette(towns) {
 
 function setYAxis(height) {
     return d3.scaleLinear()
-             .domain([0, 8800]) // TODO
+             .domain([0, 8900]) // TODO
              .range([0, height]);
 }
 
@@ -136,11 +136,14 @@ function plot(data){
         .attr("id", function(d,i) { return 'a'+i; })
         .on("click", function(d){
             // This.__data__ is a bit ugly to get the name but it works
-            // var elem = svg.select("path[class=Grenoble]").transition();
-            // elem.style("opacity", this.checked == 1 ? 1 : 0.1)
+            var p = svg.select("path[class=" + this.__data__ + "]").transition();
+            p.style("opacity", this.checked == 1 ? 1 : 0.1)
+            var c = svg.select("g[class=" + this.__data__ + "]").selectAll("circle").transition();
+            c.style("opacity", this.checked == 1 ? 1 : 0.1)
         })
     // Only show first value: set the
     svg.selectAll("path[class="+towns[0]+"]").style("opacity", 1); // Set path
+    svg.selectAll("g[class="+towns[0]+"]").selectAll("circle").style("opacity", 1); // Set circles
     d3.select("input[id=a0]").property("checked", true) // Checkbox
 }
 

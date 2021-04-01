@@ -71,6 +71,7 @@ cleanSpe "médecine interne" = "médecine interne et immunologie clinique"
 cleanSpe "oto-rhino-laryngologie et chirurgie cervico-faciale" = "oto-rhino-laryngologie - chirurgie cervico-faciale"
 cleanSpe "endocrinologie, diabète, maladies métaboliques" = "endocrinologie-diabétologie-nutrition"
 cleanSpe "anatomie et cytologie pathologique" = "anatomie et cytologie pathologiques"
+cleanSpe "médecine du travail" = "médecine et santé au travail"
 cleanSpe x = x
 
 skipFamilyData s = option "" $ skipSpace *> s *> manyTill anyChar (char ',')

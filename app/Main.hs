@@ -83,14 +83,12 @@ parseAffect y = do
   _ <- manyTill anyChar (char '(')
   _ <- manyTill anyChar (char ')')
   char ','
-  _ <- skipFamilyData "épos"
-
-  _ <- skipFamilyData "nom d'usage "
-  _ <- skipFamilyData "épouse "
-  _ <- skipFamilyData "famille"
-  _ <- skipFamilyData "née le"
-  _ <- skipFamilyData "né le"
-
+  mapM_ skipFamilyData ["nom d'usage "
+                       , "épouse "
+                       , "époux "
+                       , "famille"
+                       , "née le"
+                       , "né le"]
   skipSpace
   spe <- manyTill anyChar delim
   skipSpace

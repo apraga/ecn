@@ -42,36 +42,11 @@ function setXAxis(width) {
               .range([ 0, width ]);
 }
 
-function plot(data){
-
-    // set the dimensions and margins of the graph
-    var margin = {top: 10, right: 30, bottom: 30, left: 60},
-        width = 1060 - margin.left - margin.right,
-        height = 400 - margin.top - margin.bottom;
-
-    // append the svg object to the body of the page
-    var svg = d3.select("#myplot")
-        .append("svg")
-        .attr("width", width + margin.left + margin.right)
-        .attr("height", height + margin.top + margin.bottom)
-        .append("g")
-        .attr("transform",
-              "translate(" + margin.left + "," + margin.top + ")");
-
-    // Convert to integer
-    formatDate(data);
-    // Rank max by specialty, year and town
-    rankMax = d3.rollup(data, v => d3.max(v, d => d.rang), d => d.specialite,
-                        d => d.ville, d => d.annee);
-    // Set the titles
-    allSpe = Array.from(rankMax.keys());
-    d3.select("body").selectAll("h2").html("Rang maximal pour génétique médicale");
+function plotSpe(speTitle, rankmax, svg, width, height) {
     // Speciality is no longer a variable
-    spe = rankMax.get("génétique médicale");
-
-    // // Get the list of town for y-axis
+    spe = rankMax.get(speTitle);
+    // // Get the list of town for categories
     towns = Array.from(spe.keys());
-    console.log(towns.length);
 
     // Date  = X axis
     var x = setXAxis(width);
@@ -145,6 +120,49 @@ function plot(data){
     svg.selectAll("path[class="+towns[0]+"]").style("opacity", 1); // Set path
     svg.selectAll("g[class="+towns[0]+"]").selectAll("circle").style("opacity", 1); // Set circles
     d3.select("input[id=a0]").property("checked", true) // Checkbox
+}
+function plot(data){
+
+    // set the dimensions and margins of the graph
+    var margin = {top: 10, right: 30, bottom: 30, left: 60},
+        width = 1060 - margin.left - margin.right,
+        height = 400 - margin.top - margin.bottom;
+
+    // append the svg object to the body of the page
+    var svg = d3.select("#myplot")
+        .append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform",
+              "translate(" + margin.left + "," + margin.top + ")");
+
+    // Convert to integer
+    formatDate(data);
+    // Rank max by specialty, year and town
+    rankMax = d3.rollup(data, v => d3.max(v, d => d.rang), d => d.specialite,
+                        d => d.ville, d => d.annee);
+
+    // Set the titles
+    d3.select("body").selectAll("h2").html("Rang maximal pour <select id=\"selectSpe\"></select>");// + speTitle);
+    allSpe = Array.from(rankMax.keys());
+    // add the options to the drow-down list
+    d3.select("#selectSpe")
+      .selectAll('myOptions')
+     	.data(allSpe)
+      .enter()
+    	.append('option')
+        .text(function (d) { return d; }) // text showed in the menu
+        .attr("value", function (d) { return d; }) // corresponding value return
+
+    // When the button is changed, run the updateChart function
+    d3.select("#selectSpe").on("change", function(d) {
+        // Don't forget to clean svg !!
+        svg.selectAll('*').remove();
+        var speTitle = d3.select(this).property("value")
+        plotSpe(speTitle, rankMax, svg, width, height);
+    })
+    plotSpe(allSpe[0], rankMax, svg, width, height);
 }
 
 // Read data

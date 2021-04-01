@@ -7,6 +7,29 @@ function formatDate(data) {
     })
 }
 
+// Every liht solazride except backgroound
+function solarizedPalette(towns) {
+    return d3.scaleOrdinal(
+        [
+            "#002b36" // base03
+            // #073642 // base02
+            , "#586e75" // base01
+            , "#657b83" // base00
+            , "#839496B" // base0
+            , "#93a1a1C" // base1
+            // #eee8d5 // base2
+            // #fdf6e3 // base3
+            , "#b58900" // yellow
+            , "#cb4b16" // orange
+            , "#d30102" // red
+            , "#d33682" // magenta
+            , "#6c71c4" // violet
+            , "#268bd2" // blue
+            , "#2aa198" // cyan
+            , "#859900" // green
+        ]).domain(towns);
+}
+
 function setYAxis(height) {
     return d3.scaleLinear()
              .domain([0, 8800]) // TODO
@@ -20,6 +43,7 @@ function setXAxis(width) {
 }
 
 function plot(data){
+
     // set the dimensions and margins of the graph
     var margin = {top: 10, right: 30, bottom: 30, left: 60},
         width = 1060 - margin.left - margin.right,
@@ -39,11 +63,15 @@ function plot(data){
     // Rank max by specialty, year and town
     rankMax = d3.rollup(data, v => d3.max(v, d => d.rang), d => d.specialite,
                         d => d.ville, d => d.annee);
+    // Set the titles
+    allSpe = Array.from(rankMax.keys());
+    d3.select("body").selectAll("h2").html("Rang maximal pour génétique médicale");
     // Speciality is no longer a variable
     spe = rankMax.get("génétique médicale");
 
     // // Get the list of town for y-axis
     towns = Array.from(spe.keys());
+    console.log(towns.length);
 
     // Date  = X axis
     var x = setXAxis(width);
@@ -55,8 +83,8 @@ function plot(data){
     var y = setYAxis(height);
     svg.append("g").call(d3.axisLeft(y));
 
-    var myColor = d3.scaleOrdinal().domain(towns)
-        .range(d3.schemeSet3);
+    var myColor = solarizedPalette(towns);
+        // .range(d3.schemePaired);
     // New strategy : town = category, x = yeary, y = rank
     // Draw line
     // Add the lines
@@ -101,8 +129,7 @@ function plot(data){
         .text(function(d) { return d; })
         .style("color", function(d){ return myColor(d[0]) })
         .append("input")
-        .attr("checked", true)
-    // .attr("name", function(d) { return "name_" + d; }) // Store the name here for easy retrieval on clock
+        .attr("checked", false)
         .attr("type", "checkbox")
         .attr("id", function(d,i) { return 'a'+i; })
         .on("click", function(d){

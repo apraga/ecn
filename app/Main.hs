@@ -73,6 +73,8 @@ cleanSpe "endocrinologie, diabète, maladies métaboliques" = "endocrinologie-di
 cleanSpe "anatomie et cytologie pathologique" = "anatomie et cytologie pathologiques"
 cleanSpe x = x
 
+skipFamilyData s = option "" $ skipSpace *> s *> manyTill anyChar (char ',')
+
 parseAffect :: Int -> Parser Affectation
 parseAffect y = do
   r <- some digit
@@ -81,11 +83,14 @@ parseAffect y = do
   _ <- manyTill anyChar (char '(')
   _ <- manyTill anyChar (char ')')
   char ','
-  _ <- option "" $ skipSpace *> "nom d'usage " *> manyTill anyChar (char ',')
-  _ <- option "" $ skipSpace *> "épouse " *> manyTill anyChar (char ',')
-  _ <- option "" $ skipSpace *> "famille" *> manyTill anyChar (char ',')
-  _ <- option "" $ skipSpace *> ("né" <|> "née") *> " le " *> manyTill anyChar (char ',')
-  -- char ','
+  _ <- skipFamilyData "épos"
+
+  _ <- skipFamilyData "nom d'usage "
+  _ <- skipFamilyData "épouse "
+  _ <- skipFamilyData "famille"
+  _ <- skipFamilyData "née le"
+  _ <- skipFamilyData "né le"
+
   skipSpace
   spe <- manyTill anyChar delim
   skipSpace

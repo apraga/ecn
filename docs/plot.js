@@ -1,5 +1,6 @@
 //Many thanks to https://www.d3-graph-gallery.com/graph/connectedscatter_multi.html
 //
+
 function formatDate(data) {
     data.forEach(function(x) {
         x.annee = new Date(+x.annee, 0);
@@ -52,7 +53,7 @@ function updateLinesPoints(svg, name, checked) {
 
 function createCheckboxes(svg, towns, myColor) {
     // Generate checkbox
-    d3.select("div[id=legend]")
+    d3.select("#legend")
         .data(towns)
         .enter()
         .append('label')
@@ -119,6 +120,28 @@ function plotSpe(speTitle, rankmax, svg, width, height) {
         .style("fill", "none")
         .style("opacity", "0.1")
 
+    // create a tooltip
+    var Tooltip = svg.append("g")
+        // .append("circle")
+        // .attr("cxy", x(2017))
+        // .attr("cxy", y(3000))
+        // .attr("r", 50)
+        // .attr("stroke", "white")
+        .append("text")
+        .attr("font-size", 15)
+
+    // Move text according to the mouse
+    // https://observablehq.com/@d3/multi-li
+    var moveTooltip = function(d) {
+        // From the parameter, we get the circle position
+        // It's a bit hacky but the other choice is to use bisect (should be more expensive)
+        // We don't have to mess with mouse position !
+        const date = d.target.__data__[0];
+        const rank = d.target.__data__[1];
+        Tooltip.attr("transform", `translate(${x(date)}, ${y(rank)})`)
+        Tooltip.text(rank)
+    }
+
     svg.selectAll("myDots")
         .data(spe)
         .enter()
@@ -135,6 +158,7 @@ function plotSpe(speTitle, rankmax, svg, width, height) {
         .attr("r", 5)
         .attr("stroke", "white")
         .style("opacity", "0.1")
+        .on("mousemove", moveTooltip)
 
     createCheckboxes(svg, towns, myColor);
 }

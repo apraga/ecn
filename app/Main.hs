@@ -65,6 +65,7 @@ cleanTown "La Martinique/Pointe-à-Pitre" = "Martinique"
 cleanTown "Antilles-Guyane" = "Martinique"
 cleanTown "Océan-Indien" = "Réunion"
 cleanTown "la Réunion" = "Réunion"
+cleanTown "La Réunion" = "Réunion"
 cleanTown x = x
 
 -- Haromnize data between 2016 and more recent years

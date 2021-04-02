@@ -52,6 +52,25 @@ function updateLinesPoints(svg, name, checked) {
 }
 
 function createCheckboxes(svg, towns, myColor) {
+    // For redraw
+    d3.selectAll("label").remove()
+    d3.selectAll("input").remove()
+
+    // Add a "check all" option
+    d3.select("#legend")
+        .append('label').text("Tous")
+        .append('input')
+        .attr("name", "fullSelect")
+        .attr("type", "checkbox")
+        .on("click", function(d){
+            var check = this.checked
+            towns.forEach(function (d) {
+                updateLinesPoints(svg, d, check)
+            })
+        })
+
+        // <label foc="all">Tous</label>
+        // <input type="checkbox" name="fullSelect">
     // Generate checkbox
     d3.select("#legend")
         .data(towns)
@@ -63,19 +82,11 @@ function createCheckboxes(svg, towns, myColor) {
         .append("input")
         .property("checked", false)
         .attr("type", "checkbox")
-        .attr("id", function(d,i) { return 'a'+i; })
+        .attr("id", function(d,i) { return 'legen'+i; })
         .on("click", function(d){
             // This.__data__ is a bit ugly to get the name but it works
             updateLinesPoints(svg, this.__data__, this.checked)
 
-        })
-    // Add a "check all" option
-    d3.select("input[name=fullSelect]")
-        .on("click", function(d){
-            var check = this.checked
-            towns.forEach(function (d) {
-                updateLinesPoints(svg, d, check)
-            })
         })
 
     // Only show first value: set the
@@ -122,11 +133,6 @@ function plotSpe(speTitle, rankmax, svg, width, height) {
 
     // create a tooltip
     var Tooltip = svg.append("g")
-        // .append("circle")
-        // .attr("cxy", x(2017))
-        // .attr("cxy", y(3000))
-        // .attr("r", 50)
-        // .attr("stroke", "white")
         .append("text")
         .attr("font-size", 15)
 
@@ -160,7 +166,7 @@ function plotSpe(speTitle, rankmax, svg, width, height) {
         .style("opacity", "0.1")
         .on("mousemove", moveTooltip)
 
-    createCheckboxes(svg, towns, myColor);
+        createCheckboxes(svg, towns, myColor);
 }
 
 function createChoice(svg, rankMax, width, height){

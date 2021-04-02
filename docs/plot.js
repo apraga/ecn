@@ -32,15 +32,41 @@ function solarizedPalette(towns) {
 
 function setYAxis(height) {
     return d3.scaleLinear()
-             .domain([0, 8900]) // TODO
-             .range([0, height]);
+        .domain([0, 8900]) // TODO
+        .range([0, height]);
 }
 
 function setXAxis(width) {
     return  d3.scaleTime()
-              .domain([new Date(2016, 0), new Date(2020, 0)])
-              .range([ 0, width ]);
+        .domain([new Date(2016, 0), new Date(2020, 0)])
+        .range([ 0, width ]);
 }
+function createCheckboxes(svg, towns, myColor) {
+    // Generate checkbox
+    d3.select("body").selectAll("input")
+        .data(towns)
+        .enter()
+        .append('label')
+        .attr('for',function(d,i){ return 'a'+i; })
+        .text(function(d) { return d; })
+        .style("color", function(d){ return myColor(d[0]) })
+        .append("input")
+        .property("checked", false)
+        .attr("type", "checkbox")
+        .attr("id", function(d,i) { return 'a'+i; })
+        .on("click", function(d){
+            // This.__data__ is a bit ugly to get the name but it works
+            var p = svg.select("path[class=" + this.__data__ + "]").transition();
+            p.style("opacity", this.checked == 1 ? 1 : 0.1)
+            var c = svg.select("g[class=" + this.__data__ + "]").selectAll("circle").transition();
+            c.style("opacity", this.checked == 1 ? 1 : 0.1)
+        })
+    // Only show first value: set the
+    svg.selectAll("path[class="+towns[0]+"]").style("opacity", 1); // Set path
+    svg.selectAll("g[class="+towns[0]+"]").selectAll("circle").style("opacity", 1); // Set circles
+    d3.select("input[id=a0]").property("checked", true) // Checkbox
+}
+
 
 function plotSpe(speTitle, rankmax, svg, width, height) {
     // Speciality is no longer a variable
@@ -59,7 +85,7 @@ function plotSpe(speTitle, rankmax, svg, width, height) {
     svg.append("g").call(d3.axisLeft(y));
 
     var myColor = solarizedPalette(towns);
-        // .range(d3.schemePaired);
+    // .range(d3.schemePaired);
     // New strategy : town = category, x = yeary, y = rank
     // Draw line
     // Add the lines
@@ -97,61 +123,19 @@ function plotSpe(speTitle, rankmax, svg, width, height) {
     // Interactive for new version ofD3
     // const tooltip = new Tooltip();
 
-    // Generate checkbox
-    d3.select("body").selectAll("input")
-        .data(towns)
-        .enter()
-        .append('label')
-        .attr('for',function(d,i){ return 'a'+i; })
-        .text(function(d) { return d; })
-        .style("color", function(d){ return myColor(d[0]) })
-        .append("input")
-        .property("checked", false)
-        .attr("type", "checkbox")
-        .attr("id", function(d,i) { return 'a'+i; })
-        .on("click", function(d){
-            // This.__data__ is a bit ugly to get the name but it works
-            var p = svg.select("path[class=" + this.__data__ + "]").transition();
-            p.style("opacity", this.checked == 1 ? 1 : 0.1)
-            var c = svg.select("g[class=" + this.__data__ + "]").selectAll("circle").transition();
-            c.style("opacity", this.checked == 1 ? 1 : 0.1)
-        })
-    // Only show first value: set the
-    svg.selectAll("path[class="+towns[0]+"]").style("opacity", 1); // Set path
-    svg.selectAll("g[class="+towns[0]+"]").selectAll("circle").style("opacity", 1); // Set circles
-    d3.select("input[id=a0]").property("checked", true) // Checkbox
+    createCheckboxes(svg, towns, myColor);
 }
-function plot(data){
 
-    // set the dimensions and margins of the graph
-    var margin = {top: 10, right: 30, bottom: 30, left: 60},
-        width = 1060 - margin.left - margin.right,
-        height = 400 - margin.top - margin.bottom;
-
-    // append the svg object to the body of the page
-    var svg = d3.select("#myplot")
-        .append("svg")
-        .attr("width", width + margin.left + margin.right)
-        .attr("height", height + margin.top + margin.bottom)
-        .append("g")
-        .attr("transform",
-              "translate(" + margin.left + "," + margin.top + ")");
-
-    // Convert to integer
-    formatDate(data);
-    // Rank max by specialty, year and town
-    rankMax = d3.rollup(data, v => d3.max(v, d => d.rang), d => d.specialite,
-                        d => d.ville, d => d.annee);
-
-    // Set the titles
-    d3.select("body").selectAll("h2").html("Rang maximal pour <select id=\"selectSpe\"></select>");// + speTitle);
+function createChoice(svg, rankMax, width, height){
+    d3.select("body").selectAll("h2").html("Rang maximal pour <select id=\"selectSpe\"></select>");
     allSpe = Array.from(rankMax.keys());
+
     // add the options to the drow-down list
     d3.select("#selectSpe")
-      .selectAll('myOptions')
-     	.data(allSpe)
-      .enter()
-    	.append('option')
+        .selectAll('myOptions')
+        .data(allSpe)
+        .enter()
+        .append('option')
         .text(function (d) { return d; }) // text showed in the menu
         .attr("value", function (d) { return d; }) // corresponding value return
 
@@ -162,6 +146,38 @@ function plot(data){
         var speTitle = d3.select(this).property("value")
         plotSpe(speTitle, rankMax, svg, width, height);
     })
+}
+
+function createSVG(width, height, margin) {
+    return d3.select("#myplot")
+        .append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform",
+              "translate(" + margin.left + "," + margin.top + ")");
+}
+
+function plot(data){
+
+    // set the dimensions and margins of the graph
+    var margin = {top: 10, right: 30, bottom: 30, left: 60},
+        width = 1060 - margin.left - margin.right,
+        height = 400 - margin.top - margin.bottom;
+
+    // append the svg object to the body of the page
+
+    var svg = createSVG(width, height, margin)
+
+    // Convert to integer
+    formatDate(data);
+    // Rank max by specialty, year and town
+    rankMax = d3.rollup(data, v => d3.max(v, d => d.rang), d => d.specialite,
+                        d => d.ville, d => d.annee);
+
+    // Set the titles
+    createChoice(svg, rankMax, width, height);
+// Plot
     plotSpe(allSpe[0], rankMax, svg, width, height);
 }
 

@@ -32985,7 +32985,7 @@ annee;rang;ville;specialite
 2016;10;Paris;chirurgie générale
 2016;11;Bordeaux;médecine cardiovasculaire
 2016;12;Paris;médecine interne et immunologie clinique
-2016;13;Aix-Marseille;médecine interne et immunologie clinique
+2016;13;Marseille;médecine interne et immunologie clinique
 2016;14;Montpellier;ophtalmologie
 2016;15;Bordeaux;radiologie et imagerie médicale
 2016;16;Nantes;néphrologie
@@ -33013,7 +33013,7 @@ annee;rang;ville;specialite
 2016;38;Paris;hématologie
 2016;39;Nantes;néphrologie
 2016;40;Lyon;pédiatrie
-2016;41;Aix-Marseille;radiologie et imagerie médicale
+2016;41;Marseille;radiologie et imagerie médicale
 2016;42;Strasbourg;médecine interne et immunologie clinique
 2016;43;Paris;médecine interne et immunologie clinique
 2016;44;Toulouse;gynécologie obstétrique
@@ -33022,22 +33022,22 @@ annee;rang;ville;specialite
 2016;47;Paris;endocrinologie-diabétologie-nutrition
 2016;48;Paris;médecine interne et immunologie clinique
 2016;49;Bordeaux;neurologie
-2016;50;Aix-Marseille;chirurgie générale
+2016;50;Marseille;chirurgie générale
 2016;51;Montpellier;chirurgie générale
 2016;52;Paris;néphrologie
 2016;53;Rennes;radiologie et imagerie médicale
 2016;54;Lyon;néphrologie
-2016;55;Aix-Marseille;hépato-gastro-entérologie
+2016;55;Marseille;hépato-gastro-entérologie
 2016;56;Strasbourg;médecine interne et immunologie clinique
 2016;57;Paris;médecine interne et immunologie clinique
 2016;58;Clermont-Ferrand;anesthésie-réanimation
-2016;59;Aix-Marseille;oncologie
+2016;59;Marseille;oncologie
 2016;60;Paris;médecine cardiovasculaire
 2016;61;Lyon;hématologie
 2016;62;Nantes;médecine interne et immunologie clinique
 2016;63;Lille;radiologie et imagerie médicale
 2016;64;Bordeaux;néphrologie
-2016;65;Antilles-Guyane;médecine cardiovasculaire
+2016;65;Martinique;médecine cardiovasculaire
 2016;66;Nice;ophtalmologie
 2016;67;Paris;anesthésie-réanimation
 2016;68;Bordeaux;chirurgie générale
@@ -33084,7 +33084,7 @@ annee;rang;ville;specialite
 2016;109;Montpellier;anesthésie-réanimation
 2016;110;Paris;néphrologie
 2016;111;Paris;neurologie
-2016;112;Aix-Marseille;médecine interne et immunologie clinique
+2016;112;Marseille;médecine interne et immunologie clinique
 2016;113;Bordeaux;neurologie
 2016;114;Lyon;médecine interne et immunologie clinique
 2016;115;Lyon;radiologie et imagerie médicale
@@ -33092,13 +33092,13 @@ annee;rang;ville;specialite
 2016;117;Paris;médecine interne et immunologie clinique
 2016;118;Paris;radiologie et imagerie médicale
 2016;119;Clermont-Ferrand;radiologie et imagerie médicale
-2016;120;Aix-Marseille;ophtalmologie
-2016;121;Aix-Marseille;néphrologie
+2016;120;Marseille;ophtalmologie
+2016;121;Marseille;néphrologie
 2016;122;Saint-Etienne;anesthésie-réanimation
 2016;123;Paris;hépato-gastro-entérologie
 2016;124;Nice;médecine cardiovasculaire
 2016;125;Clermont-Ferrand;médecine interne et immunologie clinique
-2016;126;Aix-Marseille;ophtalmologie
+2016;126;Marseille;ophtalmologie
 2016;127;Lyon;oncologie
 2016;128;Paris;anatomie et cytologie pathologiques
 2016;129;Bordeaux;médecine cardiovasculaire
@@ -33107,7 +33107,7 @@ annee;rang;ville;specialite
 2016;132;Paris;médecine interne et immunologie clinique
 2016;133;Paris;néphrologie
 2016;134;Paris;médecine interne et immunologie clinique
-2016;135;Aix-Marseille;néphrologie
+2016;135;Marseille;néphrologie
 2016;136;Paris;radiologie et imagerie médicale
 2016;137;Montpellier;anesthésie-réanimation
 2016;138;Montpellier;anesthésie-réanimation
@@ -33126,7 +33126,7 @@ annee;rang;ville;specialite
 2016;151;Rouen;médecine cardiovasculaire
 2016;152;Montpellier;anesthésie-réanimation
 2016;153;Paris;médecine interne et immunologie clinique
-2016;154;Aix-Marseille;médecine cardiovasculaire
+2016;154;Marseille;médecine cardiovasculaire
 2016;155;Brest;dermatologie et vénéréologie
 2016;156;Paris;médecine interne et immunologie clinique
 2016;157;Rennes;médecine générale
@@ -33178,14 +33178,14 @@ annee;rang;ville;specialite
 2016;205;Bordeaux;anesthésie-réanimation
 2016;206;Paris;anesthésie-réanimation
 2016;207;Paris;dermatologie et vénéréologie
-2016;208;Aix-Marseille;chirurgie générale
+2016;208;Marseille;chirurgie générale
 2016;209;Paris;ophtalmologie
 2016;210;Lyon;chirurgie générale
-2016;211;Aix-Marseille;anesthésie-réanimation
+2016;211;Marseille;anesthésie-réanimation
 2016;212;Paris;anesthésie-réanimation
-2016;213;Aix-Marseille;ophtalmologie
+2016;213;Marseille;ophtalmologie
 2016;214;Grenoble;anesthésie-réanimation
-2016;215;Aix-Marseille;ophtalmologie
+2016;215;Marseille;ophtalmologie
 2016;216;Dijon;chirurgie générale
 2016;217;Nantes;chirurgie générale
 2016;218;Lille;radiologie et imagerie médicale
@@ -33249,13 +33249,13 @@ annee;rang;ville;specialite
 2016;276;Paris;médecine interne et immunologie clinique
 2016;277;Paris;gynécologie obstétrique
 2016;278;Paris;radiologie et imagerie médicale
-2016;279;Aix-Marseille;ophtalmologie
+2016;279;Marseille;ophtalmologie
 2016;280;Lyon;néphrologie
 2016;281;Paris;gynécologie obstétrique
 2016;282;Lyon;radiologie et imagerie médicale
 2016;283;Caen;oncologie
 2016;284;Montpellier;radiologie et imagerie médicale
-2016;285;Aix-Marseille;médecine cardiovasculaire
+2016;285;Marseille;médecine cardiovasculaire
 2016;287;Nantes;dermatologie et vénéréologie
 2016;288;Grenoble;anesthésie-réanimation
 2016;289;Paris;neurologie
@@ -33267,7 +33267,7 @@ annee;rang;ville;specialite
 2016;295;Lyon;médecine cardiovasculaire
 2016;296;Paris;médecine interne et immunologie clinique
 2016;297;Toulouse;chirurgie générale
-2016;298;Aix-Marseille;anesthésie-réanimation
+2016;298;Marseille;anesthésie-réanimation
 2016;299;Paris;médecine interne et immunologie clinique
 2016;300;Paris;néphrologie
 2016;301;Paris;médecine interne et immunologie clinique
@@ -33332,8 +33332,8 @@ annee;rang;ville;specialite
 2016;361;Montpellier;dermatologie et vénéréologie
 2016;362;Nantes;médecine générale
 2016;363;Paris;ophtalmologie
-2016;364;Aix-Marseille;anesthésie-réanimation
-2016;365;Aix-Marseille;oncologie
+2016;364;Marseille;anesthésie-réanimation
+2016;365;Marseille;oncologie
 2016;366;Paris;radiologie et imagerie médicale
 2016;367;Paris;ophtalmologie
 2016;368;Toulouse;oto-rhino-laryngologie - chirurgie cervico-faciale
@@ -33349,7 +33349,7 @@ annee;rang;ville;specialite
 2016;378;Lyon;anesthésie-réanimation
 2016;379;Paris;radiologie et imagerie médicale
 2016;380;Paris;ophtalmologie
-2016;381;Aix-Marseille;néphrologie
+2016;381;Marseille;néphrologie
 2016;382;Bordeaux;médecine interne et immunologie clinique
 2016;383;Lyon;chirurgie générale
 2016;384;Bordeaux;ophtalmologie
@@ -33364,7 +33364,7 @@ annee;rang;ville;specialite
 2016;393;Bordeaux;néphrologie
 2016;394;Lyon;médecine cardiovasculaire
 2016;395;Limoges;médecine nucléaire
-2016;396;Aix-Marseille;radiologie et imagerie médicale
+2016;396;Marseille;radiologie et imagerie médicale
 2016;397;Nancy;radiologie et imagerie médicale
 2016;398;Lille;médecine nucléaire
 2016;399;Nice;radiologie et imagerie médicale
@@ -33397,7 +33397,7 @@ annee;rang;ville;specialite
 2016;426;Montpellier;oncologie
 2016;427;Lille;anesthésie-réanimation
 2016;428;Lyon;neurologie
-2016;429;Aix-Marseille;dermatologie et vénéréologie
+2016;429;Marseille;dermatologie et vénéréologie
 2016;430;Lyon;chirurgie générale
 2016;431;Lille;ophtalmologie
 2016;432;Grenoble;hématologie
@@ -33413,7 +33413,7 @@ annee;rang;ville;specialite
 2016;442;Paris;médecine cardiovasculaire
 2016;443;Lyon;chirurgie générale
 2016;444;Paris;radiologie et imagerie médicale
-2016;445;Aix-Marseille;radiologie et imagerie médicale
+2016;445;Marseille;radiologie et imagerie médicale
 2016;446;Caen;oto-rhino-laryngologie - chirurgie cervico-faciale
 2016;447;Lyon;anesthésie-réanimation
 2016;448;Paris;ophtalmologie
@@ -33423,17 +33423,17 @@ annee;rang;ville;specialite
 2016;452;Paris;médecine cardiovasculaire
 2016;453;Rennes;rhumatologie
 2016;454;Bordeaux;pédiatrie
-2016;455;Aix-Marseille;médecine cardiovasculaire
+2016;455;Marseille;médecine cardiovasculaire
 2016;456;Nantes;anesthésie-réanimation
 2016;457;Paris;pédiatrie
-2016;458;Aix-Marseille;médecine générale
+2016;458;Marseille;médecine générale
 2016;459;Paris;pédiatrie
 2016;460;Lille;chirurgie générale
 2016;461;Montpellier;médecine interne et immunologie clinique
-2016;462;Aix-Marseille;oncologie
+2016;462;Marseille;oncologie
 2016;463;Lille;hépato-gastro-entérologie
 2016;464;Clermont-Ferrand;médecine cardiovasculaire
-2016;465;Aix-Marseille;oto-rhino-laryngologie - chirurgie cervico-faciale
+2016;465;Marseille;oto-rhino-laryngologie - chirurgie cervico-faciale
 2016;466;Paris;gynécologie obstétrique
 2016;467;Rennes;anesthésie-réanimation
 2016;468;Lyon;anesthésie-réanimation
@@ -33477,14 +33477,14 @@ annee;rang;ville;specialite
 2016;507;Paris;gynécologie obstétrique
 2016;508;Nantes;médecine cardiovasculaire
 2016;509;Nancy;gynécologie médicale
-2016;510;Aix-Marseille;radiologie et imagerie médicale
+2016;510;Marseille;radiologie et imagerie médicale
 2016;511;Paris;radiologie et imagerie médicale
 2016;512;Paris;radiologie et imagerie médicale
 2016;513;Paris;hépato-gastro-entérologie
 2016;514;Caen;pédiatrie
 2016;515;Caen;radiologie et imagerie médicale
 2016;516;Lyon;gynécologie obstétrique
-2016;517;Aix-Marseille;médecine cardiovasculaire
+2016;517;Marseille;médecine cardiovasculaire
 2016;518;Paris;ophtalmologie
 2016;519;Paris;hématologie
 2016;520;Lille;dermatologie et vénéréologie
@@ -33499,16 +33499,16 @@ annee;rang;ville;specialite
 2016;529;Nantes;ophtalmologie
 2016;530;Rennes;radiologie et imagerie médicale
 2016;531;Nancy;radiologie et imagerie médicale
-2016;532;Aix-Marseille;anesthésie-réanimation
+2016;532;Marseille;anesthésie-réanimation
 2016;533;Lyon;oncologie
 2016;534;Paris;pneumologie
 2016;535;Montpellier;radiologie et imagerie médicale
 2016;536;Paris;pneumologie
 2016;537;Nancy;médecine cardiovasculaire
-2016;538;Antilles-Guyane;médecine nucléaire
+2016;538;Martinique;médecine nucléaire
 2016;539;Paris;dermatologie et vénéréologie
 2016;540;Paris;hématologie
-2016;541;Aix-Marseille;dermatologie et vénéréologie
+2016;541;Marseille;dermatologie et vénéréologie
 2016;542;Bordeaux;oncologie
 2016;543;Paris;anesthésie-réanimation
 2016;544;Grenoble;radiologie et imagerie médicale
@@ -33527,7 +33527,7 @@ annee;rang;ville;specialite
 2016;557;Lyon;pédiatrie
 2016;558;Paris;chirurgie générale
 2016;559;Paris;médecine cardiovasculaire
-2016;560;Aix-Marseille;radiologie et imagerie médicale
+2016;560;Marseille;radiologie et imagerie médicale
 2016;561;Paris;médecine interne et immunologie clinique
 2016;562;Paris;gynécologie obstétrique
 2016;563;Toulouse;oncologie
@@ -33539,7 +33539,7 @@ annee;rang;ville;specialite
 2016;569;Lyon;pédiatrie
 2016;570;Montpellier;pédiatrie
 2016;571;Bordeaux;pédiatrie
-2016;572;Aix-Marseille;néphrologie
+2016;572;Marseille;néphrologie
 2016;573;Paris;rhumatologie
 2016;574;Toulouse;hépato-gastro-entérologie
 2016;575;Toulouse;anesthésie-réanimation
@@ -33555,7 +33555,7 @@ annee;rang;ville;specialite
 2016;585;Toulouse;neurologie
 2016;586;Paris;ophtalmologie
 2016;587;Lyon;rhumatologie
-2016;588;Aix-Marseille;radiologie et imagerie médicale
+2016;588;Marseille;radiologie et imagerie médicale
 2016;589;Toulouse;radiologie et imagerie médicale
 2016;590;Toulouse;médecine interne et immunologie clinique
 2016;591;Lille;médecine interne et immunologie clinique
@@ -33582,7 +33582,7 @@ annee;rang;ville;specialite
 2016;612;Paris;ophtalmologie
 2016;613;Montpellier;radiologie et imagerie médicale
 2016;614;Lille;médecine interne et immunologie clinique
-2016;615;Aix-Marseille;endocrinologie-diabétologie-nutrition
+2016;615;Marseille;endocrinologie-diabétologie-nutrition
 2016;616;Tours;ophtalmologie
 2016;617;Grenoble;gynécologie obstétrique
 2016;618;Lille;médecine générale
@@ -33604,7 +33604,7 @@ annee;rang;ville;specialite
 2016;634;Strasbourg;ophtalmologie
 2016;635;Toulouse;médecine cardiovasculaire
 2016;636;Rennes;ophtalmologie
-2016;637;Aix-Marseille;pédiatrie
+2016;637;Marseille;pédiatrie
 2016;638;Clermont-Ferrand;médecine cardiovasculaire
 2016;639;Lille;pneumologie
 2016;640;Brest;chirurgie générale
@@ -33655,7 +33655,7 @@ annee;rang;ville;specialite
 2016;686;Paris;médecine générale
 2016;687;Montpellier;oto-rhino-laryngologie - chirurgie cervico-faciale
 2016;688;Bordeaux;anesthésie-réanimation
-2016;689;Aix-Marseille;anesthésie-réanimation
+2016;689;Marseille;anesthésie-réanimation
 2016;690;Angers;néphrologie
 2016;691;Montpellier;hépato-gastro-entérologie
 2016;692;Lyon;ophtalmologie
@@ -33665,8 +33665,8 @@ annee;rang;ville;specialite
 2016;696;Paris;médecine générale
 2016;697;Paris;radiologie et imagerie médicale
 2016;698;Paris;oncologie
-2016;699;Aix-Marseille;neurochirurgie
-2016;700;Aix-Marseille;médecine cardiovasculaire
+2016;699;Marseille;neurochirurgie
+2016;700;Marseille;médecine cardiovasculaire
 2016;701;Rennes;rhumatologie
 2016;702;Dijon;radiologie et imagerie médicale
 2016;703;Tours;radiologie et imagerie médicale
@@ -33684,14 +33684,14 @@ annee;rang;ville;specialite
 2016;715;Lille;chirurgie générale
 2016;716;Strasbourg;radiologie et imagerie médicale
 2016;717;Montpellier;hématologie
-2016;718;Aix-Marseille;anesthésie-réanimation
+2016;718;Marseille;anesthésie-réanimation
 2016;719;Montpellier;neurologie
-2016;720;Aix-Marseille;dermatologie et vénéréologie
+2016;720;Marseille;dermatologie et vénéréologie
 2016;721;Paris;chirurgie générale
 2016;722;Rennes;anesthésie-réanimation
 2016;723;Paris;médecine générale
 2016;724;Lille;dermatologie et vénéréologie
-2016;725;Aix-Marseille;radiologie et imagerie médicale
+2016;725;Marseille;radiologie et imagerie médicale
 2016;726;Paris;médecine cardiovasculaire
 2016;727;Paris;hépato-gastro-entérologie
 2016;728;Strasbourg;radiologie et imagerie médicale
@@ -33709,7 +33709,7 @@ annee;rang;ville;specialite
 2016;740;Paris;hépato-gastro-entérologie
 2016;741;Lyon;radiologie et imagerie médicale
 2016;742;Bordeaux;anesthésie-réanimation
-2016;744;Aix-Marseille;chirurgie générale
+2016;744;Marseille;chirurgie générale
 2016;745;Strasbourg;hépato-gastro-entérologie
 2016;746;Bordeaux;oto-rhino-laryngologie - chirurgie cervico-faciale
 2016;747;Toulouse;dermatologie et vénéréologie
@@ -33724,7 +33724,7 @@ annee;rang;ville;specialite
 2016;756;Angers;médecine générale
 2016;757;Angers;néphrologie
 2016;758;Paris;neurochirurgie
-2016;759;Aix-Marseille;ophtalmologie
+2016;759;Marseille;ophtalmologie
 2016;760;Tours;radiologie et imagerie médicale
 2016;761;Montpellier;pédiatrie
 2016;762;Lyon;médecine générale
@@ -33734,7 +33734,7 @@ annee;rang;ville;specialite
 2016;766;Montpellier;radiologie et imagerie médicale
 2016;767;Montpellier;radiologie et imagerie médicale
 2016;768;Toulouse;chirurgie générale
-2016;769;Aix-Marseille;anatomie et cytologie pathologiques
+2016;769;Marseille;anatomie et cytologie pathologiques
 2016;770;Nantes;ophtalmologie
 2016;771;Paris;médecine cardiovasculaire
 2016;772;Paris;neurologie
@@ -33750,7 +33750,7 @@ annee;rang;ville;specialite
 2016;782;Paris;médecine cardiovasculaire
 2016;783;Rennes;médecine cardiovasculaire
 2016;784;Toulouse;radiologie et imagerie médicale
-2016;785;Aix-Marseille;médecine cardiovasculaire
+2016;785;Marseille;médecine cardiovasculaire
 2016;786;Montpellier;néphrologie
 2016;787;Paris;hépato-gastro-entérologie
 2016;788;Rouen;médecine nucléaire
@@ -33773,7 +33773,7 @@ annee;rang;ville;specialite
 2016;805;Lille;radiologie et imagerie médicale
 2016;806;Besançon;gynécologie obstétrique
 2016;807;Paris;hépato-gastro-entérologie
-2016;808;Aix-Marseille;pédiatrie
+2016;808;Marseille;pédiatrie
 2016;809;Nantes;radiologie et imagerie médicale
 2016;810;Clermont-Ferrand;neurologie
 2016;811;Lyon;chirurgie générale
@@ -33785,7 +33785,7 @@ annee;rang;ville;specialite
 2016;817;Paris;médecine cardiovasculaire
 2016;818;Nantes;chirurgie générale
 2016;819;Amiens;anesthésie-réanimation
-2016;820;Aix-Marseille;anesthésie-réanimation
+2016;820;Marseille;anesthésie-réanimation
 2016;821;Paris;psychiatrie
 2016;822;Paris;anesthésie-réanimation
 2016;823;Nantes;oto-rhino-laryngologie - chirurgie cervico-faciale
@@ -33817,7 +33817,7 @@ annee;rang;ville;specialite
 2016;849;Montpellier;neurologie
 2016;850;Toulouse;médecine cardiovasculaire
 2016;851;Paris;radiologie et imagerie médicale
-2016;852;Aix-Marseille;endocrinologie-diabétologie-nutrition
+2016;852;Marseille;endocrinologie-diabétologie-nutrition
 2016;853;Nantes;ophtalmologie
 2016;854;Paris;radiologie et imagerie médicale
 2016;855;Montpellier;médecine interne et immunologie clinique
@@ -33855,9 +33855,9 @@ annee;rang;ville;specialite
 2016;887;Lyon;médecine générale
 2016;888;Besançon;ophtalmologie
 2016;889;Lyon;radiologie et imagerie médicale
-2016;890;Aix-Marseille;dermatologie et vénéréologie
+2016;890;Marseille;dermatologie et vénéréologie
 2016;891;Nantes;anesthésie-réanimation
-2016;892;Aix-Marseille;médecine cardiovasculaire
+2016;892;Marseille;médecine cardiovasculaire
 2016;893;Montpellier;médecine interne et immunologie clinique
 2016;894;Paris;oncologie
 2016;895;Lyon;oncologie
@@ -33865,7 +33865,7 @@ annee;rang;ville;specialite
 2016;897;Tours;ophtalmologie
 2016;898;Caen;psychiatrie
 2016;899;Lyon;psychiatrie
-2016;900;Aix-Marseille;oncologie
+2016;900;Marseille;oncologie
 2016;901;Lyon;hépato-gastro-entérologie
 2016;902;Rennes;médecine cardiovasculaire
 2016;903;Paris;radiologie et imagerie médicale
@@ -33878,12 +33878,12 @@ annee;rang;ville;specialite
 2016;910;Toulouse;ophtalmologie
 2016;911;Paris;médecine cardiovasculaire
 2016;912;Bordeaux;rhumatologie
-2016;913;Aix-Marseille;pédiatrie
+2016;913;Marseille;pédiatrie
 2016;914;Toulouse;neurologie
 2016;915;Clermont-Ferrand;ophtalmologie
 2016;916;Paris;rhumatologie
 2016;917;Rennes;médecine cardiovasculaire
-2016;918;Aix-Marseille;chirurgie générale
+2016;918;Marseille;chirurgie générale
 2016;919;Strasbourg;dermatologie et vénéréologie
 2016;920;Lyon;anesthésie-réanimation
 2016;921;Paris;médecine générale
@@ -33935,7 +33935,7 @@ annee;rang;ville;specialite
 2016;967;Paris;rhumatologie
 2016;968;Montpellier;pédiatrie
 2016;969;Paris;pédiatrie
-2016;970;Aix-Marseille;anesthésie-réanimation
+2016;970;Marseille;anesthésie-réanimation
 2016;971;Paris;médecine cardiovasculaire
 2016;972;Rouen;chirurgie générale
 2016;973;Paris;hématologie
@@ -33946,12 +33946,12 @@ annee;rang;ville;specialite
 2016;978;Paris;gynécologie obstétrique
 2016;979;Paris;radiologie et imagerie médicale
 2016;980;Poitiers;médecine générale
-2016;981;Aix-Marseille;médecine générale
+2016;981;Marseille;médecine générale
 2016;982;Lyon;pneumologie
 2016;983;Montpellier;pédiatrie
 2016;984;Paris;médecine cardiovasculaire
 2016;985;Rennes;médecine cardiovasculaire
-2016;986;Aix-Marseille;médecine interne et immunologie clinique
+2016;986;Marseille;médecine interne et immunologie clinique
 2016;987;Rennes;pneumologie
 2016;988;Montpellier;oto-rhino-laryngologie - chirurgie cervico-faciale
 2016;989;Saint-Etienne;ophtalmologie
@@ -33986,15 +33986,15 @@ annee;rang;ville;specialite
 2016;1018;Paris;dermatologie et vénéréologie
 2016;1019;Caen;ophtalmologie
 2016;1020;Angers;médecine générale
-2016;1021;Aix-Marseille;anesthésie-réanimation
+2016;1021;Marseille;anesthésie-réanimation
 2016;1022;Paris;neurologie
 2016;1023;Nantes;psychiatrie
 2016;1024;Paris;anesthésie-réanimation
-2016;1025;Aix-Marseille;anesthésie-réanimation
+2016;1025;Marseille;anesthésie-réanimation
 2016;1026;Nice;psychiatrie
 2016;1027;Montpellier;chirurgie générale
 2016;1028;Paris;médecine cardiovasculaire
-2016;1029;Aix-Marseille;pédiatrie
+2016;1029;Marseille;pédiatrie
 2016;1030;Tours;radiologie et imagerie médicale
 2016;1031;Dijon;ophtalmologie
 2016;1032;Lille;radiologie et imagerie médicale
@@ -34027,7 +34027,7 @@ annee;rang;ville;specialite
 2016;1060;Lille;hématologie
 2016;1061;Grenoble;radiologie et imagerie médicale
 2016;1062;Lille;oncologie
-2016;1063;Aix-Marseille;médecine interne et immunologie clinique
+2016;1063;Marseille;médecine interne et immunologie clinique
 2016;1064;Toulouse;chirurgie générale
 2016;1065;Toulouse;hépato-gastro-entérologie
 2016;1066;Paris;psychiatrie
@@ -34037,17 +34037,17 @@ annee;rang;ville;specialite
 2016;1070;Nantes;anesthésie-réanimation
 2016;1071;Paris;dermatologie et vénéréologie
 2016;1072;Paris;pédiatrie
-2016;1073;Aix-Marseille;hépato-gastro-entérologie
+2016;1073;Marseille;hépato-gastro-entérologie
 2016;1074;Toulouse;pneumologie
 2016;1075;Lille;médecine cardiovasculaire
-2016;1076;Antilles-Guyane;anesthésie-réanimation
+2016;1076;Martinique;anesthésie-réanimation
 2016;1077;Toulouse;anesthésie-réanimation
 2016;1078;Toulouse;chirurgie générale
 2016;1079;Nancy;oncologie
 2016;1080;Paris;pédiatrie
 2016;1081;Montpellier;médecine cardiovasculaire
 2016;1082;Lyon;anesthésie-réanimation
-2016;1083;Aix-Marseille;radiologie et imagerie médicale
+2016;1083;Marseille;radiologie et imagerie médicale
 2016;1084;Montpellier;médecine générale
 2016;1085;Paris;anesthésie-réanimation
 2016;1086;Rennes;médecine interne et immunologie clinique
@@ -34065,13 +34065,13 @@ annee;rang;ville;specialite
 2016;1098;Lyon;radiologie et imagerie médicale
 2016;1099;Nantes;radiologie et imagerie médicale
 2016;1100;Rennes;hépato-gastro-entérologie
-2016;1101;Aix-Marseille;pédiatrie
+2016;1101;Marseille;pédiatrie
 2016;1102;Rouen;médecine cardiovasculaire
 2016;1103;Lyon;gynécologie obstétrique
 2016;1104;Lille;pédiatrie
 2016;1105;Bordeaux;médecine générale
 2016;1106;Lille;anesthésie-réanimation
-2016;1107;Aix-Marseille;radiologie et imagerie médicale
+2016;1107;Marseille;radiologie et imagerie médicale
 2016;1108;Bordeaux;médecine générale
 2016;1109;Paris;radiologie et imagerie médicale
 2016;1110;Toulouse;médecine cardiovasculaire
@@ -34087,7 +34087,7 @@ annee;rang;ville;specialite
 2016;1120;Nice;néphrologie
 2016;1121;Paris;oncologie
 2016;1122;Nice;néphrologie
-2016;1123;Antilles-Guyane;neurologie
+2016;1123;Martinique;neurologie
 2016;1124;Angers;anesthésie-réanimation
 2016;1125;Lille;radiologie et imagerie médicale
 2016;1126;Paris;neurologie
@@ -34097,7 +34097,7 @@ annee;rang;ville;specialite
 2016;1130;Paris;anatomie et cytologie pathologiques
 2016;1131;Paris;pédiatrie
 2016;1132;Paris;anesthésie-réanimation
-2016;1133;Aix-Marseille;neurologie
+2016;1133;Marseille;neurologie
 2016;1134;Lyon;anesthésie-réanimation
 2016;1135;Réunion;anesthésie-réanimation
 2016;1136;Paris;neurologie
@@ -34119,18 +34119,18 @@ annee;rang;ville;specialite
 2016;1152;Paris;radiologie et imagerie médicale
 2016;1153;Bordeaux;anesthésie-réanimation
 2016;1154;Rennes;pédiatrie
-2016;1155;Aix-Marseille;pédiatrie
+2016;1155;Marseille;pédiatrie
 2016;1156;Réunion;médecine cardiovasculaire
 2016;1157;Nantes;dermatologie et vénéréologie
 2016;1158;Grenoble;médecine cardiovasculaire
 2016;1159;Grenoble;médecine physique et de réadaptation
-2016;1160;Antilles-Guyane;rhumatologie
+2016;1160;Martinique;rhumatologie
 2016;1161;Grenoble;chirurgie générale
 2016;1162;Paris;oto-rhino-laryngologie - chirurgie cervico-faciale
 2016;1163;Rennes;dermatologie et vénéréologie
 2016;1164;Paris;pédiatrie
 2016;1165;Dijon;radiologie et imagerie médicale
-2016;1166;Aix-Marseille;anesthésie-réanimation
+2016;1166;Marseille;anesthésie-réanimation
 2016;1167;Lille;médecine générale
 2016;1168;Besançon;radiologie et imagerie médicale
 2016;1169;Tours;médecine cardiovasculaire
@@ -34139,14 +34139,14 @@ annee;rang;ville;specialite
 2016;1172;Caen;médecine cardiovasculaire
 2016;1173;Nantes;anatomie et cytologie pathologiques
 2016;1174;Toulouse;médecine cardiovasculaire
-2016;1175;Aix-Marseille;gynécologie obstétrique
-2016;1176;Aix-Marseille;médecine interne et immunologie clinique
-2016;1177;Aix-Marseille;anesthésie-réanimation
+2016;1175;Marseille;gynécologie obstétrique
+2016;1176;Marseille;médecine interne et immunologie clinique
+2016;1177;Marseille;anesthésie-réanimation
 2016;1178;Lyon;anesthésie-réanimation
 2016;1179;Paris;chirurgie générale
 2016;1180;Paris;anesthésie-réanimation
 2016;1181;Nancy;médecine cardiovasculaire
-2016;1182;Antilles-Guyane;neurochirurgie
+2016;1182;Martinique;neurochirurgie
 2016;1183;Lille;ophtalmologie
 2016;1184;Angers;ophtalmologie
 2016;1185;Rouen;dermatologie et vénéréologie
@@ -34162,7 +34162,7 @@ annee;rang;ville;specialite
 2016;1195;Montpellier;anesthésie-réanimation
 2016;1196;Bordeaux;gynécologie médicale
 2016;1197;Paris;pédiatrie
-2016;1198;Aix-Marseille;rhumatologie
+2016;1198;Marseille;rhumatologie
 2016;1199;Strasbourg;radiologie et imagerie médicale
 2016;1200;Paris;médecine cardiovasculaire
 2016;1201;Montpellier;neurologie
@@ -34172,7 +34172,7 @@ annee;rang;ville;specialite
 2016;1205;Paris;radiologie et imagerie médicale
 2016;1206;Nancy;anesthésie-réanimation
 2016;1207;Bordeaux;chirurgie générale
-2016;1208;Aix-Marseille;radiologie et imagerie médicale
+2016;1208;Marseille;radiologie et imagerie médicale
 2016;1209;Bordeaux;oncologie
 2016;1210;Grenoble;médecine générale
 2016;1211;Montpellier;anesthésie-réanimation
@@ -34185,7 +34185,7 @@ annee;rang;ville;specialite
 2016;1218;Rennes;médecine générale
 2016;1219;Grenoble;radiologie et imagerie médicale
 2016;1220;Rennes;pneumologie
-2016;1221;Aix-Marseille;rhumatologie
+2016;1221;Marseille;rhumatologie
 2016;1222;Nantes;anesthésie-réanimation
 2016;1223;Paris;anesthésie-réanimation
 2016;1224;Grenoble;radiologie et imagerie médicale
@@ -34202,7 +34202,7 @@ annee;rang;ville;specialite
 2016;1235;Paris;oto-rhino-laryngologie - chirurgie cervico-faciale
 2016;1236;Bordeaux;pédiatrie
 2016;1237;Paris;radiologie et imagerie médicale
-2016;1238;Aix-Marseille;chirurgie générale
+2016;1238;Marseille;chirurgie générale
 2016;1239;Nice;ophtalmologie
 2016;1240;Paris;médecine nucléaire
 2016;1241;Bordeaux;anesthésie-réanimation
@@ -34225,10 +34225,10 @@ annee;rang;ville;specialite
 2016;1258;Paris;gynécologie obstétrique
 2016;1259;Nantes;médecine générale
 2016;1260;Paris;neurologie
-2016;1261;Aix-Marseille;gynécologie obstétrique
+2016;1261;Marseille;gynécologie obstétrique
 2016;1262;Paris;oto-rhino-laryngologie - chirurgie cervico-faciale
 2016;1263;Brest;radiologie et imagerie médicale
-2016;1264;Aix-Marseille;psychiatrie
+2016;1264;Marseille;psychiatrie
 2016;1265;Besançon;chirurgie générale
 2016;1266;Paris;rhumatologie
 2016;1267;Lyon;pédiatrie
@@ -34241,18 +34241,18 @@ annee;rang;ville;specialite
 2016;1274;Lyon;anesthésie-réanimation
 2016;1275;Paris;pédiatrie
 2016;1276;Toulouse;chirurgie générale
-2016;1277;Aix-Marseille;anesthésie-réanimation
+2016;1277;Marseille;anesthésie-réanimation
 2016;1278;Paris;anesthésie-réanimation
 2016;1279;Paris;radiologie et imagerie médicale
 2016;1280;Besançon;dermatologie et vénéréologie
-2016;1281;Aix-Marseille;anesthésie-réanimation
-2016;1282;Aix-Marseille;anesthésie-réanimation
+2016;1281;Marseille;anesthésie-réanimation
+2016;1282;Marseille;anesthésie-réanimation
 2016;1283;Reims;chirurgie générale
 2016;1284;Lyon;anesthésie-réanimation
 2016;1285;Rennes;anesthésie-réanimation
 2016;1286;Tours;gynécologie obstétrique
 2016;1287;Lyon;chirurgie générale
-2016;1288;Aix-Marseille;médecine interne et immunologie clinique
+2016;1288;Marseille;médecine interne et immunologie clinique
 2016;1289;Poitiers;hépato-gastro-entérologie
 2016;1290;Paris;médecine cardiovasculaire
 2016;1291;Nice;oto-rhino-laryngologie - chirurgie cervico-faciale
@@ -34265,13 +34265,13 @@ annee;rang;ville;specialite
 2016;1298;Grenoble;hépato-gastro-entérologie
 2016;1299;Lille;psychiatrie
 2016;1300;Poitiers;radiologie et imagerie médicale
-2016;1301;Aix-Marseille;oncologie
-2016;1302;Aix-Marseille;gynécologie obstétrique
+2016;1301;Marseille;oncologie
+2016;1302;Marseille;gynécologie obstétrique
 2016;1303;Paris;neurologie
 2016;1304;Paris;oncologie
 2016;1305;Nancy;médecine générale
 2016;1306;Lyon;pédiatrie
-2016;1307;Aix-Marseille;anesthésie-réanimation
+2016;1307;Marseille;anesthésie-réanimation
 2016;1308;Strasbourg;neurologie
 2016;1309;Lille;ophtalmologie
 2016;1310;Montpellier;médecine générale
@@ -34310,7 +34310,7 @@ annee;rang;ville;specialite
 2016;1343;Paris;oto-rhino-laryngologie - chirurgie cervico-faciale
 2016;1344;Angers;oto-rhino-laryngologie - chirurgie cervico-faciale
 2016;1345;Lille;médecine générale
-2016;1346;Aix-Marseille;anesthésie-réanimation
+2016;1346;Marseille;anesthésie-réanimation
 2016;1347;Rennes;médecine générale
 2016;1348;Lille;rhumatologie
 2016;1349;Lyon;médecine générale
@@ -34326,19 +34326,19 @@ annee;rang;ville;specialite
 2016;1359;Lyon;gynécologie obstétrique
 2016;1360;Caen;radiologie et imagerie médicale
 2016;1361;Dijon;neurologie
-2016;1362;Aix-Marseille;hépato-gastro-entérologie
+2016;1362;Marseille;hépato-gastro-entérologie
 2016;1363;Rouen;ophtalmologie
 2016;1364;Toulouse;oncologie
 2016;1365;Réunion;médecine interne et immunologie clinique
 2016;1366;Paris;chirurgie générale
-2016;1367;Aix-Marseille;anesthésie-réanimation
+2016;1367;Marseille;anesthésie-réanimation
 2016;1368;Bordeaux;anesthésie-réanimation
 2016;1369;Lille;médecine générale
 2016;1370;Paris;médecine générale
 2016;1371;Paris;médecine cardiovasculaire
-2016;1372;Aix-Marseille;radiologie et imagerie médicale
+2016;1372;Marseille;radiologie et imagerie médicale
 2016;1373;Nantes;radiologie et imagerie médicale
-2016;1374;Aix-Marseille;oto-rhino-laryngologie - chirurgie cervico-faciale
+2016;1374;Marseille;oto-rhino-laryngologie - chirurgie cervico-faciale
 2016;1375;Nancy;oncologie
 2016;1376;Lille;pneumologie
 2016;1377;Nantes;médecine générale
@@ -34346,11 +34346,11 @@ annee;rang;ville;specialite
 2016;1379;Paris;anesthésie-réanimation
 2016;1380;Toulouse;gynécologie obstétrique
 2016;1381;Paris;médecine cardiovasculaire
-2016;1382;Aix-Marseille;oncologie
+2016;1382;Marseille;oncologie
 2016;1383;Lille;médecine cardiovasculaire
 2016;1384;Paris;oto-rhino-laryngologie - chirurgie cervico-faciale
 2016;1385;Lyon;rhumatologie
-2016;1386;Aix-Marseille;anesthésie-réanimation
+2016;1386;Marseille;anesthésie-réanimation
 2016;1387;Paris;anesthésie-réanimation
 2016;1388;Rennes;hépato-gastro-entérologie
 2016;1389;Rennes;anesthésie-réanimation
@@ -34365,9 +34365,9 @@ annee;rang;ville;specialite
 2016;1398;Paris;rhumatologie
 2016;1399;Paris;psychiatrie
 2016;1400;Grenoble;médecine cardiovasculaire
-2016;1401;Aix-Marseille;neurologie
+2016;1401;Marseille;neurologie
 2016;1402;Limoges;oncologie
-2016;1403;Aix-Marseille;pédiatrie
+2016;1403;Marseille;pédiatrie
 2016;1404;Nice;médecine cardiovasculaire
 2016;1405;Paris;chirurgie générale
 2016;1406;Paris;oto-rhino-laryngologie - chirurgie cervico-faciale
@@ -34377,7 +34377,7 @@ annee;rang;ville;specialite
 2016;1410;Saint-Etienne;ophtalmologie
 2016;1411;Paris;anatomie et cytologie pathologiques
 2016;1412;Strasbourg;chirurgie générale
-2016;1413;Aix-Marseille;anesthésie-réanimation
+2016;1413;Marseille;anesthésie-réanimation
 2016;1414;Rouen;pédiatrie
 2016;1415;Montpellier;oto-rhino-laryngologie - chirurgie cervico-faciale
 2016;1416;Nantes;oncologie
@@ -34388,7 +34388,7 @@ annee;rang;ville;specialite
 2016;1421;Nantes;médecine générale
 2016;1422;Toulouse;anesthésie-réanimation
 2016;1423;Bordeaux;anesthésie-réanimation
-2016;1424;Aix-Marseille;oto-rhino-laryngologie - chirurgie cervico-faciale
+2016;1424;Marseille;oto-rhino-laryngologie - chirurgie cervico-faciale
 2016;1425;Lyon;endocrinologie-diabétologie-nutrition
 2016;1426;Strasbourg;radiologie et imagerie médicale
 2016;1427;Paris;hématologie
@@ -34431,7 +34431,7 @@ annee;rang;ville;specialite
 2016;1465;Paris;gynécologie obstétrique
 2016;1466;Paris;médecine générale
 2016;1467;Bordeaux;pédiatrie
-2016;1468;Aix-Marseille;hépato-gastro-entérologie
+2016;1468;Marseille;hépato-gastro-entérologie
 2016;1469;Reims;ophtalmologie
 2016;1470;Lyon;gynécologie obstétrique
 2016;1471;Lille;oncologie
@@ -34454,7 +34454,7 @@ annee;rang;ville;specialite
 2016;1488;Angers;oncologie
 2016;1489;Saint-Etienne;médecine interne et immunologie clinique
 2016;1490;Paris;pédiatrie
-2016;1491;Aix-Marseille;médecine générale
+2016;1491;Marseille;médecine générale
 2016;1492;Paris;neurologie
 2016;1493;Nancy;hépato-gastro-entérologie
 2016;1494;Strasbourg;oncologie
@@ -34522,7 +34522,7 @@ annee;rang;ville;specialite
 2016;1556;Lyon;génétique médicale
 2016;1557;Limoges;ophtalmologie
 2016;1558;Dijon;anesthésie-réanimation
-2016;1559;Aix-Marseille;hématologie
+2016;1559;Marseille;hématologie
 2016;1560;Bordeaux;psychiatrie
 2016;1561;Caen;médecine générale
 2016;1562;Amiens;ophtalmologie
@@ -34534,29 +34534,29 @@ annee;rang;ville;specialite
 2016;1568;Nancy;dermatologie et vénéréologie
 2016;1569;Angers;neurologie
 2016;1570;Montpellier;médecine générale
-2016;1571;Aix-Marseille;neurologie
+2016;1571;Marseille;neurologie
 2016;1572;Lille;anesthésie-réanimation
 2016;1573;Angers;radiologie et imagerie médicale
 2016;1574;Lille;anesthésie-réanimation
 2016;1575;Paris;psychiatrie
 2016;1576;Poitiers;pneumologie
 2016;1577;Strasbourg;radiologie et imagerie médicale
-2016;1578;Aix-Marseille;gynécologie obstétrique
+2016;1578;Marseille;gynécologie obstétrique
 2016;1579;Bordeaux;médecine générale
 2016;1580;Bordeaux;médecine générale
 2016;1581;Grenoble;médecine générale
 2016;1582;Grenoble;médecine générale
 2016;1583;Paris;anesthésie-réanimation
 2016;1584;Rouen;neurologie
-2016;1585;Antilles-Guyane;ophtalmologie
+2016;1585;Martinique;ophtalmologie
 2016;1586;Angers;médecine cardiovasculaire
 2016;1587;Bordeaux;chirurgie générale
 2016;1588;Clermont-Ferrand;ophtalmologie
-2016;1589;Aix-Marseille;neurologie
+2016;1589;Marseille;neurologie
 2016;1590;Lille;médecine cardiovasculaire
 2016;1591;Tours;médecine interne et immunologie clinique
 2016;1592;Lyon;chirurgie générale
-2016;1593;Antilles-Guyane;ophtalmologie
+2016;1593;Martinique;ophtalmologie
 2016;1594;Paris;pédiatrie
 2016;1595;Paris;anesthésie-réanimation
 2016;1596;Lille;chirurgie générale
@@ -34603,7 +34603,7 @@ annee;rang;ville;specialite
 2016;1638;Reims;rhumatologie
 2016;1639;Nancy;médecine générale
 2016;1640;Montpellier;médecine générale
-2016;1641;Aix-Marseille;anesthésie-réanimation
+2016;1641;Marseille;anesthésie-réanimation
 2016;1642;Nancy;radiologie et imagerie médicale
 2016;1643;Bordeaux;médecine générale
 2016;1644;Paris;chirurgie générale
@@ -34622,14 +34622,14 @@ annee;rang;ville;specialite
 2016;1657;Montpellier;anesthésie-réanimation
 2016;1658;Lyon;médecine générale
 2016;1659;Lille;gynécologie médicale
-2016;1660;Aix-Marseille;chirurgie générale
+2016;1660;Marseille;chirurgie générale
 2016;1661;Strasbourg;anesthésie-réanimation
 2016;1662;Strasbourg;médecine cardiovasculaire
 2016;1663;Nice;médecine interne et immunologie clinique
 2016;1664;Brest;néphrologie
 2016;1665;Lille;oncologie
 2016;1666;Caen;néphrologie
-2016;1667;Aix-Marseille;médecine générale
+2016;1667;Marseille;médecine générale
 2016;1668;Paris;médecine générale
 2016;1669;Poitiers;pneumologie
 2016;1670;Paris;oto-rhino-laryngologie - chirurgie cervico-faciale
@@ -34644,20 +34644,20 @@ annee;rang;ville;specialite
 2016;1680;Paris;anesthésie-réanimation
 2016;1681;Paris;médecine générale
 2016;1682;Paris;médecine générale
-2016;1683;Aix-Marseille;neurologie
+2016;1683;Marseille;neurologie
 2016;1684;Clermont-Ferrand;neurologie
 2016;1685;Dijon;chirurgie générale
 2016;1686;Nancy;ophtalmologie
 2016;1687;Tours;médecine interne et immunologie clinique
 2016;1688;Nantes;médecine générale
-2016;1689;Aix-Marseille;médecine générale
+2016;1689;Marseille;médecine générale
 2016;1690;Réunion;radiologie et imagerie médicale
 2016;1691;Nancy;dermatologie et vénéréologie
 2016;1692;Lille;chirurgie générale
 2016;1693;Nantes;chirurgie générale
 2016;1694;Caen;néphrologie
 2016;1695;Dijon;radiologie et imagerie médicale
-2016;1696;Aix-Marseille;anesthésie-réanimation
+2016;1696;Marseille;anesthésie-réanimation
 2016;1697;Toulouse;pédiatrie
 2016;1698;Angers;pédiatrie
 2016;1699;Lyon;hépato-gastro-entérologie
@@ -34697,7 +34697,7 @@ annee;rang;ville;specialite
 2016;1733;Réunion;médecine générale
 2016;1734;Paris;médecine générale
 2016;1735;Nantes;médecine générale
-2016;1736;Antilles-Guyane;médecine générale
+2016;1736;Martinique;médecine générale
 2016;1737;Paris;médecine générale
 2016;1738;Angers;neurologie
 2016;1739;Rennes;médecine générale
@@ -34743,14 +34743,14 @@ annee;rang;ville;specialite
 2016;1779;Tours;anesthésie-réanimation
 2016;1780;Strasbourg;oto-rhino-laryngologie - chirurgie cervico-faciale
 2016;1781;Paris;anesthésie-réanimation
-2016;1782;Antilles-Guyane;radiologie et imagerie médicale
+2016;1782;Martinique;radiologie et imagerie médicale
 2016;1783;Paris;endocrinologie-diabétologie-nutrition
 2016;1784;Lyon;anesthésie-réanimation
 2016;1785;Nantes;médecine générale
 2016;1786;Brest;neurologie
 2016;1787;Lyon;médecine physique et de réadaptation
 2016;1788;Lyon;anatomie et cytologie pathologiques
-2016;1789;Aix-Marseille;gynécologie obstétrique
+2016;1789;Marseille;gynécologie obstétrique
 2016;1790;Montpellier;anesthésie-réanimation
 2016;1791;Saint-Etienne;ophtalmologie
 2016;1792;Clermont-Ferrand;rhumatologie
@@ -34759,7 +34759,7 @@ annee;rang;ville;specialite
 2016;1795;Bordeaux;pédiatrie
 2016;1796;Limoges;gynécologie obstétrique
 2016;1797;Caen;radiologie et imagerie médicale
-2016;1798;Aix-Marseille;oto-rhino-laryngologie - chirurgie cervico-faciale
+2016;1798;Marseille;oto-rhino-laryngologie - chirurgie cervico-faciale
 2016;1799;Lyon;hépato-gastro-entérologie
 2016;1800;Toulouse;anesthésie-réanimation
 2016;1801;Dijon;médecine cardiovasculaire
@@ -34769,7 +34769,7 @@ annee;rang;ville;specialite
 2016;1805;Amiens;ophtalmologie
 2016;1806;Lyon;anatomie et cytologie pathologiques
 2016;1808;Montpellier;médecine générale
-2016;1809;Aix-Marseille;pédiatrie
+2016;1809;Marseille;pédiatrie
 2016;1810;Paris;pneumologie
 2016;1811;Paris;santé publique
 2016;1812;Nantes;hépato-gastro-entérologie
@@ -34790,15 +34790,15 @@ annee;rang;ville;specialite
 2016;1827;Paris;médecine générale
 2016;1828;Rouen;neurologie
 2016;1829;Rouen;oto-rhino-laryngologie - chirurgie cervico-faciale
-2016;1830;Aix-Marseille;anesthésie-réanimation
+2016;1830;Marseille;anesthésie-réanimation
 2016;1831;Montpellier;médecine physique et de réadaptation
 2016;1832;Lille;anesthésie-réanimation
-2016;1833;Aix-Marseille;pneumologie
+2016;1833;Marseille;pneumologie
 2016;1834;Montpellier;médecine générale
 2016;1835;Toulouse;anesthésie-réanimation
-2016;1836;Aix-Marseille;médecine générale
+2016;1836;Marseille;médecine générale
 2016;1837;Lyon;gynécologie obstétrique
-2016;1838;Aix-Marseille;pneumologie
+2016;1838;Marseille;pneumologie
 2016;1839;Tours;radiologie et imagerie médicale
 2016;1840;Caen;médecine cardiovasculaire
 2016;1841;Lille;oto-rhino-laryngologie - chirurgie cervico-faciale
@@ -34864,9 +34864,9 @@ annee;rang;ville;specialite
 2016;1902;Clermont-Ferrand;médecine interne et immunologie clinique
 2016;1903;Paris;chirurgie générale
 2016;1904;Tours;médecine cardiovasculaire
-2016;1905;Aix-Marseille;gynécologie médicale
+2016;1905;Marseille;gynécologie médicale
 2016;1906;Montpellier;médecine générale
-2016;1907;Antilles-Guyane;oncologie
+2016;1907;Martinique;oncologie
 2016;1908;Brest;ophtalmologie
 2016;1909;Bordeaux;chirurgie générale
 2016;1910;Montpellier;rhumatologie
@@ -34922,7 +34922,7 @@ annee;rang;ville;specialite
 2016;1960;Paris;pneumologie
 2016;1961;Nantes;médecine générale
 2016;1962;Nancy;ophtalmologie
-2016;1963;Antilles-Guyane;dermatologie et vénéréologie
+2016;1963;Martinique;dermatologie et vénéréologie
 2016;1964;Toulouse;chirurgie générale
 2016;1965;Strasbourg;médecine générale
 2016;1966;Toulouse;anesthésie-réanimation
@@ -34946,8 +34946,8 @@ annee;rang;ville;specialite
 2016;1985;Paris;chirurgie générale
 2016;1986;Lyon;chirurgie générale
 2016;1987;Paris;médecine nucléaire
-2016;1988;Antilles-Guyane;radiologie et imagerie médicale
-2016;1989;Aix-Marseille;médecine générale
+2016;1988;Martinique;radiologie et imagerie médicale
+2016;1989;Marseille;médecine générale
 2016;1990;Paris;pédiatrie
 2016;1991;Reims;dermatologie et vénéréologie
 2016;1993;Strasbourg;oto-rhino-laryngologie - chirurgie cervico-faciale
@@ -34966,7 +34966,7 @@ annee;rang;ville;specialite
 2016;2007;Paris;pédiatrie
 2016;2008;Dijon;radiologie et imagerie médicale
 2016;2009;Strasbourg;anesthésie-réanimation
-2016;2010;Aix-Marseille;gynécologie obstétrique
+2016;2010;Marseille;gynécologie obstétrique
 2016;2011;Nancy;oncologie
 2016;2012;Lille;chirurgie générale
 2016;2013;Grenoble;hépato-gastro-entérologie
@@ -34978,7 +34978,7 @@ annee;rang;ville;specialite
 2016;2019;Strasbourg;médecine générale
 2016;2020;Angers;neurologie
 2016;2021;Nancy;dermatologie et vénéréologie
-2016;2022;Antilles-Guyane;ophtalmologie
+2016;2022;Martinique;ophtalmologie
 2016;2023;Lyon;médecine générale
 2016;2024;Poitiers;néphrologie
 2016;2025;Amiens;radiologie et imagerie médicale
@@ -34990,12 +34990,12 @@ annee;rang;ville;specialite
 2016;2031;Clermont-Ferrand;médecine interne et immunologie clinique
 2016;2032;Bordeaux;gynécologie médicale
 2016;2033;Lyon;gynécologie obstétrique
-2016;2034;Antilles-Guyane;dermatologie et vénéréologie
+2016;2034;Martinique;dermatologie et vénéréologie
 2016;2035;Paris;chirurgie générale
 2016;2036;Toulouse;pédiatrie
 2016;2037;Poitiers;dermatologie et vénéréologie
 2016;2038;Nancy;chirurgie générale
-2016;2039;Aix-Marseille;pneumologie
+2016;2039;Marseille;pneumologie
 2016;2040;Nancy;gynécologie obstétrique
 2016;2041;Paris;psychiatrie
 2016;2042;Toulouse;rhumatologie
@@ -35028,14 +35028,14 @@ annee;rang;ville;specialite
 2016;2069;Saint-Etienne;hépato-gastro-entérologie
 2016;2070;Toulouse;médecine générale
 2016;2071;Paris;chirurgie générale
-2016;2072;Antilles-Guyane;pédiatrie
+2016;2072;Martinique;pédiatrie
 2016;2073;Toulouse;chirurgie générale
 2016;2074;Montpellier;pneumologie
 2016;2075;Montpellier;pédiatrie
 2016;2076;Lille;pneumologie
-2016;2077;Aix-Marseille;psychiatrie
+2016;2077;Marseille;psychiatrie
 2016;2078;Strasbourg;médecine générale
-2016;2079;Antilles-Guyane;médecine générale
+2016;2079;Martinique;médecine générale
 2016;2080;Paris;médecine générale
 2016;2081;Reims;dermatologie et vénéréologie
 2016;2082;Nice;oto-rhino-laryngologie - chirurgie cervico-faciale
@@ -35057,19 +35057,19 @@ annee;rang;ville;specialite
 2016;2098;Lille;anesthésie-réanimation
 2016;2099;Angers;hématologie
 2016;2100;Nancy;pédiatrie
-2016;2101;Antilles-Guyane;médecine interne et immunologie clinique
+2016;2101;Martinique;médecine interne et immunologie clinique
 2016;2102;Nancy;radiologie et imagerie médicale
-2016;2103;Aix-Marseille;psychiatrie
+2016;2103;Marseille;psychiatrie
 2016;2104;Lille;oto-rhino-laryngologie - chirurgie cervico-faciale
 2016;2105;Rennes;pédiatrie
 2016;2106;Nancy;chirurgie générale
 2016;2107;Caen;médecine cardiovasculaire
 2016;2108;Amiens;neurologie
-2016;2109;Aix-Marseille;gynécologie obstétrique
+2016;2109;Marseille;gynécologie obstétrique
 2016;2110;Paris;chirurgie générale
 2016;2111;Caen;radiologie et imagerie médicale
 2016;2112;Bordeaux;gynécologie obstétrique
-2016;2113;Antilles-Guyane;médecine générale
+2016;2113;Martinique;médecine générale
 2016;2114;Toulouse;médecine générale
 2016;2115;Réunion;pédiatrie
 2016;2116;Saint-Etienne;oncologie
@@ -35078,7 +35078,7 @@ annee;rang;ville;specialite
 2016;2119;Paris;anesthésie-réanimation
 2016;2120;Paris;chirurgie générale
 2016;2121;Angers;rhumatologie
-2016;2122;Aix-Marseille;pneumologie
+2016;2122;Marseille;pneumologie
 2016;2123;Lille;rhumatologie
 2016;2124;Paris;pédiatrie
 2016;2125;Paris;gynécologie obstétrique
@@ -35113,11 +35113,11 @@ annee;rang;ville;specialite
 2016;2154;Lille;endocrinologie-diabétologie-nutrition
 2016;2155;Paris;médecine générale
 2016;2156;Tours;chirurgie générale
-2016;2157;Antilles-Guyane;ophtalmologie
+2016;2157;Martinique;ophtalmologie
 2016;2158;Tours;radiologie et imagerie médicale
 2016;2159;Strasbourg;oncologie
 2016;2160;Nice;anesthésie-réanimation
-2016;2161;Aix-Marseille;chirurgie générale
+2016;2161;Marseille;chirurgie générale
 2016;2162;Lyon;médecine générale
 2016;2163;Lille;psychiatrie
 2016;2164;Paris;chirurgie générale
@@ -35125,7 +35125,7 @@ annee;rang;ville;specialite
 2016;2166;Poitiers;chirurgie générale
 2016;2167;Bordeaux;médecine générale
 2016;2168;Nice;chirurgie générale
-2016;2169;Antilles-Guyane;radiologie et imagerie médicale
+2016;2169;Martinique;radiologie et imagerie médicale
 2016;2170;Nice;chirurgie générale
 2016;2171;Bordeaux;médecine générale
 2016;2172;Paris;chirurgie générale
@@ -35137,7 +35137,7 @@ annee;rang;ville;specialite
 2016;2178;Lille;pneumologie
 2016;2179;Paris;anesthésie-réanimation
 2016;2180;Paris;pédiatrie
-2016;2181;Antilles-Guyane;ophtalmologie
+2016;2181;Martinique;ophtalmologie
 2016;2182;Toulouse;anesthésie-réanimation
 2016;2183;Paris;anesthésie-réanimation
 2016;2184;Bordeaux;endocrinologie-diabétologie-nutrition
@@ -35149,8 +35149,8 @@ annee;rang;ville;specialite
 2016;2190;Lille;chirurgie générale
 2016;2191;Bordeaux;endocrinologie-diabétologie-nutrition
 2016;2192;Grenoble;médecine générale
-2016;2193;Aix-Marseille;gynécologie obstétrique
-2016;2194;Aix-Marseille;pneumologie
+2016;2193;Marseille;gynécologie obstétrique
+2016;2194;Marseille;pneumologie
 2016;2195;Dijon;médecine physique et de réadaptation
 2016;2196;Toulouse;rhumatologie
 2016;2197;Rouen;rhumatologie
@@ -35194,7 +35194,7 @@ annee;rang;ville;specialite
 2016;2235;Bordeaux;pédiatrie
 2016;2236;Tours;rhumatologie
 2016;2237;Amiens;médecine cardiovasculaire
-2016;2238;Antilles-Guyane;anesthésie-réanimation
+2016;2238;Martinique;anesthésie-réanimation
 2016;2239;Montpellier;chirurgie générale
 2016;2240;Paris;anesthésie-réanimation
 2016;2241;Clermont-Ferrand;médecine générale
@@ -35205,7 +35205,7 @@ annee;rang;ville;specialite
 2016;2246;Lille;pédiatrie
 2016;2247;Lille;anesthésie-réanimation
 2016;2248;Strasbourg;chirurgie générale
-2016;2249;Aix-Marseille;gynécologie médicale
+2016;2249;Marseille;gynécologie médicale
 2016;2250;Paris;pédiatrie
 2016;2251;Rouen;pneumologie
 2016;2252;Paris;biologie médicale
@@ -35213,10 +35213,10 @@ annee;rang;ville;specialite
 2016;2254;Nancy;radiologie et imagerie médicale
 2016;2255;Nantes;médecine générale
 2016;2256;Caen;médecine générale
-2016;2257;Aix-Marseille;chirurgie générale
+2016;2257;Marseille;chirurgie générale
 2016;2258;Paris;pédiatrie
 2016;2259;Toulouse;médecine générale
-2016;2260;Antilles-Guyane;médecine générale
+2016;2260;Martinique;médecine générale
 2016;2261;Rouen;néphrologie
 2016;2262;Brest;médecine générale
 2016;2263;Bordeaux;médecine générale
@@ -35280,7 +35280,7 @@ annee;rang;ville;specialite
 2016;2321;Rouen;médecine cardiovasculaire
 2016;2322;Brest;hépato-gastro-entérologie
 2016;2323;Reims;radiologie et imagerie médicale
-2016;2324;Antilles-Guyane;médecine générale
+2016;2324;Martinique;médecine générale
 2016;2325;Rennes;pédiatrie
 2016;2326;Paris;chirurgie générale
 2016;2327;Bordeaux;médecine générale
@@ -35292,7 +35292,7 @@ annee;rang;ville;specialite
 2016;2333;Rennes;médecine générale
 2016;2334;Paris;gynécologie obstétrique
 2016;2335;Besançon;médecine cardiovasculaire
-2016;2336;Aix-Marseille;gynécologie obstétrique
+2016;2336;Marseille;gynécologie obstétrique
 2016;2337;Grenoble;pédiatrie
 2016;2338;Dijon;néphrologie
 2016;2339;Nice;pédiatrie
@@ -35302,7 +35302,7 @@ annee;rang;ville;specialite
 2016;2343;Nancy;médecine interne et immunologie clinique
 2016;2344;Bordeaux;médecine générale
 2016;2345;Tours;médecine générale
-2016;2346;Aix-Marseille;médecine générale
+2016;2346;Marseille;médecine générale
 2016;2347;Dijon;oncologie
 2016;2348;Lille;gynécologie médicale
 2016;2349;Angers;anesthésie-réanimation
@@ -35327,7 +35327,7 @@ annee;rang;ville;specialite
 2016;2368;Reims;radiologie et imagerie médicale
 2016;2369;Brest;hépato-gastro-entérologie
 2016;2370;Nancy;chirurgie générale
-2016;2371;Aix-Marseille;rhumatologie
+2016;2371;Marseille;rhumatologie
 2016;2372;Toulouse;anatomie et cytologie pathologiques
 2016;2373;Besançon;néphrologie
 2016;2374;Nancy;radiologie et imagerie médicale
@@ -35338,7 +35338,7 @@ annee;rang;ville;specialite
 2016;2379;Lille;anesthésie-réanimation
 2016;2380;Nancy;neurologie
 2016;2381;Montpellier;médecine générale
-2016;2382;Aix-Marseille;gynécologie obstétrique
+2016;2382;Marseille;gynécologie obstétrique
 2016;2383;Amiens;hépato-gastro-entérologie
 2016;2384;Lille;médecine générale
 2016;2385;Rennes;gynécologie obstétrique
@@ -35358,7 +35358,7 @@ annee;rang;ville;specialite
 2016;2399;Nice;pneumologie
 2016;2400;Lille;gynécologie médicale
 2016;2401;Lille;anesthésie-réanimation
-2016;2402;Antilles-Guyane;radiologie et imagerie médicale
+2016;2402;Martinique;radiologie et imagerie médicale
 2016;2403;Paris;chirurgie générale
 2016;2404;Réunion;gynécologie obstétrique
 2016;2405;Poitiers;neurologie
@@ -35393,12 +35393,12 @@ annee;rang;ville;specialite
 2016;2434;Caen;neurochirurgie
 2016;2435;Bordeaux;pédiatrie
 2016;2436;Dijon;pneumologie
-2016;2437;Aix-Marseille;chirurgie générale
+2016;2437;Marseille;chirurgie générale
 2016;2438;Nancy;chirurgie générale
 2016;2439;Grenoble;médecine générale
 2016;2440;Lille;médecine générale
 2016;2441;Nantes;médecine générale
-2016;2442;Aix-Marseille;médecine générale
+2016;2442;Marseille;médecine générale
 2016;2443;Paris;anesthésie-réanimation
 2016;2444;Brest;oncologie
 2016;2445;Besançon;chirurgie générale
@@ -35416,9 +35416,9 @@ annee;rang;ville;specialite
 2016;2457;Montpellier;chirurgie générale
 2016;2458;Nantes;médecine générale
 2016;2459;Nantes;médecine générale
-2016;2460;Aix-Marseille;chirurgie générale
+2016;2460;Marseille;chirurgie générale
 2016;2461;Montpellier;psychiatrie
-2016;2462;Aix-Marseille;pédiatrie
+2016;2462;Marseille;pédiatrie
 2016;2463;Paris;anesthésie-réanimation
 2016;2464;Montpellier;médecine générale
 2016;2465;Bordeaux;médecine générale
@@ -35427,21 +35427,21 @@ annee;rang;ville;specialite
 2016;2468;Lyon;médecine générale
 2016;2469;Angers;hépato-gastro-entérologie
 2016;2470;Montpellier;gynécologie obstétrique
-2016;2472;Aix-Marseille;pédiatrie
+2016;2472;Marseille;pédiatrie
 2016;2473;Grenoble;médecine générale
 2016;2474;Lyon;médecine générale
 2016;2475;Paris;gynécologie obstétrique
 2016;2476;Poitiers;radiologie et imagerie médicale
 2016;2477;Nice;médecine nucléaire
 2016;2478;Paris;médecine générale
-2016;2479;Aix-Marseille;chirurgie générale
-2016;2480;Aix-Marseille;pneumologie
+2016;2479;Marseille;chirurgie générale
+2016;2480;Marseille;pneumologie
 2016;2481;Nantes;médecine générale
 2016;2482;Lyon;médecine nucléaire
 2016;2483;Amiens;chirurgie générale
 2016;2484;Paris;pédiatrie
 2016;2486;Lille;médecine générale
-2016;2487;Antilles-Guyane;médecine physique et de réadaptation
+2016;2487;Martinique;médecine physique et de réadaptation
 2016;2488;Paris;psychiatrie
 2016;2489;Paris;pédiatrie
 2016;2490;Lille;anesthésie-réanimation
@@ -35456,7 +35456,7 @@ annee;rang;ville;specialite
 2016;2499;Toulouse;médecine générale
 2016;2500;Paris;médecine générale
 2016;2501;Angers;neurochirurgie
-2016;2502;Aix-Marseille;médecine générale
+2016;2502;Marseille;médecine générale
 2016;2503;Toulouse;médecine générale
 2016;2504;Limoges;dermatologie et vénéréologie
 2016;2505;Angers;anesthésie-réanimation
@@ -35473,8 +35473,8 @@ annee;rang;ville;specialite
 2016;2516;Grenoble;médecine nucléaire
 2016;2517;Paris;médecine générale
 2016;2518;Tours;pneumologie
-2016;2519;Aix-Marseille;médecine générale
-2016;2520;Aix-Marseille;gynécologie médicale
+2016;2519;Marseille;médecine générale
+2016;2520;Marseille;gynécologie médicale
 2016;2521;Clermont-Ferrand;anesthésie-réanimation
 2016;2522;Lille;anesthésie-réanimation
 2016;2523;Rouen;médecine générale
@@ -35487,8 +35487,8 @@ annee;rang;ville;specialite
 2016;2531;Paris;pédiatrie
 2016;2532;Paris;anesthésie-réanimation
 2016;2533;Angers;anesthésie-réanimation
-2016;2534;Aix-Marseille;médecine nucléaire
-2016;2535;Antilles-Guyane;médecine cardiovasculaire
+2016;2534;Marseille;médecine nucléaire
+2016;2535;Martinique;médecine cardiovasculaire
 2016;2536;Lille;médecine générale
 2016;2537;Saint-Etienne;biologie médicale
 2016;2538;Nancy;hépato-gastro-entérologie
@@ -35503,7 +35503,7 @@ annee;rang;ville;specialite
 2016;2547;Paris;médecine générale
 2016;2548;Strasbourg;médecine nucléaire
 2016;2549;Limoges;radiologie et imagerie médicale
-2016;2550;Aix-Marseille;psychiatrie
+2016;2550;Marseille;psychiatrie
 2016;2551;Caen;médecine nucléaire
 2016;2552;Caen;radiologie et imagerie médicale
 2016;2553;Angers;pneumologie
@@ -35514,7 +35514,7 @@ annee;rang;ville;specialite
 2016;2558;Rennes;anesthésie-réanimation
 2016;2559;Paris;anesthésie-réanimation
 2016;2560;Strasbourg;anesthésie-réanimation
-2016;2561;Aix-Marseille;rhumatologie
+2016;2561;Marseille;rhumatologie
 2016;2562;Grenoble;chirurgie générale
 2016;2563;Réunion;anesthésie-réanimation
 2016;2564;Strasbourg;oncologie
@@ -35542,12 +35542,12 @@ annee;rang;ville;specialite
 2016;2587;Paris;anesthésie-réanimation
 2016;2588;Bordeaux;psychiatrie
 2016;2589;Paris;anatomie et cytologie pathologiques
-2016;2590;Aix-Marseille;psychiatrie
+2016;2590;Marseille;psychiatrie
 2016;2591;Amiens;radiologie et imagerie médicale
 2016;2592;Lille;pédiatrie
 2016;2593;Caen;médecine nucléaire
 2016;2594;Poitiers;anesthésie-réanimation
-2016;2595;Aix-Marseille;psychiatrie
+2016;2595;Marseille;psychiatrie
 2016;2596;Caen;médecine générale
 2016;2597;Reims;hépato-gastro-entérologie
 2016;2598;Nantes;médecine générale
@@ -35557,7 +35557,7 @@ annee;rang;ville;specialite
 2016;2602;Poitiers;médecine nucléaire
 2016;2603;Nice;rhumatologie
 2016;2604;Paris;chirurgie générale
-2016;2605;Aix-Marseille;pédiatrie
+2016;2605;Marseille;pédiatrie
 2016;2606;Bordeaux;médecine générale
 2016;2607;Paris;pédiatrie
 2016;2608;Grenoble;chirurgie générale
@@ -35578,13 +35578,13 @@ annee;rang;ville;specialite
 2016;2623;Paris;génétique médicale
 2016;2624;Brest;pédiatrie
 2016;2625;Lille;anesthésie-réanimation
-2016;2626;Aix-Marseille;endocrinologie-diabétologie-nutrition
+2016;2626;Marseille;endocrinologie-diabétologie-nutrition
 2016;2627;Lyon;chirurgie générale
-2016;2628;Aix-Marseille;médecine générale
+2016;2628;Marseille;médecine générale
 2016;2629;Grenoble;pédiatrie
 2016;2630;Angers;pneumologie
 2016;2631;Paris;pédiatrie
-2016;2632;Aix-Marseille;anatomie et cytologie pathologiques
+2016;2632;Marseille;anatomie et cytologie pathologiques
 2016;2633;Toulouse;gynécologie obstétrique
 2016;2634;Angers;rhumatologie
 2016;2635;Clermont-Ferrand;hépato-gastro-entérologie
@@ -35596,7 +35596,7 @@ annee;rang;ville;specialite
 2016;2641;Caen;anesthésie-réanimation
 2016;2642;Amiens;médecine cardiovasculaire
 2016;2643;Grenoble;gynécologie obstétrique
-2016;2644;Aix-Marseille;médecine générale
+2016;2644;Marseille;médecine générale
 2016;2645;Caen;neurologie
 2016;2646;Strasbourg;anesthésie-réanimation
 2016;2647;Reims;chirurgie générale
@@ -35641,9 +35641,9 @@ annee;rang;ville;specialite
 2016;2687;Brest;chirurgie générale
 2016;2688;Strasbourg;pédiatrie
 2016;2689;Rennes;médecine générale
-2016;2690;Antilles-Guyane;médecine cardiovasculaire
+2016;2690;Martinique;médecine cardiovasculaire
 2016;2691;Bordeaux;endocrinologie-diabétologie-nutrition
-2016;2692;Aix-Marseille;chirurgie générale
+2016;2692;Marseille;chirurgie générale
 2016;2693;Caen;rhumatologie
 2016;2694;Nancy;pédiatrie
 2016;2695;Lyon;chirurgie générale
@@ -35655,7 +35655,7 @@ annee;rang;ville;specialite
 2016;2701;Strasbourg;oncologie
 2016;2702;Montpellier;endocrinologie-diabétologie-nutrition
 2016;2703;Nantes;gynécologie médicale
-2016;2704;Aix-Marseille;pédiatrie
+2016;2704;Marseille;pédiatrie
 2016;2705;Clermont-Ferrand;chirurgie générale
 2016;2706;Paris;anesthésie-réanimation
 2016;2707;Brest;chirurgie générale
@@ -35668,7 +35668,7 @@ annee;rang;ville;specialite
 2016;2714;Paris;pédiatrie
 2016;2715;Nantes;médecine générale
 2016;2716;Rouen;chirurgie générale
-2016;2717;Aix-Marseille;hématologie
+2016;2717;Marseille;hématologie
 2016;2718;Dijon;anesthésie-réanimation
 2016;2719;Tours;chirurgie générale
 2016;2720;Toulouse;médecine physique et de réadaptation
@@ -35689,12 +35689,12 @@ annee;rang;ville;specialite
 2016;2735;Strasbourg;gynécologie obstétrique
 2016;2736;Paris;endocrinologie-diabétologie-nutrition
 2016;2737;Angers;chirurgie générale
-2016;2738;Aix-Marseille;pédiatrie
+2016;2738;Marseille;pédiatrie
 2016;2739;Paris;gynécologie obstétrique
 2016;2740;Angers;hépato-gastro-entérologie
 2016;2741;Strasbourg;psychiatrie
 2016;2742;Paris;gynécologie obstétrique
-2016;2743;Aix-Marseille;médecine générale
+2016;2743;Marseille;médecine générale
 2016;2744;Lille;médecine générale
 2016;2745;Besançon;médecine cardiovasculaire
 2016;2746;Brest;médecine cardiovasculaire
@@ -35726,7 +35726,7 @@ annee;rang;ville;specialite
 2016;2772;Toulouse;médecine générale
 2016;2773;Amiens;anesthésie-réanimation
 2016;2774;Paris;endocrinologie-diabétologie-nutrition
-2016;2775;Antilles-Guyane;néphrologie
+2016;2775;Martinique;néphrologie
 2016;2776;Paris;pédiatrie
 2016;2778;Paris;anesthésie-réanimation
 2016;2779;Nancy;chirurgie générale
@@ -35738,7 +35738,7 @@ annee;rang;ville;specialite
 2016;2785;Caen;médecine nucléaire
 2016;2786;Grenoble;oto-rhino-laryngologie - chirurgie cervico-faciale
 2016;2787;Amiens;hépato-gastro-entérologie
-2016;2788;Aix-Marseille;médecine générale
+2016;2788;Marseille;médecine générale
 2016;2789;Bordeaux;médecine générale
 2016;2790;Lille;gynécologie obstétrique
 2016;2791;Tours;pédiatrie
@@ -35748,7 +35748,7 @@ annee;rang;ville;specialite
 2016;2795;Paris;endocrinologie-diabétologie-nutrition
 2016;2797;Toulouse;médecine générale
 2016;2798;Paris;médecine générale
-2016;2799;Antilles-Guyane;médecine générale
+2016;2799;Martinique;médecine générale
 2016;2800;Paris;endocrinologie-diabétologie-nutrition
 2016;2801;Paris;chirurgie générale
 2016;2802;Nancy;médecine interne et immunologie clinique
@@ -35831,15 +35831,15 @@ annee;rang;ville;specialite
 2016;2879;Nancy;oto-rhino-laryngologie - chirurgie cervico-faciale
 2016;2880;Bordeaux;médecine générale
 2016;2881;Lille;gynécologie obstétrique
-2016;2882;Aix-Marseille;chirurgie générale
-2016;2883;Aix-Marseille;psychiatrie
+2016;2882;Marseille;chirurgie générale
+2016;2883;Marseille;psychiatrie
 2016;2884;Paris;pédiatrie
 2016;2885;Nancy;oto-rhino-laryngologie - chirurgie cervico-faciale
 2016;2886;Saint-Etienne;gynécologie obstétrique
 2016;2887;Paris;médecine générale
 2016;2888;Paris;gynécologie obstétrique
 2016;2889;Paris;chirurgie générale
-2016;2890;Aix-Marseille;chirurgie générale
+2016;2890;Marseille;chirurgie générale
 2016;2891;Lille;endocrinologie-diabétologie-nutrition
 2016;2892;Grenoble;psychiatrie
 2016;2893;Nantes;médecine générale
@@ -35854,14 +35854,14 @@ annee;rang;ville;specialite
 2016;2904;Nancy;chirurgie générale
 2016;2905;Lyon;psychiatrie
 2016;2906;Paris;anesthésie-réanimation
-2016;2907;Aix-Marseille;médecine générale
+2016;2907;Marseille;médecine générale
 2016;2908;Paris;anesthésie-réanimation
-2016;2909;Aix-Marseille;chirurgie générale
+2016;2909;Marseille;chirurgie générale
 2016;2910;Clermont-Ferrand;oncologie
 2016;2911;Lille;pédiatrie
 2016;2912;Angers;chirurgie générale
 2016;2913;Rouen;médecine générale
-2016;2914;Antilles-Guyane;anesthésie-réanimation
+2016;2914;Martinique;anesthésie-réanimation
 2016;2916;Limoges;oto-rhino-laryngologie - chirurgie cervico-faciale
 2016;2917;Strasbourg;chirurgie générale
 2016;2918;Clermont-Ferrand;rhumatologie
@@ -35869,7 +35869,7 @@ annee;rang;ville;specialite
 2016;2920;Tours;chirurgie générale
 2016;2921;Amiens;chirurgie générale
 2016;2922;Toulouse;endocrinologie-diabétologie-nutrition
-2016;2923;Aix-Marseille;psychiatrie
+2016;2923;Marseille;psychiatrie
 2016;2924;Lille;chirurgie générale
 2016;2925;Grenoble;gynécologie obstétrique
 2016;2926;Paris;gynécologie médicale
@@ -35881,13 +35881,13 @@ annee;rang;ville;specialite
 2016;2932;Clermont-Ferrand;gynécologie obstétrique
 2016;2933;Nice;médecine générale
 2016;2934;Brest;pédiatrie
-2016;2935;Antilles-Guyane;anesthésie-réanimation
+2016;2935;Martinique;anesthésie-réanimation
 2016;2936;Nancy;anatomie et cytologie pathologiques
 2016;2937;Reims;médecine générale
 2016;2938;Poitiers;anesthésie-réanimation
 2016;2939;Nice;chirurgie générale
 2016;2940;Bordeaux;médecine générale
-2016;2941;Aix-Marseille;médecine générale
+2016;2941;Marseille;médecine générale
 2016;2942;Nantes;psychiatrie
 2016;2943;Clermont-Ferrand;anesthésie-réanimation
 2016;2944;Paris;pédiatrie
@@ -35899,12 +35899,12 @@ annee;rang;ville;specialite
 2016;2950;Paris;pédiatrie
 2016;2951;Lille;anatomie et cytologie pathologiques
 2016;2952;Grenoble;endocrinologie-diabétologie-nutrition
-2016;2953;Antilles-Guyane;hépato-gastro-entérologie
+2016;2953;Martinique;hépato-gastro-entérologie
 2016;2954;Clermont-Ferrand;médecine nucléaire
 2016;2955;Nancy;médecine générale
 2016;2956;Strasbourg;médecine générale
 2016;2957;Amiens;chirurgie générale
-2016;2958;Aix-Marseille;chirurgie générale
+2016;2958;Marseille;chirurgie générale
 2016;2959;Nancy;gynécologie obstétrique
 2016;2960;Brest;anesthésie-réanimation
 2016;2961;Lyon;pédiatrie
@@ -35913,7 +35913,7 @@ annee;rang;ville;specialite
 2016;2964;Nancy;pneumologie
 2016;2965;Paris;gynécologie obstétrique
 2016;2966;Caen;neurologie
-2016;2967;Aix-Marseille;médecine générale
+2016;2967;Marseille;médecine générale
 2016;2968;Paris;anesthésie-réanimation
 2016;2969;Nantes;médecine générale
 2016;2970;Caen;hépato-gastro-entérologie
@@ -35936,17 +35936,17 @@ annee;rang;ville;specialite
 2016;2987;Angers;gynécologie obstétrique
 2016;2988;Besançon;médecine interne et immunologie clinique
 2016;2989;Rennes;médecine générale
-2016;2990;Aix-Marseille;pédiatrie
+2016;2990;Marseille;pédiatrie
 2016;2991;Nantes;médecine générale
 2016;2992;Lille;pédiatrie
 2016;2993;Paris;pédiatrie
 2016;2994;Toulouse;médecine et santé au travail
-2016;2995;Aix-Marseille;médecine générale
+2016;2995;Marseille;médecine générale
 2016;2996;Bordeaux;anatomie et cytologie pathologiques
 2016;2997;Rennes;chirurgie générale
 2016;2998;Clermont-Ferrand;médecine générale
 2016;2999;Lyon;médecine générale
-2016;3000;Aix-Marseille;médecine générale
+2016;3000;Marseille;médecine générale
 2016;3001;Lyon;médecine générale
 2016;3002;Reims;hépato-gastro-entérologie
 2016;3003;Paris;anesthésie-réanimation
@@ -35984,7 +35984,7 @@ annee;rang;ville;specialite
 2016;3036;Rennes;médecine générale
 2016;3037;Brest;pédiatrie
 2016;3038;Lyon;médecine générale
-2016;3039;Antilles-Guyane;anesthésie-réanimation
+2016;3039;Martinique;anesthésie-réanimation
 2016;3040;Lyon;psychiatrie
 2016;3041;Paris;gynécologie obstétrique
 2016;3042;Rennes;médecine et santé au travail
@@ -36049,9 +36049,9 @@ annee;rang;ville;specialite
 2016;3104;Clermont-Ferrand;chirurgie générale
 2016;3106;Bordeaux;psychiatrie
 2016;3107;Nantes;médecine générale
-2016;3108;Aix-Marseille;médecine générale
+2016;3108;Marseille;médecine générale
 2016;3109;Paris;psychiatrie
-2016;3110;Aix-Marseille;pédiatrie
+2016;3110;Marseille;pédiatrie
 2016;3111;Besançon;néphrologie
 2016;3112;Grenoble;pédiatrie
 2016;3113;Amiens;chirurgie générale
@@ -36071,7 +36071,7 @@ annee;rang;ville;specialite
 2016;3128;Dijon;médecine générale
 2016;3129;Toulouse;chirurgie orale
 2016;3130;Grenoble;médecine générale
-2016;3131;Antilles-Guyane;anesthésie-réanimation
+2016;3131;Martinique;anesthésie-réanimation
 2016;3132;Réunion;chirurgie générale
 2016;3133;Besançon;anesthésie-réanimation
 2016;3134;Brest;médecine générale
@@ -36080,7 +36080,7 @@ annee;rang;ville;specialite
 2016;3137;Amiens;neurologie
 2016;3138;Lille;gynécologie obstétrique
 2016;3139;Dijon;hépato-gastro-entérologie
-2016;3140;Antilles-Guyane;anesthésie-réanimation
+2016;3140;Martinique;anesthésie-réanimation
 2016;3141;Paris;médecine physique et de réadaptation
 2016;3142;Paris;pédiatrie
 2016;3143;Lyon;médecine générale
@@ -36099,18 +36099,18 @@ annee;rang;ville;specialite
 2016;3156;Caen;anesthésie-réanimation
 2016;3157;Toulouse;médecine et santé au travail
 2016;3158;Poitiers;chirurgie générale
-2016;3159;Antilles-Guyane;chirurgie générale
+2016;3159;Martinique;chirurgie générale
 2016;3160;Dijon;hépato-gastro-entérologie
 2016;3161;Grenoble;médecine générale
 2016;3162;Strasbourg;médecine générale
 2016;3163;Paris;gynécologie médicale
 2016;3164;Toulouse;pédiatrie
 2016;3165;Reims;neurologie
-2016;3167;Antilles-Guyane;anesthésie-réanimation
+2016;3167;Martinique;anesthésie-réanimation
 2016;3168;Bordeaux;médecine générale
 2016;3169;Montpellier;médecine physique et de réadaptation
 2016;3170;Rennes;médecine générale
-2016;3171;Aix-Marseille;chirurgie générale
+2016;3171;Marseille;chirurgie générale
 2016;3172;Caen;chirurgie générale
 2016;3173;Saint-Etienne;anesthésie-réanimation
 2016;3174;Montpellier;pédiatrie
@@ -36122,12 +36122,12 @@ annee;rang;ville;specialite
 2016;3180;Rennes;gynécologie obstétrique
 2016;3182;Paris;pédiatrie
 2016;3183;Paris;gynécologie obstétrique
-2016;3184;Aix-Marseille;chirurgie générale
+2016;3184;Marseille;chirurgie générale
 2016;3185;Nantes;médecine générale
 2016;3186;Lille;gynécologie médicale
 2016;3187;Amiens;chirurgie générale
 2016;3188;Paris;médecine générale
-2016;3189;Antilles-Guyane;anesthésie-réanimation
+2016;3189;Martinique;anesthésie-réanimation
 2016;3190;Paris;médecine générale
 2016;3191;Angers;médecine générale
 2016;3192;Rouen;chirurgie générale
@@ -36179,7 +36179,7 @@ annee;rang;ville;specialite
 2016;3238;Reims;rhumatologie
 2016;3239;Amiens;anesthésie-réanimation
 2016;3240;Montpellier;psychiatrie
-2016;3241;Antilles-Guyane;gynécologie obstétrique
+2016;3241;Martinique;gynécologie obstétrique
 2016;3242;Paris;gynécologie obstétrique
 2016;3243;Toulouse;médecine générale
 2016;3244;Caen;médecine générale
@@ -36228,11 +36228,11 @@ annee;rang;ville;specialite
 2016;3287;Paris;gynécologie obstétrique
 2016;3288;Besançon;anesthésie-réanimation
 2016;3289;Strasbourg;pédiatrie
-2016;3290;Antilles-Guyane;chirurgie générale
+2016;3290;Martinique;chirurgie générale
 2016;3291;Paris;médecine générale
 2016;3292;Nancy;chirurgie générale
 2016;3293;Toulouse;psychiatrie
-2016;3294;Aix-Marseille;médecine générale
+2016;3294;Marseille;médecine générale
 2016;3295;Rouen;gynécologie médicale
 2016;3296;Paris;pédiatrie
 2016;3297;Toulouse;médecine générale
@@ -36245,8 +36245,8 @@ annee;rang;ville;specialite
 2016;3304;Clermont-Ferrand;chirurgie générale
 2016;3305;Lille;pédiatrie
 2016;3306;Saint-Etienne;chirurgie générale
-2016;3307;Aix-Marseille;médecine générale
-2016;3308;Antilles-Guyane;chirurgie générale
+2016;3307;Marseille;médecine générale
+2016;3308;Martinique;chirurgie générale
 2016;3309;Rennes;médecine générale
 2016;3310;Paris;santé publique
 2016;3311;Nancy;anesthésie-réanimation
@@ -36257,7 +36257,7 @@ annee;rang;ville;specialite
 2016;3316;Montpellier;médecine physique et de réadaptation
 2016;3317;Grenoble;médecine générale
 2016;3318;Caen;hématologie
-2016;3319;Aix-Marseille;médecine générale
+2016;3319;Marseille;médecine générale
 2016;3320;Nancy;anatomie et cytologie pathologiques
 2016;3321;Montpellier;médecine physique et de réadaptation
 2016;3322;Rouen;médecine générale
@@ -36271,7 +36271,7 @@ annee;rang;ville;specialite
 2016;3330;Caen;anesthésie-réanimation
 2016;3331;Nantes;chirurgie générale
 2016;3332;Toulouse;endocrinologie-diabétologie-nutrition
-2016;3333;Antilles-Guyane;chirurgie générale
+2016;3333;Martinique;chirurgie générale
 2016;3334;Rouen;pneumologie
 2016;3335;Tours;anesthésie-réanimation
 2016;3336;Caen;anesthésie-réanimation
@@ -36309,7 +36309,7 @@ annee;rang;ville;specialite
 2016;3368;Strasbourg;médecine générale
 2016;3369;Nancy;hématologie
 2016;3370;Nantes;médecine générale
-2016;3371;Antilles-Guyane;oto-rhino-laryngologie - chirurgie cervico-faciale
+2016;3371;Martinique;oto-rhino-laryngologie - chirurgie cervico-faciale
 2016;3372;Rouen;pneumologie
 2016;3373;Reims;anesthésie-réanimation
 2016;3374;Nantes;médecine générale
@@ -36322,7 +36322,7 @@ annee;rang;ville;specialite
 2016;3381;Rennes;médecine générale
 2016;3382;Paris;médecine générale
 2016;3383;Reims;médecine générale
-2016;3384;Antilles-Guyane;hépato-gastro-entérologie
+2016;3384;Martinique;hépato-gastro-entérologie
 2016;3385;Tours;anesthésie-réanimation
 2016;3386;Poitiers;rhumatologie
 2016;3387;Lille;gynécologie obstétrique
@@ -36336,14 +36336,14 @@ annee;rang;ville;specialite
 2016;3395;Caen;ophtalmologie
 2016;3396;Paris;pédiatrie
 2016;3397;Clermont-Ferrand;anesthésie-réanimation
-2016;3398;Antilles-Guyane;néphrologie
+2016;3398;Martinique;néphrologie
 2016;3399;Montpellier;médecine générale
 2016;3400;Saint-Etienne;oto-rhino-laryngologie - chirurgie cervico-faciale
 2016;3401;Nice;médecine générale
-2016;3402;Aix-Marseille;médecine générale
+2016;3402;Marseille;médecine générale
 2016;3403;Paris;médecine physique et de réadaptation
 2016;3404;Saint-Etienne;rhumatologie
-2016;3405;Aix-Marseille;psychiatrie
+2016;3405;Marseille;psychiatrie
 2016;3406;Toulouse;anatomie et cytologie pathologiques
 2016;3407;Tours;anatomie et cytologie pathologiques
 2016;3408;Strasbourg;médecine générale
@@ -36361,9 +36361,9 @@ annee;rang;ville;specialite
 2016;3420;Paris;pédiatrie
 2016;3421;Limoges;médecine interne et immunologie clinique
 2016;3422;Rennes;médecine générale
-2016;3423;Antilles-Guyane;médecine générale
+2016;3423;Martinique;médecine générale
 2016;3424;Poitiers;chirurgie générale
-2016;3425;Aix-Marseille;médecine générale
+2016;3425;Marseille;médecine générale
 2016;3427;Poitiers;rhumatologie
 2016;3428;Lille;médecine et santé au travail
 2016;3429;Brest;oncologie
@@ -36377,7 +36377,7 @@ annee;rang;ville;specialite
 2016;3437;Caen;anesthésie-réanimation
 2016;3438;Strasbourg;gynécologie obstétrique
 2016;3439;Nantes;chirurgie générale
-2016;3440;Aix-Marseille;médecine générale
+2016;3440;Marseille;médecine générale
 2016;3441;Nancy;gynécologie obstétrique
 2016;3442;Reims;médecine générale
 2016;3444;Clermont-Ferrand;anesthésie-réanimation
@@ -36396,18 +36396,18 @@ annee;rang;ville;specialite
 2016;3457;Lille;pédiatrie
 2016;3458;Toulouse;médecine générale
 2016;3459;Poitiers;chirurgie générale
-2016;3460;Aix-Marseille;médecine générale
+2016;3460;Marseille;médecine générale
 2016;3461;Rennes;médecine générale
 2016;3462;Rennes;médecine générale
 2016;3463;Lille;médecine générale
 2016;3464;Besançon;anesthésie-réanimation
 2016;3465;Bordeaux;médecine générale
 2016;3466;Besançon;anesthésie-réanimation
-2016;3467;Aix-Marseille;médecine générale
+2016;3467;Marseille;médecine générale
 2016;3468;Saint-Etienne;chirurgie générale
-2016;3469;Antilles-Guyane;anesthésie-réanimation
+2016;3469;Martinique;anesthésie-réanimation
 2016;3470;Limoges;pneumologie
-2016;3471;Aix-Marseille;médecine générale
+2016;3471;Marseille;médecine générale
 2016;3472;Paris;médecine générale
 2016;3473;Reims;anesthésie-réanimation
 2016;3474;Lille;médecine générale
@@ -36432,7 +36432,7 @@ annee;rang;ville;specialite
 2016;3493;Paris;psychiatrie
 2016;3494;Caen;gynécologie obstétrique
 2016;3495;Réunion;pneumologie
-2016;3496;Aix-Marseille;médecine générale
+2016;3496;Marseille;médecine générale
 2016;3497;Paris;médecine générale
 2016;3498;Besançon;endocrinologie-diabétologie-nutrition
 2016;3499;Clermont-Ferrand;génétique médicale
@@ -36441,7 +36441,7 @@ annee;rang;ville;specialite
 2016;3502;Rouen;chirurgie générale
 2016;3503;Nantes;psychiatrie
 2016;3504;Rouen;oncologie
-2016;3505;Aix-Marseille;médecine générale
+2016;3505;Marseille;médecine générale
 2016;3506;Reims;anesthésie-réanimation
 2016;3507;Reims;anesthésie-réanimation
 2016;3508;Caen;chirurgie orale
@@ -36452,22 +36452,22 @@ annee;rang;ville;specialite
 2016;3513;Amiens;médecine générale
 2016;3514;Limoges;néphrologie
 2016;3515;Réunion;pédiatrie
-2016;3516;Aix-Marseille;médecine générale
+2016;3516;Marseille;médecine générale
 2016;3517;Besançon;médecine générale
 2016;3518;Lille;endocrinologie-diabétologie-nutrition
 2016;3519;Nantes;médecine générale
 2016;3520;Grenoble;médecine générale
 2016;3521;Saint-Etienne;pneumologie
 2016;3522;Limoges;chirurgie générale
-2016;3523;Aix-Marseille;médecine générale
+2016;3523;Marseille;médecine générale
 2016;3524;Reims;anesthésie-réanimation
 2016;3525;Lille;médecine générale
-2016;3526;Aix-Marseille;médecine générale
-2016;3527;Aix-Marseille;médecine générale
+2016;3526;Marseille;médecine générale
+2016;3527;Marseille;médecine générale
 2016;3528;Lille;médecine générale
 2016;3529;Paris;pédiatrie
 2016;3530;Nice;médecine générale
-2016;3531;Antilles-Guyane;médecine générale
+2016;3531;Martinique;médecine générale
 2016;3532;Angers;chirurgie générale
 2016;3533;Besançon;hépato-gastro-entérologie
 2016;3534;Reims;chirurgie générale
@@ -36506,7 +36506,7 @@ annee;rang;ville;specialite
 2016;3568;Rouen;chirurgie générale
 2016;3569;Paris;médecine générale
 2016;3570;Rennes;gynécologie obstétrique
-2016;3571;Aix-Marseille;chirurgie générale
+2016;3571;Marseille;chirurgie générale
 2016;3572;Rouen;chirurgie générale
 2016;3573;Clermont-Ferrand;gynécologie obstétrique
 2016;3574;Montpellier;médecine générale
@@ -36528,7 +36528,7 @@ annee;rang;ville;specialite
 2016;3590;Limoges;anesthésie-réanimation
 2016;3591;Montpellier;médecine physique et de réadaptation
 2016;3592;Reims;médecine générale
-2016;3593;Aix-Marseille;médecine générale
+2016;3593;Marseille;médecine générale
 2016;3594;Amiens;anatomie et cytologie pathologiques
 2016;3595;Amiens;pneumologie
 2016;3596;Poitiers;rhumatologie
@@ -36543,7 +36543,7 @@ annee;rang;ville;specialite
 2016;3605;Lille;gynécologie obstétrique
 2016;3606;Reims;gynécologie médicale
 2016;3607;Nantes;médecine générale
-2016;3608;Aix-Marseille;anatomie et cytologie pathologiques
+2016;3608;Marseille;anatomie et cytologie pathologiques
 2016;3609;Amiens;médecine générale
 2016;3610;Rouen;chirurgie orale
 2016;3611;Besançon;oto-rhino-laryngologie - chirurgie cervico-faciale
@@ -36563,7 +36563,7 @@ annee;rang;ville;specialite
 2016;3626;Lyon;médecine générale
 2016;3627;Lille;médecine générale
 2016;3628;Nancy;médecine générale
-2016;3629;Antilles-Guyane;médecine générale
+2016;3629;Martinique;médecine générale
 2016;3630;Toulouse;médecine physique et de réadaptation
 2016;3631;Nantes;médecine générale
 2016;3632;Bordeaux;médecine générale
@@ -36585,7 +36585,7 @@ annee;rang;ville;specialite
 2016;3648;Paris;médecine physique et de réadaptation
 2016;3649;Reims;chirurgie générale
 2016;3650;Lille;médecine générale
-2016;3651;Aix-Marseille;médecine générale
+2016;3651;Marseille;médecine générale
 2016;3652;Grenoble;chirurgie générale
 2016;3653;Nantes;chirurgie orale
 2016;3654;Poitiers;médecine générale
@@ -36601,13 +36601,13 @@ annee;rang;ville;specialite
 2016;3664;Montpellier;médecine générale
 2016;3665;Amiens;pédiatrie
 2016;3666;Montpellier;médecine générale
-2016;3667;Antilles-Guyane;psychiatrie
+2016;3667;Martinique;psychiatrie
 2016;3668;Strasbourg;gynécologie obstétrique
-2016;3669;Antilles-Guyane;médecine physique et de réadaptation
+2016;3669;Martinique;médecine physique et de réadaptation
 2016;3670;Montpellier;médecine générale
 2016;3671;Dijon;psychiatrie
 2016;3672;Grenoble;médecine générale
-2016;3673;Aix-Marseille;médecine générale
+2016;3673;Marseille;médecine générale
 2016;3675;Bordeaux;médecine générale
 2016;3676;Réunion;pneumologie
 2016;3677;Paris;médecine générale
@@ -36678,14 +36678,14 @@ annee;rang;ville;specialite
 2016;3743;Clermont-Ferrand;pneumologie
 2016;3744;Rennes;médecine générale
 2016;3745;Clermont-Ferrand;anatomie et cytologie pathologiques
-2016;3746;Antilles-Guyane;gynécologie obstétrique
+2016;3746;Martinique;gynécologie obstétrique
 2016;3747;Limoges;rhumatologie
 2016;3748;Poitiers;chirurgie générale
 2016;3749;Nantes;médecine générale
 2016;3750;Amiens;rhumatologie
 2016;3751;Brest;biologie médicale
 2016;3752;Brest;médecine générale
-2016;3753;Antilles-Guyane;gynécologie obstétrique
+2016;3753;Martinique;gynécologie obstétrique
 2016;3754;Réunion;pédiatrie
 2016;3755;Montpellier;médecine générale
 2016;3756;Lille;chirurgie générale
@@ -36694,7 +36694,7 @@ annee;rang;ville;specialite
 2016;3761;Strasbourg;médecine générale
 2016;3762;Besançon;chirurgie générale
 2016;3763;Dijon;hématologie
-2016;3764;Aix-Marseille;chirurgie générale
+2016;3764;Marseille;chirurgie générale
 2016;3765;Paris;médecine générale
 2016;3766;Lille;pédiatrie
 2016;3767;Montpellier;médecine générale
@@ -36705,7 +36705,7 @@ annee;rang;ville;specialite
 2016;3772;Lyon;médecine générale
 2016;3773;Paris;pédiatrie
 2016;3774;Toulouse;médecine générale
-2016;3775;Antilles-Guyane;pneumologie
+2016;3775;Martinique;pneumologie
 2016;3776;Nantes;chirurgie générale
 2016;3777;Grenoble;pédiatrie
 2016;3778;Toulouse;médecine générale
@@ -36713,7 +36713,7 @@ annee;rang;ville;specialite
 2016;3780;Poitiers;gynécologie obstétrique
 2016;3781;Clermont-Ferrand;pneumologie
 2016;3782;Réunion;médecine générale
-2016;3783;Aix-Marseille;médecine générale
+2016;3783;Marseille;médecine générale
 2016;3784;Lyon;médecine générale
 2016;3785;Lille;médecine générale
 2016;3786;Lille;pédiatrie
@@ -36722,12 +36722,12 @@ annee;rang;ville;specialite
 2016;3789;Tours;pneumologie
 2016;3790;Paris;médecine générale
 2016;3791;Paris;gynécologie médicale
-2016;3792;Antilles-Guyane;chirurgie générale
+2016;3792;Martinique;chirurgie générale
 2016;3793;Paris;pédiatrie
 2016;3794;Paris;gynécologie médicale
 2016;3795;Clermont-Ferrand;pneumologie
 2016;3796;Lyon;médecine générale
-2016;3797;Aix-Marseille;médecine générale
+2016;3797;Marseille;médecine générale
 2016;3798;Grenoble;médecine générale
 2016;3799;Bordeaux;médecine générale
 2016;3800;Rennes;médecine générale
@@ -36735,7 +36735,7 @@ annee;rang;ville;specialite
 2016;3802;Besançon;pneumologie
 2016;3803;Lyon;médecine générale
 2016;3804;Montpellier;médecine générale
-2016;3805;Antilles-Guyane;pneumologie
+2016;3805;Martinique;pneumologie
 2016;3806;Paris;psychiatrie
 2016;3807;Clermont-Ferrand;chirurgie générale
 2016;3808;Bordeaux;médecine générale
@@ -36745,13 +36745,13 @@ annee;rang;ville;specialite
 2016;3812;Poitiers;anatomie et cytologie pathologiques
 2016;3813;Caen;pneumologie
 2016;3814;Brest;pneumologie
-2016;3815;Antilles-Guyane;radiologie et imagerie médicale
+2016;3815;Martinique;radiologie et imagerie médicale
 2016;3816;Lille;pédiatrie
 2016;3817;Lille;chirurgie générale
 2016;3818;Rouen;pédiatrie
 2016;3819;Strasbourg;médecine physique et de réadaptation
 2016;3820;Rouen;chirurgie générale
-2016;3822;Antilles-Guyane;médecine générale
+2016;3822;Martinique;médecine générale
 2016;3823;Nancy;médecine générale
 2016;3824;Clermont-Ferrand;médecine générale
 2016;3825;Rennes;gynécologie médicale
@@ -36768,11 +36768,11 @@ annee;rang;ville;specialite
 2016;3836;Besançon;pneumologie
 2016;3837;Caen;pneumologie
 2016;3838;Angers;anatomie et cytologie pathologiques
-2016;3839;Antilles-Guyane;hépato-gastro-entérologie
-2016;3840;Antilles-Guyane;chirurgie générale
+2016;3839;Martinique;hépato-gastro-entérologie
+2016;3840;Martinique;chirurgie générale
 2016;3841;Paris;médecine générale
 2016;3842;Nice;pédiatrie
-2016;3844;Aix-Marseille;médecine physique et de réadaptation
+2016;3844;Marseille;médecine physique et de réadaptation
 2016;3845;Poitiers;gynécologie obstétrique
 2016;3846;Strasbourg;pédiatrie
 2016;3847;Toulouse;médecine générale
@@ -36798,10 +36798,10 @@ annee;rang;ville;specialite
 2016;3867;Lille;chirurgie générale
 2016;3868;Dijon;gynécologie obstétrique
 2016;3869;Paris;pédiatrie
-2016;3870;Aix-Marseille;médecine générale
+2016;3870;Marseille;médecine générale
 2016;3871;Dijon;neurochirurgie
 2016;3872;Rennes;médecine générale
-2016;3873;Aix-Marseille;médecine générale
+2016;3873;Marseille;médecine générale
 2016;3874;Paris;pédiatrie
 2016;3875;Poitiers;gynécologie obstétrique
 2016;3876;Saint-Etienne;médecine générale
@@ -36821,7 +36821,7 @@ annee;rang;ville;specialite
 2016;3890;Dijon;anatomie et cytologie pathologiques
 2016;3891;Paris;médecine générale
 2016;3892;Saint-Etienne;hématologie
-2016;3893;Aix-Marseille;médecine générale
+2016;3893;Marseille;médecine générale
 2016;3894;Saint-Etienne;médecine générale
 2016;3895;Reims;gynécologie obstétrique
 2016;3896;Paris;médecine générale
@@ -36899,11 +36899,11 @@ annee;rang;ville;specialite
 2016;3969;Paris;médecine et santé au travail
 2016;3970;Besançon;gynécologie obstétrique
 2016;3972;Angers;médecine générale
-2016;3973;Aix-Marseille;chirurgie générale
+2016;3973;Marseille;chirurgie générale
 2016;3975;Bordeaux;médecine physique et de réadaptation
 2016;3976;Paris;médecine générale
-2016;3977;Antilles-Guyane;gynécologie obstétrique
-2016;3978;Aix-Marseille;médecine générale
+2016;3977;Martinique;gynécologie obstétrique
+2016;3978;Marseille;médecine générale
 2016;3979;Besançon;hématologie
 2016;3980;Saint-Etienne;médecine générale
 2016;3981;Caen;chirurgie générale
@@ -36918,9 +36918,9 @@ annee;rang;ville;specialite
 2016;3990;Besançon;pédiatrie
 2016;3991;Montpellier;médecine générale
 2016;3992;Paris;médecine générale
-2016;3993;Aix-Marseille;médecine physique et de réadaptation
+2016;3993;Marseille;médecine physique et de réadaptation
 2016;3994;Dijon;médecine générale
-2016;3995;Aix-Marseille;médecine générale
+2016;3995;Marseille;médecine générale
 2016;3996;Lille;médecine générale
 2016;3997;Reims;gynécologie médicale
 2016;3998;Dijon;médecine générale
@@ -36947,14 +36947,14 @@ annee;rang;ville;specialite
 2016;4021;Clermont-Ferrand;médecine générale
 2016;4022;Lyon;médecine générale
 2016;4023;Angers;médecine générale
-2016;4024;Aix-Marseille;chirurgie générale
+2016;4024;Marseille;chirurgie générale
 2016;4025;Rennes;médecine générale
 2016;4026;Besançon;médecine générale
 2016;4027;Grenoble;médecine générale
 2016;4028;Bordeaux;médecine générale
 2016;4029;Rennes;médecine générale
 2016;4030;Lille;médecine générale
-2016;4031;Aix-Marseille;médecine et santé au travail
+2016;4031;Marseille;médecine et santé au travail
 2016;4032;Lille;médecine générale
 2016;4033;Nantes;médecine générale
 2016;4034;Rennes;médecine générale
@@ -36962,19 +36962,19 @@ annee;rang;ville;specialite
 2016;4036;Toulouse;médecine générale
 2016;4037;Strasbourg;chirurgie générale
 2016;4038;Brest;médecine générale
-2016;4039;Antilles-Guyane;médecine générale
+2016;4039;Martinique;médecine générale
 2016;4040;Reims;médecine générale
 2016;4041;Bordeaux;psychiatrie
 2016;4042;Rennes;médecine générale
-2016;4044;Aix-Marseille;médecine générale
+2016;4044;Marseille;médecine générale
 2016;4045;Clermont-Ferrand;pédiatrie
 2016;4046;Nice;chirurgie générale
 2016;4047;Poitiers;chirurgie générale
 2016;4048;Reims;gynécologie obstétrique
 2016;4049;Lille;médecine générale
 2016;4050;Nice;médecine générale
-2016;4051;Aix-Marseille;médecine générale
-2016;4052;Antilles-Guyane;chirurgie générale
+2016;4051;Marseille;médecine générale
+2016;4052;Martinique;chirurgie générale
 2016;4054;Montpellier;médecine générale
 2016;4055;Nantes;endocrinologie-diabétologie-nutrition
 2016;4056;Paris;médecine générale
@@ -36991,7 +36991,7 @@ annee;rang;ville;specialite
 2016;4068;Strasbourg;chirurgie générale
 2016;4069;Lille;médecine physique et de réadaptation
 2016;4070;Bordeaux;médecine générale
-2016;4071;Aix-Marseille;médecine générale
+2016;4071;Marseille;médecine générale
 2016;4072;Clermont-Ferrand;pédiatrie
 2016;4073;Nantes;médecine générale
 2016;4074;Dijon;médecine générale
@@ -36999,7 +36999,7 @@ annee;rang;ville;specialite
 2016;4076;Dijon;médecine générale
 2016;4077;Tours;anatomie et cytologie pathologiques
 2016;4078;Bordeaux;médecine et santé au travail
-2016;4079;Antilles-Guyane;chirurgie générale
+2016;4079;Martinique;chirurgie générale
 2016;4080;Rouen;médecine générale
 2016;4081;Angers;pédiatrie
 2016;4082;Poitiers;médecine générale
@@ -37014,7 +37014,7 @@ annee;rang;ville;specialite
 2016;4091;Limoges;chirurgie générale
 2016;4092;Rennes;psychiatrie
 2016;4093;Lyon;psychiatrie
-2016;4094;Aix-Marseille;médecine générale
+2016;4094;Marseille;médecine générale
 2016;4095;Grenoble;pédiatrie
 2016;4096;Saint-Etienne;médecine générale
 2016;4097;Paris;médecine générale
@@ -37028,7 +37028,7 @@ annee;rang;ville;specialite
 2016;4105;Paris;médecine générale
 2016;4106;Lyon;médecine générale
 2016;4107;Bordeaux;médecine générale
-2016;4108;Antilles-Guyane;gynécologie obstétrique
+2016;4108;Martinique;gynécologie obstétrique
 2016;4109;Strasbourg;médecine générale
 2016;4110;Bordeaux;médecine générale
 2016;4111;Angers;pédiatrie
@@ -37038,15 +37038,15 @@ annee;rang;ville;specialite
 2016;4115;Paris;gynécologie médicale
 2016;4116;Nantes;psychiatrie
 2016;4117;Reims;gynécologie obstétrique
-2016;4118;Aix-Marseille;médecine générale
+2016;4118;Marseille;médecine générale
 2016;4119;Dijon;pédiatrie
-2016;4120;Antilles-Guyane;pédiatrie
+2016;4120;Martinique;pédiatrie
 2016;4121;Reims;chirurgie générale
 2016;4122;Lille;médecine générale
 2016;4123;Tours;chirurgie générale
 2016;4124;Paris;médecine générale
 2016;4125;Rennes;médecine générale
-2016;4126;Antilles-Guyane;psychiatrie
+2016;4126;Martinique;psychiatrie
 2016;4127;Nantes;psychiatrie
 2016;4128;Reims;chirurgie orale
 2016;4129;Nantes;médecine générale
@@ -37059,7 +37059,7 @@ annee;rang;ville;specialite
 2016;4136;Tours;médecine générale
 2016;4137;Poitiers;chirurgie générale
 2016;4138;Reims;chirurgie générale
-2016;4139;Antilles-Guyane;médecine générale
+2016;4139;Martinique;médecine générale
 2016;4140;Reims;chirurgie générale
 2016;4141;Grenoble;anatomie et cytologie pathologiques
 2016;4142;Lille;endocrinologie-diabétologie-nutrition
@@ -37082,8 +37082,8 @@ annee;rang;ville;specialite
 2016;4159;Caen;anatomie et cytologie pathologiques
 2016;4160;Bordeaux;médecine générale
 2016;4161;Grenoble;médecine générale
-2016;4162;Antilles-Guyane;gynécologie obstétrique
-2016;4163;Aix-Marseille;médecine générale
+2016;4162;Martinique;gynécologie obstétrique
+2016;4163;Marseille;médecine générale
 2016;4164;Reims;pédiatrie
 2016;4165;Rouen;médecine générale
 2016;4166;Strasbourg;médecine générale
@@ -37102,7 +37102,7 @@ annee;rang;ville;specialite
 2016;4179;Brest;médecine générale
 2016;4180;Lyon;médecine générale
 2016;4181;Strasbourg;médecine générale
-2016;4183;Antilles-Guyane;chirurgie générale
+2016;4183;Martinique;chirurgie générale
 2016;4184;Brest;gynécologie obstétrique
 2016;4185;Paris;psychiatrie
 2016;4186;Paris;médecine générale
@@ -37119,7 +37119,7 @@ annee;rang;ville;specialite
 2016;4199;Bordeaux;médecine générale
 2016;4200;Grenoble;chirurgie générale
 2016;4201;Paris;médecine générale
-2016;4202;Antilles-Guyane;anatomie et cytologie pathologiques
+2016;4202;Martinique;anatomie et cytologie pathologiques
 2016;4203;Toulouse;médecine générale
 2016;4204;Besançon;gynécologie obstétrique
 2016;4205;Rennes;médecine générale
@@ -37164,7 +37164,7 @@ annee;rang;ville;specialite
 2016;4250;Besançon;anatomie et cytologie pathologiques
 2016;4251;Paris;médecine générale
 2016;4252;Clermont-Ferrand;chirurgie générale
-2016;4253;Aix-Marseille;médecine générale
+2016;4253;Marseille;médecine générale
 2016;4254;Besançon;anatomie et cytologie pathologiques
 2016;4255;Dijon;chirurgie générale
 2016;4256;Paris;médecine générale
@@ -37179,7 +37179,7 @@ annee;rang;ville;specialite
 2016;4266;Rouen;pédiatrie
 2016;4267;Dijon;chirurgie générale
 2016;4268;Nantes;médecine générale
-2016;4269;Antilles-Guyane;médecine générale
+2016;4269;Martinique;médecine générale
 2016;4270;Lille;médecine générale
 2016;4271;Bordeaux;médecine générale
 2016;4272;Lyon;médecine générale
@@ -37195,7 +37195,7 @@ annee;rang;ville;specialite
 2016;4282;Angers;médecine générale
 2016;4283;Paris;médecine générale
 2016;4284;Paris;médecine générale
-2016;4285;Aix-Marseille;médecine physique et de réadaptation
+2016;4285;Marseille;médecine physique et de réadaptation
 2016;4286;Paris;médecine générale
 2016;4287;Rouen;médecine générale
 2016;4288;Poitiers;chirurgie générale
@@ -37225,7 +37225,7 @@ annee;rang;ville;specialite
 2016;4313;Angers;médecine générale
 2016;4314;Paris;psychiatrie
 2016;4315;Toulouse;médecine générale
-2016;4316;Aix-Marseille;psychiatrie
+2016;4316;Marseille;psychiatrie
 2016;4317;Rouen;chirurgie générale
 2016;4319;Brest;chirurgie générale
 2016;4320;Bordeaux;médecine générale
@@ -37256,11 +37256,11 @@ annee;rang;ville;specialite
 2016;4346;Rouen;endocrinologie-diabétologie-nutrition
 2016;4347;Saint-Etienne;endocrinologie-diabétologie-nutrition
 2016;4348;Brest;médecine générale
-2016;4349;Aix-Marseille;médecine générale
+2016;4349;Marseille;médecine générale
 2016;4350;Caen;pédiatrie
 2016;4351;Paris;médecine générale
 2016;4352;Poitiers;pédiatrie
-2016;4353;Antilles-Guyane;médecine générale
+2016;4353;Martinique;médecine générale
 2016;4355;Montpellier;biologie médicale
 2016;4356;Paris;médecine générale
 2016;4357;Caen;pédiatrie
@@ -37296,7 +37296,7 @@ annee;rang;ville;specialite
 2016;4388;Paris;médecine générale
 2016;4389;Caen;pédiatrie
 2016;4390;Toulouse;médecine générale
-2016;4391;Antilles-Guyane;anatomie et cytologie pathologiques
+2016;4391;Martinique;anatomie et cytologie pathologiques
 2016;4392;Nantes;santé publique
 2016;4393;Lille;médecine générale
 2016;4394;Rennes;médecine générale
@@ -37308,7 +37308,7 @@ annee;rang;ville;specialite
 2016;4401;Toulouse;médecine générale
 2016;4402;Amiens;médecine générale
 2016;4403;Reims;pédiatrie
-2016;4404;Aix-Marseille;médecine générale
+2016;4404;Marseille;médecine générale
 2016;4405;Poitiers;médecine générale
 2016;4406;Nancy;pédiatrie
 2016;4407;Rouen;médecine générale
@@ -37317,7 +37317,7 @@ annee;rang;ville;specialite
 2016;4411;Lille;médecine générale
 2016;4412;Bordeaux;médecine générale
 2016;4413;Nantes;médecine générale
-2016;4414;Antilles-Guyane;pédiatrie
+2016;4414;Martinique;pédiatrie
 2016;4415;Lyon;médecine générale
 2016;4416;Toulouse;médecine générale
 2016;4417;Amiens;pédiatrie
@@ -37336,7 +37336,7 @@ annee;rang;ville;specialite
 2016;4431;Bordeaux;santé publique
 2016;4433;Dijon;gynécologie médicale
 2016;4434;Bordeaux;médecine générale
-2016;4435;Antilles-Guyane;médecine générale
+2016;4435;Martinique;médecine générale
 2016;4436;Bordeaux;médecine générale
 2016;4437;Nancy;médecine générale
 2016;4438;Grenoble;médecine générale
@@ -37366,24 +37366,24 @@ annee;rang;ville;specialite
 2016;4464;Dijon;biologie médicale
 2016;4465;Réunion;médecine générale
 2016;4466;Toulouse;médecine générale
-2016;4467;Aix-Marseille;médecine générale
+2016;4467;Marseille;médecine générale
 2016;4469;Nancy;gynécologie médicale
 2016;4470;Lille;médecine générale
 2016;4471;Strasbourg;médecine générale
 2016;4472;Amiens;médecine générale
 2016;4473;Clermont-Ferrand;médecine générale
-2016;4474;Antilles-Guyane;médecine générale
+2016;4474;Martinique;médecine générale
 2016;4475;Lyon;médecine générale
 2016;4476;Lille;médecine générale
 2016;4477;Paris;médecine générale
 2016;4478;Nancy;pédiatrie
 2016;4480;Besançon;médecine générale
 2016;4481;Brest;médecine générale
-2016;4482;Aix-Marseille;médecine générale
+2016;4482;Marseille;médecine générale
 2016;4483;Paris;médecine générale
 2016;4484;Brest;gynécologie médicale
 2016;4485;Nancy;gynécologie médicale
-2016;4487;Aix-Marseille;médecine générale
+2016;4487;Marseille;médecine générale
 2016;4488;Besançon;médecine générale
 2016;4489;Paris;médecine générale
 2016;4490;Paris;médecine générale
@@ -37413,7 +37413,7 @@ annee;rang;ville;specialite
 2016;4515;Paris;médecine physique et de réadaptation
 2016;4516;Caen;endocrinologie-diabétologie-nutrition
 2016;4517;Paris;médecine physique et de réadaptation
-2016;4518;Aix-Marseille;médecine générale
+2016;4518;Marseille;médecine générale
 2016;4520;Angers;médecine générale
 2016;4521;Paris;médecine physique et de réadaptation
 2016;4522;Paris;médecine générale
@@ -37439,7 +37439,7 @@ annee;rang;ville;specialite
 2016;4542;Nantes;médecine générale
 2016;4543;Paris;médecine générale
 2016;4544;Toulouse;biologie médicale
-2016;4545;Aix-Marseille;médecine générale
+2016;4545;Marseille;médecine générale
 2016;4546;Montpellier;médecine générale
 2016;4547;Rennes;génétique médicale
 2016;4548;Toulouse;médecine générale
@@ -37457,10 +37457,10 @@ annee;rang;ville;specialite
 2016;4561;Angers;biologie médicale
 2016;4562;Dijon;médecine générale
 2016;4563;Lille;ophtalmologie
-2016;4564;Antilles-Guyane;médecine générale
+2016;4564;Martinique;médecine générale
 2016;4565;Lyon;médecine et santé au travail
 2016;4566;Toulouse;médecine générale
-2016;4567;Antilles-Guyane;pédiatrie
+2016;4567;Martinique;pédiatrie
 2016;4568;Bordeaux;médecine générale
 2016;4569;Rouen;médecine générale
 2016;4570;Toulouse;psychiatrie
@@ -37480,11 +37480,11 @@ annee;rang;ville;specialite
 2016;4585;Clermont-Ferrand;médecine générale
 2016;4586;Nantes;médecine générale
 2016;4588;Clermont-Ferrand;psychiatrie
-2016;4589;Aix-Marseille;médecine générale
+2016;4589;Marseille;médecine générale
 2016;4590;Caen;médecine physique et de réadaptation
 2016;4591;Toulouse;médecine générale
-2016;4592;Antilles-Guyane;pédiatrie
-2016;4593;Aix-Marseille;médecine générale
+2016;4592;Martinique;pédiatrie
+2016;4593;Marseille;médecine générale
 2016;4594;Grenoble;médecine générale
 2016;4595;Nantes;médecine générale
 2016;4597;Lille;médecine générale
@@ -37524,7 +37524,7 @@ annee;rang;ville;specialite
 2016;4633;Paris;médecine générale
 2016;4635;Lyon;médecine générale
 2016;4636;Paris;médecine générale
-2016;4637;Aix-Marseille;médecine physique et de réadaptation
+2016;4637;Marseille;médecine physique et de réadaptation
 2016;4638;Réunion;médecine générale
 2016;4639;Rennes;médecine générale
 2016;4640;Paris;médecine générale
@@ -37540,7 +37540,7 @@ annee;rang;ville;specialite
 2016;4650;Paris;médecine générale
 2016;4651;Limoges;gynécologie médicale
 2016;4653;Saint-Etienne;médecine générale
-2016;4654;Aix-Marseille;médecine physique et de réadaptation
+2016;4654;Marseille;médecine physique et de réadaptation
 2016;4655;Angers;médecine générale
 2016;4656;Caen;pédiatrie
 2016;4657;Toulouse;médecine générale
@@ -37562,12 +37562,12 @@ annee;rang;ville;specialite
 2016;4675;Lyon;médecine générale
 2016;4676;Nancy;médecine générale
 2016;4677;Rennes;médecine générale
-2016;4678;Aix-Marseille;médecine générale
+2016;4678;Marseille;médecine générale
 2016;4680;Nantes;médecine générale
 2016;4681;Nantes;médecine générale
 2016;4682;Angers;médecine générale
 2016;4683;Poitiers;pédiatrie
-2016;4684;Aix-Marseille;médecine générale
+2016;4684;Marseille;médecine générale
 2016;4685;Paris;médecine générale
 2016;4686;Lyon;médecine générale
 2016;4687;Lille;médecine générale
@@ -37587,7 +37587,7 @@ annee;rang;ville;specialite
 2016;4702;Lille;médecine générale
 2016;4703;Lille;médecine générale
 2016;4704;Montpellier;médecine générale
-2016;4705;Aix-Marseille;médecine générale
+2016;4705;Marseille;médecine générale
 2016;4706;Bordeaux;médecine générale
 2016;4707;Montpellier;médecine générale
 2016;4709;Nantes;médecine générale
@@ -37595,7 +37595,7 @@ annee;rang;ville;specialite
 2016;4711;Reims;pédiatrie
 2016;4712;Toulouse;médecine générale
 2016;4713;Reims;endocrinologie-diabétologie-nutrition
-2016;4714;Aix-Marseille;médecine générale
+2016;4714;Marseille;médecine générale
 2016;4715;Poitiers;anesthésie-réanimation
 2016;4716;Montpellier;médecine générale
 2016;4717;Nancy;médecine physique et de réadaptation
@@ -37637,7 +37637,7 @@ annee;rang;ville;specialite
 2016;4756;Paris;médecine générale
 2016;4757;Poitiers;pédiatrie
 2016;4758;Amiens;pédiatrie
-2016;4759;Aix-Marseille;médecine générale
+2016;4759;Marseille;médecine générale
 2016;4760;Lille;médecine générale
 2016;4761;Lille;médecine générale
 2016;4762;Poitiers;pédiatrie
@@ -37661,7 +37661,7 @@ annee;rang;ville;specialite
 2016;4781;Lyon;biologie médicale
 2016;4783;Brest;médecine générale
 2016;4784;Paris;psychiatrie
-2016;4785;Aix-Marseille;médecine générale
+2016;4785;Marseille;médecine générale
 2016;4786;Strasbourg;médecine générale
 2016;4787;Nantes;biologie médicale
 2016;4788;Bordeaux;médecine générale
@@ -37677,7 +37677,7 @@ annee;rang;ville;specialite
 2016;4798;Grenoble;médecine générale
 2016;4799;Lille;médecine physique et de réadaptation
 2016;4800;Montpellier;médecine générale
-2016;4801;Aix-Marseille;médecine générale
+2016;4801;Marseille;médecine générale
 2016;4802;Lyon;biologie médicale
 2016;4803;Bordeaux;médecine générale
 2016;4804;Strasbourg;médecine générale
@@ -37685,7 +37685,7 @@ annee;rang;ville;specialite
 2016;4806;Clermont-Ferrand;médecine physique et de réadaptation
 2016;4807;Paris;médecine générale
 2016;4808;Lyon;psychiatrie
-2016;4809;Aix-Marseille;psychiatrie
+2016;4809;Marseille;psychiatrie
 2016;4810;Caen;médecine générale
 2016;4811;Bordeaux;santé publique
 2016;4812;Lyon;médecine générale
@@ -37710,15 +37710,15 @@ annee;rang;ville;specialite
 2016;4832;Poitiers;pédiatrie
 2016;4834;Rennes;médecine générale
 2016;4835;Bordeaux;médecine générale
-2016;4836;Antilles-Guyane;médecine générale
+2016;4836;Martinique;médecine générale
 2016;4837;Paris;médecine générale
 2016;4838;Nantes;médecine générale
 2016;4839;Saint-Etienne;pédiatrie
 2016;4840;Lyon;psychiatrie
 2016;4841;Clermont-Ferrand;médecine générale
-2016;4842;Antilles-Guyane;endocrinologie-diabétologie-nutrition
+2016;4842;Martinique;endocrinologie-diabétologie-nutrition
 2016;4843;Lyon;médecine générale
-2016;4845;Antilles-Guyane;médecine générale
+2016;4845;Martinique;médecine générale
 2016;4846;Nancy;psychiatrie
 2016;4847;Nantes;médecine générale
 2016;4848;Grenoble;médecine générale
@@ -37744,14 +37744,14 @@ annee;rang;ville;specialite
 2016;4869;Poitiers;pédiatrie
 2016;4870;Strasbourg;ophtalmologie
 2016;4871;Grenoble;médecine générale
-2016;4872;Aix-Marseille;médecine générale
+2016;4872;Marseille;médecine générale
 2016;4873;Amiens;médecine générale
 2016;4876;Poitiers;médecine physique et de réadaptation
 2016;4877;Saint-Etienne;pédiatrie
 2016;4878;Montpellier;médecine générale
 2016;4879;Lyon;médecine générale
 2016;4880;Poitiers;médecine générale
-2016;4881;Aix-Marseille;médecine générale
+2016;4881;Marseille;médecine générale
 2016;4882;Besançon;pédiatrie
 2016;4883;Besançon;médecine générale
 2016;4884;Saint-Etienne;pédiatrie
@@ -37782,11 +37782,11 @@ annee;rang;ville;specialite
 2016;4911;Poitiers;psychiatrie
 2016;4912;Nancy;médecine générale
 2016;4913;Brest;médecine générale
-2016;4914;Aix-Marseille;médecine générale
+2016;4914;Marseille;médecine générale
 2016;4915;Brest;médecine générale
 2016;4916;Nancy;médecine générale
 2016;4917;Poitiers;médecine générale
-2016;4918;Aix-Marseille;médecine générale
+2016;4918;Marseille;médecine générale
 2016;4919;Dijon;médecine physique et de réadaptation
 2016;4920;Angers;médecine générale
 2016;4921;Lille;médecine générale
@@ -37811,7 +37811,7 @@ annee;rang;ville;specialite
 2016;4940;Montpellier;médecine générale
 2016;4941;Grenoble;médecine générale
 2016;4942;Caen;médecine générale
-2016;4943;Aix-Marseille;psychiatrie
+2016;4943;Marseille;psychiatrie
 2016;4944;Paris;médecine générale
 2016;4945;Paris;médecine générale
 2016;4946;Besançon;pédiatrie
@@ -37852,10 +37852,10 @@ annee;rang;ville;specialite
 2016;4988;Clermont-Ferrand;médecine générale
 2016;4989;Réunion;médecine générale
 2016;4990;Paris;médecine générale
-2016;4991;Antilles-Guyane;médecine générale
+2016;4991;Martinique;médecine générale
 2016;4992;Nantes;médecine générale
-2016;4993;Aix-Marseille;médecine générale
-2016;4994;Aix-Marseille;médecine générale
+2016;4993;Marseille;médecine générale
+2016;4994;Marseille;médecine générale
 2016;4995;Paris;médecine générale
 2016;4996;Montpellier;médecine générale
 2016;4997;Nancy;médecine générale
@@ -37870,17 +37870,17 @@ annee;rang;ville;specialite
 2016;5006;Paris;médecine générale
 2016;5007;Strasbourg;psychiatrie
 2016;5008;Paris;santé publique
-2016;5009;Aix-Marseille;médecine générale
-2016;5010;Aix-Marseille;médecine générale
+2016;5009;Marseille;médecine générale
+2016;5010;Marseille;médecine générale
 2016;5011;Bordeaux;médecine générale
-2016;5013;Aix-Marseille;biologie médicale
-2016;5014;Aix-Marseille;génétique médicale
+2016;5013;Marseille;biologie médicale
+2016;5014;Marseille;génétique médicale
 2016;5015;Grenoble;médecine générale
 2016;5016;Paris;médecine générale
 2016;5017;Grenoble;médecine générale
 2016;5018;Saint-Etienne;médecine générale
 2016;5019;Strasbourg;médecine générale
-2016;5020;Aix-Marseille;médecine générale
+2016;5020;Marseille;médecine générale
 2016;5021;Angers;médecine générale
 2016;5022;Clermont-Ferrand;médecine générale
 2016;5023;Bordeaux;médecine générale
@@ -37888,7 +37888,7 @@ annee;rang;ville;specialite
 2016;5025;Montpellier;médecine générale
 2016;5026;Lyon;médecine générale
 2016;5028;Lyon;médecine générale
-2016;5029;Aix-Marseille;médecine générale
+2016;5029;Marseille;médecine générale
 2016;5030;Paris;médecine générale
 2016;5031;Bordeaux;médecine générale
 2016;5032;Paris;psychiatrie
@@ -37918,7 +37918,7 @@ annee;rang;ville;specialite
 2016;5059;Reims;endocrinologie-diabétologie-nutrition
 2016;5060;Lille;médecine générale
 2016;5061;Nantes;médecine générale
-2016;5062;Aix-Marseille;biologie médicale
+2016;5062;Marseille;biologie médicale
 2016;5063;Reims;endocrinologie-diabétologie-nutrition
 2016;5065;Montpellier;médecine générale
 2016;5066;Limoges;pédiatrie
@@ -37933,11 +37933,11 @@ annee;rang;ville;specialite
 2016;5075;Paris;médecine générale
 2016;5076;Grenoble;médecine générale
 2016;5077;Lyon;médecine générale
-2016;5078;Aix-Marseille;médecine générale
+2016;5078;Marseille;médecine générale
 2016;5079;Rennes;médecine générale
 2016;5080;Lyon;psychiatrie
 2016;5081;Poitiers;médecine générale
-2016;5083;Aix-Marseille;médecine générale
+2016;5083;Marseille;médecine générale
 2016;5084;Toulouse;médecine générale
 2016;5085;Paris;médecine générale
 2016;5086;Angers;médecine générale
@@ -37947,12 +37947,12 @@ annee;rang;ville;specialite
 2016;5091;Lyon;psychiatrie
 2016;5092;Toulouse;médecine générale
 2016;5093;Angers;médecine générale
-2016;5094;Aix-Marseille;psychiatrie
+2016;5094;Marseille;psychiatrie
 2016;5095;Caen;médecine générale
 2016;5096;Angers;médecine générale
 2016;5097;Montpellier;médecine générale
 2016;5098;Clermont-Ferrand;médecine générale
-2016;5099;Aix-Marseille;médecine générale
+2016;5099;Marseille;médecine générale
 2016;5100;Nancy;médecine générale
 2016;5101;Bordeaux;médecine générale
 2016;5102;Poitiers;médecine générale
@@ -37999,11 +37999,11 @@ annee;rang;ville;specialite
 2016;5149;Lyon;médecine générale
 2016;5150;Bordeaux;médecine générale
 2016;5151;Lille;médecine générale
-2016;5153;Aix-Marseille;médecine générale
-2016;5154;Aix-Marseille;psychiatrie
+2016;5153;Marseille;médecine générale
+2016;5154;Marseille;psychiatrie
 2016;5155;Paris;médecine générale
 2016;5156;Clermont-Ferrand;médecine générale
-2016;5157;Aix-Marseille;médecine générale
+2016;5157;Marseille;médecine générale
 2016;5158;Paris;psychiatrie
 2016;5159;Poitiers;médecine générale
 2016;5160;Paris;médecine générale
@@ -38047,7 +38047,7 @@ annee;rang;ville;specialite
 2016;5203;Rennes;médecine générale
 2016;5204;Caen;médecine générale
 2016;5205;Paris;médecine générale
-2016;5206;Aix-Marseille;médecine générale
+2016;5206;Marseille;médecine générale
 2016;5207;Poitiers;médecine générale
 2016;5208;Brest;médecine générale
 2016;5210;Brest;médecine générale
@@ -38063,13 +38063,13 @@ annee;rang;ville;specialite
 2016;5223;Lille;médecine générale
 2016;5224;Toulouse;médecine générale
 2016;5225;Bordeaux;médecine générale
-2016;5226;Aix-Marseille;médecine générale
+2016;5226;Marseille;médecine générale
 2016;5227;Nantes;médecine générale
 2016;5228;Grenoble;médecine générale
 2016;5229;Amiens;médecine générale
-2016;5230;Antilles-Guyane;médecine générale
+2016;5230;Martinique;médecine générale
 2016;5231;Toulouse;médecine générale
-2016;5232;Aix-Marseille;médecine générale
+2016;5232;Marseille;médecine générale
 2016;5233;Lille;médecine générale
 2016;5234;Paris;psychiatrie
 2016;5235;Montpellier;médecine générale
@@ -38081,9 +38081,9 @@ annee;rang;ville;specialite
 2016;5241;Montpellier;médecine générale
 2016;5242;Lille;médecine générale
 2016;5243;Paris;biologie médicale
-2016;5244;Antilles-Guyane;médecine générale
+2016;5244;Martinique;médecine générale
 2016;5245;Paris;médecine générale
-2016;5246;Antilles-Guyane;médecine nucléaire
+2016;5246;Martinique;médecine nucléaire
 2016;5247;Grenoble;médecine générale
 2016;5248;Grenoble;médecine générale
 2016;5249;Montpellier;médecine générale
@@ -38104,11 +38104,11 @@ annee;rang;ville;specialite
 2016;5267;Lyon;médecine générale
 2016;5268;Strasbourg;médecine générale
 2016;5269;Clermont-Ferrand;médecine générale
-2016;5270;Antilles-Guyane;pédiatrie
+2016;5270;Martinique;pédiatrie
 2016;5271;Lyon;médecine générale
 2016;5272;Bordeaux;psychiatrie
 2016;5273;Paris;biologie médicale
-2016;5274;Aix-Marseille;médecine générale
+2016;5274;Marseille;médecine générale
 2016;5275;Bordeaux;santé publique
 2016;5276;Paris;psychiatrie
 2016;5278;Lyon;médecine générale
@@ -38116,14 +38116,14 @@ annee;rang;ville;specialite
 2016;5280;Besançon;médecine générale
 2016;5281;Lille;médecine générale
 2016;5282;Lille;médecine générale
-2016;5283;Aix-Marseille;médecine générale
+2016;5283;Marseille;médecine générale
 2016;5284;Montpellier;médecine générale
 2016;5285;Paris;psychiatrie
 2016;5287;Paris;médecine générale
 2016;5288;Rennes;médecine générale
 2016;5289;Besançon;médecine générale
 2016;5290;Réunion;médecine générale
-2016;5291;Aix-Marseille;médecine générale
+2016;5291;Marseille;médecine générale
 2016;5292;Bordeaux;santé publique
 2016;5293;Rennes;médecine physique et de réadaptation
 2016;5294;Nantes;pédiatrie
@@ -38137,7 +38137,7 @@ annee;rang;ville;specialite
 2016;5302;Paris;médecine générale
 2016;5303;Nice;médecine générale
 2016;5304;Reims;médecine physique et de réadaptation
-2016;5305;Aix-Marseille;médecine générale
+2016;5305;Marseille;médecine générale
 2016;5306;Toulouse;médecine générale
 2016;5307;Lille;médecine et santé au travail
 2016;5308;Rouen;médecine générale
@@ -38147,20 +38147,20 @@ annee;rang;ville;specialite
 2016;5312;Poitiers;médecine générale
 2016;5313;Nancy;médecine générale
 2016;5314;Paris;médecine générale
-2016;5315;Aix-Marseille;médecine et santé au travail
+2016;5315;Marseille;médecine et santé au travail
 2016;5316;Toulouse;médecine générale
 2016;5317;Montpellier;biologie médicale
 2016;5318;Lyon;médecine générale
-2016;5319;Antilles-Guyane;médecine générale
+2016;5319;Martinique;médecine générale
 2016;5320;Strasbourg;médecine générale
 2016;5321;Nancy;médecine générale
 2016;5322;Poitiers;médecine générale
-2016;5323;Antilles-Guyane;médecine générale
+2016;5323;Martinique;médecine générale
 2016;5324;Toulouse;psychiatrie
 2016;5325;Poitiers;médecine générale
 2016;5326;Réunion;médecine générale
 2016;5327;Lille;médecine générale
-2016;5329;Aix-Marseille;médecine générale
+2016;5329;Marseille;médecine générale
 2016;5330;Lyon;médecine générale
 2016;5331;Grenoble;médecine générale
 2016;5332;Rouen;médecine générale
@@ -38183,18 +38183,18 @@ annee;rang;ville;specialite
 2016;5351;Bordeaux;psychiatrie
 2016;5352;Caen;médecine générale
 2016;5354;Saint-Etienne;médecine générale
-2016;5355;Aix-Marseille;psychiatrie
+2016;5355;Marseille;psychiatrie
 2016;5356;Paris;médecine générale
 2016;5357;Paris;médecine générale
 2016;5358;Bordeaux;médecine générale
 2016;5359;Rouen;médecine générale
 2016;5360;Grenoble;médecine générale
-2016;5361;Aix-Marseille;médecine générale
+2016;5361;Marseille;médecine générale
 2016;5362;Caen;médecine générale
 2016;5363;Nancy;biologie médicale
 2016;5364;Paris;psychiatrie
 2016;5365;Bordeaux;médecine générale
-2016;5366;Aix-Marseille;médecine générale
+2016;5366;Marseille;médecine générale
 2016;5367;Angers;médecine générale
 2016;5368;Nantes;médecine générale
 2016;5369;Lille;médecine générale
@@ -38225,7 +38225,7 @@ annee;rang;ville;specialite
 2016;5394;Nice;médecine générale
 2016;5395;Rouen;médecine physique et de réadaptation
 2016;5396;Poitiers;ophtalmologie
-2016;5397;Aix-Marseille;médecine générale
+2016;5397;Marseille;médecine générale
 2016;5398;Paris;médecine générale
 2016;5399;Dijon;médecine générale
 2016;5400;Lille;médecine générale
@@ -38240,7 +38240,7 @@ annee;rang;ville;specialite
 2016;5410;Caen;médecine générale
 2016;5411;Clermont-Ferrand;médecine générale
 2016;5412;Lyon;médecine générale
-2016;5413;Aix-Marseille;médecine générale
+2016;5413;Marseille;médecine générale
 2016;5414;Lyon;médecine générale
 2016;5415;Amiens;médecine générale
 2016;5416;Angers;médecine générale
@@ -38249,7 +38249,7 @@ annee;rang;ville;specialite
 2016;5419;Angers;médecine générale
 2016;5420;Bordeaux;médecine générale
 2016;5421;Strasbourg;médecine générale
-2016;5422;Antilles-Guyane;médecine générale
+2016;5422;Martinique;médecine générale
 2016;5423;Saint-Etienne;médecine générale
 2016;5424;Paris;médecine générale
 2016;5425;Paris;médecine générale
@@ -38261,7 +38261,7 @@ annee;rang;ville;specialite
 2016;5432;Paris;biologie médicale
 2016;5434;Toulouse;médecine générale
 2016;5435;Nice;médecine générale
-2016;5436;Aix-Marseille;médecine générale
+2016;5436;Marseille;médecine générale
 2016;5437;Nice;médecine générale
 2016;5439;Bordeaux;médecine générale
 2016;5440;Paris;médecine générale
@@ -38269,7 +38269,7 @@ annee;rang;ville;specialite
 2016;5442;Grenoble;médecine générale
 2016;5443;Strasbourg;médecine générale
 2016;5444;Paris;médecine générale
-2016;5445;Antilles-Guyane;médecine générale
+2016;5445;Martinique;médecine générale
 2016;5446;Paris;médecine et santé au travail
 2016;5447;Angers;médecine générale
 2016;5448;Bordeaux;médecine générale
@@ -38278,16 +38278,16 @@ annee;rang;ville;specialite
 2016;5451;Réunion;médecine générale
 2016;5452;Nantes;médecine générale
 2016;5453;Poitiers;médecine générale
-2016;5455;Aix-Marseille;psychiatrie
+2016;5455;Marseille;psychiatrie
 2016;5456;Montpellier;médecine générale
-2016;5457;Aix-Marseille;psychiatrie
+2016;5457;Marseille;psychiatrie
 2016;5458;Montpellier;psychiatrie
 2016;5459;Dijon;médecine générale
 2016;5460;Montpellier;médecine générale
 2016;5461;Besançon;médecine générale
-2016;5462;Antilles-Guyane;médecine générale
+2016;5462;Martinique;médecine générale
 2016;5463;Paris;médecine générale
-2016;5464;Aix-Marseille;médecine générale
+2016;5464;Marseille;médecine générale
 2016;5465;Brest;médecine générale
 2016;5466;Strasbourg;médecine générale
 2016;5467;Bordeaux;médecine générale
@@ -38301,7 +38301,7 @@ annee;rang;ville;specialite
 2016;5477;Amiens;gynécologie médicale
 2016;5478;Nancy;médecine générale
 2016;5479;Montpellier;médecine générale
-2016;5480;Aix-Marseille;médecine générale
+2016;5480;Marseille;médecine générale
 2016;5481;Bordeaux;médecine générale
 2016;5482;Poitiers;psychiatrie
 2016;5483;Toulouse;médecine générale
@@ -38318,15 +38318,15 @@ annee;rang;ville;specialite
 2016;5494;Paris;psychiatrie
 2016;5495;Clermont-Ferrand;médecine générale
 2016;5496;Paris;médecine générale
-2016;5497;Aix-Marseille;médecine générale
+2016;5497;Marseille;médecine générale
 2016;5499;Lyon;médecine générale
-2016;5501;Aix-Marseille;psychiatrie
+2016;5501;Marseille;psychiatrie
 2016;5502;Paris;psychiatrie
 2016;5503;Bordeaux;médecine générale
 2016;5504;Lille;médecine générale
-2016;5505;Aix-Marseille;médecine générale
+2016;5505;Marseille;médecine générale
 2016;5506;Nancy;médecine générale
-2016;5508;Aix-Marseille;médecine générale
+2016;5508;Marseille;médecine générale
 2016;5510;Rouen;médecine générale
 2016;5511;Bordeaux;médecine générale
 2016;5512;Lyon;médecine générale
@@ -38340,11 +38340,11 @@ annee;rang;ville;specialite
 2016;5520;Paris;médecine générale
 2016;5521;Caen;médecine générale
 2016;5522;Clermont-Ferrand;médecine physique et de réadaptation
-2016;5523;Aix-Marseille;médecine générale
+2016;5523;Marseille;médecine générale
 2016;5524;Paris;médecine générale
 2016;5525;Lille;médecine générale
 2016;5526;Lyon;médecine générale
-2016;5527;Aix-Marseille;médecine générale
+2016;5527;Marseille;médecine générale
 2016;5528;Bordeaux;médecine générale
 2016;5529;Paris;médecine générale
 2016;5530;Toulouse;médecine générale
@@ -38379,7 +38379,7 @@ annee;rang;ville;specialite
 2016;5562;Angers;médecine générale
 2016;5563;Strasbourg;médecine générale
 2016;5565;Nice;médecine générale
-2016;5566;Aix-Marseille;médecine générale
+2016;5566;Marseille;médecine générale
 2016;5567;Grenoble;médecine générale
 2016;5569;Grenoble;médecine générale
 2016;5570;Lyon;médecine générale
@@ -38399,22 +38399,22 @@ annee;rang;ville;specialite
 2016;5585;Toulouse;médecine générale
 2016;5586;Angers;médecine générale
 2016;5587;Angers;médecine générale
-2016;5588;Aix-Marseille;médecine générale
+2016;5588;Marseille;médecine générale
 2016;5590;Paris;psychiatrie
 2016;5591;Strasbourg;médecine générale
-2016;5592;Aix-Marseille;médecine générale
+2016;5592;Marseille;médecine générale
 2016;5593;Lille;médecine générale
 2016;5594;Paris;médecine générale
 2016;5595;Bordeaux;médecine générale
 2016;5596;Besançon;médecine générale
 2016;5597;Toulouse;médecine générale
 2016;5599;Amiens;médecine générale
-2016;5600;Aix-Marseille;médecine générale
+2016;5600;Marseille;médecine générale
 2016;5601;Paris;médecine générale
 2016;5602;Lille;médecine générale
 2016;5603;Lyon;médecine générale
 2016;5604;Bordeaux;médecine générale
-2016;5605;Aix-Marseille;médecine générale
+2016;5605;Marseille;médecine générale
 2016;5606;Reims;médecine générale
 2016;5607;Poitiers;médecine générale
 2016;5608;Rennes;médecine générale
@@ -38425,7 +38425,7 @@ annee;rang;ville;specialite
 2016;5614;Angers;médecine générale
 2016;5615;Amiens;médecine générale
 2016;5616;Lille;médecine générale
-2016;5617;Antilles-Guyane;médecine générale
+2016;5617;Martinique;médecine générale
 2016;5618;Brest;médecine générale
 2016;5619;Grenoble;médecine générale
 2016;5620;Lille;médecine générale
@@ -38445,7 +38445,7 @@ annee;rang;ville;specialite
 2016;5635;Paris;médecine générale
 2016;5636;Angers;médecine générale
 2016;5637;Strasbourg;médecine générale
-2016;5638;Aix-Marseille;médecine générale
+2016;5638;Marseille;médecine générale
 2016;5639;Angers;médecine générale
 2016;5640;Toulouse;médecine générale
 2016;5642;Bordeaux;médecine générale
@@ -38473,7 +38473,7 @@ annee;rang;ville;specialite
 2016;5666;Montpellier;psychiatrie
 2016;5667;Rouen;médecine générale
 2016;5668;Paris;médecine générale
-2016;5669;Aix-Marseille;médecine générale
+2016;5669;Marseille;médecine générale
 2016;5670;Nancy;psychiatrie
 2016;5671;Lille;médecine générale
 2016;5672;Montpellier;médecine générale
@@ -38484,7 +38484,7 @@ annee;rang;ville;specialite
 2016;5678;Montpellier;psychiatrie
 2016;5679;Amiens;médecine générale
 2016;5680;Angers;médecine générale
-2016;5681;Aix-Marseille;médecine générale
+2016;5681;Marseille;médecine générale
 2016;5682;Rouen;médecine générale
 2016;5683;Montpellier;médecine générale
 2016;5685;Lyon;médecine générale
@@ -38494,7 +38494,7 @@ annee;rang;ville;specialite
 2016;5690;Paris;médecine générale
 2016;5692;Réunion;médecine générale
 2016;5693;Toulouse;médecine générale
-2016;5694;Aix-Marseille;médecine générale
+2016;5694;Marseille;médecine générale
 2016;5695;Paris;psychiatrie
 2016;5696;Nice;médecine générale
 2016;5697;Bordeaux;médecine générale
@@ -38502,14 +38502,14 @@ annee;rang;ville;specialite
 2016;5699;Paris;psychiatrie
 2016;5700;Caen;médecine générale
 2016;5701;Paris;psychiatrie
-2016;5702;Aix-Marseille;médecine générale
+2016;5702;Marseille;médecine générale
 2016;5703;Besançon;médecine générale
 2016;5704;Toulouse;médecine générale
 2016;5705;Poitiers;médecine générale
 2016;5706;Rouen;médecine générale
 2016;5707;Lyon;médecine générale
 2016;5708;Lyon;médecine générale
-2016;5709;Aix-Marseille;psychiatrie
+2016;5709;Marseille;psychiatrie
 2016;5710;Montpellier;médecine générale
 2016;5711;Grenoble;médecine générale
 2016;5712;Angers;médecine générale
@@ -38519,7 +38519,7 @@ annee;rang;ville;specialite
 2016;5716;Reims;médecine physique et de réadaptation
 2016;5717;Nancy;psychiatrie
 2016;5718;Paris;biologie médicale
-2016;5719;Aix-Marseille;psychiatrie
+2016;5719;Marseille;psychiatrie
 2016;5720;Rennes;médecine générale
 2016;5721;Montpellier;médecine générale
 2016;5722;Strasbourg;médecine générale
@@ -38535,7 +38535,7 @@ annee;rang;ville;specialite
 2016;5732;Rouen;médecine générale
 2016;5733;Besançon;médecine physique et de réadaptation
 2016;5737;Lyon;médecine générale
-2016;5738;Aix-Marseille;médecine générale
+2016;5738;Marseille;médecine générale
 2016;5739;Amiens;médecine générale
 2016;5740;Paris;biologie médicale
 2016;5741;Besançon;médecine générale
@@ -38612,13 +38612,13 @@ annee;rang;ville;specialite
 2016;5819;Paris;psychiatrie
 2016;5820;Saint-Etienne;psychiatrie
 2016;5821;Montpellier;médecine générale
-2016;5823;Antilles-Guyane;médecine générale
+2016;5823;Martinique;médecine générale
 2016;5824;Bordeaux;médecine générale
 2016;5825;Grenoble;médecine générale
 2016;5826;Paris;médecine générale
 2016;5827;Lille;médecine générale
 2016;5828;Toulouse;médecine générale
-2016;5829;Aix-Marseille;médecine générale
+2016;5829;Marseille;médecine générale
 2016;5830;Angers;médecine générale
 2016;5831;Tours;médecine générale
 2016;5832;Lille;médecine générale
@@ -38633,7 +38633,7 @@ annee;rang;ville;specialite
 2016;5841;Strasbourg;médecine générale
 2016;5842;Rennes;médecine générale
 2016;5843;Montpellier;médecine générale
-2016;5844;Aix-Marseille;médecine générale
+2016;5844;Marseille;médecine générale
 2016;5845;Nantes;biologie médicale
 2016;5846;Paris;médecine générale
 2016;5847;Nancy;médecine générale
@@ -38656,7 +38656,7 @@ annee;rang;ville;specialite
 2016;5866;Besançon;médecine générale
 2016;5867;Toulouse;médecine générale
 2016;5869;Lille;médecine générale
-2016;5870;Aix-Marseille;médecine générale
+2016;5870;Marseille;médecine générale
 2016;5872;Lyon;médecine générale
 2016;5873;Strasbourg;médecine générale
 2016;5874;Dijon;psychiatrie
@@ -38675,7 +38675,7 @@ annee;rang;ville;specialite
 2016;5891;Toulouse;médecine générale
 2016;5892;Caen;médecine générale
 2016;5893;Angers;médecine générale
-2016;5894;Aix-Marseille;médecine générale
+2016;5894;Marseille;médecine générale
 2016;5895;Bordeaux;médecine générale
 2016;5896;Bordeaux;médecine générale
 2016;5897;Nice;psychiatrie
@@ -38705,7 +38705,7 @@ annee;rang;ville;specialite
 2016;5923;Nancy;médecine générale
 2016;5924;Paris;médecine générale
 2016;5925;Rennes;ophtalmologie
-2016;5926;Aix-Marseille;médecine générale
+2016;5926;Marseille;médecine générale
 2016;5928;Lille;ophtalmologie
 2016;5930;Reims;médecine générale
 2016;5931;Besançon;médecine générale
@@ -38717,20 +38717,20 @@ annee;rang;ville;specialite
 2016;5937;Brest;médecine générale
 2016;5938;Lyon;médecine générale
 2016;5940;Reims;médecine générale
-2016;5941;Aix-Marseille;biologie médicale
+2016;5941;Marseille;biologie médicale
 2016;5942;Paris;médecine générale
 2016;5943;Bordeaux;médecine générale
 2016;5944;Lyon;médecine générale
 2016;5945;Paris;médecine générale
-2016;5947;Antilles-Guyane;médecine générale
+2016;5947;Martinique;médecine générale
 2016;5948;Clermont-Ferrand;médecine générale
 2016;5949;Angers;médecine générale
 2016;5950;Limoges;médecine générale
-2016;5951;Aix-Marseille;médecine générale
+2016;5951;Marseille;médecine générale
 2016;5953;Paris;médecine générale
 2016;5954;Paris;médecine générale
-2016;5955;Antilles-Guyane;médecine générale
-2016;5957;Antilles-Guyane;médecine générale
+2016;5955;Martinique;médecine générale
+2016;5957;Martinique;médecine générale
 2016;5958;Caen;médecine cardiovasculaire
 2016;5959;Nancy;médecine générale
 2016;5960;Saint-Etienne;médecine générale
@@ -38739,13 +38739,13 @@ annee;rang;ville;specialite
 2016;5963;Montpellier;médecine générale
 2016;5964;Dijon;médecine générale
 2016;5965;Caen;médecine cardiovasculaire
-2016;5966;Aix-Marseille;médecine générale
+2016;5966;Marseille;médecine générale
 2016;5967;Paris;médecine générale
 2016;5968;Montpellier;médecine générale
 2016;5969;Grenoble;médecine générale
 2016;5970;Bordeaux;santé publique
 2016;5971;Lille;médecine générale
-2016;5972;Aix-Marseille;médecine générale
+2016;5972;Marseille;médecine générale
 2016;5973;Poitiers;médecine générale
 2016;5974;Nice;médecine générale
 2016;5975;Tours;médecine générale
@@ -38778,14 +38778,14 @@ annee;rang;ville;specialite
 2016;6005;Montpellier;médecine générale
 2016;6006;Tours;médecine générale
 2016;6007;Rouen;médecine générale
-2016;6008;Aix-Marseille;médecine générale
+2016;6008;Marseille;médecine générale
 2016;6009;Strasbourg;médecine générale
 2016;6011;Angers;médecine générale
 2016;6012;Paris;psychiatrie
 2016;6013;Lille;psychiatrie
 2016;6014;Dijon;psychiatrie
 2016;6015;Caen;médecine générale
-2016;6016;Aix-Marseille;médecine générale
+2016;6016;Marseille;médecine générale
 2016;6017;Réunion;médecine générale
 2016;6018;Tours;médecine générale
 2016;6019;Bordeaux;médecine générale
@@ -38807,13 +38807,13 @@ annee;rang;ville;specialite
 2016;6036;Tours;anesthésie-réanimation
 2016;6037;Brest;médecine générale
 2016;6038;Paris;médecine générale
-2016;6039;Aix-Marseille;médecine générale
+2016;6039;Marseille;médecine générale
 2016;6040;Besançon;médecine physique et de réadaptation
 2016;6041;Dijon;médecine générale
 2016;6042;Paris;médecine générale
-2016;6044;Antilles-Guyane;médecine générale
+2016;6044;Martinique;médecine générale
 2016;6045;Rennes;médecine générale
-2016;6046;Aix-Marseille;psychiatrie
+2016;6046;Marseille;psychiatrie
 2016;6047;Strasbourg;médecine générale
 2016;6048;Toulouse;médecine générale
 2016;6049;Dijon;médecine générale
@@ -38840,13 +38840,13 @@ annee;rang;ville;specialite
 2016;6074;Nancy;médecine générale
 2016;6075;Paris;médecine générale
 2016;6076;Saint-Etienne;médecine générale
-2016;6077;Aix-Marseille;médecine générale
-2016;6078;Aix-Marseille;médecine générale
+2016;6077;Marseille;médecine générale
+2016;6078;Marseille;médecine générale
 2016;6079;Caen;médecine physique et de réadaptation
 2016;6080;Paris;médecine générale
 2016;6081;Nice;médecine générale
 2016;6082;Dijon;médecine générale
-2016;6083;Aix-Marseille;médecine générale
+2016;6083;Marseille;médecine générale
 2016;6084;Lyon;médecine générale
 2016;6085;Réunion;médecine générale
 2016;6086;Lyon;biologie médicale
@@ -38892,7 +38892,7 @@ annee;rang;ville;specialite
 2016;6129;Nancy;médecine générale
 2016;6130;Lyon;médecine générale
 2016;6131;Montpellier;médecine générale
-2016;6132;Aix-Marseille;médecine générale
+2016;6132;Marseille;médecine générale
 2016;6133;Clermont-Ferrand;médecine générale
 2016;6134;Bordeaux;médecine générale
 2016;6135;Grenoble;médecine générale
@@ -38903,7 +38903,7 @@ annee;rang;ville;specialite
 2016;6140;Nancy;psychiatrie
 2016;6141;Nantes;médecine générale
 2016;6142;Strasbourg;médecine générale
-2016;6143;Aix-Marseille;psychiatrie
+2016;6143;Marseille;psychiatrie
 2016;6144;Toulouse;psychiatrie
 2016;6146;Tours;médecine générale
 2016;6147;Grenoble;médecine générale
@@ -38924,9 +38924,9 @@ annee;rang;ville;specialite
 2016;6164;Bordeaux;médecine générale
 2016;6165;Strasbourg;médecine générale
 2016;6166;Nancy;médecine générale
-2016;6167;Antilles-Guyane;médecine et santé au travail
+2016;6167;Martinique;médecine et santé au travail
 2016;6170;Toulouse;psychiatrie
-2016;6172;Antilles-Guyane;médecine générale
+2016;6172;Martinique;médecine générale
 2016;6173;Clermont-Ferrand;médecine générale
 2016;6174;Paris;médecine générale
 2016;6175;Reims;médecine générale
@@ -38939,7 +38939,7 @@ annee;rang;ville;specialite
 2016;6183;Caen;médecine générale
 2016;6184;Réunion;médecine générale
 2016;6185;Bordeaux;médecine générale
-2016;6186;Antilles-Guyane;psychiatrie
+2016;6186;Martinique;psychiatrie
 2016;6187;Toulouse;médecine générale
 2016;6188;Lyon;médecine générale
 2016;6189;Paris;psychiatrie
@@ -38954,7 +38954,7 @@ annee;rang;ville;specialite
 2016;6198;Lille;médecine générale
 2016;6199;Poitiers;médecine générale
 2016;6200;Strasbourg;médecine générale
-2016;6201;Aix-Marseille;médecine et santé au travail
+2016;6201;Marseille;médecine et santé au travail
 2016;6202;Paris;médecine générale
 2016;6203;Amiens;médecine générale
 2016;6204;Lille;médecine générale
@@ -38970,7 +38970,7 @@ annee;rang;ville;specialite
 2016;6214;Amiens;médecine générale
 2016;6215;Poitiers;médecine générale
 2016;6216;Tours;médecine générale
-2016;6217;Aix-Marseille;médecine générale
+2016;6217;Marseille;médecine générale
 2016;6218;Toulouse;médecine générale
 2016;6219;Poitiers;médecine générale
 2016;6220;Rouen;médecine générale
@@ -38982,7 +38982,7 @@ annee;rang;ville;specialite
 2016;6228;Nice;médecine générale
 2016;6229;Lille;psychiatrie
 2016;6230;Nice;biologie médicale
-2016;6231;Aix-Marseille;médecine générale
+2016;6231;Marseille;médecine générale
 2016;6232;Tours;médecine générale
 2016;6233;Caen;médecine générale
 2016;6234;Lyon;médecine générale
@@ -38999,7 +38999,7 @@ annee;rang;ville;specialite
 2016;6248;Lille;médecine générale
 2016;6249;Angers;médecine générale
 2016;6250;Montpellier;psychiatrie
-2016;6251;Aix-Marseille;médecine générale
+2016;6251;Marseille;médecine générale
 2016;6252;Caen;médecine générale
 2016;6253;Paris;médecine générale
 2016;6255;Paris;médecine générale
@@ -39017,13 +39017,13 @@ annee;rang;ville;specialite
 2016;6270;Strasbourg;médecine générale
 2016;6271;Nancy;médecine générale
 2016;6272;Paris;psychiatrie
-2016;6274;Antilles-Guyane;santé publique
+2016;6274;Martinique;santé publique
 2016;6276;Lille;médecine générale
 2016;6277;Amiens;psychiatrie
 2016;6278;Rouen;médecine générale
 2016;6279;Grenoble;médecine générale
-2016;6280;Aix-Marseille;médecine générale
-2016;6281;Aix-Marseille;médecine générale
+2016;6280;Marseille;médecine générale
+2016;6281;Marseille;médecine générale
 2016;6282;Strasbourg;médecine générale
 2016;6283;Lille;psychiatrie
 2016;6284;Paris;médecine générale
@@ -39042,7 +39042,7 @@ annee;rang;ville;specialite
 2016;6300;Paris;médecine générale
 2016;6301;Clermont-Ferrand;médecine générale
 2016;6302;Lille;médecine générale
-2016;6303;Aix-Marseille;médecine générale
+2016;6303;Marseille;médecine générale
 2016;6304;Lille;médecine générale
 2016;6305;Réunion;médecine générale
 2016;6306;Nice;médecine générale
@@ -39050,7 +39050,7 @@ annee;rang;ville;specialite
 2016;6308;Lyon;médecine générale
 2016;6309;Angers;médecine générale
 2016;6310;Montpellier;médecine générale
-2016;6311;Antilles-Guyane;médecine générale
+2016;6311;Martinique;médecine générale
 2016;6313;Bordeaux;médecine générale
 2016;6314;Poitiers;psychiatrie
 2016;6315;Tours;médecine générale
@@ -39062,25 +39062,25 @@ annee;rang;ville;specialite
 2016;6321;Toulouse;médecine générale
 2016;6322;Angers;médecine générale
 2016;6323;Paris;psychiatrie
-2016;6324;Aix-Marseille;médecine générale
+2016;6324;Marseille;médecine générale
 2016;6325;Paris;médecine générale
 2016;6326;Bordeaux;médecine générale
 2016;6327;Strasbourg;médecine générale
 2016;6328;Paris;médecine générale
 2016;6330;Toulouse;médecine générale
 2016;6331;Paris;médecine générale
-2016;6332;Aix-Marseille;médecine générale
+2016;6332;Marseille;médecine générale
 2016;6333;Nice;médecine générale
 2016;6335;Bordeaux;médecine générale
 2016;6336;Lille;médecine générale
 2016;6337;Réunion;médecine générale
 2016;6338;Toulouse;médecine générale
 2016;6339;Paris;médecine générale
-2016;6340;Aix-Marseille;médecine générale
-2016;6341;Aix-Marseille;médecine générale
-2016;6342;Aix-Marseille;médecine générale
+2016;6340;Marseille;médecine générale
+2016;6341;Marseille;médecine générale
+2016;6342;Marseille;médecine générale
 2016;6343;Angers;médecine générale
-2016;6344;Aix-Marseille;médecine générale
+2016;6344;Marseille;médecine générale
 2016;6345;Paris;médecine générale
 2016;6346;Nancy;médecine générale
 2016;6347;Réunion;médecine générale
@@ -39112,7 +39112,7 @@ annee;rang;ville;specialite
 2016;6375;Caen;médecine générale
 2016;6376;Amiens;biologie médicale
 2016;6377;Poitiers;médecine générale
-2016;6378;Aix-Marseille;médecine générale
+2016;6378;Marseille;médecine générale
 2016;6379;Rouen;médecine générale
 2016;6380;Limoges;médecine générale
 2016;6381;Paris;médecine générale
@@ -39130,7 +39130,7 @@ annee;rang;ville;specialite
 2016;6395;Caen;médecine générale
 2016;6396;Caen;médecine générale
 2016;6397;Rouen;santé publique
-2016;6398;Aix-Marseille;médecine générale
+2016;6398;Marseille;médecine générale
 2016;6399;Amiens;médecine générale
 2016;6400;Paris;médecine générale
 2016;6401;Amiens;psychiatrie
@@ -39143,9 +39143,9 @@ annee;rang;ville;specialite
 2016;6409;Angers;médecine générale
 2016;6410;Nancy;médecine générale
 2016;6413;Caen;anesthésie-réanimation
-2016;6414;Aix-Marseille;médecine générale
+2016;6414;Marseille;médecine générale
 2016;6415;Paris;médecine générale
-2016;6416;Antilles-Guyane;médecine générale
+2016;6416;Martinique;médecine générale
 2016;6417;Saint-Etienne;médecine générale
 2016;6418;Toulouse;médecine générale
 2016;6419;Paris;médecine générale
@@ -39163,11 +39163,11 @@ annee;rang;ville;specialite
 2016;6431;Lyon;médecine générale
 2016;6432;Grenoble;médecine générale
 2016;6433;Strasbourg;médecine générale
-2016;6434;Antilles-Guyane;médecine générale
+2016;6434;Martinique;médecine générale
 2016;6436;Toulouse;médecine générale
-2016;6437;Antilles-Guyane;médecine cardiovasculaire
+2016;6437;Martinique;médecine cardiovasculaire
 2016;6438;Lyon;médecine générale
-2016;6439;Antilles-Guyane;médecine générale
+2016;6439;Martinique;médecine générale
 2016;6440;Lyon;médecine générale
 2016;6441;Reims;médecine générale
 2016;6442;Rouen;biologie médicale
@@ -39201,7 +39201,7 @@ annee;rang;ville;specialite
 2016;6474;Paris;biologie médicale
 2016;6475;Toulouse;psychiatrie
 2016;6476;Toulouse;psychiatrie
-2016;6477;Aix-Marseille;médecine générale
+2016;6477;Marseille;médecine générale
 2016;6478;Paris;psychiatrie
 2016;6479;Saint-Etienne;médecine générale
 2016;6481;Tours;médecine générale
@@ -39215,16 +39215,16 @@ annee;rang;ville;specialite
 2016;6490;Paris;médecine générale
 2016;6491;Lyon;médecine générale
 2016;6492;Lyon;médecine générale
-2016;6493;Antilles-Guyane;médecine générale
+2016;6493;Martinique;médecine générale
 2016;6494;Paris;médecine générale
 2016;6495;Caen;médecine générale
 2016;6496;Bordeaux;médecine générale
 2016;6497;Lyon;médecine générale
-2016;6498;Aix-Marseille;médecine générale
+2016;6498;Marseille;médecine générale
 2016;6499;Paris;médecine générale
 2016;6500;Paris;médecine générale
 2016;6502;Strasbourg;médecine générale
-2016;6503;Aix-Marseille;psychiatrie
+2016;6503;Marseille;psychiatrie
 2016;6504;Lille;médecine générale
 2016;6506;Paris;psychiatrie
 2016;6507;Lyon;médecine générale
@@ -39250,8 +39250,8 @@ annee;rang;ville;specialite
 2016;6531;Saint-Etienne;médecine générale
 2016;6532;Lille;psychiatrie
 2016;6533;Paris;psychiatrie
-2016;6534;Aix-Marseille;médecine générale
-2016;6535;Aix-Marseille;médecine générale
+2016;6534;Marseille;médecine générale
+2016;6535;Marseille;médecine générale
 2016;6536;Lyon;médecine générale
 2016;6537;Limoges;médecine générale
 2016;6538;Paris;médecine générale
@@ -39268,17 +39268,17 @@ annee;rang;ville;specialite
 2016;6550;Lyon;médecine générale
 2016;6551;Paris;médecine générale
 2016;6552;Limoges;médecine générale
-2016;6553;Aix-Marseille;médecine générale
+2016;6553;Marseille;médecine générale
 2016;6554;Nancy;médecine générale
 2016;6555;Poitiers;médecine générale
 2016;6556;Tours;médecine générale
 2016;6557;Dijon;médecine générale
 2016;6558;Amiens;médecine générale
 2016;6559;Montpellier;psychiatrie
-2016;6560;Aix-Marseille;médecine générale
+2016;6560;Marseille;médecine générale
 2016;6561;Tours;médecine générale
 2016;6562;Grenoble;médecine générale
-2016;6563;Aix-Marseille;médecine générale
+2016;6563;Marseille;médecine générale
 2016;6564;Rouen;médecine générale
 2016;6565;Besançon;biologie médicale
 2016;6566;Clermont-Ferrand;médecine générale
@@ -39288,8 +39288,8 @@ annee;rang;ville;specialite
 2016;6570;Rouen;médecine générale
 2016;6571;Paris;médecine générale
 2016;6572;Paris;médecine et santé au travail
-2016;6573;Antilles-Guyane;oto-rhino-laryngologie - chirurgie cervico-faciale
-2016;6576;Aix-Marseille;médecine générale
+2016;6573;Martinique;oto-rhino-laryngologie - chirurgie cervico-faciale
+2016;6576;Marseille;médecine générale
 2016;6577;Nancy;médecine générale
 2016;6579;Brest;médecine générale
 2016;6580;Reims;médecine générale
@@ -39303,10 +39303,10 @@ annee;rang;ville;specialite
 2016;6588;Brest;médecine générale
 2016;6589;Paris;psychiatrie
 2016;6590;Caen;médecine générale
-2016;6591;Aix-Marseille;médecine générale
+2016;6591;Marseille;médecine générale
 2016;6592;Nice;médecine générale
 2016;6593;Poitiers;médecine générale
-2016;6594;Aix-Marseille;psychiatrie
+2016;6594;Marseille;psychiatrie
 2016;6595;Besançon;médecine générale
 2016;6596;Paris;médecine générale
 2016;6597;Dijon;psychiatrie
@@ -39323,29 +39323,29 @@ annee;rang;ville;specialite
 2016;6611;Paris;médecine générale
 2016;6612;Brest;psychiatrie
 2016;6613;Clermont-Ferrand;médecine générale
-2016;6614;Aix-Marseille;médecine et santé au travail
+2016;6614;Marseille;médecine et santé au travail
 2016;6615;Lille;psychiatrie
 2016;6616;Rouen;psychiatrie
 2016;6617;Caen;médecine générale
 2016;6618;Clermont-Ferrand;médecine générale
 2016;6619;Lille;médecine générale
 2016;6620;Tours;médecine générale
-2016;6622;Aix-Marseille;médecine générale
+2016;6622;Marseille;médecine générale
 2016;6623;Lyon;médecine générale
 2016;6624;Poitiers;médecine générale
 2016;6625;Angers;médecine générale
 2016;6626;Caen;médecine générale
-2016;6627;Aix-Marseille;médecine générale
+2016;6627;Marseille;médecine générale
 2016;6629;Caen;médecine générale
 2016;6630;Nice;médecine générale
 2016;6631;Nancy;médecine générale
-2016;6632;Antilles-Guyane;médecine générale
+2016;6632;Martinique;médecine générale
 2016;6634;Rouen;psychiatrie
 2016;6635;Lille;médecine générale
 2016;6636;Nancy;biologie médicale
 2016;6637;Nancy;médecine générale
 2016;6638;Strasbourg;médecine générale
-2016;6640;Aix-Marseille;médecine générale
+2016;6640;Marseille;médecine générale
 2016;6641;Poitiers;psychiatrie
 2016;6642;Reims;médecine générale
 2016;6643;Paris;médecine générale
@@ -39353,11 +39353,11 @@ annee;rang;ville;specialite
 2016;6645;Lyon;médecine générale
 2016;6646;Limoges;chirurgie générale
 2016;6648;Lyon;médecine générale
-2016;6649;Aix-Marseille;médecine générale
+2016;6649;Marseille;médecine générale
 2016;6650;Angers;médecine générale
-2016;6651;Aix-Marseille;médecine générale
-2016;6652;Aix-Marseille;médecine générale
-2016;6653;Aix-Marseille;médecine générale
+2016;6651;Marseille;médecine générale
+2016;6652;Marseille;médecine générale
+2016;6653;Marseille;médecine générale
 2016;6654;Poitiers;médecine générale
 2016;6655;Nice;médecine générale
 2016;6656;Nancy;médecine générale
@@ -39374,8 +39374,8 @@ annee;rang;ville;specialite
 2016;6668;Rennes;biologie médicale
 2016;6669;Paris;médecine générale
 2016;6670;Strasbourg;médecine générale
-2016;6671;Aix-Marseille;médecine générale
-2016;6672;Aix-Marseille;médecine générale
+2016;6671;Marseille;médecine générale
+2016;6672;Marseille;médecine générale
 2016;6673;Paris;médecine générale
 2016;6674;Besançon;médecine générale
 2016;6675;Caen;génétique médicale
@@ -39389,18 +39389,18 @@ annee;rang;ville;specialite
 2016;6683;Angers;médecine générale
 2016;6684;Caen;médecine générale
 2016;6685;Lille;psychiatrie
-2016;6687;Aix-Marseille;médecine générale
+2016;6687;Marseille;médecine générale
 2016;6688;Paris;médecine générale
 2016;6689;Nancy;médecine générale
-2016;6691;Aix-Marseille;médecine générale
+2016;6691;Marseille;médecine générale
 2016;6692;Toulouse;médecine générale
-2016;6693;Antilles-Guyane;médecine interne et immunologie clinique
+2016;6693;Martinique;médecine interne et immunologie clinique
 2016;6694;Strasbourg;médecine générale
-2016;6695;Aix-Marseille;médecine générale
+2016;6695;Marseille;médecine générale
 2016;6696;Paris;médecine générale
 2016;6697;Lille;médecine générale
 2016;6698;Angers;biologie médicale
-2016;6700;Aix-Marseille;médecine générale
+2016;6700;Marseille;médecine générale
 2016;6701;Angers;médecine générale
 2016;6702;Nice;médecine générale
 2016;6703;Lille;médecine générale
@@ -39411,13 +39411,13 @@ annee;rang;ville;specialite
 2016;6708;Réunion;médecine générale
 2016;6709;Brest;médecine générale
 2016;6710;Angers;médecine générale
-2016;6711;Aix-Marseille;médecine générale
+2016;6711;Marseille;médecine générale
 2016;6712;Poitiers;médecine générale
 2016;6713;Angers;médecine générale
 2016;6714;Besançon;médecine générale
 2016;6715;Nancy;médecine générale
 2016;6716;Tours;médecine générale
-2016;6717;Aix-Marseille;psychiatrie
+2016;6717;Marseille;psychiatrie
 2016;6718;Tours;médecine générale
 2016;6719;Paris;médecine générale
 2016;6720;Nancy;médecine générale
@@ -39428,7 +39428,7 @@ annee;rang;ville;specialite
 2016;6725;Réunion;médecine générale
 2016;6726;Toulouse;médecine générale
 2016;6727;Amiens;psychiatrie
-2016;6728;Aix-Marseille;médecine générale
+2016;6728;Marseille;médecine générale
 2016;6729;Lille;psychiatrie
 2016;6730;Tours;médecine générale
 2016;6731;Poitiers;médecine générale
@@ -39444,7 +39444,7 @@ annee;rang;ville;specialite
 2016;6742;Poitiers;médecine générale
 2016;6743;Strasbourg;médecine générale
 2016;6744;Nancy;médecine générale
-2016;6745;Aix-Marseille;médecine générale
+2016;6745;Marseille;médecine générale
 2016;6747;Paris;médecine générale
 2016;6748;Angers;médecine générale
 2016;6749;Reims;psychiatrie
@@ -39456,9 +39456,9 @@ annee;rang;ville;specialite
 2016;6757;Rouen;médecine générale
 2016;6758;Clermont-Ferrand;médecine générale
 2016;6759;Paris;médecine générale
-2016;6760;Aix-Marseille;médecine générale
+2016;6760;Marseille;médecine générale
 2016;6761;Saint-Etienne;médecine générale
-2016;6762;Aix-Marseille;médecine générale
+2016;6762;Marseille;médecine générale
 2016;6764;Poitiers;médecine générale
 2016;6765;Strasbourg;médecine générale
 2016;6767;Reims;médecine générale
@@ -39471,25 +39471,25 @@ annee;rang;ville;specialite
 2016;6774;Amiens;médecine générale
 2016;6775;Réunion;médecine générale
 2016;6776;Nice;biologie médicale
-2016;6777;Aix-Marseille;médecine générale
+2016;6777;Marseille;médecine générale
 2016;6778;Tours;médecine générale
 2016;6779;Paris;médecine générale
 2016;6780;Nice;médecine générale
-2016;6781;Antilles-Guyane;neurologie
+2016;6781;Martinique;neurologie
 2016;6782;Montpellier;médecine générale
-2016;6783;Aix-Marseille;médecine générale
+2016;6783;Marseille;médecine générale
 2016;6784;Besançon;médecine générale
 2016;6785;Strasbourg;médecine générale
 2016;6786;Bordeaux;médecine générale
 2016;6787;Dijon;médecine générale
 2016;6788;Toulouse;médecine générale
-2016;6789;Antilles-Guyane;médecine générale
+2016;6789;Martinique;médecine générale
 2016;6790;Nice;médecine et santé au travail
 2016;6791;Paris;médecine générale
 2016;6792;Angers;médecine générale
 2016;6793;Lille;médecine générale
 2016;6794;Strasbourg;médecine générale
-2016;6795;Aix-Marseille;médecine générale
+2016;6795;Marseille;médecine générale
 2016;6796;Réunion;médecine générale
 2016;6797;Lille;médecine générale
 2016;6798;Paris;médecine générale
@@ -39501,7 +39501,7 @@ annee;rang;ville;specialite
 2016;6805;Poitiers;médecine générale
 2016;6806;Paris;médecine générale
 2016;6807;Saint-Etienne;médecine générale
-2016;6808;Antilles-Guyane;médecine générale
+2016;6808;Martinique;médecine générale
 2016;6809;Poitiers;médecine générale
 2016;6810;Clermont-Ferrand;médecine générale
 2016;6812;Lille;médecine générale
@@ -39511,43 +39511,43 @@ annee;rang;ville;specialite
 2016;6816;Besançon;biologie médicale
 2016;6817;Limoges;médecine générale
 2016;6819;Nice;médecine générale
-2016;6820;Aix-Marseille;médecine générale
+2016;6820;Marseille;médecine générale
 2016;6821;Caen;médecine générale
 2016;6822;Paris;médecine générale
-2016;6823;Aix-Marseille;médecine générale
+2016;6823;Marseille;médecine générale
 2016;6824;Clermont-Ferrand;médecine générale
 2016;6825;Lille;psychiatrie
-2016;6826;Antilles-Guyane;médecine générale
+2016;6826;Martinique;médecine générale
 2016;6827;Lille;médecine générale
 2016;6828;Poitiers;médecine générale
 2016;6829;Brest;médecine générale
 2016;6830;Besançon;médecine générale
 2016;6833;Besançon;médecine générale
-2016;6834;Aix-Marseille;médecine générale
-2016;6835;Aix-Marseille;médecine générale
+2016;6834;Marseille;médecine générale
+2016;6835;Marseille;médecine générale
 2016;6836;Caen;médecine générale
 2016;6837;Rouen;psychiatrie
 2016;6839;Paris;médecine générale
 2016;6840;Toulouse;médecine générale
-2016;6841;Aix-Marseille;médecine générale
+2016;6841;Marseille;médecine générale
 2016;6842;Tours;médecine générale
 2016;6843;Angers;médecine générale
 2016;6844;Lyon;médecine et santé au travail
 2016;6845;Saint-Etienne;médecine générale
-2016;6846;Antilles-Guyane;endocrinologie-diabétologie-nutrition
+2016;6846;Martinique;endocrinologie-diabétologie-nutrition
 2016;6847;Limoges;biologie médicale
 2016;6848;Paris;médecine générale
 2016;6849;Rennes;psychiatrie
-2016;6850;Antilles-Guyane;médecine générale
+2016;6850;Martinique;médecine générale
 2016;6851;Paris;médecine générale
 2016;6852;Clermont-Ferrand;médecine générale
 2016;6853;Paris;médecine générale
 2016;6854;Dijon;médecine générale
 2016;6855;Toulouse;psychiatrie
-2016;6856;Aix-Marseille;médecine générale
+2016;6856;Marseille;médecine générale
 2016;6857;Angers;médecine générale
 2016;6859;Saint-Etienne;médecine générale
-2016;6860;Aix-Marseille;médecine générale
+2016;6860;Marseille;médecine générale
 2016;6861;Réunion;médecine générale
 2016;6862;Dijon;médecine générale
 2016;6863;Poitiers;médecine générale
@@ -39555,15 +39555,15 @@ annee;rang;ville;specialite
 2016;6865;Rouen;médecine générale
 2016;6866;Brest;médecine générale
 2016;6867;Angers;médecine générale
-2016;6868;Antilles-Guyane;médecine générale
+2016;6868;Martinique;médecine générale
 2016;6869;Paris;médecine générale
 2016;6870;Tours;médecine générale
 2016;6871;Saint-Etienne;médecine générale
-2016;6872;Aix-Marseille;médecine générale
+2016;6872;Marseille;médecine générale
 2016;6873;Brest;médecine générale
 2016;6874;Paris;médecine générale
 2016;6875;Dijon;psychiatrie
-2016;6876;Aix-Marseille;médecine générale
+2016;6876;Marseille;médecine générale
 2016;6878;Tours;médecine générale
 2016;6879;Paris;médecine générale
 2016;6880;Besançon;médecine générale
@@ -39588,19 +39588,19 @@ annee;rang;ville;specialite
 2016;6899;Saint-Etienne;médecine générale
 2016;6900;Lille;médecine et santé au travail
 2016;6901;Paris;médecine générale
-2016;6902;Aix-Marseille;médecine générale
+2016;6902;Marseille;médecine générale
 2016;6903;Poitiers;médecine générale
 2016;6905;Clermont-Ferrand;médecine générale
-2016;6906;Aix-Marseille;médecine générale
+2016;6906;Marseille;médecine générale
 2016;6907;Saint-Etienne;médecine générale
 2016;6908;Angers;médecine générale
 2016;6909;Poitiers;médecine générale
-2016;6910;Aix-Marseille;biologie médicale
-2016;6911;Aix-Marseille;santé publique
+2016;6910;Marseille;biologie médicale
+2016;6911;Marseille;santé publique
 2016;6912;Nice;médecine générale
 2016;6913;Strasbourg;médecine générale
 2016;6914;Paris;médecine générale
-2016;6915;Aix-Marseille;médecine générale
+2016;6915;Marseille;médecine générale
 2016;6916;Poitiers;médecine générale
 2016;6917;Lille;médecine générale
 2016;6918;Poitiers;médecine générale
@@ -39613,18 +39613,18 @@ annee;rang;ville;specialite
 2016;6926;Lille;médecine générale
 2016;6927;Poitiers;médecine générale
 2016;6929;Strasbourg;médecine générale
-2016;6930;Antilles-Guyane;médecine générale
+2016;6930;Martinique;médecine générale
 2016;6931;Besançon;médecine générale
 2016;6932;Montpellier;psychiatrie
 2016;6933;Nice;médecine générale
 2016;6934;Nancy;médecine générale
-2016;6935;Aix-Marseille;biologie médicale
+2016;6935;Marseille;biologie médicale
 2016;6936;Amiens;médecine générale
 2016;6937;Paris;biologie médicale
 2016;6938;Nancy;médecine générale
 2016;6939;Angers;médecine générale
 2016;6940;Saint-Etienne;psychiatrie
-2016;6942;Aix-Marseille;médecine générale
+2016;6942;Marseille;médecine générale
 2016;6943;Poitiers;psychiatrie
 2016;6944;Dijon;médecine générale
 2016;6946;Paris;médecine générale
@@ -39632,7 +39632,7 @@ annee;rang;ville;specialite
 2016;6948;Angers;biologie médicale
 2016;6949;Toulouse;biologie médicale
 2016;6950;Saint-Etienne;médecine générale
-2016;6951;Antilles-Guyane;médecine générale
+2016;6951;Martinique;médecine générale
 2016;6952;Nancy;médecine générale
 2016;6953;Amiens;psychiatrie
 2016;6954;Toulouse;médecine générale
@@ -39640,17 +39640,17 @@ annee;rang;ville;specialite
 2016;6956;Lille;médecine générale
 2016;6957;Paris;médecine générale
 2016;6958;Lille;psychiatrie
-2016;6959;Aix-Marseille;médecine générale
+2016;6959;Marseille;médecine générale
 2016;6960;Saint-Etienne;médecine générale
 2016;6961;Limoges;oncologie
 2016;6962;Bordeaux;santé publique
 2016;6963;Brest;psychiatrie
 2016;6964;Nancy;médecine générale
 2016;6965;Brest;médecine générale
-2016;6967;Aix-Marseille;médecine générale
+2016;6967;Marseille;médecine générale
 2016;6968;Nancy;psychiatrie
 2016;6969;Nancy;médecine générale
-2016;6970;Aix-Marseille;médecine générale
+2016;6970;Marseille;médecine générale
 2016;6971;Paris;médecine générale
 2016;6972;Lille;médecine générale
 2016;6973;Toulouse;psychiatrie
@@ -39664,18 +39664,18 @@ annee;rang;ville;specialite
 2016;6981;Strasbourg;médecine générale
 2016;6982;Clermont-Ferrand;médecine générale
 2016;6983;Toulouse;médecine générale
-2016;6984;Antilles-Guyane;médecine générale
+2016;6984;Martinique;médecine générale
 2016;6985;Angers;médecine générale
 2016;6986;Toulouse;médecine générale
 2016;6987;Paris;médecine générale
 2016;6988;Paris;médecine générale
 2016;6989;Grenoble;médecine et santé au travail
-2016;6992;Aix-Marseille;médecine générale
+2016;6992;Marseille;médecine générale
 2016;6993;Limoges;psychiatrie
 2016;6994;Limoges;psychiatrie
 2016;6995;Poitiers;médecine générale
 2016;6996;Nice;médecine générale
-2016;6997;Antilles-Guyane;rhumatologie
+2016;6997;Martinique;rhumatologie
 2016;6999;Caen;médecine générale
 2016;7000;Angers;médecine générale
 2016;7001;Saint-Etienne;médecine générale
@@ -39753,7 +39753,7 @@ annee;rang;ville;specialite
 2016;7080;Amiens;médecine générale
 2016;7081;Réunion;médecine générale
 2016;7082;Nancy;médecine générale
-2016;7083;Antilles-Guyane;médecine générale
+2016;7083;Martinique;médecine générale
 2016;7084;Brest;médecine générale
 2016;7085;Rouen;médecine générale
 2016;7086;Lyon;médecine générale
@@ -39770,11 +39770,11 @@ annee;rang;ville;specialite
 2016;7097;Brest;médecine générale
 2016;7098;Rennes;psychiatrie
 2016;7099;Amiens;médecine générale
-2016;7100;Aix-Marseille;médecine et santé au travail
+2016;7100;Marseille;médecine et santé au travail
 2016;7101;Poitiers;médecine générale
 2016;7102;Caen;médecine générale
 2016;7103;Nancy;médecine générale
-2016;7104;Antilles-Guyane;psychiatrie
+2016;7104;Martinique;psychiatrie
 2016;7106;Nice;médecine générale
 2016;7107;Poitiers;médecine générale
 2016;7108;Lille;psychiatrie
@@ -39796,11 +39796,11 @@ annee;rang;ville;specialite
 2016;7124;Toulouse;médecine et santé au travail
 2016;7126;Limoges;médecine générale
 2016;7127;Lille;médecine et santé au travail
-2016;7129;Antilles-Guyane;médecine générale
+2016;7129;Martinique;médecine générale
 2016;7130;Nice;médecine générale
 2016;7131;Réunion;médecine générale
 2016;7132;Saint-Etienne;médecine générale
-2016;7133;Antilles-Guyane;psychiatrie
+2016;7133;Martinique;psychiatrie
 2016;7134;Amiens;médecine générale
 2016;7136;Lille;médecine générale
 2016;7137;Angers;médecine générale
@@ -39808,7 +39808,7 @@ annee;rang;ville;specialite
 2016;7139;Poitiers;médecine générale
 2016;7140;Nice;médecine générale
 2016;7141;Clermont-Ferrand;médecine générale
-2016;7142;Antilles-Guyane;médecine générale
+2016;7142;Martinique;médecine générale
 2016;7143;Clermont-Ferrand;médecine générale
 2016;7144;Réunion;médecine générale
 2016;7145;Nice;médecine générale
@@ -39830,14 +39830,14 @@ annee;rang;ville;specialite
 2016;7164;Nancy;médecine générale
 2016;7165;Amiens;psychiatrie
 2016;7166;Caen;biologie médicale
-2016;7167;Antilles-Guyane;médecine générale
+2016;7167;Martinique;médecine générale
 2016;7168;Toulouse;psychiatrie
 2016;7169;Rouen;médecine générale
 2016;7170;Paris;médecine générale
 2016;7171;Reims;psychiatrie
 2016;7172;Caen;médecine générale
 2016;7174;Lille;médecine générale
-2016;7175;Antilles-Guyane;médecine générale
+2016;7175;Martinique;médecine générale
 2016;7177;Paris;médecine générale
 2016;7179;Poitiers;médecine générale
 2016;7180;Paris;médecine générale
@@ -39871,7 +39871,7 @@ annee;rang;ville;specialite
 2016;7210;Lille;psychiatrie
 2016;7211;Nancy;médecine générale
 2016;7212;Dijon;médecine générale
-2016;7213;Antilles-Guyane;médecine générale
+2016;7213;Martinique;médecine générale
 2016;7214;Clermont-Ferrand;médecine générale
 2016;7215;Paris;médecine générale
 2016;7216;Lille;médecine générale
@@ -39899,7 +39899,7 @@ annee;rang;ville;specialite
 2016;7240;Paris;médecine générale
 2016;7241;Paris;médecine générale
 2016;7242;Poitiers;médecine générale
-2016;7243;Antilles-Guyane;médecine générale
+2016;7243;Martinique;médecine générale
 2016;7244;Brest;psychiatrie
 2016;7245;Amiens;médecine générale
 2016;7246;Caen;médecine générale
@@ -39920,7 +39920,7 @@ annee;rang;ville;specialite
 2016;7261;Rouen;santé publique
 2016;7262;Strasbourg;médecine générale
 2016;7263;Bordeaux;médecine générale
-2016;7264;Antilles-Guyane;médecine générale
+2016;7264;Martinique;médecine générale
 2016;7265;Poitiers;médecine générale
 2016;7266;Nice;psychiatrie
 2016;7267;Paris;médecine générale
@@ -39932,11 +39932,11 @@ annee;rang;ville;specialite
 2016;7274;Nice;médecine générale
 2016;7275;Poitiers;médecine générale
 2016;7276;Brest;médecine générale
-2016;7277;Antilles-Guyane;médecine générale
+2016;7277;Martinique;médecine générale
 2016;7278;Amiens;médecine générale
 2016;7279;Paris;médecine générale
 2016;7280;Nice;médecine générale
-2016;7281;Antilles-Guyane;médecine générale
+2016;7281;Martinique;médecine générale
 2016;7282;Besançon;médecine générale
 2016;7283;Angers;médecine générale
 2016;7284;Bordeaux;biologie médicale
@@ -39949,7 +39949,7 @@ annee;rang;ville;specialite
 2016;7293;Saint-Etienne;psychiatrie
 2016;7294;Dijon;médecine générale
 2016;7296;Reims;médecine générale
-2016;7297;Antilles-Guyane;médecine générale
+2016;7297;Martinique;médecine générale
 2016;7298;Paris;médecine générale
 2016;7299;Lille;médecine générale
 2016;7300;Lille;médecine générale
@@ -39990,8 +39990,8 @@ annee;rang;ville;specialite
 2016;7337;Saint-Etienne;médecine générale
 2016;7338;Reims;médecine générale
 2016;7339;Nancy;médecine générale
-2016;7340;Aix-Marseille;santé publique
-2016;7341;Antilles-Guyane;médecine générale
+2016;7340;Marseille;santé publique
+2016;7341;Martinique;médecine générale
 2016;7342;Tours;médecine générale
 2016;7343;Clermont-Ferrand;médecine générale
 2016;7344;Brest;médecine générale
@@ -40009,17 +40009,17 @@ annee;rang;ville;specialite
 2016;7357;Lille;médecine générale
 2016;7359;Lille;médecine générale
 2016;7362;Nice;médecine générale
-2016;7364;Antilles-Guyane;médecine générale
+2016;7364;Martinique;médecine générale
 2016;7365;Nancy;santé publique
 2016;7366;Poitiers;médecine générale
 2016;7367;Limoges;médecine générale
 2016;7368;Reims;médecine générale
 2016;7371;Lille;médecine générale
 2016;7372;Strasbourg;médecine générale
-2016;7373;Antilles-Guyane;psychiatrie
+2016;7373;Martinique;psychiatrie
 2016;7374;Paris;médecine générale
 2016;7375;Nancy;médecine générale
-2016;7377;Antilles-Guyane;médecine générale
+2016;7377;Martinique;médecine générale
 2016;7378;Nice;médecine générale
 2016;7379;Rennes;psychiatrie
 2016;7380;Reims;médecine générale
@@ -40039,9 +40039,9 @@ annee;rang;ville;specialite
 2016;7395;Saint-Etienne;psychiatrie
 2016;7396;Lille;médecine générale
 2016;7397;Nantes;médecine et santé au travail
-2016;7398;Antilles-Guyane;médecine générale
+2016;7398;Martinique;médecine générale
 2016;7399;Amiens;médecine générale
-2016;7403;Antilles-Guyane;médecine générale
+2016;7403;Martinique;médecine générale
 2016;7404;Lille;médecine générale
 2016;7405;Amiens;psychiatrie
 2016;7406;Reims;médecine générale
@@ -40065,7 +40065,7 @@ annee;rang;ville;specialite
 2016;7428;Nice;médecine générale
 2016;7429;Limoges;médecine générale
 2016;7430;Dijon;médecine générale
-2016;7431;Aix-Marseille;santé publique
+2016;7431;Marseille;santé publique
 2016;7432;Rouen;médecine générale
 2016;7433;Nice;génétique médicale
 2016;7434;Caen;psychiatrie
@@ -40090,7 +40090,7 @@ annee;rang;ville;specialite
 2016;7457;Amiens;médecine générale
 2016;7458;Rouen;médecine générale
 2016;7459;Rouen;médecine générale
-2016;7460;Antilles-Guyane;médecine générale
+2016;7460;Martinique;médecine générale
 2016;7461;Paris;médecine générale
 2016;7462;Caen;médecine générale
 2016;7463;Paris;médecine générale
@@ -40117,7 +40117,7 @@ annee;rang;ville;specialite
 2016;7486;Paris;médecine générale
 2016;7488;Rouen;médecine générale
 2016;7489;Paris;médecine générale
-2016;7491;Antilles-Guyane;médecine générale
+2016;7491;Martinique;médecine générale
 2016;7492;Clermont-Ferrand;psychiatrie
 2016;7493;Saint-Etienne;médecine générale
 2016;7494;Caen;médecine générale
@@ -40125,7 +40125,7 @@ annee;rang;ville;specialite
 2016;7497;Brest;médecine générale
 2016;7498;Saint-Etienne;médecine générale
 2016;7499;Clermont-Ferrand;psychiatrie
-2016;7500;Antilles-Guyane;médecine générale
+2016;7500;Martinique;médecine générale
 2016;7501;Dijon;santé publique
 2016;7502;Lille;médecine générale
 2016;7503;Rouen;psychiatrie
@@ -40136,7 +40136,7 @@ annee;rang;ville;specialite
 2016;7508;Tours;médecine générale
 2016;7510;Amiens;médecine générale
 2016;7511;Dijon;médecine générale
-2016;7512;Antilles-Guyane;médecine générale
+2016;7512;Martinique;médecine générale
 2016;7513;Paris;médecine générale
 2016;7514;Grenoble;biologie médicale
 2016;7515;Tours;médecine générale
@@ -40165,8 +40165,8 @@ annee;rang;ville;specialite
 2016;7538;Lille;médecine générale
 2016;7540;Strasbourg;médecine générale
 2016;7541;Clermont-Ferrand;médecine générale
-2016;7542;Antilles-Guyane;médecine générale
-2016;7543;Antilles-Guyane;médecine générale
+2016;7542;Martinique;médecine générale
+2016;7543;Martinique;médecine générale
 2016;7544;Rouen;médecine générale
 2016;7545;Clermont-Ferrand;psychiatrie
 2016;7547;Amiens;médecine générale
@@ -40181,7 +40181,7 @@ annee;rang;ville;specialite
 2016;7557;Rouen;médecine générale
 2016;7558;Clermont-Ferrand;médecine générale
 2016;7560;Rouen;médecine générale
-2016;7561;Antilles-Guyane;médecine générale
+2016;7561;Martinique;médecine générale
 2016;7562;Poitiers;psychiatrie
 2016;7563;Tours;médecine générale
 2016;7564;Paris;médecine générale
@@ -40199,7 +40199,7 @@ annee;rang;ville;specialite
 2016;7577;Lille;médecine générale
 2016;7578;Poitiers;santé publique
 2016;7579;Paris;biologie médicale
-2016;7580;Antilles-Guyane;médecine générale
+2016;7580;Martinique;médecine générale
 2016;7581;Brest;médecine générale
 2016;7582;Saint-Etienne;gynécologie obstétrique
 2016;7583;Paris;médecine générale
@@ -40393,7 +40393,7 @@ annee;rang;ville;specialite
 2016;7793;Paris;médecine générale
 2016;7794;Amiens;médecine générale
 2016;7795;Amiens;médecine générale
-2016;7796;Aix-Marseille;biologie médicale
+2016;7796;Marseille;biologie médicale
 2016;7797;Montpellier;médecine générale
 2016;7798;Grenoble;médecine générale
 2016;7799;Rouen;médecine générale
@@ -40474,7 +40474,7 @@ annee;rang;ville;specialite
 2016;7886;Paris;médecine générale
 2016;7887;Clermont-Ferrand;médecine et santé au travail
 2016;7888;Tours;médecine générale
-2016;7890;Aix-Marseille;médecine et santé au travail
+2016;7890;Marseille;médecine et santé au travail
 2016;7891;Rouen;psychiatrie
 2016;7892;Paris;médecine générale
 2016;7893;Brest;psychiatrie
@@ -40615,7 +40615,7 @@ annee;rang;ville;specialite
 2016;8067;Besançon;psychiatrie
 2016;8068;Dijon;psychiatrie
 2016;8069;Limoges;médecine générale
-2016;8072;Antilles-Guyane;biologie médicale
+2016;8072;Martinique;biologie médicale
 2016;8073;Amiens;médecine générale
 2016;8074;Besançon;médecine générale
 2016;8077;Besançon;psychiatrie

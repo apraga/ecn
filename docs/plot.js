@@ -89,7 +89,7 @@ function plotSpe(speTitle, rankmax, svg, width, height) {
     // Speciality is no longer a variable
     spe = rankMax.get(speTitle);
     // // Get the list of town for categories
-    towns = Array.from(spe.keys());
+    towns = Array.from(spe.keys()).sort();
 
     // Date  = X axis
     var x = setXAxis(width);
@@ -165,8 +165,9 @@ function plotSpe(speTitle, rankmax, svg, width, height) {
 
 function createChoice(svg, rankMax, width, height){
     d3.select("body").selectAll("h2").html("Rang maximal pour <select id=\"selectSpe\"></select>");
-    allSpe = Array.from(rankMax.keys());
+    allSpe = Array.from(rankMax.keys()).sort();
 
+    var defaultChoice = "pédiatrie";
     // add the options to the drow-down list
     d3.select("#selectSpe")
         .selectAll('myOptions')
@@ -175,6 +176,7 @@ function createChoice(svg, rankMax, width, height){
         .append('option')
         .text(function (d) { return d; }) // text showed in the menu
         .attr("value", function (d) { return d; }) // corresponding value return
+        .property("selected", function(d) { return d === defaultChoice}) // change default value
 
     // When the button is changed, run the updateChart function
     d3.select("#selectSpe").on("change", function(d) {
@@ -183,6 +185,9 @@ function createChoice(svg, rankMax, width, height){
         var speTitle = d3.select(this).property("value")
         plotSpe(speTitle, rankMax, svg, width, height);
     })
+
+// Plot
+    plotSpe(defaultChoice, rankMax, svg, width, height);
 }
 
 function createSVG(width, height, margin) {
@@ -214,8 +219,7 @@ function plot(data){
 
     // Set the titles
     createChoice(svg, rankMax, width, height);
-// Plot
-    plotSpe(allSpe[0], rankMax, svg, width, height);
+
 }
 
 // Read data

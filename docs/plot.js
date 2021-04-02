@@ -57,25 +57,27 @@ function createCheckboxes(svg, towns, myColor) {
     d3.selectAll("input").remove()
 
     // Add a "check all" option
-    d3.select("#legend")
+    d3.select("body")
         .append('label').text("Tous")
         .append('input')
         .attr("name", "fullSelect")
         .attr("type", "checkbox")
         .on("click", function(d){
             var check = this.checked
+            d3.selectAll("input").property("checked", check);
             towns.forEach(function (d) {
-                updateLinesPoints(svg, d, check)
+                updateLinesPoints(svg, d, check);
             })
         })
 
     // Generate checkbox
+    // Warning: do not use the same select here, otherwise, the first element will be skipped
     d3.select("#legend")
         .data(towns)
         .enter()
         .append('label')
-        .attr('for',function(d,i){ return 'a'+i; })
-        .text(function(d) { return d; })
+        .attr('for',function(d,i){ return 'label'+i; })
+        .text(function(d) { console.log(d); return d; })
         .style("color", function(d){return myColor(d) })
         .append("input")
         .property("checked", false)
@@ -84,13 +86,12 @@ function createCheckboxes(svg, towns, myColor) {
         .on("click", function(d){
             // This.__data__ is a bit ugly to get the name but it works
             updateLinesPoints(svg, this.__data__, this.checked)
-
         })
 
     // Only show first value: set the
     svg.selectAll("path[class="+towns[0]+"]").style("opacity", 1); // Set path
     svg.selectAll("g[class="+towns[0]+"]").selectAll("circle").style("opacity", 1); // Set circles
-    d3.select("input[id=legend1]").property("checked", true) // Checkbox
+    d3.select("input[id=legend0]").property("checked", true) // Checkbox
 }
 
 
@@ -149,8 +150,9 @@ function plotSpe(speTitle, rankmax, svg, width, height) {
         // Also, we cannot used the checked property directly...
         var match = d3.selectAll("input[type=checkbox]").nodes();
         var matchF = match.filter(function(v) {return v.checked;})
-        if (matchF.length == 1)
+        if (matchF.length == 1) {
             rank = spe.get(matchF[0].__data__).get(date);
+        }
         else
             rank = d.target.__data__[1];
 

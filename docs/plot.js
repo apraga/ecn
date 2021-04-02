@@ -41,9 +41,18 @@ function setXAxis(width) {
         .domain([new Date(2016, 0), new Date(2020, 0)])
         .range([ 0, width ]);
 }
+
+function updateLinesPoints(svg, name, checked) {
+    var opacity = checked == 1 ? 1 : 0.1;
+    var p = svg.select("path[class=" + name+ "]")
+        .transition().style("opacity", opacity);
+    var c = svg.select("g[class=" + name + "]").selectAll("circle")
+        .transition().style("opacity", opacity);
+}
+
 function createCheckboxes(svg, towns, myColor) {
     // Generate checkbox
-    d3.select("body").selectAll("input")
+    d3.select("div[id=legend]")
         .data(towns)
         .enter()
         .append('label')
@@ -56,11 +65,18 @@ function createCheckboxes(svg, towns, myColor) {
         .attr("id", function(d,i) { return 'a'+i; })
         .on("click", function(d){
             // This.__data__ is a bit ugly to get the name but it works
-            var p = svg.select("path[class=" + this.__data__ + "]").transition();
-            p.style("opacity", this.checked == 1 ? 1 : 0.1)
-            var c = svg.select("g[class=" + this.__data__ + "]").selectAll("circle").transition();
-            c.style("opacity", this.checked == 1 ? 1 : 0.1)
+            updateLinesPoints(svg, this.__data__, this.checked)
+
         })
+    // Add a "check all" option
+    d3.select("input[name=fullSelect]")
+        .on("click", function(d){
+            var check = this.checked
+            towns.forEach(function (d) {
+                updateLinesPoints(svg, d, check)
+            })
+        })
+
     // Only show first value: set the
     svg.selectAll("path[class="+towns[0]+"]").style("opacity", 1); // Set path
     svg.selectAll("g[class="+towns[0]+"]").selectAll("circle").style("opacity", 1); // Set circles
@@ -119,9 +135,6 @@ function plotSpe(speTitle, rankmax, svg, width, height) {
         .attr("r", 5)
         .attr("stroke", "white")
         .style("opacity", "0.1")
-
-    // Interactive for new version ofD3
-    // const tooltip = new Tooltip();
 
     createCheckboxes(svg, towns, myColor);
 }

@@ -49,7 +49,7 @@ function createCheckboxes(svg, towns, myColor) {
         .append('label')
         .attr('for',function(d,i){ return 'a'+i; })
         .text(function(d) { return d; })
-        .style("color", function(d){ return myColor(d[0]) })
+        .style("color", function(d){return myColor(d) })
         .append("input")
         .property("checked", false)
         .attr("type", "checkbox")

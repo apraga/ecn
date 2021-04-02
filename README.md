@@ -1,9 +1,4 @@
-# ecn
+# Rangs limites des ECN
 
-# Parsing data
-Checking CNG data :
-- 2020 -> 2017 ok
-- 2016 missing one line (Sevin)
-
-TODO:
-- merge similar regions (Paris etc)
+Extrait les données du CNG pour afficher les rangs limites par spécialité, ville et année.
+Disponible ici: https://alexdarcy.github.io/ecn/

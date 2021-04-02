@@ -58,6 +58,11 @@ cleanTown "HCL" = "Lyon"
 cleanTown "Ile-de-France" = "Paris"
 cleanTown "AP-HP" = "Paris"
 cleanTown "AP-HM" = "Marseille"
+cleanTown "la Martinique/Pointe-à-Pitre" = "Martinique"
+cleanTown "la Martinique / Pointe-à-Pitre" = "Martinique"
+cleanTown "La Martinique/Pointe-à-Pitre" = "Martinique"
+cleanTown "Océan-Indien" = "Réunion"
+cleanTown "la Réunion" = "Réunion"
 cleanTown x = x
 
 -- Haromnize data between 2016 and more recent years

@@ -15,8 +15,8 @@ function solarizedPalette(towns) {
             // #073642 // base02
             , "#586e75" // base01
             , "#657b83" // base00
-            , "#839496B" // base0
-            , "#93a1a1C" // base1
+            , "#839496" // base0
+            , "#93a1a1" // base1
             // #eee8d5 // base2
             // #fdf6e3 // base3
             , "#b58900" // yellow
@@ -98,7 +98,7 @@ function plotSpe(speTitle, rankmax, svg, width, height) {
         .append("path")
         .attr("class", function(d){ return d[0] })
         .attr("d", function(d){ return line(d[1]) } )
-        .attr("stroke", function(d){ return myColor(d[0]) })
+        .attr("stroke", function(d){return myColor(d[0]); })
         .style("stroke-width", 4)
         .style("fill", "none")
         .style("opacity", "0.1")

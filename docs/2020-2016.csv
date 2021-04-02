@@ -270,7 +270,7 @@ annee;rang;ville;specialite
 2020;270;Marseille;médecine interne et immunologie clinique
 2020;271;Marseille;gynécologie obstétrique
 2020;272;Nancy;médecine cardiovasculaire
-2020;273;La Réunion;néphrologie
+2020;273;Réunion;néphrologie
 2020;274;Saint-Etienne;radiologie et imagerie médicale
 2020;275;Lille;radiologie et imagerie médicale
 2020;276;Lille;hépato-gastro-entérologie
@@ -327,7 +327,7 @@ annee;rang;ville;specialite
 2020;328;Toulouse;dermatologie et vénéréologie
 2020;329;Montpellier;anesthésie-réanimation
 2020;330;Lille;médecine générale
-2020;331;La Réunion;maladies infectieuses et tropicales
+2020;331;Réunion;maladies infectieuses et tropicales
 2020;332;Paris;médecine cardiovasculaire
 2020;333;Bordeaux;radiologie et imagerie médicale
 2020;334;Strasbourg;anesthésie-réanimation
@@ -506,7 +506,7 @@ annee;rang;ville;specialite
 2020;510;Bordeaux;anesthésie-réanimation
 2020;511;Angers;médecine intensive-réanimation
 2020;512;Bordeaux;pédiatrie
-2020;513;La Réunion;dermatologie et vénéréologie
+2020;513;Réunion;dermatologie et vénéréologie
 2020;514;Bordeaux;hépato-gastro-entérologie
 2020;515;Marseille;radiologie et imagerie médicale
 2020;516;Paris;ophtalmologie
@@ -543,7 +543,7 @@ annee;rang;ville;specialite
 2020;548;Lyon;radiologie et imagerie médicale
 2020;549;Grenoble;médecine générale
 2020;550;Lyon;oto-rhino-laryngologie - chirurgie cervico-faciale
-2020;551;La Réunion;néphrologie
+2020;551;Réunion;néphrologie
 2020;552;Paris;maladies infectieuses et tropicales
 2020;553;Paris;anesthésie-réanimation
 2020;554;Clermont-Ferrand;hépato-gastro-entérologie
@@ -665,7 +665,7 @@ annee;rang;ville;specialite
 2020;672;Lyon;ophtalmologie
 2020;673;Toulouse;gynécologie obstétrique
 2020;674;Tours;ophtalmologie
-2020;675;La Réunion;gynécologie obstétrique
+2020;675;Réunion;gynécologie obstétrique
 2020;676;Bordeaux;anesthésie-réanimation
 2020;677;Marseille;médecine intensive-réanimation
 2020;678;Toulouse;médecine interne et immunologie clinique
@@ -796,7 +796,7 @@ annee;rang;ville;specialite
 2020;805;Strasbourg;dermatologie et vénéréologie
 2020;806;Marseille;médecine générale
 2020;807;Tours;anesthésie-réanimation
-2020;808;La Réunion;médecine cardiovasculaire
+2020;808;Réunion;médecine cardiovasculaire
 2020;809;Paris;neurologie
 2020;810;Dijon;ophtalmologie
 2020;811;Montpellier;rhumatologie
@@ -881,7 +881,7 @@ annee;rang;ville;specialite
 2020;891;Lille;ophtalmologie
 2020;892;Montpellier;médecine générale
 2020;893;Rennes;médecine générale
-2020;894;La Réunion;neurologie
+2020;894;Réunion;neurologie
 2020;895;Nantes;urologie
 2020;896;Angers;oncologie
 2020;897;Clermont-Ferrand;ophtalmologie
@@ -1006,7 +1006,7 @@ annee;rang;ville;specialite
 2020;1016;Lille;oncologie
 2020;1017;Paris;médecine générale
 2020;1018;Bordeaux;oto-rhino-laryngologie - chirurgie cervico-faciale
-2020;1019;La Réunion;radiologie et imagerie médicale
+2020;1019;Réunion;radiologie et imagerie médicale
 2020;1020;Brest;médecine générale
 2020;1021;Bordeaux;néphrologie
 2020;1022;Paris;médecine interne et immunologie clinique
@@ -1203,7 +1203,7 @@ annee;rang;ville;specialite
 2020;1215;Rennes;médecine cardiovasculaire
 2020;1216;Nantes;anesthésie-réanimation
 2020;1217;Nancy;anesthésie-réanimation
-2020;1218;La Réunion;médecine générale
+2020;1218;Réunion;médecine générale
 2020;1219;Paris;gynécologie obstétrique
 2020;1220;Paris;chirurgie orthopédique et traumatologique
 2020;1221;Bordeaux;médecine générale
@@ -1273,7 +1273,7 @@ annee;rang;ville;specialite
 2020;1285;Amiens;médecine générale
 2020;1286;Rennes;médecine générale
 2020;1287;Paris;oncologie
-2020;1288;La Réunion;gynécologie obstétrique
+2020;1288;Réunion;gynécologie obstétrique
 2020;1289;Marseille;neurologie
 2020;1290;Poitiers;dermatologie et vénéréologie
 2020;1291;Strasbourg;médecine générale
@@ -1341,7 +1341,7 @@ annee;rang;ville;specialite
 2020;1355;Toulouse;neurologie
 2020;1356;Amiens;chirurgie maxillo-faciale
 2020;1357;Lille;pédiatrie
-2020;1358;La Réunion;gynécologie médicale
+2020;1358;Réunion;gynécologie médicale
 2020;1359;Rennes;médecine générale
 2020;1360;Toulouse;oncologie
 2020;1361;Montpellier;médecine interne et immunologie clinique
@@ -1363,7 +1363,7 @@ annee;rang;ville;specialite
 2020;1377;Caen;médecine cardiovasculaire
 2020;1378;Rennes;hépato-gastro-entérologie
 2020;1379;Marseille;anesthésie-réanimation
-2020;1380;La Réunion;médecine générale
+2020;1380;Réunion;médecine générale
 2020;1381;Lille;radiologie et imagerie médicale
 2020;1382;Grenoble;radiologie et imagerie médicale
 2020;1383;Clermont-Ferrand;oto-rhino-laryngologie - chirurgie cervico-faciale
@@ -1380,7 +1380,7 @@ annee;rang;ville;specialite
 2020;1394;Lille;pédiatrie
 2020;1395;Amiens;médecine générale
 2020;1396;Paris;hépato-gastro-entérologie
-2020;1397;La Réunion;médecine générale
+2020;1397;Réunion;médecine générale
 2020;1398;Paris;rhumatologie
 2020;1399;Bordeaux;médecine interne et immunologie clinique
 2020;1400;Paris;pédiatrie
@@ -1443,7 +1443,7 @@ annee;rang;ville;specialite
 2020;1459;Nice;anesthésie-réanimation
 2020;1460;Nancy;pédiatrie
 2020;1461;Nancy;chirurgie maxillo-faciale
-2020;1462;La Réunion;anesthésie-réanimation
+2020;1462;Réunion;anesthésie-réanimation
 2020;1463;Paris;radiologie et imagerie médicale
 2020;1464;Marseille;pneumologie
 2020;1465;Tours;médecine cardiovasculaire
@@ -1646,7 +1646,7 @@ annee;rang;ville;specialite
 2020;1665;Paris;médecine générale
 2020;1666;Paris;oncologie
 2020;1667;Nantes;médecine d'urgence
-2020;1668;La Réunion;anesthésie-réanimation
+2020;1668;Réunion;anesthésie-réanimation
 2020;1669;Paris;gynécologie obstétrique
 2020;1670;Besançon;ophtalmologie
 2020;1671;Nantes;radiologie et imagerie médicale
@@ -1728,7 +1728,7 @@ annee;rang;ville;specialite
 2020;1747;Caen;urologie
 2020;1748;Nancy;médecine cardiovasculaire
 2020;1749;Lyon;gynécologie médicale
-2020;1750;La Réunion;anesthésie-réanimation
+2020;1750;Réunion;anesthésie-réanimation
 2020;1751;Toulouse;gynécologie obstétrique
 2020;1752;Paris;neurologie
 2020;1753;Paris;anesthésie-réanimation
@@ -1831,7 +1831,7 @@ annee;rang;ville;specialite
 2020;1850;Nantes;anesthésie-réanimation
 2020;1851;Paris;médecine d'urgence
 2020;1852;Poitiers;médecine cardiovasculaire
-2020;1853;La Réunion;médecine générale
+2020;1853;Réunion;médecine générale
 2020;1854;Grenoble;rhumatologie
 2020;1855;Poitiers;médecine cardiovasculaire
 2020;1856;Caen;médecine générale
@@ -1854,11 +1854,11 @@ annee;rang;ville;specialite
 2020;1873;Nantes;anesthésie-réanimation
 2020;1874;Rennes;médecine générale
 2020;1875;Nantes;médecine générale
-2020;1876;La Réunion;médecine générale
+2020;1876;Réunion;médecine générale
 2020;1877;Angers;médecine générale
 2020;1878;Lille;anesthésie-réanimation
 2020;1879;Grenoble;médecine générale
-2020;1880;La Réunion;anesthésie-réanimation
+2020;1880;Réunion;anesthésie-réanimation
 2020;1881;Strasbourg;hépato-gastro-entérologie
 2020;1882;Marseille;oto-rhino-laryngologie - chirurgie cervico-faciale
 2020;1883;Rouen;hépato-gastro-entérologie
@@ -1866,7 +1866,7 @@ annee;rang;ville;specialite
 2020;1885;Montpellier;pneumologie
 2020;1886;Nice;anesthésie-réanimation
 2020;1887;Limoges;médecine générale
-2020;1888;La Réunion;neurologie
+2020;1888;Réunion;neurologie
 2020;1889;Strasbourg;anesthésie-réanimation
 2020;1890;Lyon;neurochirurgie
 2020;1891;Marseille;pneumologie
@@ -2063,7 +2063,7 @@ annee;rang;ville;specialite
 2020;2083;Montpellier;néphrologie
 2020;2084;Paris;pneumologie
 2020;2085;Paris;médecine générale
-2020;2086;La Réunion;médecine générale
+2020;2086;Réunion;médecine générale
 2020;2087;Toulouse;radiologie et imagerie médicale
 2020;2088;Paris;anatomie et cytologie pathologiques
 2020;2089;Paris;médecine générale
@@ -2111,7 +2111,7 @@ annee;rang;ville;specialite
 2020;2131;Dijon;anesthésie-réanimation
 2020;2132;Tours;radiologie et imagerie médicale
 2020;2133;Bordeaux;gynécologie obstétrique
-2020;2134;La Réunion;radiologie et imagerie médicale
+2020;2134;Réunion;radiologie et imagerie médicale
 2020;2135;Marseille;radiologie et imagerie médicale
 2020;2136;Paris;chirurgie pédiatrique
 2020;2137;Marseille;oncologie
@@ -2155,7 +2155,7 @@ annee;rang;ville;specialite
 2020;2176;Paris;néphrologie
 2020;2177;Rouen;médecine générale
 2020;2178;Grenoble;hépato-gastro-entérologie
-2020;2179;La Réunion;médecine générale
+2020;2179;Réunion;médecine générale
 2020;2180;Marseille;médecine générale
 2020;2181;Tours;oto-rhino-laryngologie - chirurgie cervico-faciale
 2020;2182;Paris;hématologie
@@ -2237,12 +2237,12 @@ annee;rang;ville;specialite
 2020;2258;Paris;anesthésie-réanimation
 2020;2259;Strasbourg;oncologie
 2020;2260;Nantes;neurochirurgie
-2020;2261;La Réunion;anesthésie-réanimation
+2020;2261;Réunion;anesthésie-réanimation
 2020;2262;Toulouse;neurologie
 2020;2263;Paris;anesthésie-réanimation
 2020;2264;Rennes;radiologie et imagerie médicale
 2020;2265;Rennes;médecine générale
-2020;2266;La Réunion;médecine générale
+2020;2266;Réunion;médecine générale
 2020;2267;Lyon;urologie
 2020;2268;Lyon;pédiatrie
 2020;2269;Nantes;médecine d'urgence
@@ -2286,7 +2286,7 @@ annee;rang;ville;specialite
 2020;2307;Poitiers;médecine générale
 2020;2308;Paris;pédiatrie
 2020;2309;Angers;médecine vasculaire
-2020;2310;La Réunion;gynécologie médicale
+2020;2310;Réunion;gynécologie médicale
 2020;2311;Paris;rhumatologie
 2020;2312;Paris;médecine générale
 2020;2313;Rouen;hépato-gastro-entérologie
@@ -2463,11 +2463,11 @@ annee;rang;ville;specialite
 2020;2487;Lille;gynécologie obstétrique
 2020;2488;Martinique;urologie
 2020;2489;Grenoble;urologie
-2020;2490;La Réunion;médecine générale
+2020;2490;Réunion;médecine générale
 2020;2491;Paris;anesthésie-réanimation
 2020;2492;Rennes;médecine générale
 2020;2493;Paris;pédiatrie
-2020;2494;La Réunion;médecine générale
+2020;2494;Réunion;médecine générale
 2020;2495;Amiens;anesthésie-réanimation
 2020;2496;Amiens;anesthésie-réanimation
 2020;2497;Bordeaux;médecine physique et de réadaptation
@@ -2505,7 +2505,7 @@ annee;rang;ville;specialite
 2020;2529;Amiens;oto-rhino-laryngologie - chirurgie cervico-faciale
 2020;2530;Reims;hépato-gastro-entérologie
 2020;2531;Lille;chirurgie pédiatrique
-2020;2532;La Réunion;médecine générale
+2020;2532;Réunion;médecine générale
 2020;2533;Nancy;neurologie
 2020;2534;Toulouse;médecine générale
 2020;2535;Lyon;endocrinologie-diabétologie-nutrition
@@ -2515,7 +2515,7 @@ annee;rang;ville;specialite
 2020;2539;Bordeaux;pédiatrie
 2020;2540;Toulouse;pédiatrie
 2020;2541;Lille;chirurgie orthopédique et traumatologique
-2020;2542;La Réunion;urologie
+2020;2542;Réunion;urologie
 2020;2543;Lille;chirurgie viscérale et digestive
 2020;2544;Rennes;médecine générale
 2020;2545;Dijon;anesthésie-réanimation
@@ -2827,7 +2827,7 @@ annee;rang;ville;specialite
 2020;2855;Besançon;médecine interne et immunologie clinique
 2020;2856;Rennes;pneumologie
 2020;2857;Paris;gynécologie obstétrique
-2020;2858;La Réunion;rhumatologie
+2020;2858;Réunion;rhumatologie
 2020;2859;Amiens;radiologie et imagerie médicale
 2020;2860;Nancy;oncologie
 2020;2861;Poitiers;neurologie
@@ -2836,7 +2836,7 @@ annee;rang;ville;specialite
 2020;2864;Nantes;gynécologie obstétrique
 2020;2866;Angers;pédiatrie
 2020;2867;Rennes;gynécologie obstétrique
-2020;2868;La Réunion;médecine interne et immunologie clinique
+2020;2868;Réunion;médecine interne et immunologie clinique
 2020;2869;Amiens;hépato-gastro-entérologie
 2020;2870;Toulouse;chirurgie orale
 2020;2871;Bordeaux;médecine générale
@@ -2957,7 +2957,7 @@ annee;rang;ville;specialite
 2020;2986;Lyon;médecine générale
 2020;2987;Caen;hématologie
 2020;2988;Nantes;psychiatrie
-2020;2990;La Réunion;hépato-gastro-entérologie
+2020;2990;Réunion;hépato-gastro-entérologie
 2020;2991;Nantes;médecine générale
 2020;2992;Nancy;anesthésie-réanimation
 2020;2993;Marseille;médecine légale et expertises médicales
@@ -3050,7 +3050,7 @@ annee;rang;ville;specialite
 2020;3083;Rennes;gynécologie médicale
 2020;3084;Toulouse;pédiatrie
 2020;3085;Bordeaux;médecine générale
-2020;3086;La Réunion;pédiatrie
+2020;3086;Réunion;pédiatrie
 2020;3087;Amiens;anesthésie-réanimation
 2020;3088;Brest;médecine physique et de réadaptation
 2020;3089;Toulouse;anatomie et cytologie pathologiques
@@ -3080,7 +3080,7 @@ annee;rang;ville;specialite
 2020;3113;Limoges;oncologie
 2020;3114;Nantes;médecine générale
 2020;3115;Marseille;médecine générale
-2020;3116;La Réunion;pédiatrie
+2020;3116;Réunion;pédiatrie
 2020;3117;Poitiers;oncologie
 2020;3118;Dijon;anesthésie-réanimation
 2020;3119;Caen;radiologie et imagerie médicale
@@ -3094,7 +3094,7 @@ annee;rang;ville;specialite
 2020;3127;Nantes;médecine générale
 2020;3128;Caen;anesthésie-réanimation
 2020;3129;Besançon;gynécologie obstétrique
-2020;3130;La Réunion;pneumologie
+2020;3130;Réunion;pneumologie
 2020;3131;Reims;anesthésie-réanimation
 2020;3132;Nancy;oncologie
 2020;3133;Besançon;oncologie
@@ -3196,7 +3196,7 @@ annee;rang;ville;specialite
 2020;3230;Poitiers;médecine intensive-réanimation
 2020;3231;Poitiers;radiologie et imagerie médicale
 2020;3232;Dijon;anesthésie-réanimation
-2020;3233;La Réunion;gynécologie médicale
+2020;3233;Réunion;gynécologie médicale
 2020;3235;Angers;médecine générale
 2020;3236;Rouen;rhumatologie
 2020;3237;Paris;endocrinologie-diabétologie-nutrition
@@ -3288,13 +3288,13 @@ annee;rang;ville;specialite
 2020;3326;Grenoble;médecine générale
 2020;3327;Toulouse;pédiatrie
 2020;3328;Clermont-Ferrand;médecine générale
-2020;3329;La Réunion;gynécologie obstétrique
+2020;3329;Réunion;gynécologie obstétrique
 2020;3330;Lyon;médecine générale
 2020;3331;Lille;médecine générale
 2020;3332;Lyon;allergologie
 2020;3333;Grenoble;psychiatrie
 2020;3334;Rennes;pédiatrie
-2020;3335;La Réunion;pneumologie
+2020;3335;Réunion;pneumologie
 2020;3336;Lille;médecine générale
 2020;3337;Bordeaux;médecine générale
 2020;3338;Marseille;médecine générale
@@ -3357,7 +3357,7 @@ annee;rang;ville;specialite
 2020;3395;Reims;gynécologie obstétrique
 2020;3396;Rennes;gynécologie médicale
 2020;3397;Rennes;médecine vasculaire
-2020;3399;La Réunion;chirurgie orthopédique et traumatologique
+2020;3399;Réunion;chirurgie orthopédique et traumatologique
 2020;3400;Montpellier;médecine vasculaire
 2020;3401;Paris;pédiatrie
 2020;3402;Strasbourg;chirurgie orale
@@ -3412,7 +3412,7 @@ annee;rang;ville;specialite
 2020;3451;Brest;médecine générale
 2020;3452;Lille;médecine générale
 2020;3453;Nantes;chirurgie orale
-2020;3454;La Réunion;gynécologie obstétrique
+2020;3454;Réunion;gynécologie obstétrique
 2020;3455;Clermont-Ferrand;néphrologie
 2020;3456;Montpellier;psychiatrie
 2020;3457;Paris;pédiatrie
@@ -3478,7 +3478,7 @@ annee;rang;ville;specialite
 2020;3519;Paris;médecine générale
 2020;3520;Rennes;médecine générale
 2020;3521;Montpellier;médecine générale
-2020;3522;La Réunion;médecine générale
+2020;3522;Réunion;médecine générale
 2020;3523;Amiens;médecine générale
 2020;3524;Marseille;médecine générale
 2020;3525;Saint-Etienne;médecine générale
@@ -3489,7 +3489,7 @@ annee;rang;ville;specialite
 2020;3530;Paris;pédiatrie
 2020;3531;Angers;médecine générale
 2020;3532;Brest;radiologie et imagerie médicale
-2020;3533;La Réunion;médecine d'urgence
+2020;3533;Réunion;médecine d'urgence
 2020;3534;Nancy;néphrologie
 2020;3535;Marseille;médecine d'urgence
 2020;3536;Marseille;médecine générale
@@ -3556,7 +3556,7 @@ annee;rang;ville;specialite
 2020;3598;Lille;chirurgie viscérale et digestive
 2020;3599;Grenoble;endocrinologie-diabétologie-nutrition
 2020;3600;Angers;médecine générale
-2020;3601;La Réunion;médecine d'urgence
+2020;3601;Réunion;médecine d'urgence
 2020;3602;Martinique;médecine intensive-réanimation
 2020;3603;Besançon;chirurgie orthopédique et traumatologique
 2020;3604;Brest;pédiatrie
@@ -3640,7 +3640,7 @@ annee;rang;ville;specialite
 2020;3683;Reims;rhumatologie
 2020;3685;Clermont-Ferrand;gynécologie obstétrique
 2020;3686;Rennes;médecine générale
-2020;3687;La Réunion;psychiatrie
+2020;3687;Réunion;psychiatrie
 2020;3688;Clermont-Ferrand;médecine générale
 2020;3689;Nancy;médecine générale
 2020;3690;Lille;médecine générale
@@ -3687,14 +3687,14 @@ annee;rang;ville;specialite
 2020;3731;Lyon;gériatrie
 2020;3732;Rouen;anatomie et cytologie pathologiques
 2020;3733;Martinique;pneumologie
-2020;3734;La Réunion;gynécologie obstétrique
+2020;3734;Réunion;gynécologie obstétrique
 2020;3735;Paris;médecine générale
 2020;3736;Paris;médecine générale
 2020;3737;Paris;médecine générale
 2020;3738;Angers;anatomie et cytologie pathologiques
 2020;3739;Rouen;hématologie
 2020;3740;Rennes;médecine d'urgence
-2020;3741;La Réunion;chirurgie orthopédique et traumatologique
+2020;3741;Réunion;chirurgie orthopédique et traumatologique
 2020;3742;Paris;médecine physique et de réadaptation
 2020;3743;Brest;oncologie
 2020;3744;Angers;gynécologie obstétrique
@@ -3716,7 +3716,7 @@ annee;rang;ville;specialite
 2020;3760;Caen;médecine vasculaire
 2020;3761;Paris;médecine générale
 2020;3762;Lyon;chirurgie vasculaire
-2020;3763;La Réunion;médecine d'urgence
+2020;3763;Réunion;médecine d'urgence
 2020;3764;Tours;médecine d'urgence
 2020;3765;Dijon;pneumologie
 2020;3766;Toulouse;médecine générale
@@ -3765,7 +3765,7 @@ annee;rang;ville;specialite
 2020;3810;Besançon;médecine générale
 2020;3811;Limoges;gynécologie obstétrique
 2020;3812;Amiens;rhumatologie
-2020;3813;La Réunion;médecine interne et immunologie clinique
+2020;3813;Réunion;médecine interne et immunologie clinique
 2020;3814;Nice;pédiatrie
 2020;3815;Paris;médecine générale
 2020;3816;Rennes;médecine d'urgence
@@ -3825,7 +3825,7 @@ annee;rang;ville;specialite
 2020;3871;Martinique;pédiatrie
 2020;3872;Lyon;médecine générale
 2020;3873;Paris;médecine générale
-2020;3874;La Réunion;médecine d'urgence
+2020;3874;Réunion;médecine d'urgence
 2020;3875;Lille;gériatrie
 2020;3876;Bordeaux;médecine générale
 2020;3877;Rouen;pneumologie
@@ -3843,7 +3843,7 @@ annee;rang;ville;specialite
 2020;3889;Martinique;gynécologie obstétrique
 2020;3890;Nancy;gynécologie médicale
 2020;3891;Bordeaux;médecine physique et de réadaptation
-2020;3892;La Réunion;médecine générale
+2020;3892;Réunion;médecine générale
 2020;3893;Reims;gynécologie obstétrique
 2020;3894;Grenoble;médecine générale
 2020;3895;Toulouse;médecine générale
@@ -3880,10 +3880,10 @@ annee;rang;ville;specialite
 2020;3927;Marseille;psychiatrie
 2020;3928;Bordeaux;médecine générale
 2020;3929;Besançon;médecine générale
-2020;3930;La Réunion;médecine générale
+2020;3930;Réunion;médecine générale
 2020;3931;Montpellier;anatomie et cytologie pathologiques
 2020;3932;Limoges;maladies infectieuses et tropicales
-2020;3933;La Réunion;médecine d'urgence
+2020;3933;Réunion;médecine d'urgence
 2020;3934;Reims;gynécologie obstétrique
 2020;3935;Besançon;chirurgie vasculaire
 2020;3936;Toulouse;médecine générale
@@ -3905,7 +3905,7 @@ annee;rang;ville;specialite
 2020;3953;Lyon;médecine générale
 2020;3954;Dijon;chirurgie pédiatrique
 2020;3955;Toulouse;médecine générale
-2020;3956;La Réunion;médecine générale
+2020;3956;Réunion;médecine générale
 2020;3957;Bordeaux;médecine générale
 2020;3958;Toulouse;chirurgie viscérale et digestive
 2020;3959;Limoges;médecine vasculaire
@@ -3966,7 +3966,7 @@ annee;rang;ville;specialite
 2020;4014;Rennes;neurochirurgie
 2020;4015;Marseille;pédiatrie
 2020;4016;Amiens;neurologie
-2020;4017;La Réunion;médecine générale
+2020;4017;Réunion;médecine générale
 2020;4018;Dijon;gynécologie obstétrique
 2020;4019;Poitiers;médecine générale
 2020;4020;Tours;anatomie et cytologie pathologiques
@@ -3982,7 +3982,7 @@ annee;rang;ville;specialite
 2020;4030;Nice;médecine générale
 2020;4031;Amiens;neurologie
 2020;4032;Strasbourg;médecine générale
-2020;4033;La Réunion;médecine d'urgence
+2020;4033;Réunion;médecine d'urgence
 2020;4034;Lille;médecine intensive-réanimation
 2020;4035;Brest;endocrinologie-diabétologie-nutrition
 2020;4036;Dijon;pneumologie
@@ -4058,7 +4058,7 @@ annee;rang;ville;specialite
 2020;4110;Nice;chirurgie vasculaire
 2020;4111;Lille;anatomie et cytologie pathologiques
 2020;4112;Rennes;médecine générale
-2020;4113;La Réunion;médecine générale
+2020;4113;Réunion;médecine générale
 2020;4114;Caen;chirurgie viscérale et digestive
 2020;4115;Paris;pédiatrie
 2020;4116;Lille;endocrinologie-diabétologie-nutrition
@@ -4110,7 +4110,7 @@ annee;rang;ville;specialite
 2020;4163;Dijon;chirurgie viscérale et digestive
 2020;4164;Caen;médecine générale
 2020;4165;Poitiers;médecine générale
-2020;4167;La Réunion;endocrinologie-diabétologie-nutrition
+2020;4167;Réunion;endocrinologie-diabétologie-nutrition
 2020;4168;Lyon;psychiatrie
 2020;4169;Rennes;médecine d'urgence
 2020;4170;Rennes;anatomie et cytologie pathologiques
@@ -4138,7 +4138,7 @@ annee;rang;ville;specialite
 2020;4195;Marseille;médecine générale
 2020;4196;Lille;médecine générale
 2020;4197;Rouen;chirurgie viscérale et digestive
-2020;4198;La Réunion;médecine générale
+2020;4198;Réunion;médecine générale
 2020;4199;Caen;pneumologie
 2020;4200;Tours;pédiatrie
 2020;4201;Amiens;urologie
@@ -4177,13 +4177,13 @@ annee;rang;ville;specialite
 2020;4235;Angers;médecine générale
 2020;4236;Caen;médecine générale
 2020;4237;Lyon;médecine générale
-2020;4238;La Réunion;médecine d'urgence
+2020;4238;Réunion;médecine d'urgence
 2020;4239;Dijon;médecine intensive-réanimation
 2020;4240;Rouen;chirurgie pédiatrique
 2020;4241;Rennes;médecine d'urgence
 2020;4242;Angers;médecine générale
 2020;4243;Bordeaux;médecine générale
-2020;4244;La Réunion;médecine générale
+2020;4244;Réunion;médecine générale
 2020;4245;Nantes;médecine générale
 2020;4246;Besançon;médecine générale
 2020;4247;Lille;médecine d'urgence
@@ -4195,7 +4195,7 @@ annee;rang;ville;specialite
 2020;4254;Bordeaux;médecine d'urgence
 2020;4255;Amiens;gynécologie obstétrique
 2020;4256;Grenoble;médecine générale
-2020;4257;La Réunion;médecine générale
+2020;4257;Réunion;médecine générale
 2020;4259;Amiens;gynécologie obstétrique
 2020;4262;Nantes;médecine d'urgence
 2020;4263;Bordeaux;médecine d'urgence
@@ -4266,7 +4266,7 @@ annee;rang;ville;specialite
 2020;4330;Strasbourg;médecine interne et immunologie clinique
 2020;4331;Tours;médecine générale
 2020;4332;Lille;médecine générale
-2020;4333;La Réunion;médecine générale
+2020;4333;Réunion;médecine générale
 2020;4334;Rouen;médecine vasculaire
 2020;4335;Tours;génétique médicale
 2020;4336;Poitiers;médecine générale
@@ -4327,8 +4327,8 @@ annee;rang;ville;specialite
 2020;4395;Grenoble;médecine générale
 2020;4396;Nancy;pneumologie
 2020;4397;Grenoble;anatomie et cytologie pathologiques
-2020;4398;La Réunion;médecine d'urgence
-2020;4399;La Réunion;médecine générale
+2020;4398;Réunion;médecine d'urgence
+2020;4399;Réunion;médecine générale
 2020;4400;Besançon;pédiatrie
 2020;4401;Bordeaux;médecine d'urgence
 2020;4402;Brest;médecine cardiovasculaire
@@ -4347,7 +4347,7 @@ annee;rang;ville;specialite
 2020;4415;Martinique;médecine interne et immunologie clinique
 2020;4416;Bordeaux;médecine générale
 2020;4417;Lille;médecine physique et de réadaptation
-2020;4418;La Réunion;médecine d'urgence
+2020;4418;Réunion;médecine d'urgence
 2020;4419;Caen;gynécologie médicale
 2020;4420;Toulouse;médecine générale
 2020;4421;Lille;anatomie et cytologie pathologiques
@@ -4467,7 +4467,7 @@ annee;rang;ville;specialite
 2020;4537;Rennes;gériatrie
 2020;4538;Besançon;médecine générale
 2020;4539;Lille;pédiatrie
-2020;4540;La Réunion;médecine générale
+2020;4540;Réunion;médecine générale
 2020;4541;Martinique;médecine générale
 2020;4542;Marseille;médecine d'urgence
 2020;4543;Strasbourg;médecine générale
@@ -4583,12 +4583,12 @@ annee;rang;ville;specialite
 2020;4662;Lille;médecine générale
 2020;4663;Saint-Etienne;médecine intensive-réanimation
 2020;4665;Reims;psychiatrie
-2020;4666;La Réunion;médecine générale
+2020;4666;Réunion;médecine générale
 2020;4667;Reims;médecine générale
 2020;4668;Montpellier;médecine générale
 2020;4669;Bordeaux;gériatrie
 2020;4670;Marseille;médecine d'urgence
-2020;4671;La Réunion;chirurgie viscérale et digestive
+2020;4671;Réunion;chirurgie viscérale et digestive
 2020;4672;Saint-Etienne;médecine intensive-réanimation
 2020;4673;Paris;médecine générale
 2020;4674;Rennes;médecine générale
@@ -4615,7 +4615,7 @@ annee;rang;ville;specialite
 2020;4697;Tours;pédiatrie
 2020;4698;Rennes;médecine générale
 2020;4699;Nantes;médecine générale
-2020;4700;La Réunion;médecine générale
+2020;4700;Réunion;médecine générale
 2020;4701;Besançon;médecine générale
 2020;4702;Nancy;médecine générale
 2020;4703;Clermont-Ferrand;pédiatrie
@@ -4624,7 +4624,7 @@ annee;rang;ville;specialite
 2020;4706;Dijon;chirurgie thoracique et cardiovasculaire
 2020;4707;Limoges;médecine intensive-réanimation
 2020;4708;Grenoble;médecine générale
-2020;4709;La Réunion;médecine générale
+2020;4709;Réunion;médecine générale
 2020;4710;Rennes;médecine générale
 2020;4711;Paris;pédiatrie
 2020;4712;Montpellier;médecine physique et de réadaptation
@@ -4652,7 +4652,7 @@ annee;rang;ville;specialite
 2020;4735;Lille;médecine générale
 2020;4736;Toulouse;médecine générale
 2020;4737;Brest;psychiatrie
-2020;4738;La Réunion;médecine générale
+2020;4738;Réunion;médecine générale
 2020;4740;Grenoble;pédiatrie
 2020;4741;Besançon;médecine générale
 2020;4742;Caen;pédiatrie
@@ -4672,7 +4672,7 @@ annee;rang;ville;specialite
 2020;4756;Dijon;médecine interne et immunologie clinique
 2020;4757;Bordeaux;médecine générale
 2020;4758;Marseille;médecine générale
-2020;4759;La Réunion;pédiatrie
+2020;4759;Réunion;pédiatrie
 2020;4760;Montpellier;médecine générale
 2020;4761;Besançon;médecine générale
 2020;4762;Lyon;médecine d'urgence
@@ -4682,7 +4682,7 @@ annee;rang;ville;specialite
 2020;4766;Lille;médecine générale
 2020;4767;Lyon;médecine générale
 2020;4769;Rennes;médecine générale
-2020;4770;La Réunion;médecine générale
+2020;4770;Réunion;médecine générale
 2020;4772;Toulouse;gériatrie
 2020;4773;Rouen;pédiatrie
 2020;4774;Angers;médecine légale et expertises médicales
@@ -4693,7 +4693,7 @@ annee;rang;ville;specialite
 2020;4779;Bordeaux;psychiatrie
 2020;4780;Nice;pédiatrie
 2020;4782;Paris;médecine générale
-2020;4783;La Réunion;chirurgie viscérale et digestive
+2020;4783;Réunion;chirurgie viscérale et digestive
 2020;4784;Angers;endocrinologie-diabétologie-nutrition
 2020;4785;Saint-Etienne;pédiatrie
 2020;4786;Paris;médecine générale
@@ -4770,7 +4770,7 @@ annee;rang;ville;specialite
 2020;4861;Marseille;médecine générale
 2020;4862;Paris;médecine générale
 2020;4863;Rennes;médecine générale
-2020;4864;La Réunion;pédiatrie
+2020;4864;Réunion;pédiatrie
 2020;4865;Paris;médecine générale
 2020;4866;Nancy;pédiatrie
 2020;4867;Rouen;pédiatrie
@@ -4810,7 +4810,7 @@ annee;rang;ville;specialite
 2020;4903;Paris;médecine générale
 2020;4904;Limoges;psychiatrie
 2020;4906;Brest;médecine générale
-2020;4907;La Réunion;médecine générale
+2020;4907;Réunion;médecine générale
 2020;4908;Dijon;médecine d'urgence
 2020;4909;Caen;médecine interne et immunologie clinique
 2020;4910;Rouen;pédiatrie
@@ -4856,7 +4856,7 @@ annee;rang;ville;specialite
 2020;4955;Caen;médecine interne et immunologie clinique
 2020;4956;Lille;endocrinologie-diabétologie-nutrition
 2020;4957;Strasbourg;endocrinologie-diabétologie-nutrition
-2020;4959;La Réunion;endocrinologie-diabétologie-nutrition
+2020;4959;Réunion;endocrinologie-diabétologie-nutrition
 2020;4960;Strasbourg;médecine générale
 2020;4961;Marseille;médecine générale
 2020;4962;Lille;médecine légale et expertises médicales
@@ -4898,7 +4898,7 @@ annee;rang;ville;specialite
 2020;5002;Marseille;médecine générale
 2020;5003;Paris;médecine générale
 2020;5004;Bordeaux;médecine générale
-2020;5006;La Réunion;psychiatrie
+2020;5006;Réunion;psychiatrie
 2020;5007;Caen;médecine générale
 2020;5009;Besançon;médecine interne et immunologie clinique
 2020;5010;Rennes;psychiatrie
@@ -4917,7 +4917,7 @@ annee;rang;ville;specialite
 2020;5025;Limoges;médecine interne et immunologie clinique
 2020;5026;Paris;médecine générale
 2020;5027;Bordeaux;médecine générale
-2020;5028;La Réunion;médecine générale
+2020;5028;Réunion;médecine générale
 2020;5029;Paris;médecine générale
 2020;5030;Angers;médecine générale
 2020;5031;Lille;médecine générale
@@ -4941,11 +4941,11 @@ annee;rang;ville;specialite
 2020;5049;Toulouse;médecine générale
 2020;5050;Nantes;médecine générale
 2020;5051;Rennes;médecine générale
-2020;5052;La Réunion;médecine générale
+2020;5052;Réunion;médecine générale
 2020;5053;Lille;médecine générale
 2020;5054;Paris;psychiatrie
 2020;5055;Paris;médecine d'urgence
-2020;5056;La Réunion;pédiatrie
+2020;5056;Réunion;pédiatrie
 2020;5057;Nice;médecine générale
 2020;5058;Martinique;médecine générale
 2020;5059;Paris;médecine générale
@@ -4976,9 +4976,9 @@ annee;rang;ville;specialite
 2020;5085;Angers;médecine générale
 2020;5086;Paris;médecine générale
 2020;5087;Paris;médecine générale
-2020;5088;La Réunion;médecine générale
+2020;5088;Réunion;médecine générale
 2020;5089;Lille;médecine générale
-2020;5090;La Réunion;médecine générale
+2020;5090;Réunion;médecine générale
 2020;5091;Caen;médecine générale
 2020;5092;Toulouse;médecine générale
 2020;5093;Grenoble;médecine générale
@@ -5013,7 +5013,7 @@ annee;rang;ville;specialite
 2020;5122;Paris;pédiatrie
 2020;5123;Poitiers;pédiatrie
 2020;5124;Nantes;médecine générale
-2020;5125;La Réunion;psychiatrie
+2020;5125;Réunion;psychiatrie
 2020;5126;Paris;médecine générale
 2020;5127;Rouen;pédiatrie
 2020;5128;Strasbourg;médecine générale
@@ -5077,7 +5077,7 @@ annee;rang;ville;specialite
 2020;5195;Marseille;médecine d'urgence
 2020;5196;Angers;médecine générale
 2020;5197;Lille;médecine générale
-2020;5198;La Réunion;médecine générale
+2020;5198;Réunion;médecine générale
 2020;5199;Amiens;médecine interne et immunologie clinique
 2020;5200;Poitiers;pédiatrie
 2020;5201;Paris;médecine générale
@@ -5091,7 +5091,7 @@ annee;rang;ville;specialite
 2020;5209;Strasbourg;médecine d'urgence
 2020;5210;Strasbourg;médecine générale
 2020;5211;Rouen;médecine générale
-2020;5212;La Réunion;médecine générale
+2020;5212;Réunion;médecine générale
 2020;5213;Nancy;médecine et santé au travail
 2020;5214;Marseille;médecine générale
 2020;5215;Bordeaux;médecine générale
@@ -5105,7 +5105,7 @@ annee;rang;ville;specialite
 2020;5224;Angers;médecine générale
 2020;5225;Bordeaux;médecine générale
 2020;5226;Lyon;médecine générale
-2020;5227;La Réunion;psychiatrie
+2020;5227;Réunion;psychiatrie
 2020;5228;Poitiers;médecine générale
 2020;5229;Dijon;pédiatrie
 2020;5230;Marseille;médecine générale
@@ -5118,7 +5118,7 @@ annee;rang;ville;specialite
 2020;5237;Strasbourg;médecine d'urgence
 2020;5238;Rouen;médecine générale
 2020;5239;Nantes;médecine générale
-2020;5241;La Réunion;médecine générale
+2020;5241;Réunion;médecine générale
 2020;5242;Paris;médecine générale
 2020;5243;Montpellier;médecine d'urgence
 2020;5244;Marseille;médecine d'urgence
@@ -5157,7 +5157,7 @@ annee;rang;ville;specialite
 2020;5279;Paris;médecine générale
 2020;5280;Reims;médecine générale
 2020;5281;Nantes;médecine générale
-2020;5282;La Réunion;médecine générale
+2020;5282;Réunion;médecine générale
 2020;5283;Paris;médecine d'urgence
 2020;5284;Strasbourg;médecine générale
 2020;5285;Nice;médecine d'urgence
@@ -5214,7 +5214,7 @@ annee;rang;ville;specialite
 2020;5340;Marseille;médecine générale
 2020;5341;Lyon;médecine générale
 2020;5342;Paris;médecine générale
-2020;5343;La Réunion;médecine générale
+2020;5343;Réunion;médecine générale
 2020;5344;Bordeaux;médecine d'urgence
 2020;5345;Brest;médecine d'urgence
 2020;5346;Toulouse;médecine d'urgence
@@ -5256,7 +5256,7 @@ annee;rang;ville;specialite
 2020;5386;Angers;médecine générale
 2020;5387;Strasbourg;médecine générale
 2020;5388;Grenoble;biologie médicale
-2020;5389;La Réunion;médecine générale
+2020;5389;Réunion;médecine générale
 2020;5390;Grenoble;médecine générale
 2020;5391;Reims;pédiatrie
 2020;5392;Dijon;médecine générale
@@ -5305,7 +5305,7 @@ annee;rang;ville;specialite
 2020;5440;Saint-Etienne;médecine d'urgence
 2020;5441;Brest;médecine générale
 2020;5442;Nantes;médecine générale
-2020;5444;La Réunion;médecine générale
+2020;5444;Réunion;médecine générale
 2020;5445;Reims;pédiatrie
 2020;5446;Poitiers;médecine générale
 2020;5447;Nantes;médecine générale
@@ -5434,7 +5434,7 @@ annee;rang;ville;specialite
 2020;5578;Paris;psychiatrie
 2020;5579;Montpellier;médecine générale
 2020;5580;Paris;psychiatrie
-2020;5581;La Réunion;médecine générale
+2020;5581;Réunion;médecine générale
 2020;5582;Bordeaux;médecine générale
 2020;5583;Rouen;médecine générale
 2020;5584;Nice;gériatrie
@@ -5536,7 +5536,7 @@ annee;rang;ville;specialite
 2020;5690;Toulouse;médecine générale
 2020;5691;Paris;médecine générale
 2020;5692;Caen;gériatrie
-2020;5693;La Réunion;médecine générale
+2020;5693;Réunion;médecine générale
 2020;5694;Bordeaux;médecine générale
 2020;5695;Paris;biologie médicale
 2020;5696;Angers;médecine générale
@@ -5623,7 +5623,7 @@ annee;rang;ville;specialite
 2020;5786;Lille;psychiatrie
 2020;5787;Rouen;médecine générale
 2020;5788;Paris;médecine générale
-2020;5789;La Réunion;médecine générale
+2020;5789;Réunion;médecine générale
 2020;5790;Lille;médecine générale
 2020;5791;Lille;psychiatrie
 2020;5792;Lyon;médecine générale
@@ -5669,7 +5669,7 @@ annee;rang;ville;specialite
 2020;5835;Marseille;médecine générale
 2020;5836;Nancy;médecine générale
 2020;5837;Nice;médecine générale
-2020;5838;La Réunion;médecine générale
+2020;5838;Réunion;médecine générale
 2020;5839;Paris;médecine générale
 2020;5840;Bordeaux;médecine générale
 2020;5841;Reims;psychiatrie
@@ -5706,7 +5706,7 @@ annee;rang;ville;specialite
 2020;5875;Lille;biologie médicale
 2020;5876;Paris;médecine générale
 2020;5877;Paris;médecine générale
-2020;5878;La Réunion;médecine générale
+2020;5878;Réunion;médecine générale
 2020;5879;Paris;médecine générale
 2020;5880;Lille;psychiatrie
 2020;5881;Marseille;psychiatrie
@@ -5730,7 +5730,7 @@ annee;rang;ville;specialite
 2020;5902;Montpellier;médecine générale
 2020;5903;Montpellier;médecine d'urgence
 2020;5904;Nancy;médecine générale
-2020;5905;La Réunion;médecine générale
+2020;5905;Réunion;médecine générale
 2020;5906;Poitiers;médecine générale
 2020;5907;Nice;médecine et santé au travail
 2020;5908;Reims;médecine générale
@@ -5743,7 +5743,7 @@ annee;rang;ville;specialite
 2020;5915;Angers;médecine générale
 2020;5916;Reims;médecine générale
 2020;5917;Martinique;médecine d'urgence
-2020;5918;La Réunion;médecine générale
+2020;5918;Réunion;médecine générale
 2020;5919;Bordeaux;médecine générale
 2020;5920;Marseille;médecine générale
 2020;5921;Nancy;allergologie
@@ -5751,7 +5751,7 @@ annee;rang;ville;specialite
 2020;5923;Lyon;psychiatrie
 2020;5924;Clermont-Ferrand;médecine générale
 2020;5925;Besançon;médecine physique et de réadaptation
-2020;5926;La Réunion;médecine générale
+2020;5926;Réunion;médecine générale
 2020;5927;Caen;médecine générale
 2020;5928;Angers;médecine générale
 2020;5929;Nice;médecine générale
@@ -5760,8 +5760,8 @@ annee;rang;ville;specialite
 2020;5932;Reims;médecine générale
 2020;5933;Strasbourg;médecine générale
 2020;5934;Nantes;médecine générale
-2020;5935;La Réunion;médecine générale
-2020;5936;La Réunion;gériatrie
+2020;5935;Réunion;médecine générale
+2020;5936;Réunion;gériatrie
 2020;5937;Grenoble;médecine générale
 2020;5938;Nantes;médecine générale
 2020;5939;Paris;psychiatrie
@@ -5806,7 +5806,7 @@ annee;rang;ville;specialite
 2020;5983;Rennes;médecine générale
 2020;5984;Toulouse;médecine générale
 2020;5985;Nancy;médecine d'urgence
-2020;5986;La Réunion;médecine générale
+2020;5986;Réunion;médecine générale
 2020;5987;Montpellier;psychiatrie
 2020;5988;Angers;médecine générale
 2020;5989;Toulouse;biologie médicale
@@ -5826,7 +5826,7 @@ annee;rang;ville;specialite
 2020;6003;Strasbourg;psychiatrie
 2020;6004;Dijon;médecine générale
 2020;6005;Bordeaux;médecine générale
-2020;6006;La Réunion;médecine générale
+2020;6006;Réunion;médecine générale
 2020;6007;Marseille;médecine générale
 2020;6008;Angers;médecine générale
 2020;6009;Paris;médecine générale
@@ -5841,14 +5841,14 @@ annee;rang;ville;specialite
 2020;6018;Paris;biologie médicale
 2020;6019;Martinique;endocrinologie-diabétologie-nutrition
 2020;6020;Montpellier;psychiatrie
-2020;6021;La Réunion;médecine générale
+2020;6021;Réunion;médecine générale
 2020;6022;Bordeaux;médecine générale
 2020;6023;Nice;médecine générale
 2020;6024;Lyon;médecine générale
 2020;6025;Reims;médecine générale
 2020;6026;Amiens;médecine générale
 2020;6027;Angers;médecine d'urgence
-2020;6028;La Réunion;médecine générale
+2020;6028;Réunion;médecine générale
 2020;6029;Toulouse;psychiatrie
 2020;6030;Bordeaux;médecine générale
 2020;6031;Paris;psychiatrie
@@ -5893,7 +5893,7 @@ annee;rang;ville;specialite
 2020;6074;Toulouse;médecine générale
 2020;6075;Lille;médecine physique et de réadaptation
 2020;6076;Angers;médecine générale
-2020;6077;La Réunion;médecine générale
+2020;6077;Réunion;médecine générale
 2020;6078;Nantes;médecine générale
 2020;6079;Caen;médecine générale
 2020;6080;Angers;médecine d'urgence
@@ -6064,7 +6064,7 @@ annee;rang;ville;specialite
 2020;6259;Lille;médecine générale
 2020;6260;Montpellier;médecine générale
 2020;6261;Angers;médecine générale
-2020;6262;La Réunion;médecine générale
+2020;6262;Réunion;médecine générale
 2020;6263;Strasbourg;psychiatrie
 2020;6264;Paris;psychiatrie
 2020;6265;Lille;médecine générale
@@ -6099,7 +6099,7 @@ annee;rang;ville;specialite
 2020;6294;Nancy;médecine d'urgence
 2020;6295;Paris;médecine générale
 2020;6296;Clermont-Ferrand;génétique médicale
-2020;6297;La Réunion;médecine générale
+2020;6297;Réunion;médecine générale
 2020;6298;Nancy;médecine générale
 2020;6299;Rouen;médecine générale
 2020;6300;Saint-Etienne;médecine générale
@@ -6154,7 +6154,7 @@ annee;rang;ville;specialite
 2020;6354;Bordeaux;médecine générale
 2020;6355;Bordeaux;médecine générale
 2020;6356;Paris;médecine générale
-2020;6357;La Réunion;médecine générale
+2020;6357;Réunion;médecine générale
 2020;6358;Nancy;médecine générale
 2020;6360;Paris;médecine d'urgence
 2020;6361;Reims;médecine générale
@@ -6216,7 +6216,7 @@ annee;rang;ville;specialite
 2020;6419;Paris;médecine physique et de réadaptation
 2020;6420;Poitiers;médecine d'urgence
 2020;6421;Strasbourg;médecine générale
-2020;6422;La Réunion;médecine générale
+2020;6422;Réunion;médecine générale
 2020;6423;Reims;médecine générale
 2020;6424;Lille;médecine générale
 2020;6425;Strasbourg;médecine d'urgence
@@ -6238,11 +6238,11 @@ annee;rang;ville;specialite
 2020;6442;Marseille;psychiatrie
 2020;6443;Saint-Etienne;médecine générale
 2020;6444;Marseille;médecine générale
-2020;6445;La Réunion;médecine générale
+2020;6445;Réunion;médecine générale
 2020;6446;Reims;médecine générale
 2020;6447;Rouen;médecine d'urgence
 2020;6448;Toulouse;médecine générale
-2020;6449;La Réunion;médecine générale
+2020;6449;Réunion;médecine générale
 2020;6450;Marseille;médecine générale
 2020;6451;Besançon;médecine générale
 2020;6452;Paris;médecine générale
@@ -6492,7 +6492,7 @@ annee;rang;ville;specialite
 2020;6712;Grenoble;psychiatrie
 2020;6713;Toulouse;biologie médicale
 2020;6714;Lille;médecine générale
-2020;6715;La Réunion;médecine générale
+2020;6715;Réunion;médecine générale
 2020;6716;Nantes;médecine générale
 2020;6717;Poitiers;médecine générale
 2020;6718;Marseille;médecine générale
@@ -6509,7 +6509,7 @@ annee;rang;ville;specialite
 2020;6730;Brest;médecine générale
 2020;6731;Marseille;médecine générale
 2020;6732;Paris;médecine générale
-2020;6733;La Réunion;médecine générale
+2020;6733;Réunion;médecine générale
 2020;6734;Rouen;médecine générale
 2020;6735;Saint-Etienne;médecine générale
 2020;6736;Lille;médecine générale
@@ -6586,7 +6586,7 @@ annee;rang;ville;specialite
 2020;6813;Lille;médecine d'urgence
 2020;6814;Lille;médecine d'urgence
 2020;6815;Nantes;médecine générale
-2020;6816;La Réunion;médecine générale
+2020;6816;Réunion;médecine générale
 2020;6817;Nancy;médecine générale
 2020;6818;Reims;médecine d'urgence
 2020;6819;Bordeaux;médecine générale
@@ -7241,7 +7241,7 @@ annee;rang;ville;specialite
 2020;7516;Paris;médecine générale
 2020;7517;Lille;psychiatrie
 2020;7518;Amiens;médecine d'urgence
-2020;7520;La Réunion;médecine physique et de réadaptation
+2020;7520;Réunion;médecine physique et de réadaptation
 2020;7521;Poitiers;médecine générale
 2020;7522;Lille;biologie médicale
 2020;7523;Paris;psychiatrie
@@ -7581,7 +7581,7 @@ annee;rang;ville;specialite
 2020;7877;Brest;médecine générale
 2020;7878;Brest;médecine générale
 2020;7879;Rouen;médecine générale
-2020;7880;La Réunion;pédiatrie
+2020;7880;Réunion;pédiatrie
 2020;7883;Nice;psychiatrie
 2020;7884;Nancy;médecine générale
 2020;7885;Limoges;médecine générale
@@ -7787,7 +7787,7 @@ annee;rang;ville;specialite
 2020;8103;Rennes;médecine générale
 2020;8104;Lille;psychiatrie
 2020;8105;Brest;médecine générale
-2020;8106;La Réunion;médecine générale
+2020;8106;Réunion;médecine générale
 2020;8107;Paris;médecine générale
 2020;8108;Rouen;psychiatrie
 2020;8109;Limoges;médecine générale
@@ -7980,7 +7980,7 @@ annee;rang;ville;specialite
 2020;8313;Dijon;médecine générale
 2020;8315;Paris;médecine générale
 2020;8316;Marseille;médecine générale
-2020;8317;La Réunion;médecine générale
+2020;8317;Réunion;médecine générale
 2020;8318;Dijon;médecine générale
 2020;8319;Reims;médecine générale
 2020;8320;Lyon;médecine générale
@@ -8169,7 +8169,7 @@ annee;rang;ville;specialite
 2020;8521;Paris;psychiatrie
 2020;8522;Tours;médecine générale
 2020;8523;Limoges;psychiatrie
-2020;8524;La Réunion;biologie médicale
+2020;8524;Réunion;biologie médicale
 2020;8525;Caen;médecine générale
 2020;8527;Paris;médecine générale
 2020;8528;Paris;gériatrie
@@ -8386,7 +8386,7 @@ annee;rang;ville;specialite
 2020;8779;Lille;biologie médicale
 2020;8780;Dijon;biologie médicale
 2020;8781;Limoges;médecine générale
-2020;8782;La Réunion;santé publique
+2020;8782;Réunion;santé publique
 2020;8783;Dijon;médecine et santé au travail
 2020;8784;Tours;médecine générale
 2020;8785;Paris;gériatrie
@@ -33702,7 +33702,7 @@ annee;rang;ville;specialite
 2016;733;Lyon;gynécologie obstétrique
 2016;734;Paris;radiologie et imagerie médicale
 2016;735;Montpellier;anesthésie-réanimation
-2016;736;La Réunion;gynécologie obstétrique
+2016;736;Réunion;gynécologie obstétrique
 2016;737;Paris;radiologie et imagerie médicale
 2016;738;Lille;néphrologie
 2016;739;Paris;chirurgie générale
@@ -33998,7 +33998,7 @@ annee;rang;ville;specialite
 2016;1030;Tours;radiologie et imagerie médicale
 2016;1031;Dijon;ophtalmologie
 2016;1032;Lille;radiologie et imagerie médicale
-2016;1033;La Réunion;médecine générale
+2016;1033;Réunion;médecine générale
 2016;1034;Paris;médecine cardiovasculaire
 2016;1035;Grenoble;ophtalmologie
 2016;1036;Toulouse;radiologie et imagerie médicale
@@ -34099,14 +34099,14 @@ annee;rang;ville;specialite
 2016;1132;Paris;anesthésie-réanimation
 2016;1133;Aix-Marseille;neurologie
 2016;1134;Lyon;anesthésie-réanimation
-2016;1135;La Réunion;anesthésie-réanimation
+2016;1135;Réunion;anesthésie-réanimation
 2016;1136;Paris;neurologie
 2016;1137;Besançon;anesthésie-réanimation
 2016;1138;Nantes;radiologie et imagerie médicale
 2016;1139;Paris;radiologie et imagerie médicale
 2016;1140;Rouen;néphrologie
 2016;1141;Bordeaux;psychiatrie
-2016;1142;La Réunion;médecine cardiovasculaire
+2016;1142;Réunion;médecine cardiovasculaire
 2016;1143;Toulouse;neurologie
 2016;1144;Toulouse;biologie médicale
 2016;1145;Grenoble;ophtalmologie
@@ -34120,7 +34120,7 @@ annee;rang;ville;specialite
 2016;1153;Bordeaux;anesthésie-réanimation
 2016;1154;Rennes;pédiatrie
 2016;1155;Aix-Marseille;pédiatrie
-2016;1156;La Réunion;médecine cardiovasculaire
+2016;1156;Réunion;médecine cardiovasculaire
 2016;1157;Nantes;dermatologie et vénéréologie
 2016;1158;Grenoble;médecine cardiovasculaire
 2016;1159;Grenoble;médecine physique et de réadaptation
@@ -34329,7 +34329,7 @@ annee;rang;ville;specialite
 2016;1362;Aix-Marseille;hépato-gastro-entérologie
 2016;1363;Rouen;ophtalmologie
 2016;1364;Toulouse;oncologie
-2016;1365;La Réunion;médecine interne et immunologie clinique
+2016;1365;Réunion;médecine interne et immunologie clinique
 2016;1366;Paris;chirurgie générale
 2016;1367;Aix-Marseille;anesthésie-réanimation
 2016;1368;Bordeaux;anesthésie-réanimation
@@ -34396,7 +34396,7 @@ annee;rang;ville;specialite
 2016;1429;Rennes;chirurgie générale
 2016;1430;Toulouse;médecine générale
 2016;1431;Paris;radiologie et imagerie médicale
-2016;1432;La Réunion;anesthésie-réanimation
+2016;1432;Réunion;anesthésie-réanimation
 2016;1433;Lille;chirurgie générale
 2016;1434;Lille;chirurgie générale
 2016;1435;Paris;oto-rhino-laryngologie - chirurgie cervico-faciale
@@ -34425,7 +34425,7 @@ annee;rang;ville;specialite
 2016;1459;Lille;gynécologie obstétrique
 2016;1460;Paris;oncologie
 2016;1461;Grenoble;médecine cardiovasculaire
-2016;1462;La Réunion;psychiatrie
+2016;1462;Réunion;psychiatrie
 2016;1463;Lille;endocrinologie-diabétologie-nutrition
 2016;1464;Lille;pneumologie
 2016;1465;Paris;gynécologie obstétrique
@@ -34468,7 +34468,7 @@ annee;rang;ville;specialite
 2016;1502;Paris;pneumologie
 2016;1503;Paris;chirurgie générale
 2016;1504;Rennes;endocrinologie-diabétologie-nutrition
-2016;1505;La Réunion;anesthésie-réanimation
+2016;1505;Réunion;anesthésie-réanimation
 2016;1506;Paris;anesthésie-réanimation
 2016;1507;Rennes;anesthésie-réanimation
 2016;1508;Nantes;radiologie et imagerie médicale
@@ -34477,10 +34477,10 @@ annee;rang;ville;specialite
 2016;1511;Paris;oto-rhino-laryngologie - chirurgie cervico-faciale
 2016;1512;Paris;pédiatrie
 2016;1513;Montpellier;hépato-gastro-entérologie
-2016;1514;La Réunion;hépato-gastro-entérologie
+2016;1514;Réunion;hépato-gastro-entérologie
 2016;1515;Nice;gynécologie obstétrique
 2016;1516;Brest;radiologie et imagerie médicale
-2016;1517;La Réunion;pédiatrie
+2016;1517;Réunion;pédiatrie
 2016;1518;Angers;radiologie et imagerie médicale
 2016;1519;Paris;chirurgie générale
 2016;1520;Bordeaux;rhumatologie
@@ -34592,7 +34592,7 @@ annee;rang;ville;specialite
 2016;1627;Lille;radiologie et imagerie médicale
 2016;1628;Clermont-Ferrand;médecine cardiovasculaire
 2016;1629;Clermont-Ferrand;chirurgie générale
-2016;1630;La Réunion;néphrologie
+2016;1630;Réunion;néphrologie
 2016;1631;Rennes;hématologie
 2016;1632;Rouen;médecine cardiovasculaire
 2016;1633;Brest;médecine nucléaire
@@ -34636,7 +34636,7 @@ annee;rang;ville;specialite
 2016;1671;Limoges;médecine générale
 2016;1672;Brest;médecine générale
 2016;1674;Paris;pneumologie
-2016;1675;La Réunion;médecine cardiovasculaire
+2016;1675;Réunion;médecine cardiovasculaire
 2016;1676;Paris;médecine nucléaire
 2016;1677;Lille;oto-rhino-laryngologie - chirurgie cervico-faciale
 2016;1678;Tours;oto-rhino-laryngologie - chirurgie cervico-faciale
@@ -34651,7 +34651,7 @@ annee;rang;ville;specialite
 2016;1687;Tours;médecine interne et immunologie clinique
 2016;1688;Nantes;médecine générale
 2016;1689;Aix-Marseille;médecine générale
-2016;1690;La Réunion;radiologie et imagerie médicale
+2016;1690;Réunion;radiologie et imagerie médicale
 2016;1691;Nancy;dermatologie et vénéréologie
 2016;1692;Lille;chirurgie générale
 2016;1693;Nantes;chirurgie générale
@@ -34683,7 +34683,7 @@ annee;rang;ville;specialite
 2016;1719;Rennes;chirurgie générale
 2016;1720;Paris;oto-rhino-laryngologie - chirurgie cervico-faciale
 2016;1721;Lille;anesthésie-réanimation
-2016;1722;La Réunion;gynécologie obstétrique
+2016;1722;Réunion;gynécologie obstétrique
 2016;1723;Montpellier;pédiatrie
 2016;1724;Angers;radiologie et imagerie médicale
 2016;1725;Paris;pneumologie
@@ -34694,7 +34694,7 @@ annee;rang;ville;specialite
 2016;1730;Nantes;rhumatologie
 2016;1731;Paris;rhumatologie
 2016;1732;Paris;pédiatrie
-2016;1733;La Réunion;médecine générale
+2016;1733;Réunion;médecine générale
 2016;1734;Paris;médecine générale
 2016;1735;Nantes;médecine générale
 2016;1736;Antilles-Guyane;médecine générale
@@ -34815,7 +34815,7 @@ annee;rang;ville;specialite
 2016;1853;Grenoble;hépato-gastro-entérologie
 2016;1854;Poitiers;anesthésie-réanimation
 2016;1855;Paris;anesthésie-réanimation
-2016;1856;La Réunion;gynécologie obstétrique
+2016;1856;Réunion;gynécologie obstétrique
 2016;1857;Nancy;néphrologie
 2016;1858;Lille;anesthésie-réanimation
 2016;1859;Rouen;hépato-gastro-entérologie
@@ -34853,7 +34853,7 @@ annee;rang;ville;specialite
 2016;1891;Reims;dermatologie et vénéréologie
 2016;1892;Nancy;neurologie
 2016;1893;Rennes;médecine générale
-2016;1894;La Réunion;neurologie
+2016;1894;Réunion;neurologie
 2016;1895;Rennes;anesthésie-réanimation
 2016;1896;Lille;médecine physique et de réadaptation
 2016;1897;Reims;radiologie et imagerie médicale
@@ -34913,7 +34913,7 @@ annee;rang;ville;specialite
 2016;1951;Clermont-Ferrand;dermatologie et vénéréologie
 2016;1952;Lyon;gynécologie médicale
 2016;1953;Toulouse;anesthésie-réanimation
-2016;1954;La Réunion;néphrologie
+2016;1954;Réunion;néphrologie
 2016;1955;Dijon;dermatologie et vénéréologie
 2016;1956;Tours;neurologie
 2016;1957;Toulouse;anesthésie-réanimation
@@ -35071,7 +35071,7 @@ annee;rang;ville;specialite
 2016;2112;Bordeaux;gynécologie obstétrique
 2016;2113;Antilles-Guyane;médecine générale
 2016;2114;Toulouse;médecine générale
-2016;2115;La Réunion;pédiatrie
+2016;2115;Réunion;pédiatrie
 2016;2116;Saint-Etienne;oncologie
 2016;2117;Nancy;anesthésie-réanimation
 2016;2118;Paris;anesthésie-réanimation
@@ -35088,7 +35088,7 @@ annee;rang;ville;specialite
 2016;2129;Paris;anesthésie-réanimation
 2016;2130;Nancy;chirurgie générale
 2016;2131;Paris;anesthésie-réanimation
-2016;2132;La Réunion;anesthésie-réanimation
+2016;2132;Réunion;anesthésie-réanimation
 2016;2133;Lyon;gynécologie obstétrique
 2016;2134;Bordeaux;chirurgie générale
 2016;2135;Nice;anesthésie-réanimation
@@ -35162,7 +35162,7 @@ annee;rang;ville;specialite
 2016;2203;Caen;médecine cardiovasculaire
 2016;2204;Poitiers;médecine interne et immunologie clinique
 2016;2205;Nice;médecine interne et immunologie clinique
-2016;2206;La Réunion;pneumologie
+2016;2206;Réunion;pneumologie
 2016;2207;Brest;médecine générale
 2016;2208;Paris;pédiatrie
 2016;2209;Amiens;chirurgie générale
@@ -35263,7 +35263,7 @@ annee;rang;ville;specialite
 2016;2304;Montpellier;pédiatrie
 2016;2305;Amiens;dermatologie et vénéréologie
 2016;2306;Paris;anesthésie-réanimation
-2016;2307;La Réunion;hépato-gastro-entérologie
+2016;2307;Réunion;hépato-gastro-entérologie
 2016;2308;Paris;médecine générale
 2016;2309;Rouen;chirurgie générale
 2016;2310;Nancy;oncologie
@@ -35318,7 +35318,7 @@ annee;rang;ville;specialite
 2016;2359;Clermont-Ferrand;anesthésie-réanimation
 2016;2360;Strasbourg;hématologie
 2016;2361;Montpellier;médecine générale
-2016;2362;La Réunion;médecine physique et de réadaptation
+2016;2362;Réunion;médecine physique et de réadaptation
 2016;2363;Strasbourg;hépato-gastro-entérologie
 2016;2364;Nancy;médecine nucléaire
 2016;2365;Amiens;néphrologie
@@ -35360,7 +35360,7 @@ annee;rang;ville;specialite
 2016;2401;Lille;anesthésie-réanimation
 2016;2402;Antilles-Guyane;radiologie et imagerie médicale
 2016;2403;Paris;chirurgie générale
-2016;2404;La Réunion;gynécologie obstétrique
+2016;2404;Réunion;gynécologie obstétrique
 2016;2405;Poitiers;neurologie
 2016;2406;Montpellier;endocrinologie-diabétologie-nutrition
 2016;2407;Bordeaux;médecine générale
@@ -35516,7 +35516,7 @@ annee;rang;ville;specialite
 2016;2560;Strasbourg;anesthésie-réanimation
 2016;2561;Aix-Marseille;rhumatologie
 2016;2562;Grenoble;chirurgie générale
-2016;2563;La Réunion;anesthésie-réanimation
+2016;2563;Réunion;anesthésie-réanimation
 2016;2564;Strasbourg;oncologie
 2016;2565;Angers;hépato-gastro-entérologie
 2016;2566;Lille;chirurgie générale
@@ -35562,7 +35562,7 @@ annee;rang;ville;specialite
 2016;2607;Paris;pédiatrie
 2016;2608;Grenoble;chirurgie générale
 2016;2609;Angers;médecine générale
-2016;2610;La Réunion;gynécologie obstétrique
+2016;2610;Réunion;gynécologie obstétrique
 2016;2611;Lille;gynécologie obstétrique
 2016;2612;Paris;médecine générale
 2016;2613;Paris;médecine générale
@@ -35713,10 +35713,10 @@ annee;rang;ville;specialite
 2016;2759;Paris;psychiatrie
 2016;2760;Toulouse;médecine générale
 2016;2761;Strasbourg;médecine générale
-2016;2762;La Réunion;endocrinologie-diabétologie-nutrition
+2016;2762;Réunion;endocrinologie-diabétologie-nutrition
 2016;2763;Paris;anesthésie-réanimation
 2016;2764;Strasbourg;chirurgie générale
-2016;2765;La Réunion;médecine générale
+2016;2765;Réunion;médecine générale
 2016;2766;Montpellier;gynécologie obstétrique
 2016;2767;Lille;médecine générale
 2016;2768;Rouen;médecine interne et immunologie clinique
@@ -35732,7 +35732,7 @@ annee;rang;ville;specialite
 2016;2779;Nancy;chirurgie générale
 2016;2780;Paris;pédiatrie
 2016;2781;Limoges;radiologie et imagerie médicale
-2016;2782;La Réunion;chirurgie générale
+2016;2782;Réunion;chirurgie générale
 2016;2783;Rouen;anesthésie-réanimation
 2016;2784;Lyon;psychiatrie
 2016;2785;Caen;médecine nucléaire
@@ -35962,7 +35962,7 @@ annee;rang;ville;specialite
 2016;3013;Grenoble;chirurgie générale
 2016;3014;Caen;médecine générale
 2016;3015;Paris;médecine générale
-2016;3016;La Réunion;oncologie
+2016;3016;Réunion;oncologie
 2016;3017;Lille;médecine générale
 2016;3018;Dijon;pédiatrie
 2016;3019;Amiens;anesthésie-réanimation
@@ -36045,7 +36045,7 @@ annee;rang;ville;specialite
 2016;3100;Paris;médecine générale
 2016;3101;Saint-Etienne;anesthésie-réanimation
 2016;3102;Angers;chirurgie générale
-2016;3103;La Réunion;médecine interne et immunologie clinique
+2016;3103;Réunion;médecine interne et immunologie clinique
 2016;3104;Clermont-Ferrand;chirurgie générale
 2016;3106;Bordeaux;psychiatrie
 2016;3107;Nantes;médecine générale
@@ -36059,20 +36059,20 @@ annee;rang;ville;specialite
 2016;3115;Amiens;neurologie
 2016;3116;Nantes;médecine générale
 2016;3117;Paris;médecine générale
-2016;3118;La Réunion;gynécologie médicale
+2016;3118;Réunion;gynécologie médicale
 2016;3120;Dijon;chirurgie générale
 2016;3121;Rennes;médecine générale
 2016;3122;Brest;anesthésie-réanimation
 2016;3123;Tours;anesthésie-réanimation
 2016;3124;Reims;pneumologie
-2016;3125;La Réunion;gynécologie obstétrique
+2016;3125;Réunion;gynécologie obstétrique
 2016;3126;Reims;médecine générale
 2016;3127;Amiens;anesthésie-réanimation
 2016;3128;Dijon;médecine générale
 2016;3129;Toulouse;chirurgie orale
 2016;3130;Grenoble;médecine générale
 2016;3131;Antilles-Guyane;anesthésie-réanimation
-2016;3132;La Réunion;chirurgie générale
+2016;3132;Réunion;chirurgie générale
 2016;3133;Besançon;anesthésie-réanimation
 2016;3134;Brest;médecine générale
 2016;3135;Nancy;hépato-gastro-entérologie
@@ -36117,7 +36117,7 @@ annee;rang;ville;specialite
 2016;3175;Angers;chirurgie générale
 2016;3176;Paris;médecine générale
 2016;3177;Tours;anesthésie-réanimation
-2016;3178;La Réunion;médecine générale
+2016;3178;Réunion;médecine générale
 2016;3179;Grenoble;médecine générale
 2016;3180;Rennes;gynécologie obstétrique
 2016;3182;Paris;pédiatrie
@@ -36238,7 +36238,7 @@ annee;rang;ville;specialite
 2016;3297;Toulouse;médecine générale
 2016;3298;Amiens;anesthésie-réanimation
 2016;3299;Grenoble;endocrinologie-diabétologie-nutrition
-2016;3300;La Réunion;neurologie
+2016;3300;Réunion;neurologie
 2016;3301;Paris;gynécologie médicale
 2016;3302;Nice;médecine générale
 2016;3303;Nancy;chirurgie générale
@@ -36318,7 +36318,7 @@ annee;rang;ville;specialite
 2016;3377;Nantes;médecine générale
 2016;3378;Amiens;chirurgie générale
 2016;3379;Dijon;pédiatrie
-2016;3380;La Réunion;chirurgie générale
+2016;3380;Réunion;chirurgie générale
 2016;3381;Rennes;médecine générale
 2016;3382;Paris;médecine générale
 2016;3383;Reims;médecine générale
@@ -36431,7 +36431,7 @@ annee;rang;ville;specialite
 2016;3492;Dijon;pneumologie
 2016;3493;Paris;psychiatrie
 2016;3494;Caen;gynécologie obstétrique
-2016;3495;La Réunion;pneumologie
+2016;3495;Réunion;pneumologie
 2016;3496;Aix-Marseille;médecine générale
 2016;3497;Paris;médecine générale
 2016;3498;Besançon;endocrinologie-diabétologie-nutrition
@@ -36451,7 +36451,7 @@ annee;rang;ville;specialite
 2016;3512;Besançon;oncologie
 2016;3513;Amiens;médecine générale
 2016;3514;Limoges;néphrologie
-2016;3515;La Réunion;pédiatrie
+2016;3515;Réunion;pédiatrie
 2016;3516;Aix-Marseille;médecine générale
 2016;3517;Besançon;médecine générale
 2016;3518;Lille;endocrinologie-diabétologie-nutrition
@@ -36609,7 +36609,7 @@ annee;rang;ville;specialite
 2016;3672;Grenoble;médecine générale
 2016;3673;Aix-Marseille;médecine générale
 2016;3675;Bordeaux;médecine générale
-2016;3676;La Réunion;pneumologie
+2016;3676;Réunion;pneumologie
 2016;3677;Paris;médecine générale
 2016;3678;Clermont-Ferrand;gynécologie obstétrique
 2016;3679;Toulouse;médecine générale
@@ -36686,7 +36686,7 @@ annee;rang;ville;specialite
 2016;3751;Brest;biologie médicale
 2016;3752;Brest;médecine générale
 2016;3753;Antilles-Guyane;gynécologie obstétrique
-2016;3754;La Réunion;pédiatrie
+2016;3754;Réunion;pédiatrie
 2016;3755;Montpellier;médecine générale
 2016;3756;Lille;chirurgie générale
 2016;3759;Limoges;hépato-gastro-entérologie
@@ -36712,7 +36712,7 @@ annee;rang;ville;specialite
 2016;3779;Besançon;chirurgie orale
 2016;3780;Poitiers;gynécologie obstétrique
 2016;3781;Clermont-Ferrand;pneumologie
-2016;3782;La Réunion;médecine générale
+2016;3782;Réunion;médecine générale
 2016;3783;Aix-Marseille;médecine générale
 2016;3784;Lyon;médecine générale
 2016;3785;Lille;médecine générale
@@ -36876,9 +36876,9 @@ annee;rang;ville;specialite
 2016;3945;Reims;oncologie
 2016;3946;Lyon;médecine générale
 2016;3947;Paris;psychiatrie
-2016;3948;La Réunion;médecine générale
+2016;3948;Réunion;médecine générale
 2016;3949;Rennes;médecine générale
-2016;3951;La Réunion;médecine générale
+2016;3951;Réunion;médecine générale
 2016;3952;Nancy;gynécologie obstétrique
 2016;3953;Saint-Etienne;médecine physique et de réadaptation
 2016;3954;Bordeaux;médecine générale
@@ -36940,7 +36940,7 @@ annee;rang;ville;specialite
 2016;4013;Lille;médecine générale
 2016;4014;Besançon;neurochirurgie
 2016;4015;Clermont-Ferrand;médecine générale
-2016;4016;La Réunion;psychiatrie
+2016;4016;Réunion;psychiatrie
 2016;4017;Reims;médecine générale
 2016;4018;Paris;médecine générale
 2016;4019;Strasbourg;médecine générale
@@ -37006,7 +37006,7 @@ annee;rang;ville;specialite
 2016;4083;Nantes;médecine générale
 2016;4084;Brest;hématologie
 2016;4085;Angers;pédiatrie
-2016;4086;La Réunion;gynécologie médicale
+2016;4086;Réunion;gynécologie médicale
 2016;4087;Toulouse;médecine générale
 2016;4088;Rennes;médecine générale
 2016;4089;Paris;médecine générale
@@ -37078,7 +37078,7 @@ annee;rang;ville;specialite
 2016;4155;Limoges;neurochirurgie
 2016;4156;Montpellier;médecine générale
 2016;4157;Nice;chirurgie générale
-2016;4158;La Réunion;médecine générale
+2016;4158;Réunion;médecine générale
 2016;4159;Caen;anatomie et cytologie pathologiques
 2016;4160;Bordeaux;médecine générale
 2016;4161;Grenoble;médecine générale
@@ -37088,7 +37088,7 @@ annee;rang;ville;specialite
 2016;4165;Rouen;médecine générale
 2016;4166;Strasbourg;médecine générale
 2016;4167;Besançon;gynécologie obstétrique
-2016;4168;La Réunion;pédiatrie
+2016;4168;Réunion;pédiatrie
 2016;4169;Clermont-Ferrand;pédiatrie
 2016;4170;Toulouse;médecine générale
 2016;4171;Toulouse;psychiatrie
@@ -37139,7 +37139,7 @@ annee;rang;ville;specialite
 2016;4222;Montpellier;médecine générale
 2016;4223;Nice;médecine générale
 2016;4224;Limoges;gynécologie obstétrique
-2016;4225;La Réunion;pédiatrie
+2016;4225;Réunion;pédiatrie
 2016;4226;Angers;chirurgie générale
 2016;4227;Lyon;médecine générale
 2016;4228;Brest;médecine générale
@@ -37221,7 +37221,7 @@ annee;rang;ville;specialite
 2016;4309;Toulouse;médecine générale
 2016;4310;Lille;médecine générale
 2016;4311;Saint-Etienne;chirurgie générale
-2016;4312;La Réunion;médecine générale
+2016;4312;Réunion;médecine générale
 2016;4313;Angers;médecine générale
 2016;4314;Paris;psychiatrie
 2016;4315;Toulouse;médecine générale
@@ -37249,7 +37249,7 @@ annee;rang;ville;specialite
 2016;4339;Clermont-Ferrand;radiologie et imagerie médicale
 2016;4340;Lille;psychiatrie
 2016;4341;Rennes;médecine générale
-2016;4342;La Réunion;chirurgie générale
+2016;4342;Réunion;chirurgie générale
 2016;4343;Lyon;médecine physique et de réadaptation
 2016;4344;Poitiers;médecine générale
 2016;4345;Lyon;médecine générale
@@ -37351,7 +37351,7 @@ annee;rang;ville;specialite
 2016;4447;Lille;médecine générale
 2016;4448;Toulouse;médecine générale
 2016;4449;Nantes;médecine générale
-2016;4450;La Réunion;médecine générale
+2016;4450;Réunion;médecine générale
 2016;4451;Lyon;psychiatrie
 2016;4454;Caen;pédiatrie
 2016;4455;Angers;endocrinologie-diabétologie-nutrition
@@ -37364,7 +37364,7 @@ annee;rang;ville;specialite
 2016;4462;Tours;endocrinologie-diabétologie-nutrition
 2016;4463;Toulouse;médecine générale
 2016;4464;Dijon;biologie médicale
-2016;4465;La Réunion;médecine générale
+2016;4465;Réunion;médecine générale
 2016;4466;Toulouse;médecine générale
 2016;4467;Aix-Marseille;médecine générale
 2016;4469;Nancy;gynécologie médicale
@@ -37502,7 +37502,7 @@ annee;rang;ville;specialite
 2016;4609;Brest;médecine physique et de réadaptation
 2016;4610;Paris;médecine générale
 2016;4612;Amiens;pédiatrie
-2016;4613;La Réunion;biologie médicale
+2016;4613;Réunion;biologie médicale
 2016;4614;Paris;santé publique
 2016;4615;Paris;médecine générale
 2016;4616;Nice;médecine physique et de réadaptation
@@ -37525,7 +37525,7 @@ annee;rang;ville;specialite
 2016;4635;Lyon;médecine générale
 2016;4636;Paris;médecine générale
 2016;4637;Aix-Marseille;médecine physique et de réadaptation
-2016;4638;La Réunion;médecine générale
+2016;4638;Réunion;médecine générale
 2016;4639;Rennes;médecine générale
 2016;4640;Paris;médecine générale
 2016;4641;Angers;médecine générale
@@ -37652,7 +37652,7 @@ annee;rang;ville;specialite
 2016;4771;Reims;médecine générale
 2016;4773;Paris;médecine générale
 2016;4774;Toulouse;médecine générale
-2016;4775;La Réunion;endocrinologie-diabétologie-nutrition
+2016;4775;Réunion;endocrinologie-diabétologie-nutrition
 2016;4776;Saint-Etienne;médecine physique et de réadaptation
 2016;4777;Toulouse;médecine générale
 2016;4778;Paris;médecine générale
@@ -37823,10 +37823,10 @@ annee;rang;ville;specialite
 2016;4953;Reims;biologie médicale
 2016;4954;Reims;médecine générale
 2016;4955;Nancy;médecine générale
-2016;4956;La Réunion;psychiatrie
+2016;4956;Réunion;psychiatrie
 2016;4957;Dijon;médecine générale
 2016;4959;Lyon;psychiatrie
-2016;4960;La Réunion;médecine générale
+2016;4960;Réunion;médecine générale
 2016;4961;Limoges;pédiatrie
 2016;4963;Montpellier;médecine générale
 2016;4964;Lille;médecine générale
@@ -37837,7 +37837,7 @@ annee;rang;ville;specialite
 2016;4970;Strasbourg;médecine générale
 2016;4971;Caen;médecine générale
 2016;4972;Rouen;médecine générale
-2016;4973;La Réunion;médecine générale
+2016;4973;Réunion;médecine générale
 2016;4974;Nice;médecine générale
 2016;4975;Montpellier;médecine générale
 2016;4977;Paris;médecine générale
@@ -37850,7 +37850,7 @@ annee;rang;ville;specialite
 2016;4986;Dijon;endocrinologie-diabétologie-nutrition
 2016;4987;Nice;médecine générale
 2016;4988;Clermont-Ferrand;médecine générale
-2016;4989;La Réunion;médecine générale
+2016;4989;Réunion;médecine générale
 2016;4990;Paris;médecine générale
 2016;4991;Antilles-Guyane;médecine générale
 2016;4992;Nantes;médecine générale
@@ -38018,7 +38018,7 @@ annee;rang;ville;specialite
 2016;5171;Paris;psychiatrie
 2016;5172;Bordeaux;médecine générale
 2016;5173;Bordeaux;médecine générale
-2016;5174;La Réunion;médecine générale
+2016;5174;Réunion;médecine générale
 2016;5175;Nancy;médecine générale
 2016;5176;Paris;médecine générale
 2016;5177;Nantes;médecine générale
@@ -38090,7 +38090,7 @@ annee;rang;ville;specialite
 2016;5251;Bordeaux;psychiatrie
 2016;5252;Brest;médecine générale
 2016;5253;Montpellier;médecine générale
-2016;5254;La Réunion;médecine générale
+2016;5254;Réunion;médecine générale
 2016;5255;Saint-Etienne;médecine générale
 2016;5256;Rennes;psychiatrie
 2016;5257;Strasbourg;génétique médicale
@@ -38122,7 +38122,7 @@ annee;rang;ville;specialite
 2016;5287;Paris;médecine générale
 2016;5288;Rennes;médecine générale
 2016;5289;Besançon;médecine générale
-2016;5290;La Réunion;médecine générale
+2016;5290;Réunion;médecine générale
 2016;5291;Aix-Marseille;médecine générale
 2016;5292;Bordeaux;santé publique
 2016;5293;Rennes;médecine physique et de réadaptation
@@ -38158,7 +38158,7 @@ annee;rang;ville;specialite
 2016;5323;Antilles-Guyane;médecine générale
 2016;5324;Toulouse;psychiatrie
 2016;5325;Poitiers;médecine générale
-2016;5326;La Réunion;médecine générale
+2016;5326;Réunion;médecine générale
 2016;5327;Lille;médecine générale
 2016;5329;Aix-Marseille;médecine générale
 2016;5330;Lyon;médecine générale
@@ -38166,7 +38166,7 @@ annee;rang;ville;specialite
 2016;5332;Rouen;médecine générale
 2016;5333;Paris;médecine générale
 2016;5334;Reims;médecine générale
-2016;5335;La Réunion;médecine générale
+2016;5335;Réunion;médecine générale
 2016;5336;Poitiers;médecine générale
 2016;5337;Lyon;dermatologie et vénéréologie
 2016;5338;Amiens;médecine physique et de réadaptation
@@ -38205,7 +38205,7 @@ annee;rang;ville;specialite
 2016;5374;Tours;médecine générale
 2016;5375;Lyon;médecine générale
 2016;5376;Toulouse;médecine générale
-2016;5377;La Réunion;médecine générale
+2016;5377;Réunion;médecine générale
 2016;5378;Lyon;médecine générale
 2016;5379;Strasbourg;psychiatrie
 2016;5380;Besançon;médecine générale
@@ -38275,7 +38275,7 @@ annee;rang;ville;specialite
 2016;5448;Bordeaux;médecine générale
 2016;5449;Rouen;médecine générale
 2016;5450;Lille;médecine générale
-2016;5451;La Réunion;médecine générale
+2016;5451;Réunion;médecine générale
 2016;5452;Nantes;médecine générale
 2016;5453;Poitiers;médecine générale
 2016;5455;Aix-Marseille;psychiatrie
@@ -38307,7 +38307,7 @@ annee;rang;ville;specialite
 2016;5483;Toulouse;médecine générale
 2016;5484;Brest;médecine générale
 2016;5485;Dijon;médecine générale
-2016;5486;La Réunion;médecine générale
+2016;5486;Réunion;médecine générale
 2016;5487;Dijon;ophtalmologie
 2016;5488;Poitiers;médecine générale
 2016;5489;Poitiers;radiologie et imagerie médicale
@@ -38330,7 +38330,7 @@ annee;rang;ville;specialite
 2016;5510;Rouen;médecine générale
 2016;5511;Bordeaux;médecine générale
 2016;5512;Lyon;médecine générale
-2016;5513;La Réunion;médecine générale
+2016;5513;Réunion;médecine générale
 2016;5514;Caen;médecine générale
 2016;5515;Tours;médecine générale
 2016;5516;Strasbourg;psychiatrie
@@ -38441,7 +38441,7 @@ annee;rang;ville;specialite
 2016;5631;Toulouse;médecine générale
 2016;5632;Grenoble;médecine générale
 2016;5633;Montpellier;médecine générale
-2016;5634;La Réunion;médecine générale
+2016;5634;Réunion;médecine générale
 2016;5635;Paris;médecine générale
 2016;5636;Angers;médecine générale
 2016;5637;Strasbourg;médecine générale
@@ -38455,7 +38455,7 @@ annee;rang;ville;specialite
 2016;5646;Reims;médecine générale
 2016;5647;Rouen;médecine physique et de réadaptation
 2016;5648;Besançon;médecine générale
-2016;5649;La Réunion;psychiatrie
+2016;5649;Réunion;psychiatrie
 2016;5650;Paris;médecine générale
 2016;5651;Paris;médecine générale
 2016;5652;Paris;médecine générale
@@ -38492,7 +38492,7 @@ annee;rang;ville;specialite
 2016;5687;Paris;médecine générale
 2016;5689;Montpellier;médecine générale
 2016;5690;Paris;médecine générale
-2016;5692;La Réunion;médecine générale
+2016;5692;Réunion;médecine générale
 2016;5693;Toulouse;médecine générale
 2016;5694;Aix-Marseille;médecine générale
 2016;5695;Paris;psychiatrie
@@ -38559,7 +38559,7 @@ annee;rang;ville;specialite
 2016;5761;Dijon;médecine générale
 2016;5763;Bordeaux;médecine générale
 2016;5764;Toulouse;médecine générale
-2016;5765;La Réunion;médecine générale
+2016;5765;Réunion;médecine générale
 2016;5766;Nice;médecine générale
 2016;5767;Rouen;médecine générale
 2016;5768;Lyon;médecine générale
@@ -38670,7 +38670,7 @@ annee;rang;ville;specialite
 2016;5886;Reims;médecine générale
 2016;5887;Lille;médecine générale
 2016;5888;Paris;médecine générale
-2016;5889;La Réunion;biologie médicale
+2016;5889;Réunion;biologie médicale
 2016;5890;Lyon;médecine générale
 2016;5891;Toulouse;médecine générale
 2016;5892;Caen;médecine générale
@@ -38693,9 +38693,9 @@ annee;rang;ville;specialite
 2016;5911;Brest;médecine générale
 2016;5912;Paris;médecine générale
 2016;5913;Paris;médecine générale
-2016;5914;La Réunion;médecine générale
+2016;5914;Réunion;médecine générale
 2016;5915;Rouen;biologie médicale
-2016;5916;La Réunion;médecine générale
+2016;5916;Réunion;médecine générale
 2016;5917;Poitiers;médecine générale
 2016;5918;Paris;médecine générale
 2016;5919;Lyon;médecine générale
@@ -38768,7 +38768,7 @@ annee;rang;ville;specialite
 2016;5994;Clermont-Ferrand;radiologie et imagerie médicale
 2016;5995;Dijon;médecine générale
 2016;5996;Poitiers;médecine générale
-2016;5997;La Réunion;médecine générale
+2016;5997;Réunion;médecine générale
 2016;5998;Poitiers;médecine générale
 2016;5999;Lille;médecine générale
 2016;6000;Rouen;médecine générale
@@ -38786,12 +38786,12 @@ annee;rang;ville;specialite
 2016;6014;Dijon;psychiatrie
 2016;6015;Caen;médecine générale
 2016;6016;Aix-Marseille;médecine générale
-2016;6017;La Réunion;médecine générale
+2016;6017;Réunion;médecine générale
 2016;6018;Tours;médecine générale
 2016;6019;Bordeaux;médecine générale
 2016;6020;Nancy;médecine générale
 2016;6021;Paris;médecine générale
-2016;6022;La Réunion;radiologie et imagerie médicale
+2016;6022;Réunion;radiologie et imagerie médicale
 2016;6023;Caen;médecine générale
 2016;6024;Montpellier;médecine générale
 2016;6025;Lille;médecine générale
@@ -38848,7 +38848,7 @@ annee;rang;ville;specialite
 2016;6082;Dijon;médecine générale
 2016;6083;Aix-Marseille;médecine générale
 2016;6084;Lyon;médecine générale
-2016;6085;La Réunion;médecine générale
+2016;6085;Réunion;médecine générale
 2016;6086;Lyon;biologie médicale
 2016;6087;Lyon;médecine générale
 2016;6088;Nice;médecine générale
@@ -38937,7 +38937,7 @@ annee;rang;ville;specialite
 2016;6181;Grenoble;médecine générale
 2016;6182;Nice;médecine générale
 2016;6183;Caen;médecine générale
-2016;6184;La Réunion;médecine générale
+2016;6184;Réunion;médecine générale
 2016;6185;Bordeaux;médecine générale
 2016;6186;Antilles-Guyane;psychiatrie
 2016;6187;Toulouse;médecine générale
@@ -39044,7 +39044,7 @@ annee;rang;ville;specialite
 2016;6302;Lille;médecine générale
 2016;6303;Aix-Marseille;médecine générale
 2016;6304;Lille;médecine générale
-2016;6305;La Réunion;médecine générale
+2016;6305;Réunion;médecine générale
 2016;6306;Nice;médecine générale
 2016;6307;Reims;médecine générale
 2016;6308;Lyon;médecine générale
@@ -39073,7 +39073,7 @@ annee;rang;ville;specialite
 2016;6333;Nice;médecine générale
 2016;6335;Bordeaux;médecine générale
 2016;6336;Lille;médecine générale
-2016;6337;La Réunion;médecine générale
+2016;6337;Réunion;médecine générale
 2016;6338;Toulouse;médecine générale
 2016;6339;Paris;médecine générale
 2016;6340;Aix-Marseille;médecine générale
@@ -39083,7 +39083,7 @@ annee;rang;ville;specialite
 2016;6344;Aix-Marseille;médecine générale
 2016;6345;Paris;médecine générale
 2016;6346;Nancy;médecine générale
-2016;6347;La Réunion;médecine générale
+2016;6347;Réunion;médecine générale
 2016;6348;Paris;médecine générale
 2016;6349;Paris;médecine générale
 2016;6350;Lille;médecine générale
@@ -39098,7 +39098,7 @@ annee;rang;ville;specialite
 2016;6359;Bordeaux;médecine générale
 2016;6360;Poitiers;médecine générale
 2016;6361;Besançon;médecine générale
-2016;6363;La Réunion;médecine générale
+2016;6363;Réunion;médecine générale
 2016;6364;Reims;médecine générale
 2016;6365;Paris;médecine générale
 2016;6366;Paris;médecine générale
@@ -39154,12 +39154,12 @@ annee;rang;ville;specialite
 2016;6422;Besançon;psychiatrie
 2016;6423;Lille;médecine générale
 2016;6424;Angers;médecine générale
-2016;6425;La Réunion;médecine générale
+2016;6425;Réunion;médecine générale
 2016;6426;Montpellier;médecine générale
-2016;6427;La Réunion;médecine générale
+2016;6427;Réunion;médecine générale
 2016;6428;Lyon;médecine générale
 2016;6429;Saint-Etienne;médecine générale
-2016;6430;La Réunion;médecine générale
+2016;6430;Réunion;médecine générale
 2016;6431;Lyon;médecine générale
 2016;6432;Grenoble;médecine générale
 2016;6433;Strasbourg;médecine générale
@@ -39175,10 +39175,10 @@ annee;rang;ville;specialite
 2016;6444;Clermont-Ferrand;médecine générale
 2016;6445;Paris;médecine générale
 2016;6446;Paris;médecine générale
-2016;6448;La Réunion;médecine générale
+2016;6448;Réunion;médecine générale
 2016;6450;Lille;médecine générale
 2016;6451;Nantes;médecine et santé au travail
-2016;6453;La Réunion;médecine générale
+2016;6453;Réunion;médecine générale
 2016;6454;Lille;médecine générale
 2016;6455;Rouen;médecine générale
 2016;6456;Grenoble;médecine générale
@@ -39230,7 +39230,7 @@ annee;rang;ville;specialite
 2016;6507;Lyon;médecine générale
 2016;6508;Bordeaux;biologie médicale
 2016;6511;Poitiers;médecine générale
-2016;6512;La Réunion;médecine générale
+2016;6512;Réunion;médecine générale
 2016;6513;Paris;médecine générale
 2016;6514;Paris;médecine générale
 2016;6515;Angers;médecine générale
@@ -39245,7 +39245,7 @@ annee;rang;ville;specialite
 2016;6525;Paris;médecine générale
 2016;6526;Reims;médecine générale
 2016;6527;Nancy;médecine générale
-2016;6529;La Réunion;médecine générale
+2016;6529;Réunion;médecine générale
 2016;6530;Lille;psychiatrie
 2016;6531;Saint-Etienne;médecine générale
 2016;6532;Lille;psychiatrie
@@ -39310,8 +39310,8 @@ annee;rang;ville;specialite
 2016;6595;Besançon;médecine générale
 2016;6596;Paris;médecine générale
 2016;6597;Dijon;psychiatrie
-2016;6598;La Réunion;médecine générale
-2016;6599;La Réunion;médecine générale
+2016;6598;Réunion;médecine générale
+2016;6599;Réunion;médecine générale
 2016;6601;Lyon;médecine générale
 2016;6602;Reims;médecine générale
 2016;6603;Paris;médecine générale
@@ -39408,7 +39408,7 @@ annee;rang;ville;specialite
 2016;6705;Poitiers;médecine générale
 2016;6706;Lille;médecine générale
 2016;6707;Poitiers;médecine générale
-2016;6708;La Réunion;médecine générale
+2016;6708;Réunion;médecine générale
 2016;6709;Brest;médecine générale
 2016;6710;Angers;médecine générale
 2016;6711;Aix-Marseille;médecine générale
@@ -39425,7 +39425,7 @@ annee;rang;ville;specialite
 2016;6722;Bordeaux;médecine générale
 2016;6723;Tours;psychiatrie
 2016;6724;Toulouse;psychiatrie
-2016;6725;La Réunion;médecine générale
+2016;6725;Réunion;médecine générale
 2016;6726;Toulouse;médecine générale
 2016;6727;Amiens;psychiatrie
 2016;6728;Aix-Marseille;médecine générale
@@ -39469,7 +39469,7 @@ annee;rang;ville;specialite
 2016;6772;Dijon;médecine générale
 2016;6773;Reims;biologie médicale
 2016;6774;Amiens;médecine générale
-2016;6775;La Réunion;médecine générale
+2016;6775;Réunion;médecine générale
 2016;6776;Nice;biologie médicale
 2016;6777;Aix-Marseille;médecine générale
 2016;6778;Tours;médecine générale
@@ -39490,7 +39490,7 @@ annee;rang;ville;specialite
 2016;6793;Lille;médecine générale
 2016;6794;Strasbourg;médecine générale
 2016;6795;Aix-Marseille;médecine générale
-2016;6796;La Réunion;médecine générale
+2016;6796;Réunion;médecine générale
 2016;6797;Lille;médecine générale
 2016;6798;Paris;médecine générale
 2016;6799;Strasbourg;médecine générale
@@ -39548,7 +39548,7 @@ annee;rang;ville;specialite
 2016;6857;Angers;médecine générale
 2016;6859;Saint-Etienne;médecine générale
 2016;6860;Aix-Marseille;médecine générale
-2016;6861;La Réunion;médecine générale
+2016;6861;Réunion;médecine générale
 2016;6862;Dijon;médecine générale
 2016;6863;Poitiers;médecine générale
 2016;6864;Poitiers;médecine générale
@@ -39581,7 +39581,7 @@ annee;rang;ville;specialite
 2016;6892;Nancy;médecine générale
 2016;6893;Lille;médecine générale
 2016;6894;Toulouse;médecine générale
-2016;6895;La Réunion;médecine générale
+2016;6895;Réunion;médecine générale
 2016;6896;Toulouse;médecine générale
 2016;6897;Angers;psychiatrie
 2016;6898;Lille;psychiatrie
@@ -39751,13 +39751,13 @@ annee;rang;ville;specialite
 2016;7078;Paris;médecine générale
 2016;7079;Strasbourg;médecine générale
 2016;7080;Amiens;médecine générale
-2016;7081;La Réunion;médecine générale
+2016;7081;Réunion;médecine générale
 2016;7082;Nancy;médecine générale
 2016;7083;Antilles-Guyane;médecine générale
 2016;7084;Brest;médecine générale
 2016;7085;Rouen;médecine générale
 2016;7086;Lyon;médecine générale
-2016;7087;La Réunion;médecine générale
+2016;7087;Réunion;médecine générale
 2016;7088;Poitiers;psychiatrie
 2016;7089;Caen;médecine générale
 2016;7090;Clermont-Ferrand;médecine générale
@@ -39798,7 +39798,7 @@ annee;rang;ville;specialite
 2016;7127;Lille;médecine et santé au travail
 2016;7129;Antilles-Guyane;médecine générale
 2016;7130;Nice;médecine générale
-2016;7131;La Réunion;médecine générale
+2016;7131;Réunion;médecine générale
 2016;7132;Saint-Etienne;médecine générale
 2016;7133;Antilles-Guyane;psychiatrie
 2016;7134;Amiens;médecine générale
@@ -39810,7 +39810,7 @@ annee;rang;ville;specialite
 2016;7141;Clermont-Ferrand;médecine générale
 2016;7142;Antilles-Guyane;médecine générale
 2016;7143;Clermont-Ferrand;médecine générale
-2016;7144;La Réunion;médecine générale
+2016;7144;Réunion;médecine générale
 2016;7145;Nice;médecine générale
 2016;7147;Paris;médecine générale
 2016;7148;Lyon;médecine générale
@@ -39915,7 +39915,7 @@ annee;rang;ville;specialite
 2016;7256;Besançon;médecine générale
 2016;7257;Saint-Etienne;médecine générale
 2016;7258;Lille;biologie médicale
-2016;7259;La Réunion;médecine générale
+2016;7259;Réunion;médecine générale
 2016;7260;Lille;médecine générale
 2016;7261;Rouen;santé publique
 2016;7262;Strasbourg;médecine générale
@@ -40048,7 +40048,7 @@ annee;rang;ville;specialite
 2016;7407;Strasbourg;médecine générale
 2016;7409;Poitiers;médecine générale
 2016;7410;Poitiers;psychiatrie
-2016;7411;La Réunion;médecine générale
+2016;7411;Réunion;médecine générale
 2016;7412;Caen;médecine générale
 2016;7414;Lille;médecine générale
 2016;7415;Reims;médecine générale
@@ -40265,7 +40265,7 @@ annee;rang;ville;specialite
 2016;7649;Amiens;médecine générale
 2016;7650;Rouen;médecine générale
 2016;7652;Brest;médecine générale
-2016;7653;La Réunion;médecine générale
+2016;7653;Réunion;médecine générale
 2016;7655;Dijon;médecine générale
 2016;7656;Amiens;génétique médicale
 2016;7657;Paris;médecine générale
@@ -40336,7 +40336,7 @@ annee;rang;ville;specialite
 2016;7728;Tours;psychiatrie
 2016;7729;Tours;médecine générale
 2016;7730;Paris;médecine générale
-2016;7731;La Réunion;santé publique
+2016;7731;Réunion;santé publique
 2016;7733;Clermont-Ferrand;médecine générale
 2016;7734;Nancy;psychiatrie
 2016;7735;Paris;médecine générale
@@ -40417,7 +40417,7 @@ annee;rang;ville;specialite
 2016;7819;Tours;médecine générale
 2016;7820;Amiens;médecine générale
 2016;7821;Montpellier;médecine générale
-2016;7823;La Réunion;médecine générale
+2016;7823;Réunion;médecine générale
 2016;7824;Nancy;santé publique
 2016;7825;Nancy;médecine générale
 2016;7826;Paris;médecine générale
@@ -40487,7 +40487,7 @@ annee;rang;ville;specialite
 2016;7904;Paris;médecine générale
 2016;7905;Rouen;psychiatrie
 2016;7906;Limoges;médecine générale
-2016;7907;La Réunion;santé publique
+2016;7907;Réunion;santé publique
 2016;7908;Reims;santé publique
 2016;7911;Limoges;médecine générale
 2016;7912;Paris;médecine générale

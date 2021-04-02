@@ -69,8 +69,6 @@ function createCheckboxes(svg, towns, myColor) {
             })
         })
 
-        // <label foc="all">Tous</label>
-        // <input type="checkbox" name="fullSelect">
     // Generate checkbox
     d3.select("#legend")
         .data(towns)
@@ -82,7 +80,7 @@ function createCheckboxes(svg, towns, myColor) {
         .append("input")
         .property("checked", false)
         .attr("type", "checkbox")
-        .attr("id", function(d,i) { return 'legen'+i; })
+        .attr("id", function(d,i) { return 'legend'+i; })
         .on("click", function(d){
             // This.__data__ is a bit ugly to get the name but it works
             updateLinesPoints(svg, this.__data__, this.checked)
@@ -92,7 +90,7 @@ function createCheckboxes(svg, towns, myColor) {
     // Only show first value: set the
     svg.selectAll("path[class="+towns[0]+"]").style("opacity", 1); // Set path
     svg.selectAll("g[class="+towns[0]+"]").selectAll("circle").style("opacity", 1); // Set circles
-    d3.select("input[id=a0]").property("checked", true) // Checkbox
+    d3.select("input[id=legend1]").property("checked", true) // Checkbox
 }
 
 
@@ -142,8 +140,20 @@ function plotSpe(speTitle, rankmax, svg, width, height) {
         // From the parameter, we get the circle position
         // It's a bit hacky but the other choice is to use bisect (should be more expensive)
         // We don't have to mess with mouse position !
+
         const date = d.target.__data__[0];
-        const rank = d.target.__data__[1];
+
+        // Also, if we have only one specialty checked we should display results for that !
+        // It avoids wrong results where plots are too closo te each other
+        // Could not managed the filter without an array (.nodes)...
+        // Also, we cannot used the checked property directly...
+        var match = d3.selectAll("input[type=checkbox]").nodes();
+        var matchF = match.filter(function(v) {return v.checked;})
+        if (matchF.length == 1)
+            rank = spe.get(matchF[0].__data__).get(date);
+        else
+            rank = d.target.__data__[1];
+
         Tooltip.attr("transform", `translate(${x(date)}, ${y(rank)})`)
         Tooltip.text(rank)
     }

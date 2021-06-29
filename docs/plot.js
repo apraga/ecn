@@ -1,3 +1,4 @@
+
 //Many thanks to https://www.d3-graph-gallery.com/graph/connectedscatter_multi.html
 //
 
@@ -39,7 +40,7 @@ function setYAxis(height) {
 
 function setXAxis(width) {
     return  d3.scaleTime()
-        .domain([new Date(2016, 0), new Date(2020, 0)])
+        .domain([new Date(2015, 0), new Date(2020, 0)])
         .range([ 0, width ]);
 }
 
@@ -242,7 +243,7 @@ function plot(data){
 
 // Read data
 // Change in firefox  privacy.file_unique_origin to false for local development
-const all = d3.dsv(";", "2020-2016.csv");
+const all = d3.dsv(";", "ranks.csv");
 
 all.then(function(data) {
     plot(data);

@@ -2,156 +2,129 @@
 
 module Main where
 
--- import Data.Attoparsec.ByteString.Char8 hiding (takeWhile)
--- import qualified Data.ByteString as B
 import Control.Applicative
 import Control.Lens
-import Data.Attoparsec.Text hiding (takeWhile)
 import Data.Either
-import Data.List (intercalate)
-import Data.Text.Lazy (toStrict)
+import Data.List
 import Data.Text.Lazy.Encoding
+import Data.Text.Lazy.Read
+import Data.Text.Lazy.Read
 import GHC.Generics
 import Network.Wreq
 import Text.HTML.TagSoup
 import qualified Data.ByteString.Lazy as BL
-import qualified Data.Text as T
-import qualified Data.Text.IO as TIO
+import qualified Data.ByteString.Lazy.Char8 as CL
+import qualified Data.ByteString.Char8 as C
+import qualified Data.ByteString.Lazy.Search as BLS
+import qualified Data.Text.Lazy as T
+import qualified Data.Text.Lazy.IO as TIO
+
+-- | Read minimal rank from CNG data.
+-- | The CNG has data as HTML tables where a row is a region and a column a specialty
 
 data Affectation = Affectation {
   year :: Int,
   rank :: Int,
-  town :: T.Text,
+  region :: T.Text,
   specialty :: T.Text
 } deriving (Show)
 
 printAffect (Affectation y r t s) = T.intercalate ";" [T.pack . show $ y, T.pack . show $ r, t, s]
 
-skipToContent :: [Tag BL.ByteString] -> [Tag BL.ByteString]
-skipToContent = drop 3 . takeWhile (~/= ("</div>" :: String)) .
-                dropWhile (~/= ("<div class=content>" :: String)) .
-                dropWhile (~/= ("<article class=summary-preface>" :: String))
+noNewLine = T.replace "\n" ""
 
-delim = choice ["à l'Assistance Publique-Hôpitaux de"
-               , "à l'Assistance Publique des Hôpitaux de"
-               , "à l'" -- Match pour AP-HP in last resort
-               , "au CHU de"
-               ,"au CHU d'"
-               ,"aux Hospices Civils de"
-               , "aux" -- Match HCL
-               , "à" -- Just the town (2016)
-               , " en " -- Region (2016). Warning : space is improtant to avoid matching entérologie
-               ]
+-- | Cell format (inside the <a> tag) :
+-- > MIN
+-- > <br>
+-- > MAX
+-- > <span>
+-- > dispo: X
+-- > <br>
+-- > place : X
+-- > <br>
+-- > offre : X
+-- > <hr>
+-- > REGION
+-- > <br>
+-- > SPECIALITY
+-- > </br></scan>
+-- Some cells may be empty (with non-unicode characters (&nbsp; in html)
+parseCell :: Int -> [Tag BL.ByteString] -> Either String Affectation
+parseCell year x
+  | fromTagText (head c) ==  CL.pack "\160\160\160\160" = Left "Empty cell"
+  | otherwise = parseCell' year c
+  where c = filter isTagText x
 
--- Version without newlines
--- parseAffects :: Int -> Parser [Affectation]
-startDelim y = T.concat ["au titre de l'année universitaire "
-                        , T.pack $ show y
-                        , "-", T.pack $ show (y+1), " :"]
-parseAffects y = do
-  _ <- manyTill anyChar (string $ startDelim y)
-  many (parseAffect y)
+-- | Parse cell when not empty
 
--- Haromnize data between 2016 and more recent years
-cleanTown :: T.Text -> T.Text
-cleanTown "HCL" = "Lyon"
-cleanTown "Ile-de-France" = "Paris"
-cleanTown "AP-HP" = "Paris"
-cleanTown "AP-HM" = "Marseille"
-cleanTown "Aix-Marseille" = "Marseille"
-cleanTown "la Martinique/Pointe-à-Pitre" = "Martinique"
-cleanTown "la Martinique / Pointe-à-Pitre" = "Martinique"
-cleanTown "La Martinique/Pointe-à-Pitre" = "Martinique"
-cleanTown "Antilles-Guyane" = "Martinique"
-cleanTown "Océan-Indien" = "Réunion"
-cleanTown "la Réunion" = "Réunion"
-cleanTown "La Réunion" = "Réunion"
-cleanTown x = x
+parseCell' year c = Right $ Affectation year rank region spe
+  where
+    rank = case decimal (f 1) of
+             Left _ -> 0
+             Right (x, _) -> x
+    region = normalizeRegion (f 5)
+    spe = normalizeSpe . T.toTitle $ f 6
+    f x = T.strip . noNewLine . decodeUtf8 . cleanSpaces . fromTagText $ c !! x
+    
+-- | Cannot decode the combination A\160 finto utf8 (maybe encoded in latin 1 ?)
+-- Don't use C.pack with accents..
+cleanSpaces =  BLS.replace (C.pack "A\160") (C.pack "A ")
 
--- Haromnize data between 2016 and more recent years
-cleanSpe :: T.Text -> T.Text
-cleanSpe "gastro-entérologie et hépatologie" = "hépato-gastro-entérologie"
-cleanSpe "cardiologie et maladies vasculaires" = "médecine cardiovasculaire"
-cleanSpe "anesthésie réanimation" = "anesthésie-réanimation"
-cleanSpe "dermatologie et vénérologie" = "dermatologie et vénéréologie"
-cleanSpe "radiodiagnostic et imagerie médicale" = "radiologie et imagerie médicale"
-cleanSpe "médecine interne" = "médecine interne et immunologie clinique"
-cleanSpe "oto-rhino-laryngologie et chirurgie cervico-faciale" = "oto-rhino-laryngologie - chirurgie cervico-faciale"
-cleanSpe "endocrinologie, diabète, maladies métaboliques" = "endocrinologie-diabétologie-nutrition"
-cleanSpe "anatomie et cytologie pathologique" = "anatomie et cytologie pathologiques"
-cleanSpe "médecine du travail" = "médecine et santé au travail"
-cleanSpe x = x
-
-skipFamilyData s = option "" $ skipSpace *> s *> manyTill anyChar (char ',')
-
-parseAffect :: Int -> Parser Affectation
-parseAffect y = do
-  r <- some digit
-  skipSpace
-  "M." <|> "Mme" <|> "Mlle" <|> "MME" <|> "mlle"
-  _ <- manyTill anyChar (char '(')
-  _ <- manyTill anyChar (char ')')
-  char ','
-  mapM_ skipFamilyData ["nom d'usage "
-                       , "épouse "
-                       , "époux "
-                       , "famille"
-                       , "née le"
-                       , "né le"]
-  skipSpace
-  spe <- manyTill anyChar delim
-  skipSpace
-  town <- manyTill anyChar (char '.')
-  let town' =cleanTown (T.pack town)
-  let spe' = cleanSpe (T.strip . T.pack $ spe)
-  return $ Affectation y (read r :: Int) town' spe'
+parseCells year =  map (parseCell year) . sections (~== ("<a class=limite>" :: String))
 
 formatCSV :: [Affectation] -> T.Text
 formatCSV l = T.unlines $ "annee;rang;ville;specialite" : map printAffect l
 
-getYear' :: String -> IO T.Text
-getYear' root = do
-  r <- get $ "https://www.legifrance.gouv.fr/jorf/id/"++  root
-  let d = r ^. responseBody
-  let s = innerText . (Prelude.take 50) . skipToContent $ parseTags d
-  return $ toStrict . decodeUtf8 $ s
+parseYear year = do
+  d <- BL.readFile $ "data/" ++ show year ++ ".html"
+  return $ rights . parseCells year . parseTags $ d
 
-getYear :: String -> IO T.Text
-getYear root = do
-  r <- get $ "https://www.legifrance.gouv.fr/jorf/id/"++  root
-  let d = r ^. responseBody
-  let s = innerText . skipToContent $ parseTags d
-  return $ toStrict . decodeUtf8 $ s
+-- | Normalize regions before and after 2018
+-- | Before 2018, remove CHU 
+normalizeRegion :: T.Text -> T.Text
+normalizeRegion = normalizeRegion' . T.strip . T.toTitle . chu .T.toTitle
+  where chu = T.replace "Chu" "" . T.replace "Chu D'" "" . T.replace "Chu De" ""
 
--- main :: IO ()
-affectYear :: (Int, String) -> IO [Affectation]
-affectYear (y, root) = do
-  s' <- getYear root
+normalizeRegion' "Aix Marseille" = "Marseille"
+normalizeRegion' "Antilles-guyane" =  "Martinique"
+normalizeRegion' "Ap-hm" = "Marseille"
+normalizeRegion' "Ap-hp" = "Paris"
+normalizeRegion' "Clermont-ferrand" = "Clermont-Ferrand"
+normalizeRegion' "Hcl" =  "Lyon"
+normalizeRegion' "Ile De France" = "Paris"
+normalizeRegion' "La Reunion" = "La Réunion"
+normalizeRegion' "Martinique/pointe A Pitre" = "Martinique"
+normalizeRegion' "Martinique/pointe À Pitre" = "Martinique"
+normalizeRegion' "Ocean Indien" = "La Réunion"
+normalizeRegion' "Besancon" = "Besançon"
+normalizeRegion' x = x -- T.toTitle x
 
-  -- BL.writeFile "raw.txt" $ innerText tmp
-  -- s <- TIO.readFile "raw.txt"
-  -- Sometimes there are no newline
-  let all = if length (T.lines s') == 1
-            then fromRight [] $ parseOnly (parseAffects y ) s'
-            else rights $ map (parseOnly (parseAffect y )) $ T.lines s'
-  print $ length all
-  return all
+-- | Normalize specialty
+normalizeSpe "Anesthésie Réanimation" = "Anesthésie-réanimation"
+normalizeSpe "Anatomie Et Cytologie Pathologiques" = "Anatomie Et Cytologie Pathologique"
+normalizeSpe "Dermatologie Et Vénérologie" = "Dermatologie Et Vénéréologie"
+normalizeSpe "Endocrinologie, Diabète, Maladies Métaboliques" = "Endocrinologie-diabétologie-nutrition"
+normalizeSpe "Gastro-entérologie Et Hépatologie" = "Hépato-gastro-entérologie"
+normalizeSpe "Médecine Interne" = "Médecine Interne Et Immunologie Clinique"
+normalizeSpe "Oto-rhino-laryngologie - Chirurgie Cervico-faciale" = "ORL"
+normalizeSpe "Oto-rhino-laryngologie Et Chirurgie Cervico-faciale" = "ORL"
+normalizeSpe "Radiodiagnostic Et Imagerie Médicale" = "Radiologie Et Imagerie Médicale"
+normalizeSpe x = x
 
+root = "https://www.cng.sante.fr/sites/default/files/"
+
+-- | Each cell in the table has the rank, the region and the specialy, so we only have to parse all cells
 main = do
-  let years = [
-        (2020, "JORFTEXT000042402100")
-        , (2019, "JORFTEXT000039229737")
-        , (2018, "JORFTEXT000037523753" )
-        , (2017, "JORFTEXT000035871907" )
-        , (2016, "JORFTEXT000033253978")
-        -- useless after that
-        ]
-  print years
-  l <- mapM affectYear years
-  let l' = concat l
-  -- liftIO length l
+  let years = [2019, 2018 ..2015]
+  s <- mapM parseYear years
 
-  TIO.writeFile "docs/raw.csv" $ formatCSV l'
-  -- TODO: merge town name
-  return ()
-  -- print "ok"
+  TIO.writeFile "docs/ranks.csv" $ formatCSV (concat s)
+  return $ nub . sort . map region $ concat s
+  
+test = do
+  -- r <- get (root ++ "tableau/rangs_limites_2017.html")
+  -- let d = r ^. responseBody
+  d <- BL.readFile "2019.html"
+  return $  sections (~== ("<a class=limite>" :: String)) . parseTags $ d
+
+  

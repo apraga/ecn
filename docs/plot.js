@@ -186,7 +186,7 @@ function createChoice(svg, rankMax, width, height){
     d3.select("body").selectAll("h2").html("Rang maximal pour <select id=\"selectSpe\"></select>");
     allSpe = Array.from(rankMax.keys()).sort();
 
-    var defaultChoice = "pédiatrie";
+    var defaultChoice = "Pédiatrie";
     // add the options to the drow-down list
     d3.select("#selectSpe")
         .selectAll('myOptions')

@@ -1,4 +1,1136 @@
 annee;rang;ville;specialite
+2020;542;Paris;Chirurgie Maxillo-faciale
+2020;3176;Paris;Chirurgie Orale
+2020;2306;Paris;Chirurgie Orthopédique Et Traumatologique
+2020;2601;Paris;Chirurgie Pédiatrique
+2020;382;Paris;Chirurgie Plastique, Reconstructrice Et Esthétique
+2020;2322;Paris;Chirurgie Thoracique Et Cardiovasculaire
+2020;2907;Paris;Chirurgie Vasculaire
+2020;3387;Paris;Chirurgie Viscérale Et Digestive
+2020;3250;Paris;Gynécologie Obstétrique
+2020;1167;Paris;Neurochirurgie
+2020;956;Paris;Ophtalmologie
+2020;1822;Paris;ORL
+2020;1585;Paris;Urologie
+2020;2720;Paris;Allergologie
+2020;3774;Paris;Anatomie Et Cytologie Pathologique
+2020;2632;Paris;Anesthésie-réanimation
+2020;740;Paris;Dermatologie Et Vénéréologie
+2020;4126;Paris;Endocrinologie-diabétologie-nutrition
+2020;3465;Paris;Génétique Médicale
+2020;8785;Paris;Gériatrie
+2020;3181;Paris;Gynécologie Médicale
+2020;2813;Paris;Hématologie
+2020;1703;Paris;Hépato-gastro-entérologie
+2020;743;Paris;Maladies Infectieuses Et Tropicales
+2020;1234;Paris;Médecine Cardiovasculaire
+2020;8664;Paris;Médecine Générale
+2020;3481;Paris;Médecine Intensive-réanimation
+2020;2761;Paris;Médecine Interne Et Immunologie Clinique
+2020;7017;Paris;Médecine Légale Et Expertises Médicales
+2020;2465;Paris;Médecine Nucléaire
+2020;6627;Paris;Médecine Physique Et De Réadaptation
+2020;8794;Paris;Médecine Et Santé Au Travail
+2020;8384;Paris;Médecine D’urgence
+2020;3619;Paris;Médecine Vasculaire
+2020;2176;Paris;Néphrologie
+2020;1752;Paris;Neurologie
+2020;1666;Paris;Oncologie
+2020;5122;Paris;Pédiatrie
+2020;3363;Paris;Pneumologie
+2020;8521;Paris;Psychiatrie
+2020;2053;Paris;Radiologie Et Imagerie Médicale
+2020;2748;Paris;Rhumatologie
+2020;7802;Paris;Santé Publique
+2020;8765;Paris;Biologie Médicale
+2020;1423;Strasbourg;Chirurgie Maxillo-faciale
+2020;3402;Strasbourg;Chirurgie Orale
+2020;2835;Strasbourg;Chirurgie Orthopédique Et Traumatologique
+2020;499;Strasbourg;Chirurgie Plastique, Reconstructrice Et Esthétique
+2020;4384;Strasbourg;Chirurgie Thoracique Et Cardiovasculaire
+2020;3840;Strasbourg;Chirurgie Vasculaire
+2020;2964;Strasbourg;Chirurgie Viscérale Et Digestive
+2020;3145;Strasbourg;Gynécologie Obstétrique
+2020;1633;Strasbourg;Neurochirurgie
+2020;608;Strasbourg;Ophtalmologie
+2020;2051;Strasbourg;ORL
+2020;3211;Strasbourg;Urologie
+2020;5677;Strasbourg;Allergologie
+2020;4433;Strasbourg;Anatomie Et Cytologie Pathologique
+2020;2232;Strasbourg;Anesthésie-réanimation
+2020;1152;Strasbourg;Dermatologie Et Vénéréologie
+2020;5364;Strasbourg;Endocrinologie-diabétologie-nutrition
+2020;4549;Strasbourg;Génétique Médicale
+2020;6959;Strasbourg;Gériatrie
+2020;3347;Strasbourg;Gynécologie Médicale
+2020;2954;Strasbourg;Hématologie
+2020;1881;Strasbourg;Hépato-gastro-entérologie
+2020;250;Strasbourg;Maladies Infectieuses Et Tropicales
+2020;1795;Strasbourg;Médecine Cardiovasculaire
+2020;7167;Strasbourg;Médecine Générale
+2020;3979;Strasbourg;Médecine Intensive-réanimation
+2020;4330;Strasbourg;Médecine Interne Et Immunologie Clinique
+2020;1686;Strasbourg;Médecine Nucléaire
+2020;4892;Strasbourg;Médecine Physique Et De Réadaptation
+2020;7764;Strasbourg;Médecine Et Santé Au Travail
+2020;6425;Strasbourg;Médecine D’urgence
+2020;4172;Strasbourg;Médecine Vasculaire
+2020;2305;Strasbourg;Néphrologie
+2020;357;Strasbourg;Neurologie
+2020;2259;Strasbourg;Oncologie
+2020;5167;Strasbourg;Pédiatrie
+2020;4366;Strasbourg;Pneumologie
+2020;7100;Strasbourg;Psychiatrie
+2020;2252;Strasbourg;Radiologie Et Imagerie Médicale
+2020;1631;Strasbourg;Rhumatologie
+2020;8516;Strasbourg;Santé Publique
+2020;8321;Strasbourg;Biologie Médicale
+2020;1461;Nancy;Chirurgie Maxillo-faciale
+2020;3576;Nancy;Chirurgie Orale
+2020;3575;Nancy;Chirurgie Orthopédique Et Traumatologique
+2020;4155;Nancy;Chirurgie Pédiatrique
+2020;781;Nancy;Chirurgie Plastique, Reconstructrice Et Esthétique
+2020;4599;Nancy;Chirurgie Thoracique Et Cardiovasculaire
+2020;4610;Nancy;Chirurgie Vasculaire
+2020;4556;Nancy;Chirurgie Viscérale Et Digestive
+2020;4138;Nancy;Gynécologie Obstétrique
+2020;4534;Nancy;Neurochirurgie
+2020;1146;Nancy;Ophtalmologie
+2020;3140;Nancy;ORL
+2020;3588;Nancy;Urologie
+2020;5921;Nancy;Allergologie
+2020;4967;Nancy;Anatomie Et Cytologie Pathologique
+2020;3016;Nancy;Anesthésie-réanimation
+2020;1644;Nancy;Dermatologie Et Vénéréologie
+2020;5637;Nancy;Endocrinologie-diabétologie-nutrition
+2020;7429;Nancy;Gériatrie
+2020;4121;Nancy;Gynécologie Médicale
+2020;4483;Nancy;Hématologie
+2020;3354;Nancy;Hépato-gastro-entérologie
+2020;66;Nancy;Maladies Infectieuses Et Tropicales
+2020;1981;Nancy;Médecine Cardiovasculaire
+2020;8795;Nancy;Médecine Générale
+2020;4456;Nancy;Médecine Intensive-réanimation
+2020;5249;Nancy;Médecine Interne Et Immunologie Clinique
+2020;6902;Nancy;Médecine Légale Et Expertises Médicales
+2020;3540;Nancy;Médecine Nucléaire
+2020;5488;Nancy;Médecine Physique Et De Réadaptation
+2020;8143;Nancy;Médecine Et Santé Au Travail
+2020;7833;Nancy;Médecine D’urgence
+2020;4373;Nancy;Médecine Vasculaire
+2020;3534;Nancy;Néphrologie
+2020;2536;Nancy;Neurologie
+2020;3132;Nancy;Oncologie
+2020;5563;Nancy;Pédiatrie
+2020;4559;Nancy;Pneumologie
+2020;8394;Nancy;Psychiatrie
+2020;3368;Nancy;Radiologie Et Imagerie Médicale
+2020;3843;Nancy;Rhumatologie
+2020;8353;Nancy;Santé Publique
+2020;7894;Nancy;Biologie Médicale
+2020;1103;Besançon;Chirurgie Maxillo-faciale
+2020;3603;Besançon;Chirurgie Orthopédique Et Traumatologique
+2020;910;Besançon;Chirurgie Plastique, Reconstructrice Et Esthétique
+2020;4817;Besançon;Chirurgie Thoracique Et Cardiovasculaire
+2020;3935;Besançon;Chirurgie Vasculaire
+2020;4598;Besançon;Chirurgie Viscérale Et Digestive
+2020;4193;Besançon;Gynécologie Obstétrique
+2020;4872;Besançon;Neurochirurgie
+2020;1941;Besançon;Ophtalmologie
+2020;2875;Besançon;ORL
+2020;4145;Besançon;Urologie
+2020;3506;Besançon;Allergologie
+2020;5182;Besançon;Anatomie Et Cytologie Pathologique
+2020;3308;Besançon;Anesthésie-réanimation
+2020;1475;Besançon;Dermatologie Et Vénéréologie
+2020;5038;Besançon;Endocrinologie-diabétologie-nutrition
+2020;6308;Besançon;Génétique Médicale
+2020;8551;Besançon;Gériatrie
+2020;4411;Besançon;Gynécologie Médicale
+2020;4677;Besançon;Hématologie
+2020;3607;Besançon;Hépato-gastro-entérologie
+2020;3770;Besançon;Maladies Infectieuses Et Tropicales
+2020;2194;Besançon;Médecine Cardiovasculaire
+2020;8219;Besançon;Médecine Générale
+2020;4484;Besançon;Médecine Intensive-réanimation
+2020;5021;Besançon;Médecine Interne Et Immunologie Clinique
+2020;3564;Besançon;Médecine Nucléaire
+2020;6596;Besançon;Médecine Physique Et De Réadaptation
+2020;8215;Besançon;Médecine Et Santé Au Travail
+2020;7934;Besançon;Médecine D’urgence
+2020;3902;Besançon;Néphrologie
+2020;3646;Besançon;Neurologie
+2020;3459;Besançon;Oncologie
+2020;5710;Besançon;Pédiatrie
+2020;4311;Besançon;Pneumologie
+2020;8810;Besançon;Psychiatrie
+2020;3303;Besançon;Radiologie Et Imagerie Médicale
+2020;3825;Besançon;Rhumatologie
+2020;0;Besançon;Santé Publique
+2020;8110;Besançon;Biologie Médicale
+2020;1254;Dijon;Chirurgie Maxillo-faciale
+2020;3633;Dijon;Chirurgie Orale
+2020;3316;Dijon;Chirurgie Orthopédique Et Traumatologique
+2020;3954;Dijon;Chirurgie Pédiatrique
+2020;793;Dijon;Chirurgie Plastique, Reconstructrice Et Esthétique
+2020;4706;Dijon;Chirurgie Thoracique Et Cardiovasculaire
+2020;3915;Dijon;Chirurgie Vasculaire
+2020;4470;Dijon;Chirurgie Viscérale Et Digestive
+2020;4161;Dijon;Gynécologie Obstétrique
+2020;1045;Dijon;Ophtalmologie
+2020;3287;Dijon;ORL
+2020;3357;Dijon;Urologie
+2020;6201;Dijon;Allergologie
+2020;4755;Dijon;Anatomie Et Cytologie Pathologique
+2020;3232;Dijon;Anesthésie-réanimation
+2020;1704;Dijon;Dermatologie Et Vénéréologie
+2020;4871;Dijon;Endocrinologie-diabétologie-nutrition
+2020;3817;Dijon;Génétique Médicale
+2020;8806;Dijon;Gériatrie
+2020;3266;Dijon;Gynécologie Médicale
+2020;4466;Dijon;Hématologie
+2020;2962;Dijon;Hépato-gastro-entérologie
+2020;3346;Dijon;Maladies Infectieuses Et Tropicales
+2020;1736;Dijon;Médecine Cardiovasculaire
+2020;8755;Dijon;Médecine Générale
+2020;4637;Dijon;Médecine Intensive-réanimation
+2020;5061;Dijon;Médecine Interne Et Immunologie Clinique
+2020;6166;Dijon;Médecine Légale Et Expertises Médicales
+2020;1163;Dijon;Médecine Nucléaire
+2020;6503;Dijon;Médecine Physique Et De Réadaptation
+2020;8783;Dijon;Médecine Et Santé Au Travail
+2020;8253;Dijon;Médecine D’urgence
+2020;3944;Dijon;Médecine Vasculaire
+2020;3595;Dijon;Néphrologie
+2020;3135;Dijon;Neurologie
+2020;2476;Dijon;Oncologie
+2020;5335;Dijon;Pédiatrie
+2020;4036;Dijon;Pneumologie
+2020;8816;Dijon;Psychiatrie
+2020;2984;Dijon;Radiologie Et Imagerie Médicale
+2020;3907;Dijon;Rhumatologie
+2020;8100;Dijon;Santé Publique
+2020;8780;Dijon;Biologie Médicale
+2020;3463;Reims;Chirurgie Orthopédique Et Traumatologique
+2020;4450;Reims;Chirurgie Pédiatrique
+2020;948;Reims;Chirurgie Plastique, Reconstructrice Et Esthétique
+2020;4719;Reims;Chirurgie Thoracique Et Cardiovasculaire
+2020;4342;Reims;Chirurgie Vasculaire
+2020;4587;Reims;Chirurgie Viscérale Et Digestive
+2020;3969;Reims;Gynécologie Obstétrique
+2020;3577;Reims;Neurochirurgie
+2020;1213;Reims;Ophtalmologie
+2020;3260;Reims;ORL
+2020;2104;Reims;Urologie
+2020;4520;Reims;Allergologie
+2020;5040;Reims;Anatomie Et Cytologie Pathologique
+2020;3360;Reims;Anesthésie-réanimation
+2020;1803;Reims;Dermatologie Et Vénéréologie
+2020;5817;Reims;Endocrinologie-diabétologie-nutrition
+2020;6689;Reims;Génétique Médicale
+2020;8286;Reims;Gériatrie
+2020;4443;Reims;Gynécologie Médicale
+2020;3394;Reims;Hématologie
+2020;2771;Reims;Hépato-gastro-entérologie
+2020;1199;Reims;Maladies Infectieuses Et Tropicales
+2020;2326;Reims;Médecine Cardiovasculaire
+2020;8788;Reims;Médecine Générale
+2020;4490;Reims;Médecine Intensive-réanimation
+2020;5505;Reims;Médecine Interne Et Immunologie Clinique
+2020;2732;Reims;Médecine Nucléaire
+2020;6794;Reims;Médecine Physique Et De Réadaptation
+2020;8531;Reims;Médecine Et Santé Au Travail
+2020;8399;Reims;Médecine D’urgence
+2020;3491;Reims;Néphrologie
+2020;3963;Reims;Neurologie
+2020;3249;Reims;Oncologie
+2020;5651;Reims;Pédiatrie
+2020;4412;Reims;Pneumologie
+2020;8671;Reims;Psychiatrie
+2020;3153;Reims;Radiologie Et Imagerie Médicale
+2020;3683;Reims;Rhumatologie
+2020;8805;Reims;Santé Publique
+2020;7411;Reims;Biologie Médicale
+2020;1253;Caen;Chirurgie Maxillo-faciale
+2020;3239;Caen;Chirurgie Orale
+2020;3839;Caen;Chirurgie Orthopédique Et Traumatologique
+2020;1905;Caen;Chirurgie Vasculaire
+2020;4356;Caen;Chirurgie Viscérale Et Digestive
+2020;4127;Caen;Gynécologie Obstétrique
+2020;2319;Caen;Neurochirurgie
+2020;1376;Caen;Ophtalmologie
+2020;2212;Caen;ORL
+2020;2933;Caen;Urologie
+2020;6101;Caen;Allergologie
+2020;4393;Caen;Anatomie Et Cytologie Pathologique
+2020;3224;Caen;Anesthésie-réanimation
+2020;1451;Caen;Dermatologie Et Vénéréologie
+2020;5826;Caen;Endocrinologie-diabétologie-nutrition
+2020;1781;Caen;Génétique Médicale
+2020;5692;Caen;Gériatrie
+2020;4419;Caen;Gynécologie Médicale
+2020;2987;Caen;Hématologie
+2020;3618;Caen;Hépato-gastro-entérologie
+2020;1951;Caen;Maladies Infectieuses Et Tropicales
+2020;2346;Caen;Médecine Cardiovasculaire
+2020;8553;Caen;Médecine Générale
+2020;3783;Caen;Médecine Intensive-réanimation
+2020;4955;Caen;Médecine Interne Et Immunologie Clinique
+2020;2096;Caen;Médecine Nucléaire
+2020;6380;Caen;Médecine Physique Et De Réadaptation
+2020;8386;Caen;Médecine Et Santé Au Travail
+2020;7717;Caen;Médecine D’urgence
+2020;3760;Caen;Médecine Vasculaire
+2020;1797;Caen;Néphrologie
+2020;3278;Caen;Neurologie
+2020;2231;Caen;Oncologie
+2020;5553;Caen;Pédiatrie
+2020;4199;Caen;Pneumologie
+2020;8768;Caen;Psychiatrie
+2020;3121;Caen;Radiologie Et Imagerie Médicale
+2020;3632;Caen;Rhumatologie
+2020;8808;Caen;Santé Publique
+2020;7967;Caen;Biologie Médicale
+2020;2158;Rouen;Chirurgie Maxillo-faciale
+2020;2965;Rouen;Chirurgie Orthopédique Et Traumatologique
+2020;4240;Rouen;Chirurgie Pédiatrique
+2020;2;Rouen;Chirurgie Plastique, Reconstructrice Et Esthétique
+2020;4659;Rouen;Chirurgie Thoracique Et Cardiovasculaire
+2020;3673;Rouen;Chirurgie Vasculaire
+2020;4383;Rouen;Chirurgie Viscérale Et Digestive
+2020;3705;Rouen;Gynécologie Obstétrique
+2020;20;Rouen;Neurochirurgie
+2020;1314;Rouen;Ophtalmologie
+2020;2949;Rouen;ORL
+2020;2922;Rouen;Urologie
+2020;3125;Rouen;Allergologie
+2020;3961;Rouen;Anatomie Et Cytologie Pathologique
+2020;3101;Rouen;Anesthésie-réanimation
+2020;1443;Rouen;Dermatologie Et Vénéréologie
+2020;4826;Rouen;Endocrinologie-diabétologie-nutrition
+2020;8764;Rouen;Gériatrie
+2020;4318;Rouen;Gynécologie Médicale
+2020;3739;Rouen;Hématologie
+2020;2478;Rouen;Hépato-gastro-entérologie
+2020;1207;Rouen;Maladies Infectieuses Et Tropicales
+2020;2139;Rouen;Médecine Cardiovasculaire
+2020;8700;Rouen;Médecine Générale
+2020;3676;Rouen;Médecine Intensive-réanimation
+2020;4623;Rouen;Médecine Interne Et Immunologie Clinique
+2020;7048;Rouen;Médecine Légale Et Expertises Médicales
+2020;2753;Rouen;Médecine Nucléaire
+2020;6799;Rouen;Médecine Physique Et De Réadaptation
+2020;8457;Rouen;Médecine Et Santé Au Travail
+2020;6943;Rouen;Médecine D’urgence
+2020;4334;Rouen;Médecine Vasculaire
+2020;3369;Rouen;Néphrologie
+2020;2934;Rouen;Neurologie
+2020;2921;Rouen;Oncologie
+2020;5186;Rouen;Pédiatrie
+2020;4049;Rouen;Pneumologie
+2020;8705;Rouen;Psychiatrie
+2020;3221;Rouen;Radiologie Et Imagerie Médicale
+2020;3472;Rouen;Rhumatologie
+2020;8818;Rouen;Santé Publique
+2020;8529;Rouen;Biologie Médicale
+2020;1025;Lille;Chirurgie Maxillo-faciale
+2020;3150;Lille;Chirurgie Orale
+2020;2903;Lille;Chirurgie Orthopédique Et Traumatologique
+2020;2531;Lille;Chirurgie Pédiatrique
+2020;374;Lille;Chirurgie Plastique, Reconstructrice Et Esthétique
+2020;4010;Lille;Chirurgie Thoracique Et Cardiovasculaire
+2020;4071;Lille;Chirurgie Vasculaire
+2020;3988;Lille;Chirurgie Viscérale Et Digestive
+2020;3141;Lille;Gynécologie Obstétrique
+2020;1823;Lille;Neurochirurgie
+2020;977;Lille;Ophtalmologie
+2020;1446;Lille;ORL
+2020;1772;Lille;Urologie
+2020;4061;Lille;Allergologie
+2020;4449;Lille;Anatomie Et Cytologie Pathologique
+2020;2157;Lille;Anesthésie-réanimation
+2020;1094;Lille;Dermatologie Et Vénéréologie
+2020;5377;Lille;Endocrinologie-diabétologie-nutrition
+2020;773;Lille;Génétique Médicale
+2020;7823;Lille;Gériatrie
+2020;3259;Lille;Gynécologie Médicale
+2020;3076;Lille;Hématologie
+2020;1974;Lille;Hépato-gastro-entérologie
+2020;283;Lille;Maladies Infectieuses Et Tropicales
+2020;1352;Lille;Médecine Cardiovasculaire
+2020;7490;Lille;Médecine Générale
+2020;4034;Lille;Médecine Intensive-réanimation
+2020;3373;Lille;Médecine Interne Et Immunologie Clinique
+2020;4962;Lille;Médecine Légale Et Expertises Médicales
+2020;1078;Lille;Médecine Nucléaire
+2020;6569;Lille;Médecine Physique Et De Réadaptation
+2020;8656;Lille;Médecine Et Santé Au Travail
+2020;6995;Lille;Médecine D’urgence
+2020;2985;Lille;Médecine Vasculaire
+2020;2403;Lille;Néphrologie
+2020;1902;Lille;Neurologie
+2020;1520;Lille;Oncologie
+2020;4539;Lille;Pédiatrie
+2020;1571;Lille;Pneumologie
+2020;8223;Lille;Psychiatrie
+2020;2242;Lille;Radiologie Et Imagerie Médicale
+2020;2613;Lille;Rhumatologie
+2020;7937;Lille;Santé Publique
+2020;8779;Lille;Biologie Médicale
+2020;1356;Amiens;Chirurgie Maxillo-faciale
+2020;3913;Amiens;Chirurgie Orthopédique Et Traumatologique
+2020;884;Amiens;Chirurgie Plastique, Reconstructrice Et Esthétique
+2020;3493;Amiens;Chirurgie Thoracique Et Cardiovasculaire
+2020;4590;Amiens;Chirurgie Vasculaire
+2020;4604;Amiens;Chirurgie Viscérale Et Digestive
+2020;4259;Amiens;Gynécologie Obstétrique
+2020;1151;Amiens;Ophtalmologie
+2020;2529;Amiens;ORL
+2020;4201;Amiens;Urologie
+2020;6133;Amiens;Allergologie
+2020;4626;Amiens;Anatomie Et Cytologie Pathologique
+2020;3199;Amiens;Anesthésie-réanimation
+2020;1638;Amiens;Dermatologie Et Vénéréologie
+2020;5857;Amiens;Endocrinologie-diabétologie-nutrition
+2020;6741;Amiens;Génétique Médicale
+2020;8800;Amiens;Gériatrie
+2020;4435;Amiens;Gynécologie Médicale
+2020;4550;Amiens;Hématologie
+2020;3413;Amiens;Hépato-gastro-entérologie
+2020;4503;Amiens;Maladies Infectieuses Et Tropicales
+2020;2567;Amiens;Médecine Cardiovasculaire
+2020;8496;Amiens;Médecine Générale
+2020;4436;Amiens;Médecine Intensive-réanimation
+2020;5462;Amiens;Médecine Interne Et Immunologie Clinique
+2020;7117;Amiens;Médecine Légale Et Expertises Médicales
+2020;1762;Amiens;Médecine Nucléaire
+2020;7570;Amiens;Médecine Physique Et De Réadaptation
+2020;8583;Amiens;Médecine Et Santé Au Travail
+2020;8322;Amiens;Médecine D’urgence
+2020;3867;Amiens;Médecine Vasculaire
+2020;3407;Amiens;Néphrologie
+2020;4037;Amiens;Neurologie
+2020;3567;Amiens;Oncologie
+2020;5742;Amiens;Pédiatrie
+2020;3980;Amiens;Pneumologie
+2020;8769;Amiens;Psychiatrie
+2020;3104;Amiens;Radiologie Et Imagerie Médicale
+2020;3812;Amiens;Rhumatologie
+2020;8435;Amiens;Santé Publique
+2020;6551;Amiens;Biologie Médicale
+2020;943;Clermont-Ferrand;Chirurgie Maxillo-faciale
+2020;3429;Clermont-Ferrand;Chirurgie Orthopédique Et Traumatologique
+2020;4158;Clermont-Ferrand;Chirurgie Thoracique Et Cardiovasculaire
+2020;4454;Clermont-Ferrand;Chirurgie Vasculaire
+2020;4434;Clermont-Ferrand;Chirurgie Viscérale Et Digestive
+2020;3685;Clermont-Ferrand;Gynécologie Obstétrique
+2020;3909;Clermont-Ferrand;Neurochirurgie
+2020;1242;Clermont-Ferrand;Ophtalmologie
+2020;1922;Clermont-Ferrand;ORL
+2020;2931;Clermont-Ferrand;Urologie
+2020;6496;Clermont-Ferrand;Allergologie
+2020;3789;Clermont-Ferrand;Anatomie Et Cytologie Pathologique
+2020;2661;Clermont-Ferrand;Anesthésie-réanimation
+2020;463;Clermont-Ferrand;Dermatologie Et Vénéréologie
+2020;6110;Clermont-Ferrand;Endocrinologie-diabétologie-nutrition
+2020;6296;Clermont-Ferrand;Génétique Médicale
+2020;8405;Clermont-Ferrand;Gériatrie
+2020;4004;Clermont-Ferrand;Gynécologie Médicale
+2020;4317;Clermont-Ferrand;Hématologie
+2020;3606;Clermont-Ferrand;Hépato-gastro-entérologie
+2020;437;Clermont-Ferrand;Maladies Infectieuses Et Tropicales
+2020;2143;Clermont-Ferrand;Médecine Cardiovasculaire
+2020;8625;Clermont-Ferrand;Médecine Générale
+2020;4152;Clermont-Ferrand;Médecine Intensive-réanimation
+2020;5069;Clermont-Ferrand;Médecine Interne Et Immunologie Clinique
+2020;3409;Clermont-Ferrand;Médecine Nucléaire
+2020;7291;Clermont-Ferrand;Médecine Physique Et De Réadaptation
+2020;0;Clermont-Ferrand;Médecine Et Santé Au Travail
+2020;7758;Clermont-Ferrand;Médecine D’urgence
+2020;4005;Clermont-Ferrand;Médecine Vasculaire
+2020;3455;Clermont-Ferrand;Néphrologie
+2020;3795;Clermont-Ferrand;Neurologie
+2020;2684;Clermont-Ferrand;Oncologie
+2020;5630;Clermont-Ferrand;Pédiatrie
+2020;2673;Clermont-Ferrand;Pneumologie
+2020;8708;Clermont-Ferrand;Psychiatrie
+2020;2677;Clermont-Ferrand;Radiologie Et Imagerie Médicale
+2020;4179;Clermont-Ferrand;Rhumatologie
+2020;0;Clermont-Ferrand;Santé Publique
+2020;0;Clermont-Ferrand;Biologie Médicale
+2020;786;Grenoble;Chirurgie Maxillo-faciale
+2020;2152;Grenoble;Chirurgie Orthopédique Et Traumatologique
+2020;4320;Grenoble;Chirurgie Pédiatrique
+2020;561;Grenoble;Chirurgie Plastique, Reconstructrice Et Esthétique
+2020;4452;Grenoble;Chirurgie Thoracique Et Cardiovasculaire
+2020;4265;Grenoble;Chirurgie Vasculaire
+2020;3320;Grenoble;Chirurgie Viscérale Et Digestive
+2020;3943;Grenoble;Gynécologie Obstétrique
+2020;3192;Grenoble;Neurochirurgie
+2020;979;Grenoble;Ophtalmologie
+2020;2284;Grenoble;ORL
+2020;2489;Grenoble;Urologie
+2020;6228;Grenoble;Allergologie
+2020;4457;Grenoble;Anatomie Et Cytologie Pathologique
+2020;1450;Grenoble;Anesthésie-réanimation
+2020;582;Grenoble;Dermatologie Et Vénéréologie
+2020;3599;Grenoble;Endocrinologie-diabétologie-nutrition
+2020;5470;Grenoble;Génétique Médicale
+2020;6165;Grenoble;Gériatrie
+2020;744;Grenoble;Gynécologie Médicale
+2020;1660;Grenoble;Hématologie
+2020;2178;Grenoble;Hépato-gastro-entérologie
+2020;246;Grenoble;Maladies Infectieuses Et Tropicales
+2020;1764;Grenoble;Médecine Cardiovasculaire
+2020;7149;Grenoble;Médecine Générale
+2020;1863;Grenoble;Médecine Intensive-réanimation
+2020;1864;Grenoble;Médecine Interne Et Immunologie Clinique
+2020;4278;Grenoble;Médecine Légale Et Expertises Médicales
+2020;2733;Grenoble;Médecine Nucléaire
+2020;5949;Grenoble;Médecine Physique Et De Réadaptation
+2020;7741;Grenoble;Médecine Et Santé Au Travail
+2020;3596;Grenoble;Médecine D’urgence
+2020;3565;Grenoble;Médecine Vasculaire
+2020;483;Grenoble;Néphrologie
+2020;1921;Grenoble;Neurologie
+2020;2772;Grenoble;Oncologie
+2020;4740;Grenoble;Pédiatrie
+2020;3758;Grenoble;Pneumologie
+2020;7699;Grenoble;Psychiatrie
+2020;1382;Grenoble;Radiologie Et Imagerie Médicale
+2020;1854;Grenoble;Rhumatologie
+2020;8597;Grenoble;Santé Publique
+2020;5388;Grenoble;Biologie Médicale
+2020;9;Lyon;Chirurgie Maxillo-faciale
+2020;2828;Lyon;Chirurgie Orale
+2020;1991;Lyon;Chirurgie Orthopédique Et Traumatologique
+2020;2930;Lyon;Chirurgie Pédiatrique
+2020;90;Lyon;Chirurgie Plastique, Reconstructrice Et Esthétique
+2020;4171;Lyon;Chirurgie Vasculaire
+2020;2814;Lyon;Chirurgie Viscérale Et Digestive
+2020;1602;Lyon;Gynécologie Obstétrique
+2020;1890;Lyon;Neurochirurgie
+2020;672;Lyon;Ophtalmologie
+2020;550;Lyon;ORL
+2020;2267;Lyon;Urologie
+2020;3857;Lyon;Allergologie
+2020;2608;Lyon;Anatomie Et Cytologie Pathologique
+2020;1332;Lyon;Anesthésie-réanimation
+2020;468;Lyon;Dermatologie Et Vénéréologie
+2020;3252;Lyon;Endocrinologie-diabétologie-nutrition
+2020;1345;Lyon;Génétique Médicale
+2020;6623;Lyon;Gériatrie
+2020;1749;Lyon;Gynécologie Médicale
+2020;1158;Lyon;Hématologie
+2020;1635;Lyon;Hépato-gastro-entérologie
+2020;269;Lyon;Maladies Infectieuses Et Tropicales
+2020;859;Lyon;Médecine Cardiovasculaire
+2020;7812;Lyon;Médecine Générale
+2020;1140;Lyon;Médecine Intensive-réanimation
+2020;1258;Lyon;Médecine Interne Et Immunologie Clinique
+2020;2918;Lyon;Médecine Légale Et Expertises Médicales
+2020;508;Lyon;Médecine Nucléaire
+2020;5612;Lyon;Médecine Physique Et De Réadaptation
+2020;8752;Lyon;Médecine Et Santé Au Travail
+2020;5968;Lyon;Médecine D’urgence
+2020;3478;Lyon;Médecine Vasculaire
+2020;1402;Lyon;Néphrologie
+2020;924;Lyon;Neurologie
+2020;1185;Lyon;Oncologie
+2020;2781;Lyon;Pédiatrie
+2020;2448;Lyon;Pneumologie
+2020;7487;Lyon;Psychiatrie
+2020;2111;Lyon;Radiologie Et Imagerie Médicale
+2020;2744;Lyon;Rhumatologie
+2020;6102;Lyon;Santé Publique
+2020;8771;Lyon;Biologie Médicale
+2020;1183;Saint Etienne;Chirurgie Maxillo-faciale
+2020;2982;Saint Etienne;Chirurgie Orthopédique Et Traumatologique
+2020;4572;Saint Etienne;Chirurgie Pédiatrique
+2020;4874;Saint Etienne;Chirurgie Thoracique Et Cardiovasculaire
+2020;4509;Saint Etienne;Chirurgie Viscérale Et Digestive
+2020;4074;Saint Etienne;Gynécologie Obstétrique
+2020;2436;Saint Etienne;Neurochirurgie
+2020;2018;Saint Etienne;Ophtalmologie
+2020;3251;Saint Etienne;ORL
+2020;3939;Saint Etienne;Urologie
+2020;5755;Saint Etienne;Allergologie
+2020;2802;Saint Etienne;Anatomie Et Cytologie Pathologique
+2020;2824;Saint Etienne;Anesthésie-réanimation
+2020;1583;Saint Etienne;Dermatologie Et Vénéréologie
+2020;5646;Saint Etienne;Endocrinologie-diabétologie-nutrition
+2020;8156;Saint Etienne;Gériatrie
+2020;3756;Saint Etienne;Hématologie
+2020;3428;Saint Etienne;Hépato-gastro-entérologie
+2020;2215;Saint Etienne;Maladies Infectieuses Et Tropicales
+2020;1645;Saint Etienne;Médecine Cardiovasculaire
+2020;8267;Saint Etienne;Médecine Générale
+2020;4672;Saint Etienne;Médecine Intensive-réanimation
+2020;5206;Saint Etienne;Médecine Interne Et Immunologie Clinique
+2020;2338;Saint Etienne;Médecine Nucléaire
+2020;7394;Saint Etienne;Médecine Physique Et De Réadaptation
+2020;8777;Saint Etienne;Médecine Et Santé Au Travail
+2020;7397;Saint Etienne;Médecine D’urgence
+2020;4173;Saint Etienne;Médecine Vasculaire
+2020;3552;Saint Etienne;Néphrologie
+2020;3440;Saint Etienne;Neurologie
+2020;3378;Saint Etienne;Oncologie
+2020;5177;Saint Etienne;Pédiatrie
+2020;4022;Saint Etienne;Pneumologie
+2020;8649;Saint Etienne;Psychiatrie
+2020;2423;Saint Etienne;Radiologie Et Imagerie Médicale
+2020;4407;Saint Etienne;Rhumatologie
+2020;8796;Saint Etienne;Santé Publique
+2020;8762;Saint Etienne;Biologie Médicale
+2020;3072;Brest;Chirurgie Orthopédique Et Traumatologique
+2020;679;Brest;Chirurgie Plastique, Reconstructrice Et Esthétique
+2020;4566;Brest;Chirurgie Viscérale Et Digestive
+2020;3801;Brest;Gynécologie Obstétrique
+2020;1568;Brest;Ophtalmologie
+2020;3010;Brest;ORL
+2020;698;Brest;Urologie
+2020;6545;Brest;Allergologie
+2020;3654;Brest;Anatomie Et Cytologie Pathologique
+2020;3138;Brest;Anesthésie-réanimation
+2020;1561;Brest;Dermatologie Et Vénéréologie
+2020;5246;Brest;Endocrinologie-diabétologie-nutrition
+2020;2514;Brest;Génétique Médicale
+2020;0;Brest;Gériatrie
+2020;3301;Brest;Gynécologie Médicale
+2020;599;Brest;Hématologie
+2020;3586;Brest;Hépato-gastro-entérologie
+2020;701;Brest;Maladies Infectieuses Et Tropicales
+2020;2375;Brest;Médecine Cardiovasculaire
+2020;8371;Brest;Médecine Générale
+2020;3703;Brest;Médecine Intensive-réanimation
+2020;5193;Brest;Médecine Interne Et Immunologie Clinique
+2020;3270;Brest;Médecine Nucléaire
+2020;5294;Brest;Médecine Physique Et De Réadaptation
+2020;8125;Brest;Médecine Et Santé Au Travail
+2020;5699;Brest;Médecine D’urgence
+2020;3078;Brest;Médecine Vasculaire
+2020;4002;Brest;Néphrologie
+2020;3005;Brest;Neurologie
+2020;3743;Brest;Oncologie
+2020;4282;Brest;Pédiatrie
+2020;4578;Brest;Pneumologie
+2020;8332;Brest;Psychiatrie
+2020;3532;Brest;Radiologie Et Imagerie Médicale
+2020;3155;Brest;Rhumatologie
+2020;0;Brest;Santé Publique
+2020;8694;Brest;Biologie Médicale
+2020;2341;Rennes;Chirurgie Orthopédique Et Traumatologique
+2020;2428;Rennes;Chirurgie Pédiatrique
+2020;388;Rennes;Chirurgie Plastique, Reconstructrice Et Esthétique
+2020;659;Rennes;Chirurgie Thoracique Et Cardiovasculaire
+2020;4312;Rennes;Chirurgie Vasculaire
+2020;4279;Rennes;Chirurgie Viscérale Et Digestive
+2020;3026;Rennes;Gynécologie Obstétrique
+2020;4014;Rennes;Neurochirurgie
+2020;903;Rennes;Ophtalmologie
+2020;1961;Rennes;ORL
+2020;2098;Rennes;Urologie
+2020;5532;Rennes;Allergologie
+2020;4170;Rennes;Anatomie Et Cytologie Pathologique
+2020;1790;Rennes;Anesthésie-réanimation
+2020;377;Rennes;Dermatologie Et Vénéréologie
+2020;2942;Rennes;Endocrinologie-diabétologie-nutrition
+2020;6827;Rennes;Gériatrie
+2020;3396;Rennes;Gynécologie Médicale
+2020;2665;Rennes;Hématologie
+2020;1378;Rennes;Hépato-gastro-entérologie
+2020;208;Rennes;Maladies Infectieuses Et Tropicales
+2020;1215;Rennes;Médecine Cardiovasculaire
+2020;7798;Rennes;Médecine Générale
+2020;556;Rennes;Médecine Intensive-réanimation
+2020;3410;Rennes;Médecine Interne Et Immunologie Clinique
+2020;6100;Rennes;Médecine Légale Et Expertises Médicales
+2020;3998;Rennes;Médecine Physique Et De Réadaptation
+2020;8724;Rennes;Médecine Et Santé Au Travail
+2020;6013;Rennes;Médecine D’urgence
+2020;3547;Rennes;Médecine Vasculaire
+2020;1407;Rennes;Néphrologie
+2020;1162;Rennes;Neurologie
+2020;1256;Rennes;Oncologie
+2020;4213;Rennes;Pédiatrie
+2020;2856;Rennes;Pneumologie
+2020;8452;Rennes;Psychiatrie
+2020;2264;Rennes;Radiologie Et Imagerie Médicale
+2020;2376;Rennes;Rhumatologie
+2020;1341;Rennes;Santé Publique
+2020;6540;Rennes;Biologie Médicale
+2020;1565;Angers;Chirurgie Maxillo-faciale
+2020;3467;Angers;Chirurgie Orthopédique Et Traumatologique
+2020;375;Angers;Chirurgie Plastique, Reconstructrice Et Esthétique
+2020;4804;Angers;Chirurgie Thoracique Et Cardiovasculaire
+2020;2616;Angers;Chirurgie Vasculaire
+2020;3201;Angers;Chirurgie Viscérale Et Digestive
+2020;3773;Angers;Gynécologie Obstétrique
+2020;2821;Angers;Neurochirurgie
+2020;1263;Angers;Ophtalmologie
+2020;2247;Angers;ORL
+2020;3200;Angers;Urologie
+2020;5379;Angers;Allergologie
+2020;3738;Angers;Anatomie Et Cytologie Pathologique
+2020;2482;Angers;Anesthésie-réanimation
+2020;804;Angers;Dermatologie Et Vénéréologie
+2020;4784;Angers;Endocrinologie-diabétologie-nutrition
+2020;5661;Angers;Génétique Médicale
+2020;7664;Angers;Gériatrie
+2020;3970;Angers;Gynécologie Médicale
+2020;3097;Angers;Hématologie
+2020;2370;Angers;Hépato-gastro-entérologie
+2020;461;Angers;Maladies Infectieuses Et Tropicales
+2020;2255;Angers;Médecine Cardiovasculaire
+2020;8073;Angers;Médecine Générale
+2020;2843;Angers;Médecine Intensive-réanimation
+2020;4491;Angers;Médecine Interne Et Immunologie Clinique
+2020;4774;Angers;Médecine Légale Et Expertises Médicales
+2020;1007;Angers;Médecine Nucléaire
+2020;6121;Angers;Médecine Physique Et De Réadaptation
+2020;8393;Angers;Médecine Et Santé Au Travail
+2020;7365;Angers;Médecine D’urgence
+2020;2309;Angers;Médecine Vasculaire
+2020;1717;Angers;Néphrologie
+2020;3050;Angers;Neurologie
+2020;1086;Angers;Oncologie
+2020;3792;Angers;Pédiatrie
+2020;3583;Angers;Pneumologie
+2020;8727;Angers;Psychiatrie
+2020;2580;Angers;Radiologie Et Imagerie Médicale
+2020;3188;Angers;Rhumatologie
+2020;0;Angers;Santé Publique
+2020;8323;Angers;Biologie Médicale
+2020;699;Nantes;Chirurgie Maxillo-faciale
+2020;3453;Nantes;Chirurgie Orale
+2020;2227;Nantes;Chirurgie Orthopédique Et Traumatologique
+2020;3345;Nantes;Chirurgie Pédiatrique
+2020;68;Nantes;Chirurgie Plastique, Reconstructrice Et Esthétique
+2020;1812;Nantes;Chirurgie Thoracique Et Cardiovasculaire
+2020;3693;Nantes;Chirurgie Vasculaire
+2020;2701;Nantes;Chirurgie Viscérale Et Digestive
+2020;2864;Nantes;Gynécologie Obstétrique
+2020;2260;Nantes;Neurochirurgie
+2020;784;Nantes;Ophtalmologie
+2020;754;Nantes;ORL
+2020;1579;Nantes;Urologie
+2020;5617;Nantes;Allergologie
+2020;2454;Nantes;Anatomie Et Cytologie Pathologique
+2020;1873;Nantes;Anesthésie-réanimation
+2020;1347;Nantes;Dermatologie Et Vénéréologie
+2020;4518;Nantes;Endocrinologie-diabétologie-nutrition
+2020;3563;Nantes;Génétique Médicale
+2020;8430;Nantes;Gériatrie
+2020;3421;Nantes;Gynécologie Médicale
+2020;1570;Nantes;Hématologie
+2020;2190;Nantes;Hépato-gastro-entérologie
+2020;188;Nantes;Maladies Infectieuses Et Tropicales
+2020;1317;Nantes;Médecine Cardiovasculaire
+2020;7574;Nantes;Médecine Générale
+2020;1208;Nantes;Médecine Intensive-réanimation
+2020;1306;Nantes;Médecine Interne Et Immunologie Clinique
+2020;6778;Nantes;Médecine Légale Et Expertises Médicales
+2020;112;Nantes;Médecine Nucléaire
+2020;6276;Nantes;Médecine Physique Et De Réadaptation
+2020;8409;Nantes;Médecine Et Santé Au Travail
+2020;5620;Nantes;Médecine D’urgence
+2020;2902;Nantes;Médecine Vasculaire
+2020;286;Nantes;Néphrologie
+2020;1942;Nantes;Neurologie
+2020;1055;Nantes;Oncologie
+2020;1836;Nantes;Pédiatrie
+2020;3102;Nantes;Pneumologie
+2020;8693;Nantes;Psychiatrie
+2020;1671;Nantes;Radiologie Et Imagerie Médicale
+2020;2340;Nantes;Rhumatologie
+2020;8291;Nantes;Santé Publique
+2020;7975;Nantes;Biologie Médicale
+2020;994;Tours;Chirurgie Maxillo-faciale
+2020;3309;Tours;Chirurgie Orthopédique Et Traumatologique
+2020;2412;Tours;Chirurgie Pédiatrique
+2020;4079;Tours;Chirurgie Thoracique Et Cardiovasculaire
+2020;4214;Tours;Chirurgie Viscérale Et Digestive
+2020;3609;Tours;Gynécologie Obstétrique
+2020;2470;Tours;Neurochirurgie
+2020;814;Tours;Ophtalmologie
+2020;2278;Tours;ORL
+2020;3100;Tours;Urologie
+2020;6178;Tours;Allergologie
+2020;4020;Tours;Anatomie Et Cytologie Pathologique
+2020;2914;Tours;Anesthésie-réanimation
+2020;1392;Tours;Dermatologie Et Vénéréologie
+2020;4923;Tours;Endocrinologie-diabétologie-nutrition
+2020;4335;Tours;Génétique Médicale
+2020;8807;Tours;Gériatrie
+2020;4073;Tours;Gynécologie Médicale
+2020;3861;Tours;Hématologie
+2020;3275;Tours;Hépato-gastro-entérologie
+2020;643;Tours;Maladies Infectieuses Et Tropicales
+2020;2165;Tours;Médecine Cardiovasculaire
+2020;8820;Tours;Médecine Générale
+2020;4328;Tours;Médecine Intensive-réanimation
+2020;4999;Tours;Médecine Interne Et Immunologie Clinique
+2020;5613;Tours;Médecine Légale Et Expertises Médicales
+2020;1806;Tours;Médecine Nucléaire
+2020;6993;Tours;Médecine Physique Et De Réadaptation
+2020;7863;Tours;Médecine D’urgence
+2020;2348;Tours;Néphrologie
+2020;3205;Tours;Neurologie
+2020;3443;Tours;Oncologie
+2020;4713;Tours;Pédiatrie
+2020;4548;Tours;Pneumologie
+2020;8685;Tours;Psychiatrie
+2020;3319;Tours;Radiologie Et Imagerie Médicale
+2020;2786;Tours;Rhumatologie
+2020;2896;Tours;Santé Publique
+2020;0;Tours;Biologie Médicale
+2020;3849;Poitiers;Chirurgie Orthopédique Et Traumatologique
+2020;711;Poitiers;Chirurgie Plastique, Reconstructrice Et Esthétique
+2020;4609;Poitiers;Chirurgie Thoracique Et Cardiovasculaire
+2020;2213;Poitiers;Chirurgie Vasculaire
+2020;4157;Poitiers;Chirurgie Viscérale Et Digestive
+2020;4070;Poitiers;Gynécologie Obstétrique
+2020;4790;Poitiers;Neurochirurgie
+2020;1601;Poitiers;Ophtalmologie
+2020;3108;Poitiers;ORL
+2020;3505;Poitiers;Urologie
+2020;4633;Poitiers;Allergologie
+2020;4778;Poitiers;Anatomie Et Cytologie Pathologique
+2020;3025;Poitiers;Anesthésie-réanimation
+2020;1418;Poitiers;Dermatologie Et Vénéréologie
+2020;4692;Poitiers;Endocrinologie-diabétologie-nutrition
+2020;3854;Poitiers;Génétique Médicale
+2020;8809;Poitiers;Gériatrie
+2020;4371;Poitiers;Gynécologie Médicale
+2020;4043;Poitiers;Hématologie
+2020;3223;Poitiers;Hépato-gastro-entérologie
+2020;2330;Poitiers;Maladies Infectieuses Et Tropicales
+2020;1931;Poitiers;Médecine Cardiovasculaire
+2020;8803;Poitiers;Médecine Générale
+2020;4154;Poitiers;Médecine Intensive-réanimation
+2020;5020;Poitiers;Médecine Interne Et Immunologie Clinique
+2020;3039;Poitiers;Médecine Légale Et Expertises Médicales
+2020;3244;Poitiers;Médecine Nucléaire
+2020;5771;Poitiers;Médecine Physique Et De Réadaptation
+2020;0;Poitiers;Médecine Et Santé Au Travail
+2020;7432;Poitiers;Médecine D’urgence
+2020;4280;Poitiers;Médecine Vasculaire
+2020;2851;Poitiers;Néphrologie
+2020;3279;Poitiers;Neurologie
+2020;3117;Poitiers;Oncologie
+2020;5746;Poitiers;Pédiatrie
+2020;3527;Poitiers;Pneumologie
+2020;8815;Poitiers;Psychiatrie
+2020;3231;Poitiers;Radiologie Et Imagerie Médicale
+2020;4290;Poitiers;Rhumatologie
+2020;8530;Poitiers;Santé Publique
+2020;8741;Poitiers;Biologie Médicale
+2020;1012;Montpellier;Chirurgie Maxillo-faciale
+2020;2548;Montpellier;Chirurgie Orale
+2020;1676;Montpellier;Chirurgie Orthopédique Et Traumatologique
+2020;525;Montpellier;Chirurgie Plastique, Reconstructrice Et Esthétique
+2020;2415;Montpellier;Chirurgie Thoracique Et Cardiovasculaire
+2020;2641;Montpellier;Chirurgie Vasculaire
+2020;2849;Montpellier;Chirurgie Viscérale Et Digestive
+2020;2141;Montpellier;Gynécologie Obstétrique
+2020;38;Montpellier;Neurochirurgie
+2020;831;Montpellier;Ophtalmologie
+2020;1198;Montpellier;ORL
+2020;2287;Montpellier;Urologie
+2020;4842;Montpellier;Allergologie
+2020;3931;Montpellier;Anatomie Et Cytologie Pathologique
+2020;1609;Montpellier;Anesthésie-réanimation
+2020;1004;Montpellier;Dermatologie Et Vénéréologie
+2020;3858;Montpellier;Endocrinologie-diabétologie-nutrition
+2020;8536;Montpellier;Gériatrie
+2020;1279;Montpellier;Gynécologie Médicale
+2020;2561;Montpellier;Hématologie
+2020;1559;Montpellier;Hépato-gastro-entérologie
+2020;356;Montpellier;Maladies Infectieuses Et Tropicales
+2020;385;Montpellier;Médecine Cardiovasculaire
+2020;7275;Montpellier;Médecine Générale
+2020;1274;Montpellier;Médecine Intensive-réanimation
+2020;1406;Montpellier;Médecine Interne Et Immunologie Clinique
+2020;5218;Montpellier;Médecine Légale Et Expertises Médicales
+2020;1604;Montpellier;Médecine Nucléaire
+2020;4945;Montpellier;Médecine Physique Et De Réadaptation
+2020;7761;Montpellier;Médecine Et Santé Au Travail
+2020;6072;Montpellier;Médecine D’urgence
+2020;3477;Montpellier;Médecine Vasculaire
+2020;2083;Montpellier;Néphrologie
+2020;1354;Montpellier;Neurologie
+2020;2114;Montpellier;Oncologie
+2020;3834;Montpellier;Pédiatrie
+2020;2770;Montpellier;Pneumologie
+2020;6804;Montpellier;Psychiatrie
+2020;1537;Montpellier;Radiologie Et Imagerie Médicale
+2020;1499;Montpellier;Rhumatologie
+2020;8151;Montpellier;Santé Publique
+2020;6613;Montpellier;Biologie Médicale
+2020;978;Marseille;Chirurgie Maxillo-faciale
+2020;1588;Marseille;Chirurgie Orthopédique Et Traumatologique
+2020;2473;Marseille;Chirurgie Pédiatrique
+2020;37;Marseille;Chirurgie Plastique, Reconstructrice Et Esthétique
+2020;2737;Marseille;Chirurgie Thoracique Et Cardiovasculaire
+2020;3099;Marseille;Chirurgie Vasculaire
+2020;3582;Marseille;Chirurgie Viscérale Et Digestive
+2020;2129;Marseille;Gynécologie Obstétrique
+2020;3655;Marseille;Neurochirurgie
+2020;942;Marseille;Ophtalmologie
+2020;1882;Marseille;ORL
+2020;2332;Marseille;Urologie
+2020;5635;Marseille;Allergologie
+2020;3697;Marseille;Anatomie Et Cytologie Pathologique
+2020;1476;Marseille;Anesthésie-réanimation
+2020;614;Marseille;Dermatologie Et Vénéréologie
+2020;1370;Marseille;Endocrinologie-diabétologie-nutrition
+2020;2224;Marseille;Génétique Médicale
+2020;8375;Marseille;Gériatrie
+2020;2052;Marseille;Gynécologie Médicale
+2020;706;Marseille;Hématologie
+2020;1257;Marseille;Hépato-gastro-entérologie
+2020;4322;Marseille;Maladies Infectieuses Et Tropicales
+2020;574;Marseille;Médecine Cardiovasculaire
+2020;7780;Marseille;Médecine Générale
+2020;2205;Marseille;Médecine Intensive-réanimation
+2020;2662;Marseille;Médecine Interne Et Immunologie Clinique
+2020;4358;Marseille;Médecine Légale Et Expertises Médicales
+2020;2168;Marseille;Médecine Nucléaire
+2020;5831;Marseille;Médecine Physique Et De Réadaptation
+2020;8654;Marseille;Médecine Et Santé Au Travail
+2020;5801;Marseille;Médecine D’urgence
+2020;3729;Marseille;Médecine Vasculaire
+2020;620;Marseille;Néphrologie
+2020;1574;Marseille;Neurologie
+2020;2137;Marseille;Oncologie
+2020;4065;Marseille;Pédiatrie
+2020;2385;Marseille;Pneumologie
+2020;7724;Marseille;Psychiatrie
+2020;2135;Marseille;Radiologie Et Imagerie Médicale
+2020;2315;Marseille;Rhumatologie
+2020;8485;Marseille;Santé Publique
+2020;8728;Marseille;Biologie Médicale
+2020;1305;Nice;Chirurgie Maxillo-faciale
+2020;2323;Nice;Chirurgie Orthopédique Et Traumatologique
+2020;4110;Nice;Chirurgie Vasculaire
+2020;4122;Nice;Chirurgie Viscérale Et Digestive
+2020;3299;Nice;Gynécologie Obstétrique
+2020;1892;Nice;Neurochirurgie
+2020;637;Nice;Ophtalmologie
+2020;753;Nice;ORL
+2020;2705;Nice;Urologie
+2020;4128;Nice;Anatomie Et Cytologie Pathologique
+2020;2211;Nice;Anesthésie-réanimation
+2020;459;Nice;Dermatologie Et Vénéréologie
+2020;4501;Nice;Endocrinologie-diabétologie-nutrition
+2020;8348;Nice;Gériatrie
+2020;4369;Nice;Gynécologie Médicale
+2020;3001;Nice;Hématologie
+2020;2002;Nice;Hépato-gastro-entérologie
+2020;671;Nice;Maladies Infectieuses Et Tropicales
+2020;1346;Nice;Médecine Cardiovasculaire
+2020;7418;Nice;Médecine Générale
+2020;2751;Nice;Médecine Intensive-réanimation
+2020;3624;Nice;Médecine Interne Et Immunologie Clinique
+2020;5638;Nice;Médecine Légale Et Expertises Médicales
+2020;503;Nice;Médecine Nucléaire
+2020;6158;Nice;Médecine Physique Et De Réadaptation
+2020;7114;Nice;Médecine Et Santé Au Travail
+2020;6196;Nice;Médecine D’urgence
+2020;2511;Nice;Médecine Vasculaire
+2020;2522;Nice;Néphrologie
+2020;2589;Nice;Neurologie
+2020;2325;Nice;Oncologie
+2020;4780;Nice;Pédiatrie
+2020;3821;Nice;Pneumologie
+2020;7950;Nice;Psychiatrie
+2020;1977;Nice;Radiologie Et Imagerie Médicale
+2020;3769;Nice;Rhumatologie
+2020;8250;Nice;Santé Publique
+2020;6292;Nice;Biologie Médicale
+2020;354;Bordeaux;Chirurgie Maxillo-faciale
+2020;1649;Bordeaux;Chirurgie Orthopédique Et Traumatologique
+2020;3992;Bordeaux;Chirurgie Pédiatrique
+2020;164;Bordeaux;Chirurgie Plastique, Reconstructrice Et Esthétique
+2020;651;Bordeaux;Chirurgie Thoracique Et Cardiovasculaire
+2020;3652;Bordeaux;Chirurgie Vasculaire
+2020;3486;Bordeaux;Chirurgie Viscérale Et Digestive
+2020;2538;Bordeaux;Gynécologie Obstétrique
+2020;478;Bordeaux;Ophtalmologie
+2020;1371;Bordeaux;ORL
+2020;845;Bordeaux;Urologie
+2020;4853;Bordeaux;Allergologie
+2020;1783;Bordeaux;Anatomie Et Cytologie Pathologique
+2020;985;Bordeaux;Anesthésie-réanimation
+2020;602;Bordeaux;Dermatologie Et Vénéréologie
+2020;2022;Bordeaux;Endocrinologie-diabétologie-nutrition
+2020;4669;Bordeaux;Gériatrie
+2020;3302;Bordeaux;Gynécologie Médicale
+2020;1946;Bordeaux;Hématologie
+2020;1447;Bordeaux;Hépato-gastro-entérologie
+2020;317;Bordeaux;Maladies Infectieuses Et Tropicales
+2020;141;Bordeaux;Médecine Cardiovasculaire
+2020;7810;Bordeaux;Médecine Générale
+2020;1637;Bordeaux;Médecine Intensive-réanimation
+2020;1558;Bordeaux;Médecine Interne Et Immunologie Clinique
+2020;4557;Bordeaux;Médecine Légale Et Expertises Médicales
+2020;194;Bordeaux;Médecine Nucléaire
+2020;3891;Bordeaux;Médecine Physique Et De Réadaptation
+2020;8362;Bordeaux;Médecine Et Santé Au Travail
+2020;5567;Bordeaux;Médecine D’urgence
+2020;3674;Bordeaux;Médecine Vasculaire
+2020;1021;Bordeaux;Néphrologie
+2020;1161;Bordeaux;Neurologie
+2020;1545;Bordeaux;Oncologie
+2020;2557;Bordeaux;Pédiatrie
+2020;1598;Bordeaux;Pneumologie
+2020;8418;Bordeaux;Psychiatrie
+2020;951;Bordeaux;Radiologie Et Imagerie Médicale
+2020;1365;Bordeaux;Rhumatologie
+2020;8089;Bordeaux;Santé Publique
+2020;8255;Bordeaux;Biologie Médicale
+2020;3741;La Reunion;Chirurgie Orthopédique Et Traumatologique
+2020;4783;La Reunion;Chirurgie Viscérale Et Digestive
+2020;3734;La Reunion;Gynécologie Obstétrique
+2020;2542;La Reunion;Urologie
+2020;2261;La Reunion;Anesthésie-réanimation
+2020;513;La Reunion;Dermatologie Et Vénéréologie
+2020;4959;La Reunion;Endocrinologie-diabétologie-nutrition
+2020;5936;La Reunion;Gériatrie
+2020;3233;La Reunion;Gynécologie Médicale
+2020;2990;La Reunion;Hépato-gastro-entérologie
+2020;331;La Reunion;Maladies Infectieuses Et Tropicales
+2020;808;La Reunion;Médecine Cardiovasculaire
+2020;6816;La Reunion;Médecine Générale
+2020;3813;La Reunion;Médecine Interne Et Immunologie Clinique
+2020;7520;La Reunion;Médecine Physique Et De Réadaptation
+2020;4418;La Reunion;Médecine D’urgence
+2020;551;La Reunion;Néphrologie
+2020;1888;La Reunion;Neurologie
+2020;5056;La Reunion;Pédiatrie
+2020;3335;La Reunion;Pneumologie
+2020;5227;La Reunion;Psychiatrie
+2020;2134;La Reunion;Radiologie Et Imagerie Médicale
+2020;2858;La Reunion;Rhumatologie
+2020;8782;La Reunion;Santé Publique
+2020;8524;La Reunion;Biologie Médicale
+2020;662;Toulouse;Chirurgie Maxillo-faciale
+2020;2870;Toulouse;Chirurgie Orale
+2020;1907;Toulouse;Chirurgie Orthopédique Et Traumatologique
+2020;2760;Toulouse;Chirurgie Pédiatrique
+2020;3800;Toulouse;Chirurgie Thoracique Et Cardiovasculaire
+2020;1596;Toulouse;Chirurgie Vasculaire
+2020;3958;Toulouse;Chirurgie Viscérale Et Digestive
+2020;2581;Toulouse;Gynécologie Obstétrique
+2020;847;Toulouse;Ophtalmologie
+2020;1232;Toulouse;ORL
+2020;1506;Toulouse;Urologie
+2020;5861;Toulouse;Allergologie
+2020;3089;Toulouse;Anatomie Et Cytologie Pathologique
+2020;1816;Toulouse;Anesthésie-réanimation
+2020;752;Toulouse;Dermatologie Et Vénéréologie
+2020;3204;Toulouse;Endocrinologie-diabétologie-nutrition
+2020;6105;Toulouse;Gériatrie
+2020;3045;Toulouse;Gynécologie Médicale
+2020;2521;Toulouse;Hématologie
+2020;1828;Toulouse;Hépato-gastro-entérologie
+2020;111;Toulouse;Maladies Infectieuses Et Tropicales
+2020;973;Toulouse;Médecine Cardiovasculaire
+2020;7997;Toulouse;Médecine Générale
+2020;3572;Toulouse;Médecine Intensive-réanimation
+2020;678;Toulouse;Médecine Interne Et Immunologie Clinique
+2020;5327;Toulouse;Médecine Légale Et Expertises Médicales
+2020;5161;Toulouse;Médecine Physique Et De Réadaptation
+2020;8259;Toulouse;Médecine Et Santé Au Travail
+2020;6372;Toulouse;Médecine D’urgence
+2020;3919;Toulouse;Médecine Vasculaire
+2020;1573;Toulouse;Néphrologie
+2020;2262;Toulouse;Neurologie
+2020;1360;Toulouse;Oncologie
+2020;4868;Toulouse;Pédiatrie
+2020;1411;Toulouse;Pneumologie
+2020;8189;Toulouse;Psychiatrie
+2020;2087;Toulouse;Radiologie Et Imagerie Médicale
+2020;1295;Toulouse;Rhumatologie
+2020;8460;Toulouse;Santé Publique
+2020;8138;Toulouse;Biologie Médicale
+2020;4008;Limoges;Chirurgie Orthopédique Et Traumatologique
+2020;4820;Limoges;Chirurgie Pédiatrique
+2020;4505;Limoges;Chirurgie Thoracique Et Cardiovasculaire
+2020;4500;Limoges;Chirurgie Viscérale Et Digestive
+2020;4207;Limoges;Gynécologie Obstétrique
+2020;4822;Limoges;Neurochirurgie
+2020;2166;Limoges;Ophtalmologie
+2020;2709;Limoges;ORL
+2020;3901;Limoges;Urologie
+2020;6538;Limoges;Allergologie
+2020;4360;Limoges;Anatomie Et Cytologie Pathologique
+2020;3424;Limoges;Anesthésie-réanimation
+2020;1810;Limoges;Dermatologie Et Vénéréologie
+2020;5357;Limoges;Endocrinologie-diabétologie-nutrition
+2020;7008;Limoges;Génétique Médicale
+2020;8581;Limoges;Gériatrie
+2020;4220;Limoges;Gynécologie Médicale
+2020;4453;Limoges;Hématologie
+2020;3643;Limoges;Hépato-gastro-entérologie
+2020;3932;Limoges;Maladies Infectieuses Et Tropicales
+2020;2418;Limoges;Médecine Cardiovasculaire
+2020;8817;Limoges;Médecine Générale
+2020;4707;Limoges;Médecine Intensive-réanimation
+2020;5507;Limoges;Médecine Interne Et Immunologie Clinique
+2020;4644;Limoges;Médecine Physique Et De Réadaptation
+2020;8572;Limoges;Médecine Et Santé Au Travail
+2020;8338;Limoges;Médecine D’urgence
+2020;3959;Limoges;Médecine Vasculaire
+2020;3781;Limoges;Néphrologie
+2020;3846;Limoges;Neurologie
+2020;3497;Limoges;Oncologie
+2020;5824;Limoges;Pédiatrie
+2020;4339;Limoges;Pneumologie
+2020;8653;Limoges;Psychiatrie
+2020;3631;Limoges;Radiologie Et Imagerie Médicale
+2020;4389;Limoges;Rhumatologie
+2020;8099;Limoges;Santé Publique
+2020;8261;Limoges;Biologie Médicale
+2020;3289;Martinique/pointe A Pitre;Chirurgie Maxillo-faciale
+2020;3385;Martinique/pointe A Pitre;Chirurgie Orthopédique Et Traumatologique
+2020;4487;Martinique/pointe A Pitre;Chirurgie Pédiatrique
+2020;4927;Martinique/pointe A Pitre;Chirurgie Thoracique Et Cardiovasculaire
+2020;4694;Martinique/pointe A Pitre;Chirurgie Viscérale Et Digestive
+2020;3889;Martinique/pointe A Pitre;Gynécologie Obstétrique
+2020;4691;Martinique/pointe A Pitre;Neurochirurgie
+2020;1389;Martinique/pointe A Pitre;Ophtalmologie
+2020;2747;Martinique/pointe A Pitre;ORL
+2020;2488;Martinique/pointe A Pitre;Urologie
+2020;4846;Martinique/pointe A Pitre;Anatomie Et Cytologie Pathologique
+2020;3310;Martinique/pointe A Pitre;Anesthésie-réanimation
+2020;848;Martinique/pointe A Pitre;Dermatologie Et Vénéréologie
+2020;6112;Martinique/pointe A Pitre;Endocrinologie-diabétologie-nutrition
+2020;8342;Martinique/pointe A Pitre;Gériatrie
+2020;3722;Martinique/pointe A Pitre;Gynécologie Médicale
+2020;4876;Martinique/pointe A Pitre;Hématologie
+2020;3430;Martinique/pointe A Pitre;Hépato-gastro-entérologie
+2020;4437;Martinique/pointe A Pitre;Maladies Infectieuses Et Tropicales
+2020;2526;Martinique/pointe A Pitre;Médecine Cardiovasculaire
+2020;8245;Martinique/pointe A Pitre;Médecine Générale
+2020;3602;Martinique/pointe A Pitre;Médecine Intensive-réanimation
+2020;4415;Martinique/pointe A Pitre;Médecine Interne Et Immunologie Clinique
+2020;7160;Martinique/pointe A Pitre;Médecine Légale Et Expertises Médicales
+2020;1698;Martinique/pointe A Pitre;Médecine Nucléaire
+2020;5353;Martinique/pointe A Pitre;Médecine Physique Et De Réadaptation
+2020;7176;Martinique/pointe A Pitre;Médecine Et Santé Au Travail
+2020;6980;Martinique/pointe A Pitre;Médecine D’urgence
+2020;4091;Martinique/pointe A Pitre;Médecine Vasculaire
+2020;4174;Martinique/pointe A Pitre;Néphrologie
+2020;3906;Martinique/pointe A Pitre;Neurologie
+2020;1712;Martinique/pointe A Pitre;Oncologie
+2020;5506;Martinique/pointe A Pitre;Pédiatrie
+2020;3733;Martinique/pointe A Pitre;Pneumologie
+2020;8152;Martinique/pointe A Pitre;Psychiatrie
+2020;2345;Martinique/pointe A Pitre;Radiologie Et Imagerie Médicale
+2020;4385;Martinique/pointe A Pitre;Rhumatologie
+2020;8388;Martinique/pointe A Pitre;Santé Publique
+2020;6362;Martinique/pointe A Pitre;Biologie Médicale
 2019;1627;Paris;Chirurgie Maxillo-faciale
 2019;2725;Paris;Chirurgie Orale
 2019;2222;Paris;Chirurgie Orthopédique Et Traumatologique

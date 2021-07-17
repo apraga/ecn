@@ -111,6 +111,7 @@ normalizeSpe "Médecine Interne" = "Médecine Interne Et Immunologie Clinique"
 normalizeSpe "Oto-rhino-laryngologie - Chirurgie Cervico-faciale" = "ORL"
 normalizeSpe "Oto-rhino-laryngologie Et Chirurgie Cervico-faciale" = "ORL"
 normalizeSpe "Radiodiagnostic Et Imagerie Médicale" = "Radiologie Et Imagerie Médicale"
+normalizeSpe "Médecine Du Travail" = "Médecine Et Santé Au Travail"
 normalizeSpe x = x
 
 root = "https://www.cng.sante.fr/sites/default/files/"

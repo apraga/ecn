@@ -46,14 +46,14 @@ function setXAxis(width) {
 
 function updateLinesPoints(svg, name, checked) {
     var opacity = checked == 1 ? 1 : 0.1;
-    var p = svg.select("path[class=" + name+ "]")
+    var p = svg.select("path[class=\"" + name+ "\"]")
         .transition().style("opacity", opacity);
-    var c = svg.select("g[class=" + name + "]").selectAll("circle")
+    var c = svg.select("g[class=\"" + name + "\"]").selectAll("circle")
         .transition().style("opacity", opacity);
 }
 
 function createCheckboxes(svg, towns, myColor) {
-    // For redraw
+    //    For redraw
     d3.selectAll("label").remove()
     d3.selectAll("input").remove()
 
@@ -67,7 +67,6 @@ function createCheckboxes(svg, towns, myColor) {
             var check = this.checked
             d3.selectAll("input").property("checked", check);
             towns.forEach(function (d) {
-		console.log(d);
                 updateLinesPoints(svg, d, check);
             })
         })
@@ -79,6 +78,8 @@ function createCheckboxes(svg, towns, myColor) {
         .enter()
         .append('label')
         .attr('for',function(d,i){ return 'label'+i; })
+        // .attr('y',function(d,i){ return 700-i*10})
+        // .attr('x',function(d,i){ return 0})
         .text(function(d) { return d; })
         .style("color", function(d){return myColor(d) })
 	.style("margin-right", "3%")
@@ -90,7 +91,6 @@ function createCheckboxes(svg, towns, myColor) {
             // This.__data__ is a bit ugly to get the name but it works
             updateLinesPoints(svg, this.__data__, this.checked)
         })
-	.append('<br>')
 
 
     // Only show first value: set the
@@ -103,7 +103,6 @@ function createCheckboxes(svg, towns, myColor) {
 function plotSpe(speTitle, rankmax, svg, width, height) {
     // Speciality is no longer a variable
     spe = rankMax.get(speTitle);
-    console.log(spe)
 
     // // Get the list of town for categories
     towns = Array.from(spe.keys()).sort();
@@ -200,7 +199,7 @@ function createChoice(svg, rankMax, width, height){
         .data(allSpe)
         .enter()
         .append('option')
-        .text(function (d) { return d; }) // text showed in the menu
+        .text(function (d) { return d; }) // text shown in the menu
         .attr("value", function (d) { return d; }) // corresponding value return
         .property("selected", function(d) { return d === defaultChoice}) // change default value
 

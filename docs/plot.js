@@ -67,6 +67,7 @@ function createCheckboxes(svg, towns, myColor) {
             var check = this.checked
             d3.selectAll("input").property("checked", check);
             towns.forEach(function (d) {
+		console.log(d);
                 updateLinesPoints(svg, d, check);
             })
         })
@@ -78,8 +79,9 @@ function createCheckboxes(svg, towns, myColor) {
         .enter()
         .append('label')
         .attr('for',function(d,i){ return 'label'+i; })
-        .text(function(d) { console.log(d); return d; })
+        .text(function(d) { return d; })
         .style("color", function(d){return myColor(d) })
+	.style("margin-right", "3%")
         .append("input")
         .property("checked", false)
         .attr("type", "checkbox")
@@ -88,6 +90,8 @@ function createCheckboxes(svg, towns, myColor) {
             // This.__data__ is a bit ugly to get the name but it works
             updateLinesPoints(svg, this.__data__, this.checked)
         })
+	.append('<br>')
+
 
     // Only show first value: set the
     svg.selectAll("path[class="+towns[0]+"]").style("opacity", 1); // Set path
@@ -99,6 +103,8 @@ function createCheckboxes(svg, towns, myColor) {
 function plotSpe(speTitle, rankmax, svg, width, height) {
     // Speciality is no longer a variable
     spe = rankMax.get(speTitle);
+    console.log(spe)
+
     // // Get the list of town for categories
     towns = Array.from(spe.keys()).sort();
 
@@ -186,6 +192,7 @@ function createChoice(svg, rankMax, width, height){
     d3.select("body").selectAll("h2").html("Rang maximal pour <select id=\"selectSpe\"></select>");
     allSpe = Array.from(rankMax.keys()).sort();
 
+
     var defaultChoice = "Pédiatrie";
     // add the options to the drow-down list
     d3.select("#selectSpe")
@@ -235,6 +242,18 @@ function plot(data){
     // Rank max by specialty, year and town
     rankMax = d3.rollup(data, v => d3.max(v, d => d.rang), d => d.specialite,
                         d => d.ville, d => d.annee);
+
+    // for (let t of rankMax.values()) {
+    // 	for (let d of t.values()) {
+    // 	    for (let r of d.values()) {
+    // 		if (r == 0) {
+    // 		    console.log(d);
+    // 		    // const i = d.indexOf(r);
+    // 		    // d.splice(i,1);
+    // 		}
+    // 	    }
+    // 	}
+    // }
 
     // Set the titles
     createChoice(svg, rankMax, width, height);

@@ -44,12 +44,27 @@ function setXAxis(width) {
         .range([ 0, width ]);
 }
 
-function updateLinesPoints(svg, name, checked) {
-    var opacity = checked == 1 ? 1 : 0.1;
-    var p = svg.select("path[class=\"" + name+ "\"]")
+function updateLinesPoints(svg, name, active) {
+    var opacity = active ? 1 : 0.1;
+    svg.select("path[class=\"" + name+ "\"]")
         .transition().style("opacity", opacity);
-    var c = svg.select("g[class=\"" + name + "\"]").selectAll("circle")
+    svg.select("g[class=\"" + name + "\"]").selectAll("circle")
         .transition().style("opacity", opacity);
+    var t = svg.select("text[id=\"" + name + "\"]").transition();
+    t.style("font-weight", active ? 900 : 0) // Bold or normal
+    t.style("text-decoration", active ? "underline" : "") // Underlined or normal
+}
+
+function legendNb() { return 7; }
+
+// X-Position of a given label (numbered i) in the legend
+function legendX(d, i) {
+    return (i % legendNb()) *150;
+}
+
+// Y-Position of a given label (numbered i) in the legend
+function legendY(d, i) {
+    return plotHeight() +myMargin().bottom + Math.floor(i/legendNb())*(legendHeight()/4);
 }
 
 function createCheckboxes(svg, towns, myColor) {
@@ -65,31 +80,26 @@ function createCheckboxes(svg, towns, myColor) {
         .attr("type", "checkbox")
         .on("click", function(d){
             var check = this.checked
-            d3.selectAll("input").property("checked", check);
             towns.forEach(function (d) {
                 updateLinesPoints(svg, d, check);
             })
         })
 
-    // Generate checkbox
-    // Warning: do not use the same select here, otherwise, the first element will be skipped
-    d3.select("#legend")
+    // Labels must be positionned inside the SVG to control their position (x and y)
+    svg.selectAll("mylabels") // we have to select all 
         .data(towns)
-        .enter()
-        .append('label')
-        .attr('for',function(d,i){ return 'label'+i; })
-        // .attr('y',function(d,i){ return 700-i*10})
-        // .attr('x',function(d,i){ return 0})
+        .enter()    
+        .append('text')
+        .attr('x', legendX)
+        .attr('y', legendY)
         .text(function(d) { return d; })
-        .style("color", function(d){return myColor(d) })
-	.style("margin-right", "3%")
-        .append("input")
-        .property("checked", false)
-        .attr("type", "checkbox")
-        .attr("id", function(d,i) { return 'legend'+i; })
+        .attr('id',function(d,i){return d})
+	.style("fill", function(d){return myColor(d) })
+	.style("font-weight", 0)
+        // On click, show the current line and change text to bold
         .on("click", function(d){
             // This.__data__ is a bit ugly to get the name but it works
-            updateLinesPoints(svg, this.__data__, this.checked)
+            updateLinesPoints(svg, this.__data__, ! isMarked(this.style))
         })
 
 
@@ -99,8 +109,13 @@ function createCheckboxes(svg, towns, myColor) {
     d3.select("input[id=legend0]").property("checked", true) // Checkbox
 }
 
+// True if the legend has been clicked on (so in bold and underlined)
+function isMarked(style) {
+    return style["font-weight"] == 900;
+}
 
-function plotSpe(speTitle, rankmax, svg, width, height) {
+
+function plotSpe(speTitle, rankmax, svg) {
     // Speciality is no longer a variable
     spe = rankMax.get(speTitle);
 
@@ -108,13 +123,13 @@ function plotSpe(speTitle, rankmax, svg, width, height) {
     towns = Array.from(spe.keys()).sort();
 
     // Date  = X axis
-    var x = setXAxis(width);
+    var x = setXAxis(plotWidth());
     svg.append("g")
-        .attr("transform", "translate(0," + height + ")")
+        .attr("transform", "translate(0," + plotHeight() + ")")
         .call(d3.axisBottom(x).ticks(d3.timeYear.every(1)));
 
     // Rank = Y axis
-    var y = setYAxis(height);
+    var y = setYAxis(plotHeight());
     svg.append("g").call(d3.axisLeft(y));
 
     var myColor = solarizedPalette(towns);
@@ -187,7 +202,7 @@ function plotSpe(speTitle, rankmax, svg, width, height) {
         createCheckboxes(svg, towns, myColor);
 }
 
-function createChoice(svg, rankMax, width, height){
+function createChoice(svg, rankMax){
     d3.select("body").selectAll("h2").html("Rang maximal pour <select id=\"selectSpe\"></select>");
     allSpe = Array.from(rankMax.keys()).sort();
 
@@ -208,33 +223,41 @@ function createChoice(svg, rankMax, width, height){
         // Don't forget to clean svg !!
         svg.selectAll('*').remove();
         var speTitle = d3.select(this).property("value")
-        plotSpe(speTitle, rankMax, svg, width, height);
+        plotSpe(speTitle, rankMax, svg);
     })
 
 // Plot
-    plotSpe(defaultChoice, rankMax, svg, width, height);
+    plotSpe(defaultChoice, rankMax, svg);
 }
 
-function createSVG(width, height, margin) {
+function createSVG() {
+    var margin = myMargin();
     return d3.select("#myplot")
         .append("svg")
-        .attr("width", width + margin.left + margin.right)
-        .attr("height", height + margin.top + margin.bottom)
+        .attr("width", plotWidth() + margin.left + margin.right)
+        .attr("height", plotHeight() + legendHeight() + margin.top + margin.bottom)
         .append("g")
         .attr("transform",
               "translate(" + margin.left + "," + margin.top + ")");
 }
 
+// set the dimensions and margins of the graph
+function myMargin() {
+    return {top: 10, right: 100, bottom: 30, left: 60};
+}
+function plotWidth() {
+    return 1060 - myMargin().left - myMargin().right;
+}
+function plotHeight() {
+    return 700 - myMargin().top - myMargin().bottom;
+}
+function legendHeight() {
+    return 100;
+}
+
 function plot(data){
-
-    // set the dimensions and margins of the graph
-    var margin = {top: 10, right: 100, bottom: 30, left: 60},
-        width = 1060 - margin.left - margin.right,
-        height = 400 - margin.top - margin.bottom;
-
     // append the svg object to the body of the page
-
-    var svg = createSVG(width, height, margin)
+    var svg = createSVG();
 
     // Convert to integer
     formatDate(data);
@@ -255,7 +278,7 @@ function plot(data){
     // }
 
     // Set the titles
-    createChoice(svg, rankMax, width, height);
+    createChoice(svg, rankMax);
 
 }
 

@@ -262,21 +262,11 @@ function plot(data){
 
     // Convert to integer
     formatDate(data);
+    // Remove rank 0
+    data = data.filter(function(x) { return x.rang > 0});
     // Rank max by specialty, year and town
     rankMax = d3.rollup(data, v => d3.max(v, d => d.rang), d => d.specialite,
                         d => d.ville, d => d.annee);
-
-    // for (let t of rankMax.values()) {
-    // 	for (let d of t.values()) {
-    // 	    for (let r of d.values()) {
-    // 		if (r == 0) {
-    // 		    console.log(d);
-    // 		    // const i = d.indexOf(r);
-    // 		    // d.splice(i,1);
-    // 		}
-    // 	    }
-    // 	}
-    // }
 
     // Set the titles
     createChoice(svg, rankMax);

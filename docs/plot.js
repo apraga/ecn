@@ -55,16 +55,19 @@ function updateLinesPoints(svg, name, active) {
     t.style("text-decoration", active ? "underline" : "") // Underlined or normal
 }
 
-function legendNb() { return 7; }
+function legendNbCols() { return 6; }
 
 // X-Position of a given label (numbered i) in the legend
 function legendX(d, i) {
-    return (i % legendNb()) *150;
+    return (i % legendNbCols()) *150;
 }
 
 // Y-Position of a given label (numbered i) in the legend
 function legendY(d, i) {
-    return plotHeight() +myMargin().bottom + Math.floor(i/legendNb())*(legendHeight()/4);
+    var offset = 20;
+    var dy = (legendHeight() - offset)/4;
+    var h =  plotHeight() +myMargin().bottom;
+    return offset + h +Math.floor(i/legendNbCols())*dy;
 }
 
 function createCheckboxes(svg, towns, myColor) {
@@ -103,10 +106,8 @@ function createCheckboxes(svg, towns, myColor) {
         })
 
 
-    // Only show first value: set the
-    svg.selectAll("path[class="+towns[0]+"]").style("opacity", 1); // Set path
-    svg.selectAll("g[class="+towns[0]+"]").selectAll("circle").style("opacity", 1); // Set circles
-    d3.select("input[id=legend0]").property("checked", true) // Checkbox
+    // Only show a town at first
+    updateLinesPoints(svg, towns[0], 1);
 }
 
 // True if the legend has been clicked on (so in bold and underlined)
@@ -249,7 +250,7 @@ function plotWidth() {
     return 1060 - myMargin().left - myMargin().right;
 }
 function plotHeight() {
-    return 700 - myMargin().top - myMargin().bottom;
+    return 400 - myMargin().top - myMargin().bottom;
 }
 function legendHeight() {
     return 100;

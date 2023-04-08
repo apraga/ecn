@@ -118,9 +118,8 @@ root = "https://www.cng.sante.fr/sites/default/files/"
 
 -- | Each cell in the table has the rank, the region and the specialy, so we only have to parse all cells
 main = do
-  let years = [2020, 2019 ..2015]
+  let years = [2015 ..2019]
   s <- mapM parseYear years
-
   TIO.writeFile "docs/ranks.csv" $ formatCSV (concat s)
   return $ nub . sort . map region $ concat s
   
